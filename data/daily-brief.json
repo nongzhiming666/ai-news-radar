@@ -1,8 +1,128 @@
 {
-  "generated_at": "2026-06-14T14:40:34.477449Z",
+  "generated_at": "2026-06-14T16:21:38.946242Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_ed2af15784f0",
+      "title": "Satya Nadella：没有生态的前沿不稳定",
+      "url": "https://x.com/satyanadella/status/2066182223213293753",
+      "primary_url": "https://x.com/satyanadella/status/2066182223213293753",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1a50abdb6d20b252367819885ebeedfb39c3f279",
+          "title": "Satya Nadella：没有生态的前沿不稳定",
+          "url": "https://x.com/satyanadella/status/2066182223213293753",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-14T15:33:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Satya Nadella (@satyanadella)"
+      ],
+      "items": [
+        {
+          "id": "1a50abdb6d20b252367819885ebeedfb39c3f279",
+          "title": "Satya Nadella：没有生态的前沿不稳定",
+          "url": "https://x.com/satyanadella/status/2066182223213293753",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-14T15:33:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8053,
+      "importance": 0.8053,
+      "importance_score": 0.8053,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9665,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-14T15:33:24Z",
+      "latest_at": "2026-06-14T15:33:24Z",
+      "primary_item": {
+        "id": "1a50abdb6d20b252367819885ebeedfb39c3f279",
+        "title": "Satya Nadella：没有生态的前沿不稳定",
+        "url": "https://x.com/satyanadella/status/2066182223213293753",
+        "source": "X：Satya Nadella (@satyanadella)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d685f9ebbef7",
+      "title": "乔木小说创作 Skill 开源发布",
+      "url": "https://x.com/vista8/status/2066165703443726749",
+      "primary_url": "https://x.com/vista8/status/2066165703443726749",
+      "source": "X：Vista (@vista8)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "28c11b9c5b000b495d21d4844c292507dc7680e5",
+          "title": "乔木小说创作 Skill 开源发布",
+          "url": "https://x.com/vista8/status/2066165703443726749",
+          "source": "X：Vista (@vista8)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-14T14:27:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Vista (@vista8)"
+      ],
+      "items": [
+        {
+          "id": "28c11b9c5b000b495d21d4844c292507dc7680e5",
+          "title": "乔木小说创作 Skill 开源发布",
+          "url": "https://x.com/vista8/status/2066165703443726749",
+          "source": "X：Vista (@vista8)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-14T14:27:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7962,
+      "importance": 0.7962,
+      "importance_score": 0.7962,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9209,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-14T14:27:45Z",
+      "latest_at": "2026-06-14T14:27:45Z",
+      "primary_item": {
+        "id": "28c11b9c5b000b495d21d4844c292507dc7680e5",
+        "title": "乔木小说创作 Skill 开源发布",
+        "url": "https://x.com/vista8/status/2066165703443726749",
+        "source": "X：Vista (@vista8)",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_989cdb1a0573",
       "title": "亚马逊首席执行官与美国官员会谈引发对 Anthropic 模型的整治",
@@ -133,14 +253,14 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
+      "score": 0.7288,
+      "importance": 0.7288,
+      "importance_score": 0.7288,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.154,
+        "recency": 0.0838,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -212,14 +332,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7397,
-      "importance": 0.7397,
-      "importance_score": 0.7397,
+      "score": 0.7257,
+      "importance": 0.7257,
+      "importance_score": 0.7257,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5135,
+        "recency": 0.4433,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -291,14 +411,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6544,
-      "importance": 0.6544,
-      "importance_score": 0.6544,
+      "score": 0.6404,
+      "importance": 0.6404,
+      "importance_score": 0.6404,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.0872,
+        "recency": 0.017,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -317,30 +437,127 @@
       }
     },
     {
-      "story_id": "story_6396443b5b46",
-      "title": "AI 互动叙事行业仍陷「剧本之困」",
-      "url": "https://www.huxiu.com/article/4867213.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4867213.html?f=rss",
+      "story_id": "story_a9187b00b2f0",
+      "title": "不，并不是每个人都将人工智能用于所有事情 / No, everyone is not using AI for everything",
+      "url": "https://news.ycombinator.com/item?id=48527700",
+      "primary_url": "https://news.ycombinator.com/item?id=48527700",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "e2c0747c177423c44f0000955caccad11fb9e3d0",
+          "title": "不，并不是每个人都将人工智能用于所有事情 / No, everyone is not using AI for everything",
+          "url": "https://news.ycombinator.com/item?id=48527700",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-14T16:22:15.355000Z"
+        },
+        {
+          "id": "b31a29653711cae492224d5337f1c1a218e57326",
+          "title": "不，并不是每个人都在所有事情上都使用人工智能",
+          "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+          "source": "gabrielweinberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-14T16:14:04.686000Z"
+        },
+        {
+          "id": "ce54211e64abe9a4c883ea2eb7e8295e63df9adc",
+          "title": "不，并不是每个人都在所有事情上都使用人工智能 / No, everyone is not using AI for everything",
+          "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-14T14:44:29Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "gabrielweinberg.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e2c0747c177423c44f0000955caccad11fb9e3d0",
+          "title": "不，并不是每个人都将人工智能用于所有事情 / No, everyone is not using AI for everything",
+          "url": "https://news.ycombinator.com/item?id=48527700",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-14T16:22:15.355000Z"
+        },
+        {
+          "id": "b31a29653711cae492224d5337f1c1a218e57326",
+          "title": "不，并不是每个人都在所有事情上都使用人工智能",
+          "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+          "source": "gabrielweinberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-14T16:14:04.686000Z"
+        },
+        {
+          "id": "ce54211e64abe9a4c883ea2eb7e8295e63df9adc",
+          "title": "不，并不是每个人都在所有事情上都使用人工智能 / No, everyone is not using AI for everything",
+          "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-14T14:44:29Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.573,
+      "importance": 0.573,
+      "importance_score": 0.573,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-14T14:44:29Z",
+      "latest_at": "2026-06-14T16:22:15.355000Z",
+      "primary_item": {
+        "id": "e2c0747c177423c44f0000955caccad11fb9e3d0",
+        "title": "不，并不是每个人都将人工智能用于所有事情 / No, everyone is not using AI for everything",
+        "url": "https://news.ycombinator.com/item?id=48527700",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_37fc7be9646c",
+      "title": "老板们的 AI 焦虑，让打工人穿上职场 CK 内裤",
+      "url": "https://www.huxiu.com/article/4867220.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4867220.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "c23d43bca8bafa70b4d83dabbff015ad00046f3f",
-          "title": "AI 互动叙事行业仍陷「剧本之困」",
-          "url": "https://www.huxiu.com/article/4867213.html?f=rss",
+          "id": "2b330dd25b07f468a5924405f945832ec9a633b6",
+          "title": "老板们的 AI 焦虑，让打工人穿上职场 CK 内裤",
+          "url": "https://www.huxiu.com/article/4867220.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "bb531d27a7d1756e06150b30160a05e1b1d1f2fb",
-          "title": "AI互动叙事行业仍陷“剧本之困”",
-          "url": "https://www.huxiu.com/article/4867213.html?f=rss",
+          "id": "ec7c045f287436f3dab94929d6d914ce3067db5a",
+          "title": "老板们的AI焦虑，让打工人穿上职场CK内裤",
+          "url": "https://www.huxiu.com/article/4867220.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-14T13:57:41Z"
+          "published_at": "2026-06-14T14:16:29Z"
         }
       ],
       "source_count": 2,
@@ -350,22 +567,22 @@
       ],
       "items": [
         {
-          "id": "c23d43bca8bafa70b4d83dabbff015ad00046f3f",
-          "title": "AI 互动叙事行业仍陷「剧本之困」",
-          "url": "https://www.huxiu.com/article/4867213.html?f=rss",
+          "id": "2b330dd25b07f468a5924405f945832ec9a633b6",
+          "title": "老板们的 AI 焦虑，让打工人穿上职场 CK 内裤",
+          "url": "https://www.huxiu.com/article/4867220.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "bb531d27a7d1756e06150b30160a05e1b1d1f2fb",
-          "title": "AI互动叙事行业仍陷“剧本之困”",
-          "url": "https://www.huxiu.com/article/4867213.html?f=rss",
+          "id": "ec7c045f287436f3dab94929d6d914ce3067db5a",
+          "title": "老板们的AI焦虑，让打工人穿上职场CK内裤",
+          "url": "https://www.huxiu.com/article/4867220.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-14T13:57:41Z"
+          "published_at": "2026-06-14T14:16:29Z"
         }
       ],
       "item_count": 2,
@@ -384,14 +601,92 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-14T13:57:41Z",
-      "latest_at": "2026-06-14T14:40:34.477449Z",
+      "earliest_at": "2026-06-14T14:16:29Z",
+      "latest_at": "2026-06-14T16:21:38.946242Z",
       "primary_item": {
-        "id": "c23d43bca8bafa70b4d83dabbff015ad00046f3f",
-        "title": "AI 互动叙事行业仍陷「剧本之困」",
-        "url": "https://www.huxiu.com/article/4867213.html?f=rss",
+        "id": "2b330dd25b07f468a5924405f945832ec9a633b6",
+        "title": "老板们的 AI 焦虑，让打工人穿上职场 CK 内裤",
+        "url": "https://www.huxiu.com/article/4867220.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_1a792f3c827d",
+      "title": "欧盟委员会发言人表示，欧盟委员会正在评估Anthropic裁决的实际影响 / EU Commission looking at practical consequences of Anthropic decision",
+      "url": "https://www.reuters.com/legal/litigation/eu-commission-looking-practical-consequences-anthropic-decision-spokesperson-2026-06-14",
+      "primary_url": "https://www.reuters.com/legal/litigation/eu-commission-looking-practical-consequences-anthropic-decision-spokesperson-2026-06-14",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "fc00575b279706bbba27ad5f1b7bf0e3189ae354",
+          "title": "欧盟委员会发言人表示，欧盟委员会正在评估Anthropic裁决的实际影响 / EU Commission looking at practical consequences of Anthropic decision",
+          "url": "https://www.reuters.com/legal/litigation/eu-commission-looking-practical-consequences-anthropic-decision-spokesperson-2026-06-14",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-14T14:33:11Z"
+        },
+        {
+          "id": "cd6a95d0454cdc7beee2a22b38c42a842363f8d2",
+          "title": "欧盟委员会发言人表示，欧盟委员会正在评估Anthropic裁决的实际影响",
+          "url": "https://www.reuters.com/legal/litigation/eu-commission-looking-practical-consequences-anthropic-decision-spokesperson-2026-06-14",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-14T13:50:01.242000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "fc00575b279706bbba27ad5f1b7bf0e3189ae354",
+          "title": "欧盟委员会发言人表示，欧盟委员会正在评估Anthropic裁决的实际影响 / EU Commission looking at practical consequences of Anthropic decision",
+          "url": "https://www.reuters.com/legal/litigation/eu-commission-looking-practical-consequences-anthropic-decision-spokesperson-2026-06-14",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-14T14:33:11Z"
+        },
+        {
+          "id": "cd6a95d0454cdc7beee2a22b38c42a842363f8d2",
+          "title": "欧盟委员会发言人表示，欧盟委员会正在评估Anthropic裁决的实际影响",
+          "url": "https://www.reuters.com/legal/litigation/eu-commission-looking-practical-consequences-anthropic-decision-spokesperson-2026-06-14",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-14T13:50:01.242000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9247,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-14T13:50:01.242000Z",
+      "latest_at": "2026-06-14T14:33:11Z",
+      "primary_item": {
+        "id": "fc00575b279706bbba27ad5f1b7bf0e3189ae354",
+        "title": "欧盟委员会发言人表示，欧盟委员会正在评估Anthropic裁决的实际影响 / EU Commission looking at practical consequences of Anthropic decision",
+        "url": "https://www.reuters.com/legal/litigation/eu-commission-looking-practical-consequences-anthropic-decision-spokesperson-2026-06-14",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
       }
     },
     {
@@ -448,14 +743,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5365,
-      "importance": 0.5365,
-      "importance_score": 0.5365,
+      "score": 0.5225,
+      "importance": 0.5225,
+      "importance_score": 0.5225,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9427,
+        "recency": 0.8725,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -470,6 +765,84 @@
         "url": "https://www.businessinsider.com/teenager-against-ai-mom-uses-corporate-job-2026-6",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_dfffd434cc32",
+      "title": "基于云的 LLM 淘金热即将结束 / Cloud-based LLM gold rush is ending",
+      "url": "https://news.ycombinator.com/item?id=48527817",
+      "primary_url": "https://news.ycombinator.com/item?id=48527817",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "cb150fcd2c9b519e648f49e8cdec79a92a9e7c85",
+          "title": "基于云的 LLM 淘金热即将结束 / Cloud-based LLM gold rush is ending",
+          "url": "https://news.ycombinator.com/item?id=48527817",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-14T16:22:15.355000Z"
+        },
+        {
+          "id": "8b6d71c96f59127b5825ef853c0f0aae761085e6",
+          "title": "苹果全球开发者大会与《Fable 5》的保密协议：行业变革与科技主权的崛起 / Cloud-based LLM gold rush is ending",
+          "url": "https://automato.substack.com/p/apple-wwdc-and-the-fable-5-embargo",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-14T14:56:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "cb150fcd2c9b519e648f49e8cdec79a92a9e7c85",
+          "title": "基于云的 LLM 淘金热即将结束 / Cloud-based LLM gold rush is ending",
+          "url": "https://news.ycombinator.com/item?id=48527817",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-14T16:22:15.355000Z"
+        },
+        {
+          "id": "8b6d71c96f59127b5825ef853c0f0aae761085e6",
+          "title": "苹果全球开发者大会与《Fable 5》的保密协议：行业变革与科技主权的崛起 / Cloud-based LLM gold rush is ending",
+          "url": "https://automato.substack.com/p/apple-wwdc-and-the-fable-5-embargo",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-14T14:56:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-14T14:56:35Z",
+      "latest_at": "2026-06-14T16:22:15.355000Z",
+      "primary_item": {
+        "id": "cb150fcd2c9b519e648f49e8cdec79a92a9e7c85",
+        "title": "基于云的 LLM 淘金热即将结束 / Cloud-based LLM gold rush is ending",
+        "url": "https://news.ycombinator.com/item?id=48527817",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -526,14 +899,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5289,
-      "importance": 0.5289,
-      "importance_score": 0.5289,
+      "score": 0.5148,
+      "importance": 0.5148,
+      "importance_score": 0.5148,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9043,
+        "recency": 0.8341,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -548,6 +921,162 @@
         "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_6396443b5b46",
+      "title": "AI 互动叙事行业仍陷「剧本之困」",
+      "url": "https://www.huxiu.com/article/4867213.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4867213.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "c23d43bca8bafa70b4d83dabbff015ad00046f3f",
+          "title": "AI 互动叙事行业仍陷「剧本之困」",
+          "url": "https://www.huxiu.com/article/4867213.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "bb531d27a7d1756e06150b30160a05e1b1d1f2fb",
+          "title": "AI互动叙事行业仍陷“剧本之困”",
+          "url": "https://www.huxiu.com/article/4867213.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-14T13:57:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "c23d43bca8bafa70b4d83dabbff015ad00046f3f",
+          "title": "AI 互动叙事行业仍陷「剧本之困」",
+          "url": "https://www.huxiu.com/article/4867213.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "bb531d27a7d1756e06150b30160a05e1b1d1f2fb",
+          "title": "AI互动叙事行业仍陷“剧本之困”",
+          "url": "https://www.huxiu.com/article/4867213.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-14T13:57:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.534,
+      "importance": 0.534,
+      "importance_score": 0.534,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9298,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-14T13:57:41Z",
+      "latest_at": "2026-06-14T14:40:34.477449Z",
+      "primary_item": {
+        "id": "c23d43bca8bafa70b4d83dabbff015ad00046f3f",
+        "title": "AI 互动叙事行业仍陷「剧本之困」",
+        "url": "https://www.huxiu.com/article/4867213.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_042052496ebe",
+      "title": "由于明显的幻觉，毕马威撤回了人工智能使用报告 / KPMG pulls report on AI usage due to apparent hallucinations",
+      "url": "https://news.ycombinator.com/item?id=48527297",
+      "primary_url": "https://news.ycombinator.com/item?id=48527297",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "0f7a43deb09e214faae5c857fcd4cdbbde7b673a",
+          "title": "由于明显的幻觉，毕马威撤回了人工智能使用报告 / KPMG pulls report on AI usage due to apparent hallucinations",
+          "url": "https://news.ycombinator.com/item?id=48527297",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-14T16:22:15.355000Z"
+        },
+        {
+          "id": "cd7c8eae1dc3be5ef7825eb72d6ef254f0b31b93",
+          "title": "由于明显的幻觉，毕马威撤回了人工智能使用报告 / KPMG pulls report on AI usage due to apparent hallucinations",
+          "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-14T14:01:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "0f7a43deb09e214faae5c857fcd4cdbbde7b673a",
+          "title": "由于明显的幻觉，毕马威撤回了人工智能使用报告 / KPMG pulls report on AI usage due to apparent hallucinations",
+          "url": "https://news.ycombinator.com/item?id=48527297",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-14T16:22:15.355000Z"
+        },
+        {
+          "id": "cd7c8eae1dc3be5ef7825eb72d6ef254f0b31b93",
+          "title": "由于明显的幻觉，毕马威撤回了人工智能使用报告 / KPMG pulls report on AI usage due to apparent hallucinations",
+          "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-14T14:01:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-14T14:01:35Z",
+      "latest_at": "2026-06-14T16:22:15.355000Z",
+      "primary_item": {
+        "id": "0f7a43deb09e214faae5c857fcd4cdbbde7b673a",
+        "title": "由于明显的幻觉，毕马威撤回了人工智能使用报告 / KPMG pulls report on AI usage due to apparent hallucinations",
+        "url": "https://news.ycombinator.com/item?id=48527297",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -604,14 +1133,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.534,
+      "importance": 0.534,
+      "importance_score": 0.534,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9298,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -682,14 +1211,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5166,
-      "importance": 0.5166,
-      "importance_score": 0.5166,
+      "score": 0.5025,
+      "importance": 0.5025,
+      "importance_score": 0.5025,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8429,
+        "recency": 0.7727,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -760,14 +1289,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4766,
-      "importance": 0.4766,
-      "importance_score": 0.4766,
+      "score": 0.4625,
+      "importance": 0.4625,
+      "importance_score": 0.4625,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6428,
+        "recency": 0.5726,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -781,6 +1310,162 @@
         "title": "俄罗斯家庭利用人工智能“复活”在乌克兰阵亡的亲人",
         "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
         "source": "www.bbc.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_f9a9fd467da0",
+      "title": "里约热内卢的“本土”法学硕士似乎是现有模式的合并 / Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "url": "https://news.ycombinator.com/item?id=48528371",
+      "primary_url": "https://news.ycombinator.com/item?id=48528371",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "195e74de1c761bfcaac56dd3b51857dd4c40996c",
+          "title": "里约热内卢的“本土”法学硕士似乎是现有模式的合并 / Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+          "url": "https://news.ycombinator.com/item?id=48528371",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-14T16:22:15.355000Z"
+        },
+        {
+          "id": "79cf793518fabce2826b2455bd5ce61f54b9c1cf",
+          "title": "里约热内卢的“本土”法学硕士似乎是现有模式的合并 / Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+          "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-14T15:37:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "195e74de1c761bfcaac56dd3b51857dd4c40996c",
+          "title": "里约热内卢的“本土”法学硕士似乎是现有模式的合并 / Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+          "url": "https://news.ycombinator.com/item?id=48528371",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-14T16:22:15.355000Z"
+        },
+        {
+          "id": "79cf793518fabce2826b2455bd5ce61f54b9c1cf",
+          "title": "里约热内卢的“本土”法学硕士似乎是现有模式的合并 / Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+          "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-14T15:37:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-14T15:37:31Z",
+      "latest_at": "2026-06-14T16:22:15.355000Z",
+      "primary_item": {
+        "id": "195e74de1c761bfcaac56dd3b51857dd4c40996c",
+        "title": "里约热内卢的“本土”法学硕士似乎是现有模式的合并 / Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+        "url": "https://news.ycombinator.com/item?id=48528371",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_85a190871a47",
+      "title": "人工智能热潮正悄然让办公室重新流行起来",
+      "url": "https://www.businessinsider.com/post-pandemic-ai-startups-rto-mandate-workplace-culture-2026-6",
+      "primary_url": "https://www.businessinsider.com/post-pandemic-ai-startups-rto-mandate-workplace-culture-2026-6",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d3d09cb9480bfe5ed39eb5643336063b17d5b0f3",
+          "title": "人工智能热潮正悄然让办公室重新流行起来",
+          "url": "https://www.businessinsider.com/post-pandemic-ai-startups-rto-mandate-workplace-culture-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-14T08:46:05.480000Z"
+        },
+        {
+          "id": "69f45c50d7621e74de5b17cbd6db6bfab8c0bf03",
+          "title": "人工智能热潮正悄然让办公室重新流行起来 / AI workers don't work from home — they 'home from work'",
+          "url": "https://www.businessinsider.com/post-pandemic-ai-startups-rto-mandate-workplace-culture-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-13T20:41:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "d3d09cb9480bfe5ed39eb5643336063b17d5b0f3",
+          "title": "人工智能热潮正悄然让办公室重新流行起来",
+          "url": "https://www.businessinsider.com/post-pandemic-ai-startups-rto-mandate-workplace-culture-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-14T08:46:05.480000Z"
+        },
+        {
+          "id": "69f45c50d7621e74de5b17cbd6db6bfab8c0bf03",
+          "title": "人工智能热潮正悄然让办公室重新流行起来 / AI workers don't work from home — they 'home from work'",
+          "url": "https://www.businessinsider.com/post-pandemic-ai-startups-rto-mandate-workplace-culture-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-13T20:41:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4847,
+      "importance": 0.4847,
+      "importance_score": 0.4847,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6836,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-13T20:41:01Z",
+      "latest_at": "2026-06-14T08:46:05.480000Z",
+      "primary_item": {
+        "id": "d3d09cb9480bfe5ed39eb5643336063b17d5b0f3",
+        "title": "人工智能热潮正悄然让办公室重新流行起来",
+        "url": "https://www.businessinsider.com/post-pandemic-ai-startups-rto-mandate-workplace-culture-2026-6",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -838,14 +1523,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5124,
-      "importance": 0.5124,
-      "importance_score": 0.5124,
+      "score": 0.4984,
+      "importance": 0.4984,
+      "importance_score": 0.4984,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8222,
+        "recency": 0.752,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -860,240 +1545,6 @@
         "url": "https://www.ithome.com/0/964/141.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_85a190871a47",
-      "title": "人工智能热潮正悄然让办公室重新流行起来",
-      "url": "https://www.businessinsider.com/post-pandemic-ai-startups-rto-mandate-workplace-culture-2026-6",
-      "primary_url": "https://www.businessinsider.com/post-pandemic-ai-startups-rto-mandate-workplace-culture-2026-6",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d3d09cb9480bfe5ed39eb5643336063b17d5b0f3",
-          "title": "人工智能热潮正悄然让办公室重新流行起来",
-          "url": "https://www.businessinsider.com/post-pandemic-ai-startups-rto-mandate-workplace-culture-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-14T08:46:05.480000Z"
-        },
-        {
-          "id": "69f45c50d7621e74de5b17cbd6db6bfab8c0bf03",
-          "title": "人工智能热潮正悄然让办公室重新流行起来 / AI workers don't work from home — they 'home from work'",
-          "url": "https://www.businessinsider.com/post-pandemic-ai-startups-rto-mandate-workplace-culture-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-13T20:41:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "d3d09cb9480bfe5ed39eb5643336063b17d5b0f3",
-          "title": "人工智能热潮正悄然让办公室重新流行起来",
-          "url": "https://www.businessinsider.com/post-pandemic-ai-startups-rto-mandate-workplace-culture-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-14T08:46:05.480000Z"
-        },
-        {
-          "id": "69f45c50d7621e74de5b17cbd6db6bfab8c0bf03",
-          "title": "人工智能热潮正悄然让办公室重新流行起来 / AI workers don't work from home — they 'home from work'",
-          "url": "https://www.businessinsider.com/post-pandemic-ai-startups-rto-mandate-workplace-culture-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-13T20:41:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4988,
-      "importance": 0.4988,
-      "importance_score": 0.4988,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7538,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-13T20:41:01Z",
-      "latest_at": "2026-06-14T08:46:05.480000Z",
-      "primary_item": {
-        "id": "d3d09cb9480bfe5ed39eb5643336063b17d5b0f3",
-        "title": "人工智能热潮正悄然让办公室重新流行起来",
-        "url": "https://www.businessinsider.com/post-pandemic-ai-startups-rto-mandate-workplace-culture-2026-6",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b90255103e5d",
-      "title": "州总检察长正在调查 OpenAI / State Attorneys General Are Investigating OpenAI",
-      "url": "https://news.ycombinator.com/item?id=48522675",
-      "primary_url": "https://news.ycombinator.com/item?id=48522675",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "d8d3062ffa45576bcd90f9e6ccb70b866a2976da",
-          "title": "州总检察长正在调查 OpenAI / State Attorneys General Are Investigating OpenAI",
-          "url": "https://news.ycombinator.com/item?id=48522675",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-14T01:30:53.768000Z"
-        },
-        {
-          "id": "9e32a4578e0453d2e46806bb40f348d7882edeb3",
-          "title": "州总检察长正在调查 OpenAI / State Attorneys General Are Investigating OpenAI",
-          "url": "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-13T23:52:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d8d3062ffa45576bcd90f9e6ccb70b866a2976da",
-          "title": "州总检察长正在调查 OpenAI / State Attorneys General Are Investigating OpenAI",
-          "url": "https://news.ycombinator.com/item?id=48522675",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-14T01:30:53.768000Z"
-        },
-        {
-          "id": "9e32a4578e0453d2e46806bb40f348d7882edeb3",
-          "title": "州总检察长正在调查 OpenAI / State Attorneys General Are Investigating OpenAI",
-          "url": "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-13T23:52:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4383,
-      "importance": 0.4383,
-      "importance_score": 0.4383,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4516,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-13T23:52:19Z",
-      "latest_at": "2026-06-14T01:30:53.768000Z",
-      "primary_item": {
-        "id": "d8d3062ffa45576bcd90f9e6ccb70b866a2976da",
-        "title": "州总检察长正在调查 OpenAI / State Attorneys General Are Investigating OpenAI",
-        "url": "https://news.ycombinator.com/item?id=48522675",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_ba1d055c7d34",
-      "title": "“告诉他他是一坨屎”：Meta 的新人工智能单元一团糟 / 'Tell Him He's a Piece of Shit': Meta's New AI Unit Is a Total Mess",
-      "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai",
-      "primary_url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "e6e2945f0920f8fe931eaa8f08584160edde3cfc",
-          "title": "“告诉他他是一坨屎”：Meta 的新人工智能单元一团糟 / 'Tell Him He's a Piece of Shit': Meta's New AI Unit Is a Total Mess",
-          "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-14T01:23:45Z"
-        },
-        {
-          "id": "39f6bfae8260f022af5b941c6983eb7e224291e4",
-          "title": "Meta 的混沌 AI 策略 / Meta’s chaotic AI strategy",
-          "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-14T01:23:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "e6e2945f0920f8fe931eaa8f08584160edde3cfc",
-          "title": "“告诉他他是一坨屎”：Meta 的新人工智能单元一团糟 / 'Tell Him He's a Piece of Shit': Meta's New AI Unit Is a Total Mess",
-          "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-14T01:23:45Z"
-        },
-        {
-          "id": "39f6bfae8260f022af5b941c6983eb7e224291e4",
-          "title": "Meta 的混沌 AI 策略 / Meta’s chaotic AI strategy",
-          "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-14T01:23:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4373,
-      "importance": 0.4373,
-      "importance_score": 0.4373,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4466,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-14T01:23:45Z",
-      "latest_at": "2026-06-14T01:23:45Z",
-      "primary_item": {
-        "id": "e6e2945f0920f8fe931eaa8f08584160edde3cfc",
-        "title": "“告诉他他是一坨屎”：Meta 的新人工智能单元一团糟 / 'Tell Him He's a Piece of Shit': Meta's New AI Unit Is a Total Mess",
-        "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
       }
     },
     {
@@ -1149,14 +1600,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4164,
-      "importance": 0.4164,
-      "importance_score": 0.4164,
+      "score": 0.4023,
+      "importance": 0.4023,
+      "importance_score": 0.4023,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3418,
+        "recency": 0.2716,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1171,492 +1622,6 @@
         "url": "https://www.ithome.com/0/963/991.htm",
         "source": "IT之家 (ITHome)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_49e4f31a2c79",
-      "title": "在家学习AI编程，不花大钱",
-      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke",
-      "primary_url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke",
-      "source": "stephen.bochinski.dev",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9d9e77efd1ab053d0d50cddb68ba3b2d1a8bfeef",
-          "title": "在家学习AI编程，不花大钱",
-          "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke",
-          "source": "stephen.bochinski.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T19:10:01.836000Z"
-        },
-        {
-          "id": "82563dcca7deb63d5882b755b28dd5bdca4e2a32",
-          "title": "在家进行人工智能编码，不会破产 / AI coding at home without going broke",
-          "url": "https://news.ycombinator.com/item?id=48518969",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-13T18:08:08.478000Z"
-        },
-        {
-          "id": "fe037f5adb0d510b859f5bd4a1ca97d01a6e7b69",
-          "title": "在家学习AI编程，不花大钱 / AI coding at home without going broke",
-          "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-13T16:45:03Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "stephen.bochinski.dev"
-      ],
-      "items": [
-        {
-          "id": "9d9e77efd1ab053d0d50cddb68ba3b2d1a8bfeef",
-          "title": "在家学习AI编程，不花大钱",
-          "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke",
-          "source": "stephen.bochinski.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T19:10:01.836000Z"
-        },
-        {
-          "id": "82563dcca7deb63d5882b755b28dd5bdca4e2a32",
-          "title": "在家进行人工智能编码，不会破产 / AI coding at home without going broke",
-          "url": "https://news.ycombinator.com/item?id=48518969",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-13T18:08:08.478000Z"
-        },
-        {
-          "id": "fe037f5adb0d510b859f5bd4a1ca97d01a6e7b69",
-          "title": "在家学习AI编程，不花大钱 / AI coding at home without going broke",
-          "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-13T16:45:03Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4104,
-      "importance": 0.4104,
-      "importance_score": 0.4104,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1871,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-13T16:45:03Z",
-      "latest_at": "2026-06-13T19:10:01.836000Z",
-      "primary_item": {
-        "id": "9d9e77efd1ab053d0d50cddb68ba3b2d1a8bfeef",
-        "title": "在家学习AI编程，不花大钱",
-        "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke",
-        "source": "stephen.bochinski.dev",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_648a563bd218",
-      "title": "OSCHINA-开源 × AI・开发者生态社区",
-      "url": "https://www.oschina.net/news/458347",
-      "primary_url": "https://www.oschina.net/news/458347",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "1fca748b68b2f6d0f2fce3e7d803da880dcdbb1b",
-          "title": "OSCHINA-开源 × AI・开发者生态社区",
-          "url": "https://www.oschina.net/news/458347",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e9f35a030dcc955e7e897521f5d10021c92af0ec",
-          "title": "知识管理系统 WCP5.0.1 发布，全面重构支持AI工作流引擎编排",
-          "url": "https://www.oschina.net/news/458347",
-          "source": "开源中国 · 热门资讯",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "开源中国 · 热门资讯"
-      ],
-      "items": [
-        {
-          "id": "1fca748b68b2f6d0f2fce3e7d803da880dcdbb1b",
-          "title": "OSCHINA-开源 × AI・开发者生态社区",
-          "url": "https://www.oschina.net/news/458347",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e9f35a030dcc955e7e897521f5d10021c92af0ec",
-          "title": "知识管理系统 WCP5.0.1 发布，全面重构支持AI工作流引擎编排",
-          "url": "https://www.oschina.net/news/458347",
-          "source": "开源中国 · 热门资讯",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4814,
-      "importance": 0.4814,
-      "importance_score": 0.4814,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6672,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-14T06:41:17.901321Z",
-      "latest_at": "2026-06-14T06:41:17.901321Z",
-      "primary_item": {
-        "id": "1fca748b68b2f6d0f2fce3e7d803da880dcdbb1b",
-        "title": "OSCHINA-开源 × AI・开发者生态社区",
-        "url": "https://www.oschina.net/news/458347",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_1cb48a760b1c",
-      "title": "警察因在多起案件中使用人工智能“创造证据”而受到调查 / Police officer investigated for using AI to 'create evidence' in multiple cases",
-      "url": "https://news.ycombinator.com/item?id=48520807",
-      "primary_url": "https://news.ycombinator.com/item?id=48520807",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "8ef1399b41e34e1f93bef4644ce1f9e812169738",
-          "title": "警察因在多起案件中使用人工智能“创造证据”而受到调查 / Police officer investigated for using AI to 'create evidence' in multiple cases",
-          "url": "https://news.ycombinator.com/item?id=48520807",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-13T21:29:57.841000Z"
-        },
-        {
-          "id": "ce69457f64dbb9d1e53c65d1b9e702dfe3ed9922",
-          "title": "警察因在多起案件中使用人工智能“创造证据”而受到调查 / Police officer investigated for using AI to 'create evidence' in multiple cases",
-          "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-13T19:54:55Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "8ef1399b41e34e1f93bef4644ce1f9e812169738",
-          "title": "警察因在多起案件中使用人工智能“创造证据”而受到调查 / Police officer investigated for using AI to 'create evidence' in multiple cases",
-          "url": "https://news.ycombinator.com/item?id=48520807",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-13T21:29:57.841000Z"
-        },
-        {
-          "id": "ce69457f64dbb9d1e53c65d1b9e702dfe3ed9922",
-          "title": "警察因在多起案件中使用人工智能“创造证据”而受到调查 / Police officer investigated for using AI to 'create evidence' in multiple cases",
-          "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-13T19:54:55Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4049,
-      "importance": 0.4049,
-      "importance_score": 0.4049,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2843,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-13T19:54:55Z",
-      "latest_at": "2026-06-13T21:29:57.841000Z",
-      "primary_item": {
-        "id": "8ef1399b41e34e1f93bef4644ce1f9e812169738",
-        "title": "警察因在多起案件中使用人工智能“创造证据”而受到调查 / Police officer investigated for using AI to 'create evidence' in multiple cases",
-        "url": "https://news.ycombinator.com/item?id=48520807",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_3625dfb80c29",
-      "title": "Anthropic 因美国法院下达全面禁令而关闭 Mythos 访问权限",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5cd9a02d788d8f243a257c0b55a393cebb0af639",
-          "title": "Anthropic 因美国法院下达全面禁令而关闭 Mythos 访问权限",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T17:02:14.600000Z"
-        },
-        {
-          "id": "6f32d233496a10efc22105c2682c2a61eeb9e260",
-          "title": "Anthropic 因美国史无前例的行政命令关闭 Mythos 访问权限",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T15:10:09.405000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "5cd9a02d788d8f243a257c0b55a393cebb0af639",
-          "title": "Anthropic 因美国法院下达全面禁令而关闭 Mythos 访问权限",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T17:02:14.600000Z"
-        },
-        {
-          "id": "6f32d233496a10efc22105c2682c2a61eeb9e260",
-          "title": "Anthropic 因美国史无前例的行政命令关闭 Mythos 访问权限",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T15:10:09.405000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3677,
-      "importance": 0.3677,
-      "importance_score": 0.3677,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0984,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-13T15:10:09.405000Z",
-      "latest_at": "2026-06-13T17:02:14.600000Z",
-      "primary_item": {
-        "id": "5cd9a02d788d8f243a257c0b55a393cebb0af639",
-        "title": "Anthropic 因美国法院下达全面禁令而关闭 Mythos 访问权限",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4a51c735b4dd",
-      "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献",
-      "url": "https://slopscan.ava.pet",
-      "primary_url": "https://slopscan.ava.pet",
-      "source": "slopscan.ava.pet",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bf25763c1f6549d36ff4cf0149e531c8c044c112",
-          "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献",
-          "url": "https://slopscan.ava.pet",
-          "source": "slopscan.ava.pet",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T15:42:05.350000Z"
-        },
-        {
-          "id": "e06d2ddfa9e2e2ec99d78f43ddd457f1f4add862",
-          "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献 / repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis",
-          "url": "https://slopscan.ava.pet",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-13T15:37:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "slopscan.ava.pet"
-      ],
-      "items": [
-        {
-          "id": "bf25763c1f6549d36ff4cf0149e531c8c044c112",
-          "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献",
-          "url": "https://slopscan.ava.pet",
-          "source": "slopscan.ava.pet",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T15:42:05.350000Z"
-        },
-        {
-          "id": "e06d2ddfa9e2e2ec99d78f43ddd457f1f4add862",
-          "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献 / repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis",
-          "url": "https://slopscan.ava.pet",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-13T15:37:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3565,
-      "importance": 0.3565,
-      "importance_score": 0.3565,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0427,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-13T15:37:16Z",
-      "latest_at": "2026-06-13T15:42:05.350000Z",
-      "primary_item": {
-        "id": "bf25763c1f6549d36ff4cf0149e531c8c044c112",
-        "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献",
-        "url": "https://slopscan.ava.pet",
-        "source": "slopscan.ava.pet",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_a9f0533a771d",
-      "title": "OpenAI表示“致力于学习”，与此同时，多个州组成的联盟正在调查ChatGPT对年轻用户的影响",
-      "url": "https://www.businessinsider.com/openai-states-investigation-chatgpt-impact-children-vulnerable-adults-2026-6",
-      "primary_url": "https://www.businessinsider.com/openai-states-investigation-chatgpt-impact-children-vulnerable-adults-2026-6",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d0c8547cdab87198cd4b085ce6c7e620357315cf",
-          "title": "OpenAI表示“致力于学习”，与此同时，多个州组成的联盟正在调查ChatGPT对年轻用户的影响",
-          "url": "https://www.businessinsider.com/openai-states-investigation-chatgpt-impact-children-vulnerable-adults-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T23:26:04.637000Z"
-        },
-        {
-          "id": "11f4199e1762e807b9b69869befd086d776696aa",
-          "title": "OpenAI表示“致力于学习”，与此同时，多个州组成的联盟正在调查ChatGPT对年轻用户的影响 / OpenAI says it's 'committed to learning' as a coalition of states investigates ChatGPT's impact on young users",
-          "url": "https://www.businessinsider.com/openai-states-investigation-chatgpt-impact-children-vulnerable-adults-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-13T21:28:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "d0c8547cdab87198cd4b085ce6c7e620357315cf",
-          "title": "OpenAI表示“致力于学习”，与此同时，多个州组成的联盟正在调查ChatGPT对年轻用户的影响",
-          "url": "https://www.businessinsider.com/openai-states-investigation-chatgpt-impact-children-vulnerable-adults-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T23:26:04.637000Z"
-        },
-        {
-          "id": "11f4199e1762e807b9b69869befd086d776696aa",
-          "title": "OpenAI表示“致力于学习”，与此同时，多个州组成的联盟正在调查ChatGPT对年轻用户的影响 / OpenAI says it's 'committed to learning' as a coalition of states investigates ChatGPT's impact on young users",
-          "url": "https://www.businessinsider.com/openai-states-investigation-chatgpt-impact-children-vulnerable-adults-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-13T21:28:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.421,
-      "importance": 0.421,
-      "importance_score": 0.421,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3649,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-13T21:28:22Z",
-      "latest_at": "2026-06-13T23:26:04.637000Z",
-      "primary_item": {
-        "id": "d0c8547cdab87198cd4b085ce6c7e620357315cf",
-        "title": "OpenAI表示“致力于学习”，与此同时，多个州组成的联盟正在调查ChatGPT对年轻用户的影响",
-        "url": "https://www.businessinsider.com/openai-states-investigation-chatgpt-impact-children-vulnerable-adults-2026-6",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
