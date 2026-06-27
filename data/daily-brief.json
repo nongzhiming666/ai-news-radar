@@ -1,128 +1,8 @@
 {
-  "generated_at": "2026-06-27T07:49:06.007230Z",
+  "generated_at": "2026-06-27T10:08:25.179151Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_adbd50c1b1db",
-      "title": "OpenAI 预览新一代模型 GPT-5.6 Sol / Previewing GPT-5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "primary_url": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6a8ed476ab2dd24ba1fadd1c70a5085f20ec203e",
-          "title": "OpenAI 预览新一代模型 GPT-5.6 Sol / Previewing GPT-5.6 Sol: a next-generation model",
-          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-26T10:00:00Z"
-        },
-        {
-          "id": "10d60fef99eb785c267b4bb1466e3170f6051790",
-          "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
-          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T10:00:00Z"
-        },
-        {
-          "id": "50b846d11b890d19e5f2173adc6d2954f7217666",
-          "title": "GPT‑5.6 Sol 预览：新一代模型",
-          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T17:31:54.233000Z"
-        },
-        {
-          "id": "e84bcd00c3a98a59d2762293230a2bde808754cc",
-          "title": "OpenAI 预览新一代模型 GPT-5.6 Sol / Previewing GPT‑5.6 Sol: a next-generation model",
-          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T17:06:55Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "6a8ed476ab2dd24ba1fadd1c70a5085f20ec203e",
-          "title": "OpenAI 预览新一代模型 GPT-5.6 Sol / Previewing GPT-5.6 Sol: a next-generation model",
-          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-26T10:00:00Z"
-        },
-        {
-          "id": "10d60fef99eb785c267b4bb1466e3170f6051790",
-          "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
-          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T10:00:00Z"
-        },
-        {
-          "id": "50b846d11b890d19e5f2173adc6d2954f7217666",
-          "title": "GPT‑5.6 Sol 预览：新一代模型",
-          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T17:31:54.233000Z"
-        },
-        {
-          "id": "e84bcd00c3a98a59d2762293230a2bde808754cc",
-          "title": "OpenAI 预览新一代模型 GPT-5.6 Sol / Previewing GPT‑5.6 Sol: a next-generation model",
-          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T17:06:55Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8864,
-      "importance": 0.8864,
-      "importance_score": 0.8864,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7297,
-        "story_heat": 0.75
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-26T10:00:00Z",
-      "latest_at": "2026-06-26T17:31:54.233000Z",
-      "primary_item": {
-        "id": "6a8ed476ab2dd24ba1fadd1c70a5085f20ec203e",
-        "title": "OpenAI 预览新一代模型 GPT-5.6 Sol / Previewing GPT-5.6 Sol: a next-generation model",
-        "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
@@ -202,18 +82,9 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "273e0853b2b2dbeb6c8a5e9de856a0b9e4528058",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1753-2271-a3e3-be5cc25754cb&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "source_count": 9,
+      "source_count": 8,
       "source_names": [
         "Page Fallback"
       ],
@@ -289,28 +160,19 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "273e0853b2b2dbeb6c8a5e9de856a0b9e4528058",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1753-2271-a3e3-be5cc25754cb&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "item_count": 9,
-      "duplicate_count": 9,
-      "score": 0.8487,
-      "importance": 0.8487,
-      "importance_score": 0.8487,
+      "item_count": 8,
+      "duplicate_count": 8,
+      "score": 0.8434,
+      "importance": 0.8434,
+      "importance_score": 0.8434,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8949,
+        "recency": 0.8653,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -319,7 +181,7 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-26T07:52:52.355645Z",
+      "earliest_at": "2026-06-26T10:51:21.158421Z",
       "latest_at": "2026-06-27T00:07:29.469364Z",
       "primary_item": {
         "id": "1a3728283570a1e29361ad760b6a6db12750e731",
@@ -402,15 +264,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
+      "score": 0.8205,
+      "importance": 0.8205,
+      "importance_score": 0.8205,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8441,
+        "recency": 0.8163,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -464,15 +326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8178,
-      "importance": 0.8178,
-      "importance_score": 0.8178,
+      "score": 0.8127,
+      "importance": 0.8127,
+      "importance_score": 0.8127,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8544,
+        "recency": 0.8262,
         "story_heat": 0.0
       },
       "category": "official",
@@ -489,6 +351,87 @@
         "url": "https://github.blog/changelog/2026-06-26-track-total-merges-by-adoption-phase-in-enterprise-and-organization-reports",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5258ff9579da",
+      "title": "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
+      "url": "https://www.ithome.com/0/969/400.htm",
+      "primary_url": "https://www.ithome.com/0/969/400.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ff0b37694e4bd3606df6fb79ce7f00759f39fd60",
+          "title": "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
+          "url": "https://www.ithome.com/0/969/400.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T08:16:09Z"
+        },
+        {
+          "id": "dcc0eeba3b110db4e6c105af5760be57d6ac6c26",
+          "title": "AI 账单失控后 DeepSeek 成“香饽饽”，部分美国企业已 100% 切换",
+          "url": "https://www.ithome.com/0/969/400.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T08:16:09Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ff0b37694e4bd3606df6fb79ce7f00759f39fd60",
+          "title": "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
+          "url": "https://www.ithome.com/0/969/400.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T08:16:09Z"
+        },
+        {
+          "id": "dcc0eeba3b110db4e6c105af5760be57d6ac6c26",
+          "title": "AI 账单失控后 DeepSeek 成“香饽饽”，部分美国企业已 100% 切换",
+          "url": "https://www.ithome.com/0/969/400.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T08:16:09Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7818,
+      "importance": 0.7818,
+      "importance_score": 0.7818,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9733,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-27T08:16:09Z",
+      "latest_at": "2026-06-27T08:16:09Z",
+      "primary_item": {
+        "id": "ff0b37694e4bd3606df6fb79ce7f00759f39fd60",
+        "title": "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
+        "url": "https://www.ithome.com/0/969/400.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -526,15 +469,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8165,
-      "importance": 0.8165,
-      "importance_score": 0.8165,
+      "score": 0.8117,
+      "importance": 0.8117,
+      "importance_score": 0.8117,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8025,
+        "recency": 0.7761,
         "story_heat": 0.0
       },
       "category": "official",
@@ -551,87 +494,6 @@
         "url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8a4fe10cc807",
-      "title": "阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色",
-      "url": "https://www.ithome.com/0/969/334.htm",
-      "primary_url": "https://www.ithome.com/0/969/334.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ab5269659ec754e3674a00887b02acdec8330fa3",
-          "title": "阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色",
-          "url": "https://www.ithome.com/0/969/334.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-27T03:39:06Z"
-        },
-        {
-          "id": "9c6d456aadfcd0703bc63048d704f26210fe64eb",
-          "title": "阿里千问输入法上线 macOS 版：最快 300 字 / 分，AI 自动润色",
-          "url": "https://www.ithome.com/0/969/334.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家（RSS）",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ab5269659ec754e3674a00887b02acdec8330fa3",
-          "title": "阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色",
-          "url": "https://www.ithome.com/0/969/334.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-27T03:39:06Z"
-        },
-        {
-          "id": "9c6d456aadfcd0703bc63048d704f26210fe64eb",
-          "title": "阿里千问输入法上线 macOS 版：最快 300 字 / 分，AI 自动润色",
-          "url": "https://www.ithome.com/0/969/334.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7851,
-      "importance": 0.7851,
-      "importance_score": 0.7851,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9416,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-27T03:39:06Z",
-      "latest_at": "2026-06-27T04:34:24.868194Z",
-      "primary_item": {
-        "id": "ab5269659ec754e3674a00887b02acdec8330fa3",
-        "title": "阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色",
-        "url": "https://www.ithome.com/0/969/334.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -688,15 +550,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7813,
-      "importance": 0.7813,
-      "importance_score": 0.7813,
+      "score": 0.776,
+      "importance": 0.776,
+      "importance_score": 0.776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8871,
+        "recency": 0.8579,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -712,6 +574,87 @@
         "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
         "url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro",
         "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8a4fe10cc807",
+      "title": "阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色",
+      "url": "https://www.ithome.com/0/969/334.htm",
+      "primary_url": "https://www.ithome.com/0/969/334.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ab5269659ec754e3674a00887b02acdec8330fa3",
+          "title": "阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色",
+          "url": "https://www.ithome.com/0/969/334.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T03:39:06Z"
+        },
+        {
+          "id": "9c6d456aadfcd0703bc63048d704f26210fe64eb",
+          "title": "阿里千问输入法上线 macOS 版：最快 300 字 / 分，AI 自动润色",
+          "url": "https://www.ithome.com/0/969/334.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家（RSS）",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ab5269659ec754e3674a00887b02acdec8330fa3",
+          "title": "阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色",
+          "url": "https://www.ithome.com/0/969/334.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T03:39:06Z"
+        },
+        {
+          "id": "9c6d456aadfcd0703bc63048d704f26210fe64eb",
+          "title": "阿里千问输入法上线 macOS 版：最快 300 字 / 分，AI 自动润色",
+          "url": "https://www.ithome.com/0/969/334.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9106,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-27T03:39:06Z",
+      "latest_at": "2026-06-27T04:34:24.868194Z",
+      "primary_item": {
+        "id": "ab5269659ec754e3674a00887b02acdec8330fa3",
+        "title": "阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色",
+        "url": "https://www.ithome.com/0/969/334.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -750,21 +693,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8057,
+        "recency": 0.7791,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-26T16:51:17Z",
       "latest_at": "2026-06-26T16:51:17Z",
@@ -811,15 +753,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.788,
+        "recency": 0.762,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -871,15 +813,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8044,
-      "importance": 0.8044,
-      "importance_score": 0.8044,
+      "score": 0.8,
+      "importance": 0.8,
+      "importance_score": 0.8,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7356,
+        "recency": 0.7113,
         "story_heat": 0.0
       },
       "category": "official",
@@ -896,6 +838,66 @@
         "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e56d406e16bf",
+      "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
+      "url": "https://x.com/AYi_AInotes/status/2070531964067623381",
+      "primary_url": "https://x.com/AYi_AInotes/status/2070531964067623381",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e1cd1734ccb17dd32195e228b02b17c795fa92c1",
+          "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
+          "url": "https://x.com/AYi_AInotes/status/2070531964067623381",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T15:37:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "e1cd1734ccb17dd32195e228b02b17c795fa92c1",
+          "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
+          "url": "https://x.com/AYi_AInotes/status/2070531964067623381",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T15:37:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7654,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-26T15:37:43Z",
+      "latest_at": "2026-06-26T15:37:43Z",
+      "primary_item": {
+        "id": "e1cd1734ccb17dd32195e228b02b17c795fa92c1",
+        "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
+        "url": "https://x.com/AYi_AInotes/status/2070531964067623381",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -952,15 +954,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7744,
-      "importance": 0.7744,
-      "importance_score": 0.7744,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9157,
+        "recency": 0.8855,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -977,146 +979,6 @@
         "url": "https://www.ithome.com/0/969/311.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e56d406e16bf",
-      "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
-      "url": "https://x.com/AYi_AInotes/status/2070531964067623381",
-      "primary_url": "https://x.com/AYi_AInotes/status/2070531964067623381",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e1cd1734ccb17dd32195e228b02b17c795fa92c1",
-          "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
-          "url": "https://x.com/AYi_AInotes/status/2070531964067623381",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T15:37:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "items": [
-        {
-          "id": "e1cd1734ccb17dd32195e228b02b17c795fa92c1",
-          "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
-          "url": "https://x.com/AYi_AInotes/status/2070531964067623381",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T15:37:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7421,
-      "importance": 0.7421,
-      "importance_score": 0.7421,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7915,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-26T15:37:43Z",
-      "latest_at": "2026-06-26T15:37:43Z",
-      "primary_item": {
-        "id": "e1cd1734ccb17dd32195e228b02b17c795fa92c1",
-        "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
-        "url": "https://x.com/AYi_AInotes/status/2070531964067623381",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_dfc61ad06edf",
-      "title": "OpenAI Codex个人用户用量暴增 137 倍，AI编程已走出程序员圈子",
-      "url": "https://www.aibase.com/news/29198",
-      "primary_url": "https://www.aibase.com/news/29198",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d6fcf852e50cfabe5377e3985ee152eaf3dc08aa",
-          "title": "OpenAI Codex个人用户用量暴增 137 倍，AI编程已走出程序员圈子",
-          "url": "https://www.aibase.com/news/29198",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T07:52:52.355645Z"
-        },
-        {
-          "id": "4c680bc1e277309b26894be959800dc5e3ba5bbc",
-          "title": "OpenAI Codex 个人用户用量暴增 137 倍，AI 编程已走出程序员圈子",
-          "url": "https://www.aibase.com/zh/news/29198",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d6fcf852e50cfabe5377e3985ee152eaf3dc08aa",
-          "title": "OpenAI Codex个人用户用量暴增 137 倍，AI编程已走出程序员圈子",
-          "url": "https://www.aibase.com/news/29198",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T07:52:52.355645Z"
-        },
-        {
-          "id": "4c680bc1e277309b26894be959800dc5e3ba5bbc",
-          "title": "OpenAI Codex 个人用户用量暴增 137 倍，AI 编程已走出程序员圈子",
-          "url": "https://www.aibase.com/zh/news/29198",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.74,
-      "importance": 0.74,
-      "importance_score": 0.74,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7077,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-26T07:52:52.355645Z",
-      "latest_at": "2026-06-26T07:52:52.355645Z",
-      "primary_item": {
-        "id": "d6fcf852e50cfabe5377e3985ee152eaf3dc08aa",
-        "title": "OpenAI Codex个人用户用量暴增 137 倍，AI编程已走出程序员圈子",
-        "url": "https://www.aibase.com/news/29198",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1154,15 +1016,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8057,
+        "recency": 0.7791,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1180,183 +1042,181 @@
       }
     },
     {
-      "story_id": "story_91989e2294aa",
-      "title": "5 秒视频耗 10 部手机电量，AI产业正吞噬全球水电资源",
-      "url": "https://www.aibase.com/news/29200",
-      "primary_url": "https://www.aibase.com/news/29200",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_774f7412d1a3",
+      "title": "OpenAI 研究科学家 Noam Brown 探讨为何传统基准无法满足现代 AI 模型的要求 / Why Traditional Benchmarks Fail Modern AI Models with OpenAI Research Scientist Noam Brown",
+      "url": "https://www.youtube.com/watch?v=AZrU6y3pUcU",
+      "primary_url": "https://www.youtube.com/watch?v=AZrU6y3pUcU",
+      "source": "Follow Builders · Podcast · No Priors",
+      "source_name": "Follow Builders",
       "sources": [
         {
-          "id": "adb67ea2917ecdaca9e2cfee90d831832bc025e2",
-          "title": "5 秒视频耗 10 部手机电量，AI产业正吞噬全球水电资源",
-          "url": "https://www.aibase.com/news/29200",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T10:51:21.158421Z"
+          "id": "5c2d74153d310e71b1601671b74488aa592afcb1",
+          "title": "OpenAI 研究科学家 Noam Brown 探讨为何传统基准无法满足现代 AI 模型的要求 / Why Traditional Benchmarks Fail Modern AI Models with OpenAI Research Scientist Noam Brown",
+          "url": "https://www.youtube.com/watch?v=AZrU6y3pUcU",
+          "source": "Follow Builders · Podcast · No Priors",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-06-26T10:13:00Z"
+        },
+        {
+          "id": "506e569ccd2109289d0105596a8b8bbefd5a3c9a",
+          "title": "《如何看待人工智能》：科里·多克托罗谈科技巨头、理解人工智能、劳动自动化等话题",
+          "url": "https://www.youtube.com/watch?v=OBUzl_IaWIw",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T09:31:56.215000Z"
+        },
+        {
+          "id": "f07679b53b908eedd31a61be7985b8e2eb29f80a",
+          "title": "《如何看待人工智能》：科里·多克托罗谈科技巨头、理解人工智能、劳动自动化等话题 / \"How to Think About AI\": Cory Doctorow on Big Tech, Understanding AI, Labor Automation & More",
+          "url": "https://www.youtube.com/watch?v=OBUzl_IaWIw",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T09:17:42Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Follow Builders · Podcast · No Priors",
+        "Lobsters (技术社区)",
+        "www.youtube.com"
       ],
       "items": [
         {
-          "id": "adb67ea2917ecdaca9e2cfee90d831832bc025e2",
-          "title": "5 秒视频耗 10 部手机电量，AI产业正吞噬全球水电资源",
-          "url": "https://www.aibase.com/news/29200",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T10:51:21.158421Z"
+          "id": "5c2d74153d310e71b1601671b74488aa592afcb1",
+          "title": "OpenAI 研究科学家 Noam Brown 探讨为何传统基准无法满足现代 AI 模型的要求 / Why Traditional Benchmarks Fail Modern AI Models with OpenAI Research Scientist Noam Brown",
+          "url": "https://www.youtube.com/watch?v=AZrU6y3pUcU",
+          "source": "Follow Builders · Podcast · No Priors",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-06-26T10:13:00Z"
+        },
+        {
+          "id": "506e569ccd2109289d0105596a8b8bbefd5a3c9a",
+          "title": "《如何看待人工智能》：科里·多克托罗谈科技巨头、理解人工智能、劳动自动化等话题",
+          "url": "https://www.youtube.com/watch?v=OBUzl_IaWIw",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T09:31:56.215000Z"
+        },
+        {
+          "id": "f07679b53b908eedd31a61be7985b8e2eb29f80a",
+          "title": "《如何看待人工智能》：科里·多克托罗谈科技巨头、理解人工智能、劳动自动化等话题 / \"How to Think About AI\": Cory Doctorow on Big Tech, Understanding AI, Labor Automation & More",
+          "url": "https://www.youtube.com/watch?v=OBUzl_IaWIw",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T09:17:42Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7206,
-      "importance": 0.7206,
-      "importance_score": 0.7206,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6633,
+      "importance": 0.6633,
+      "importance_score": 0.6633,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7388,
-        "story_heat": 0.0
+        "editorial": 0.6048,
+        "source_tier": 0.62,
+        "ai_relevance": 0.84,
+        "recency": 0.7079,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-26T10:51:21.158421Z",
-      "latest_at": "2026-06-26T10:51:21.158421Z",
+      "earliest_at": "2026-06-26T10:13:00Z",
+      "latest_at": "2026-06-27T09:31:56.215000Z",
       "primary_item": {
-        "id": "adb67ea2917ecdaca9e2cfee90d831832bc025e2",
-        "title": "5 秒视频耗 10 部手机电量，AI产业正吞噬全球水电资源",
-        "url": "https://www.aibase.com/news/29200",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "5c2d74153d310e71b1601671b74488aa592afcb1",
+        "title": "OpenAI 研究科学家 Noam Brown 探讨为何传统基准无法满足现代 AI 模型的要求 / Why Traditional Benchmarks Fail Modern AI Models with OpenAI Research Scientist Noam Brown",
+        "url": "https://www.youtube.com/watch?v=AZrU6y3pUcU",
+        "source": "Follow Builders · Podcast · No Priors",
+        "source_name": "Follow Builders"
       }
     },
     {
-      "story_id": "story_7d1c29d1345d",
-      "title": "AI导购精准度仅16%，上海消保委直指电商算法：别把消费者当韭菜",
-      "url": "https://www.aibase.com/news/29203",
-      "primary_url": "https://www.aibase.com/news/29203",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_e9d0c6a5a573",
+      "title": "OpenAI 在政府准入下推出 Claude Mythos 竞争对手 GPT-5.6 Sol，称其不可持续 / OpenAI launches Claude Mythos rival GPT-5.6 Sol under government access it calls unsustainable",
+      "url": "https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable",
+      "primary_url": "https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable",
+      "source": "The Decoder AI News",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "adaa5a493b87d0ceef08f2ff151dad7cd3521727",
-          "title": "AI导购精准度仅16%，上海消保委直指电商算法：别把消费者当韭菜",
-          "url": "https://www.aibase.com/news/29203",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T10:51:21.158421Z"
+          "id": "67a4cb6658c195c68cde96f9c40a5f56d68d5ef5",
+          "title": "OpenAI 在政府准入下推出 Claude Mythos 竞争对手 GPT-5.6 Sol，称其不可持续 / OpenAI launches Claude Mythos rival GPT-5.6 Sol under government access it calls unsustainable",
+          "url": "https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-06-26T18:30:01Z"
+        },
+        {
+          "id": "1e9354e9f048d542c1d13f050797b5b43d5da53e",
+          "title": "OpenAI 的 GPT-5.6 Sol 根据政府访问规则推出，与 Claude Mythos 竞争，并称其不可持续 / OpenAI's GPT-5.6 Sol launches to rival Claude Mythos under government access rules it calls unsustainable",
+          "url": "https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-06-26T18:30:01Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "The Decoder AI News"
       ],
       "items": [
         {
-          "id": "adaa5a493b87d0ceef08f2ff151dad7cd3521727",
-          "title": "AI导购精准度仅16%，上海消保委直指电商算法：别把消费者当韭菜",
-          "url": "https://www.aibase.com/news/29203",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T10:51:21.158421Z"
+          "id": "67a4cb6658c195c68cde96f9c40a5f56d68d5ef5",
+          "title": "OpenAI 在政府准入下推出 Claude Mythos 竞争对手 GPT-5.6 Sol，称其不可持续 / OpenAI launches Claude Mythos rival GPT-5.6 Sol under government access it calls unsustainable",
+          "url": "https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-06-26T18:30:01Z"
+        },
+        {
+          "id": "1e9354e9f048d542c1d13f050797b5b43d5da53e",
+          "title": "OpenAI 的 GPT-5.6 Sol 根据政府访问规则推出，与 Claude Mythos 竞争，并称其不可持续 / OpenAI's GPT-5.6 Sol launches to rival Claude Mythos under government access rules it calls unsustainable",
+          "url": "https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-06-26T18:30:01Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7206,
-      "importance": 0.7206,
-      "importance_score": 0.7206,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6498,
+      "importance": 0.6498,
+      "importance_score": 0.6498,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7388,
-        "story_heat": 0.0
+        "editorial": 0.612,
+        "source_tier": 0.58,
+        "ai_relevance": 0.85,
+        "recency": 0.7978,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-26T10:51:21.158421Z",
-      "latest_at": "2026-06-26T10:51:21.158421Z",
+      "earliest_at": "2026-06-26T18:30:01Z",
+      "latest_at": "2026-06-26T18:30:01Z",
       "primary_item": {
-        "id": "adaa5a493b87d0ceef08f2ff151dad7cd3521727",
-        "title": "AI导购精准度仅16%，上海消保委直指电商算法：别把消费者当韭菜",
-        "url": "https://www.aibase.com/news/29203",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5159b27d61b8",
-      "title": "扩产受限需求高涨，AI存储紧缺周期或将延续至明年末",
-      "url": "https://www.aibase.com/news/29199",
-      "primary_url": "https://www.aibase.com/news/29199",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e2e19254ce2674c90aa628a15beb40d8a9948774",
-          "title": "扩产受限需求高涨，AI存储紧缺周期或将延续至明年末",
-          "url": "https://www.aibase.com/news/29199",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T10:51:21.158421Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e2e19254ce2674c90aa628a15beb40d8a9948774",
-          "title": "扩产受限需求高涨，AI存储紧缺周期或将延续至明年末",
-          "url": "https://www.aibase.com/news/29199",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T10:51:21.158421Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7206,
-      "importance": 0.7206,
-      "importance_score": 0.7206,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7388,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-26T10:51:21.158421Z",
-      "latest_at": "2026-06-26T10:51:21.158421Z",
-      "primary_item": {
-        "id": "e2e19254ce2674c90aa628a15beb40d8a9948774",
-        "title": "扩产受限需求高涨，AI存储紧缺周期或将延续至明年末",
-        "url": "https://www.aibase.com/news/29199",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "67a4cb6658c195c68cde96f9c40a5f56d68d5ef5",
+        "title": "OpenAI 在政府准入下推出 Claude Mythos 竞争对手 GPT-5.6 Sol，称其不可持续 / OpenAI launches Claude Mythos rival GPT-5.6 Sol under government access it calls unsustainable",
+        "url": "https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable",
+        "source": "The Decoder AI News",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -1413,15 +1273,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6294,
-      "importance": 0.6294,
-      "importance_score": 0.6294,
+      "score": 0.6245,
+      "importance": 0.6245,
+      "importance_score": 0.6245,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.823,
+        "recency": 0.7958,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1548,15 +1408,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6183,
-      "importance": 0.6183,
-      "importance_score": 0.6183,
+      "score": 0.6125,
+      "importance": 0.6125,
+      "importance_score": 0.6125,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9863,
+        "recency": 0.9538,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1574,63 +1434,295 @@
       }
     },
     {
-      "story_id": "story_b5de8a57ec0d",
-      "title": "百度千帆Coding Plan停止套餐续费，7月将升级推Token Plan按量计费产品",
-      "url": "https://www.aibase.com/news/29205",
-      "primary_url": "https://www.aibase.com/news/29205",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_5a8665b1ad52",
+      "title": "美国允许 Anthropic 向“值得信赖”的美国组织发布 Mythos AI / U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "url": "https://news.ycombinator.com/item?id=48692995",
+      "primary_url": "https://news.ycombinator.com/item?id=48692995",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "5c26f4020a2e647bb8dec5c8bee3d7351f71fefd",
-          "title": "百度千帆Coding Plan停止套餐续费，7月将升级推Token Plan按量计费产品",
-          "url": "https://www.aibase.com/news/29205",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T10:51:21.158421Z"
+          "id": "23221ff3f5390bcb0e6335610feb70bb2052a88e",
+          "title": "美国允许 Anthropic 向“值得信赖”的美国组织发布 Mythos AI / U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+          "url": "https://news.ycombinator.com/item?id=48692995",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-27T04:10:45.734000Z"
+        },
+        {
+          "id": "ae34e7a043b078cc7a561ff50d3ed17b617b23e5",
+          "title": "美国允许 Anthropic 将 Mythos 发布给“值得信赖的合作伙伴” / US allows Anthropic to release Mythos to 'trusted partners'",
+          "url": "https://news.ycombinator.com/item?id=48692995",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-27T00:08:02.534000Z"
+        },
+        {
+          "id": "6a701187d56861ab5100c26279c3f03d91efb511",
+          "title": "美国允许Anthropic向“可信合作伙伴”发布Mythos",
+          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T23:55:57.851000Z"
+        },
+        {
+          "id": "c28716b9f2da3d92791681425fbe5ce9f748b641",
+          "title": "美国允许Anthropic向“可信合作伙伴”发布Mythos / US allows Anthropic to release Mythos to 'trusted partners'",
+          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-26T22:48:28Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 4,
       "source_names": [
-        "AIbase"
+        "Hacker News",
+        "hackernews",
+        "www.reuters.com"
       ],
       "items": [
         {
-          "id": "5c26f4020a2e647bb8dec5c8bee3d7351f71fefd",
-          "title": "百度千帆Coding Plan停止套餐续费，7月将升级推Token Plan按量计费产品",
-          "url": "https://www.aibase.com/news/29205",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T10:51:21.158421Z"
+          "id": "23221ff3f5390bcb0e6335610feb70bb2052a88e",
+          "title": "美国允许 Anthropic 向“值得信赖”的美国组织发布 Mythos AI / U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+          "url": "https://news.ycombinator.com/item?id=48692995",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-27T04:10:45.734000Z"
+        },
+        {
+          "id": "ae34e7a043b078cc7a561ff50d3ed17b617b23e5",
+          "title": "美国允许 Anthropic 将 Mythos 发布给“值得信赖的合作伙伴” / US allows Anthropic to release Mythos to 'trusted partners'",
+          "url": "https://news.ycombinator.com/item?id=48692995",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-27T00:08:02.534000Z"
+        },
+        {
+          "id": "6a701187d56861ab5100c26279c3f03d91efb511",
+          "title": "美国允许Anthropic向“可信合作伙伴”发布Mythos",
+          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T23:55:57.851000Z"
+        },
+        {
+          "id": "c28716b9f2da3d92791681425fbe5ce9f748b641",
+          "title": "美国允许Anthropic向“可信合作伙伴”发布Mythos / US allows Anthropic to release Mythos to 'trusted partners'",
+          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-26T22:48:28Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7206,
-      "importance": 0.7206,
-      "importance_score": 0.7206,
-      "importance_label": "行业动态",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.581,
+      "importance": 0.581,
+      "importance_score": 0.581,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7388,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9175,
+        "story_heat": 0.75
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-06-26T10:51:21.158421Z",
-      "latest_at": "2026-06-26T10:51:21.158421Z",
+      "earliest_at": "2026-06-26T22:48:28Z",
+      "latest_at": "2026-06-27T04:10:45.734000Z",
       "primary_item": {
-        "id": "5c26f4020a2e647bb8dec5c8bee3d7351f71fefd",
-        "title": "百度千帆Coding Plan停止套餐续费，7月将升级推Token Plan按量计费产品",
-        "url": "https://www.aibase.com/news/29205",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "23221ff3f5390bcb0e6335610feb70bb2052a88e",
+        "title": "美国允许 Anthropic 向“值得信赖”的美国组织发布 Mythos AI / U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+        "url": "https://news.ycombinator.com/item?id=48692995",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "不少人用AI处理长程任务会遇到AI擅自扩大需求、虚报任务完成、流程无从追溯等失控问题。老金的开源框架Meta_Kim搭建了一个完整可控的治理闭环，专为Claude Code、Codex等编码工具设计。整套流程从拆解模糊需求、分步收集信息、全局检索可用工具能力，到操作闸门管控、关键节点交由人工决策、多层流程复核、实机结果校验，最后依托图谱与向量记忆沉淀复用经验。无代码基础也能上手，快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-06-26",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "fe471d3173f01a9ce4c2eff5e408707c7ea815e7",
+          "title": "不少人用AI处理长程任务会遇到AI擅自扩大需求、虚报任务完成、流程无从追溯等失控问题。老金的开源框架Meta_Kim搭建了一个完整可控的治理闭环，专为Claude Code、Codex等编码工具设计。整套流程从拆解模糊需求、分步收集信息、全局检索可用工具能力，到操作闸门管控、关键节点交由人工决策、多层流程复核、实机结果校验，最后依托图谱与向量记忆沉淀复用经验。无代码基础也能上手，快来试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-06-26",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-06-27T04:34:24.868194Z"
+        },
+        {
+          "id": "4e57b30130778942cf80ec708199dba20d519acc",
+          "title": "绝大多数开发者只把Claude Code当作简单编程工具，给出指令就直接采纳输出结果，白白浪费绝大多数核心能力。文中整理了27个实操方法，按入门、进阶、高阶分层拆解，能够大幅提高代码开发、项目改造的整体产出效率。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-06-26",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-06-27T04:34:24.868194Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "社区更新 · 2026-06-26"
+      ],
+      "items": [
+        {
+          "id": "fe471d3173f01a9ce4c2eff5e408707c7ea815e7",
+          "title": "不少人用AI处理长程任务会遇到AI擅自扩大需求、虚报任务完成、流程无从追溯等失控问题。老金的开源框架Meta_Kim搭建了一个完整可控的治理闭环，专为Claude Code、Codex等编码工具设计。整套流程从拆解模糊需求、分步收集信息、全局检索可用工具能力，到操作闸门管控、关键节点交由人工决策、多层流程复核、实机结果校验，最后依托图谱与向量记忆沉淀复用经验。无代码基础也能上手，快来试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-06-26",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-06-27T04:34:24.868194Z"
+        },
+        {
+          "id": "4e57b30130778942cf80ec708199dba20d519acc",
+          "title": "绝大多数开发者只把Claude Code当作简单编程工具，给出指令就直接采纳输出结果，白白浪费绝大多数核心能力。文中整理了27个实操方法，按入门、进阶、高阶分层拆解，能够大幅提高代码开发、项目改造的整体产出效率。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-06-26",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-06-27T04:34:24.868194Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5803,
+      "importance": 0.5803,
+      "importance_score": 0.5803,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9228,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T04:34:24.868194Z",
+      "latest_at": "2026-06-27T04:34:24.868194Z",
+      "primary_item": {
+        "id": "fe471d3173f01a9ce4c2eff5e408707c7ea815e7",
+        "title": "不少人用AI处理长程任务会遇到AI擅自扩大需求、虚报任务完成、流程无从追溯等失控问题。老金的开源框架Meta_Kim搭建了一个完整可控的治理闭环，专为Claude Code、Codex等编码工具设计。整套流程从拆解模糊需求、分步收集信息、全局检索可用工具能力，到操作闸门管控、关键节点交由人工决策、多层流程复核、实机结果校验，最后依托图谱与向量记忆沉淀复用经验。无代码基础也能上手，快来试试！",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-06-26",
+        "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_7bd447334a41",
+      "title": "开源大型语言模型（LLM）与闭源大型语言模型（LLM）之间的差距",
+      "url": "https://blog.doubleword.ai/frontier-os-llm",
+      "primary_url": "https://blog.doubleword.ai/frontier-os-llm",
+      "source": "blog.doubleword.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c0cea761cd223ced74db626a74d58a583d591be7",
+          "title": "开源大型语言模型（LLM）与闭源大型语言模型（LLM）之间的差距",
+          "url": "https://blog.doubleword.ai/frontier-os-llm",
+          "source": "blog.doubleword.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T00:43:50.307000Z"
+        },
+        {
+          "id": "de5f49ef44e5d186d8d35e7331728e0c607fc613",
+          "title": "开放式权重法学硕士和闭源法学硕士之间的差距 / The gap between open weights LLMs and closed source LLMs",
+          "url": "https://news.ycombinator.com/item?id=48692058",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-26T22:32:40.959000Z"
+        },
+        {
+          "id": "b1788f2ecbe2b1dbab7bc0c1463fb432e57a8491",
+          "title": "开源大型语言模型（LLM）与闭源大型语言模型（LLM）之间的差距 / The gap between open weights LLMs and closed source LLMs",
+          "url": "https://blog.doubleword.ai/frontier-os-llm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T21:14:47Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "blog.doubleword.ai",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c0cea761cd223ced74db626a74d58a583d591be7",
+          "title": "开源大型语言模型（LLM）与闭源大型语言模型（LLM）之间的差距",
+          "url": "https://blog.doubleword.ai/frontier-os-llm",
+          "source": "blog.doubleword.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T00:43:50.307000Z"
+        },
+        {
+          "id": "de5f49ef44e5d186d8d35e7331728e0c607fc613",
+          "title": "开放式权重法学硕士和闭源法学硕士之间的差距 / The gap between open weights LLMs and closed source LLMs",
+          "url": "https://news.ycombinator.com/item?id=48692058",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-26T22:32:40.959000Z"
+        },
+        {
+          "id": "b1788f2ecbe2b1dbab7bc0c1463fb432e57a8491",
+          "title": "开源大型语言模型（LLM）与闭源大型语言模型（LLM）之间的差距 / The gap between open weights LLMs and closed source LLMs",
+          "url": "https://blog.doubleword.ai/frontier-os-llm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T21:14:47Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5479,
+      "importance": 0.5479,
+      "importance_score": 0.5479,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8729,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T21:14:47Z",
+      "latest_at": "2026-06-27T00:43:50.307000Z",
+      "primary_item": {
+        "id": "c0cea761cd223ced74db626a74d58a583d591be7",
+        "title": "开源大型语言模型（LLM）与闭源大型语言模型（LLM）之间的差距",
+        "url": "https://blog.doubleword.ai/frontier-os-llm",
+        "source": "blog.doubleword.ai",
+        "source_name": "Buzzing"
       }
     }
   ]
