@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-06-30T11:30:35.451495Z",
+  "generated_at": "2026-06-30T14:18:35.360788Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_3f0a56fa7011",
+      "title": "在拥抱脸部模型页面上展示所有评估结果 / Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "url": "https://huggingface.co/blog/eee-community-evals",
+      "primary_url": "https://huggingface.co/blog/eee-community-evals",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "34bb09bd52903a24212fb51c3ae5dad0e16d5bcd",
+          "title": "在拥抱脸部模型页面上展示所有评估结果 / Featuring Every Eval Ever Results on Hugging Face Model Pages",
+          "url": "https://huggingface.co/blog/eee-community-evals",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "34bb09bd52903a24212fb51c3ae5dad0e16d5bcd",
+          "title": "在拥抱脸部模型页面上展示所有评估结果 / Featuring Every Eval Ever Results on Hugging Face Model Pages",
+          "url": "https://huggingface.co/blog/eee-community-evals",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8324,
+      "importance": 0.8324,
+      "importance_score": 0.8324,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8133,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T00:00:00Z",
+      "latest_at": "2026-06-30T00:00:00Z",
+      "primary_item": {
+        "id": "34bb09bd52903a24212fb51c3ae5dad0e16d5bcd",
+        "title": "在拥抱脸部模型页面上展示所有评估结果 / Featuring Every Eval Ever Results on Hugging Face Model Pages",
+        "url": "https://huggingface.co/blog/eee-community-evals",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_6e98bdfa6975",
       "title": "开启英国的下一个生产力时代：建设一个人工智能开拓者的国家 / Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
@@ -38,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8302,
-      "importance": 0.8302,
-      "importance_score": 0.8302,
+      "score": 0.8236,
+      "importance": 0.8236,
+      "importance_score": 0.8236,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9235,
+        "recency": 0.8869,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,68 +124,6 @@
         "title": "开启英国的下一个生产力时代：建设一个人工智能开拓者的国家 / Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
         "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
         "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_91d16542fa1f",
-      "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
-      "url": "https://huggingface.co/blog/allenai/discoformer",
-      "primary_url": "https://huggingface.co/blog/allenai/discoformer",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "058dae0d0e9fd68dc2b367b54b66b0884bf0e54e",
-          "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
-          "url": "https://huggingface.co/blog/allenai/discoformer",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-29T18:02:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "058dae0d0e9fd68dc2b367b54b66b0884bf0e54e",
-          "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
-          "url": "https://huggingface.co/blog/allenai/discoformer",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-29T18:02:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8279,
-      "importance": 0.8279,
-      "importance_score": 0.8279,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7771,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-29T18:02:48Z",
-      "latest_at": "2026-06-29T18:02:48Z",
-      "primary_item": {
-        "id": "058dae0d0e9fd68dc2b367b54b66b0884bf0e54e",
-        "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
-        "url": "https://huggingface.co/blog/allenai/discoformer",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
+      "score": 0.8119,
+      "importance": 0.8119,
+      "importance_score": 0.8119,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7631,
+        "recency": 0.7329,
         "story_heat": 0.0
       },
       "category": "official",
@@ -187,6 +187,149 @@
         "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_91d16542fa1f",
+      "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
+      "url": "https://huggingface.co/blog/allenai/discoformer",
+      "primary_url": "https://huggingface.co/blog/allenai/discoformer",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "058dae0d0e9fd68dc2b367b54b66b0884bf0e54e",
+          "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
+          "url": "https://huggingface.co/blog/allenai/discoformer",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-29T18:02:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "058dae0d0e9fd68dc2b367b54b66b0884bf0e54e",
+          "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
+          "url": "https://huggingface.co/blog/allenai/discoformer",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-29T18:02:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8223,
+      "importance": 0.8223,
+      "importance_score": 0.8223,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.7463,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T18:02:48Z",
+      "latest_at": "2026-06-29T18:02:48Z",
+      "primary_item": {
+        "id": "058dae0d0e9fd68dc2b367b54b66b0884bf0e54e",
+        "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
+        "url": "https://huggingface.co/blog/allenai/discoformer",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_42e26984ee68",
+      "title": "Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示",
+      "url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts",
+      "primary_url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9be482f343df6de8317876b5e8bbadef6d50533a",
+          "title": "Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示",
+          "url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T11:14:52Z"
+        },
+        {
+          "id": "7ed729c25f314fccca6bd0316f07511b202b3f2d",
+          "title": "Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示 / Meta secretly tested ChatGPT, Gemini, and Character.AI with thousands of minor-perspective crisis prompts",
+          "url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-06-30T11:14:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9be482f343df6de8317876b5e8bbadef6d50533a",
+          "title": "Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示",
+          "url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T11:14:52Z"
+        },
+        {
+          "id": "7ed729c25f314fccca6bd0316f07511b202b3f2d",
+          "title": "Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示 / Meta secretly tested ChatGPT, Gemini, and Character.AI with thousands of minor-perspective crisis prompts",
+          "url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-06-30T11:14:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9567,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T11:14:52Z",
+      "latest_at": "2026-06-30T11:14:52Z",
+      "primary_item": {
+        "id": "9be482f343df6de8317876b5e8bbadef6d50533a",
+        "title": "Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示",
+        "url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -243,15 +386,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
+      "score": 0.7708,
+      "importance": 0.7708,
+      "importance_score": 0.7708,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9498,
+        "recency": 0.9122,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -305,15 +448,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7747,
-      "importance": 0.7747,
-      "importance_score": 0.7747,
+      "score": 0.7683,
+      "importance": 0.7683,
+      "importance_score": 0.7683,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8894,
+        "recency": 0.8541,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -385,15 +528,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7711,
-      "importance": 0.7711,
-      "importance_score": 0.7711,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8974,
+        "recency": 0.8619,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -447,15 +590,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
+      "score": 0.7947,
+      "importance": 0.7947,
+      "importance_score": 0.7947,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.756,
+        "recency": 0.726,
         "story_heat": 0.0
       },
       "category": "official",
@@ -509,15 +652,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
+      "score": 0.7944,
+      "importance": 0.7944,
+      "importance_score": 0.7944,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7545,
+        "recency": 0.7246,
         "story_heat": 0.0
       },
       "category": "official",
@@ -571,15 +714,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9604,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -651,15 +794,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7772,
+        "recency": 0.7464,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -713,15 +856,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.906,
+        "recency": 0.8701,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -774,21 +917,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8123,
+        "recency": 0.7801,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-29T21:06:43Z",
       "latest_at": "2026-06-29T21:06:43Z",
@@ -797,87 +939,6 @@
         "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
         "url": "https://x.com/EMostaque/status/2071701921241448574",
         "source": "X：Emad Mostaque (@EMostaque)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d42ae9023142",
-      "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标",
-      "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
-      "primary_url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fad7c538efec2c1703451e6dd99da76b621cb2ef",
-          "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标",
-          "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T12:30:21Z"
-        },
-        {
-          "id": "c02f35f588baf81cbaa1e47dc362b61ff44b7e94",
-          "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标 / The US military used AI to pick thousands of targets but missed a note saying one was a school",
-          "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-29T12:30:21Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "fad7c538efec2c1703451e6dd99da76b621cb2ef",
-          "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标",
-          "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T12:30:21Z"
-        },
-        {
-          "id": "c02f35f588baf81cbaa1e47dc362b61ff44b7e94",
-          "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标 / The US military used AI to pick thousands of targets but missed a note saying one was a school",
-          "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-29T12:30:21Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7174,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-29T12:30:21Z",
-      "latest_at": "2026-06-29T12:30:21Z",
-      "primary_item": {
-        "id": "fad7c538efec2c1703451e6dd99da76b621cb2ef",
-        "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标",
-        "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
-        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -916,15 +977,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8111,
+        "recency": 0.779,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -976,15 +1037,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
+      "score": 0.77,
+      "importance": 0.77,
+      "importance_score": 0.77,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9336,
+        "recency": 0.8966,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -999,66 +1060,6 @@
         "title": "特斯拉Cybercab量产版在奥斯汀启动公开道路工程测试",
         "url": "https://www.ithome.com/0/970/539.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c959d9eaf186",
-      "title": "美团 LongCat 发布旗舰模型 LongCat-2.0",
-      "url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
-      "primary_url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
-      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6f98f3207c3e72cb8b71295221229c87a0588279",
-          "title": "美团 LongCat 发布旗舰模型 LongCat-2.0",
-          "url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
-          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T05:42:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
-      ],
-      "items": [
-        {
-          "id": "6f98f3207c3e72cb8b71295221229c87a0588279",
-          "title": "美团 LongCat 发布旗舰模型 LongCat-2.0",
-          "url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
-          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T05:42:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9197,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T05:42:42Z",
-      "latest_at": "2026-06-30T05:42:42Z",
-      "primary_item": {
-        "id": "6f98f3207c3e72cb8b71295221229c87a0588279",
-        "title": "美团 LongCat 发布旗舰模型 LongCat-2.0",
-        "url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
-        "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
         "source_name": "AI HOT"
       }
     },
@@ -1097,15 +1098,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
+      "score": 0.7318,
+      "importance": 0.7318,
+      "importance_score": 0.7318,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.869,
+        "recency": 0.8345,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1123,123 +1124,62 @@
       }
     },
     {
-      "story_id": "story_dca46b3f7e38",
-      "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
-      "url": "https://www.aibase.com/news/29275",
-      "primary_url": "https://www.aibase.com/news/29275",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "071b6730da5faa086481bbae84e3bdf84b4625cd",
-          "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
-          "url": "https://www.aibase.com/news/29275",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T11:30:35.451495Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "071b6730da5faa086481bbae84e3bdf84b4625cd",
-          "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
-          "url": "https://www.aibase.com/news/29275",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T11:30:35.451495Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T11:30:35.451495Z",
-      "latest_at": "2026-06-30T11:30:35.451495Z",
-      "primary_item": {
-        "id": "071b6730da5faa086481bbae84e3bdf84b4625cd",
-        "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
-        "url": "https://www.aibase.com/news/29275",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_35b256e2c054",
-      "title": "Meta发布Brain2Qwerty v2：非侵入式实时句子解码",
-      "url": "https://x.com/AIatMeta/status/2071566924803395741",
-      "primary_url": "https://x.com/AIatMeta/status/2071566924803395741",
-      "source": "X：AI at Meta (@AIatMeta)",
+      "story_id": "story_c959d9eaf186",
+      "title": "美团 LongCat 发布旗舰模型 LongCat-2.0",
+      "url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
+      "primary_url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
+      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "0977ad593b87c42372d7b59625097aadbd15d4e2",
-          "title": "Meta发布Brain2Qwerty v2：非侵入式实时句子解码",
-          "url": "https://x.com/AIatMeta/status/2071566924803395741",
-          "source": "X：AI at Meta (@AIatMeta)",
+          "id": "6f98f3207c3e72cb8b71295221229c87a0588279",
+          "title": "美团 LongCat 发布旗舰模型 LongCat-2.0",
+          "url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
+          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-29T12:10:17Z"
+          "published_at": "2026-06-30T05:42:42Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：AI at Meta (@AIatMeta)"
+        "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
       ],
       "items": [
         {
-          "id": "0977ad593b87c42372d7b59625097aadbd15d4e2",
-          "title": "Meta发布Brain2Qwerty v2：非侵入式实时句子解码",
-          "url": "https://x.com/AIatMeta/status/2071566924803395741",
-          "source": "X：AI at Meta (@AIatMeta)",
+          "id": "6f98f3207c3e72cb8b71295221229c87a0588279",
+          "title": "美团 LongCat 发布旗舰模型 LongCat-2.0",
+          "url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
+          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-29T12:10:17Z"
+          "published_at": "2026-06-30T05:42:42Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
+      "score": 0.7316,
+      "importance": 0.7316,
+      "importance_score": 0.7316,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.79,
+        "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7139,
+        "recency": 0.8832,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-29T12:10:17Z",
-      "latest_at": "2026-06-29T12:10:17Z",
+      "earliest_at": "2026-06-30T05:42:42Z",
+      "latest_at": "2026-06-30T05:42:42Z",
       "primary_item": {
-        "id": "0977ad593b87c42372d7b59625097aadbd15d4e2",
-        "title": "Meta发布Brain2Qwerty v2：非侵入式实时句子解码",
-        "url": "https://x.com/AIatMeta/status/2071566924803395741",
-        "source": "X：AI at Meta (@AIatMeta)",
+        "id": "6f98f3207c3e72cb8b71295221229c87a0588279",
+        "title": "美团 LongCat 发布旗舰模型 LongCat-2.0",
+        "url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
+        "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
         "source_name": "AI HOT"
       }
     },
@@ -1278,15 +1218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7366,
-      "importance": 0.7366,
-      "importance_score": 0.7366,
+      "score": 0.7313,
+      "importance": 0.7313,
+      "importance_score": 0.7313,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7444,
+        "recency": 0.7149,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1301,6 +1241,67 @@
         "url": "https://x.com/berryxia/status/2071610700213191075",
         "source": "X：Berry Xia (@berryxia)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_dca46b3f7e38",
+      "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
+      "url": "https://www.aibase.com/news/29275",
+      "primary_url": "https://www.aibase.com/news/29275",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "071b6730da5faa086481bbae84e3bdf84b4625cd",
+          "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
+          "url": "https://www.aibase.com/news/29275",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-30T11:30:35.451495Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "071b6730da5faa086481bbae84e3bdf84b4625cd",
+          "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
+          "url": "https://www.aibase.com/news/29275",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-30T11:30:35.451495Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9604,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T11:30:35.451495Z",
+      "latest_at": "2026-06-30T11:30:35.451495Z",
+      "primary_item": {
+        "id": "071b6730da5faa086481bbae84e3bdf84b4625cd",
+        "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
+        "url": "https://www.aibase.com/news/29275",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
