@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T18:57:52.651732Z",
+  "generated_at": "2026-07-02T20:24:58.302714Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8365,
-      "importance": 0.8365,
-      "importance_score": 0.8365,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9583,
+        "recency": 0.9384,
         "story_heat": 0.0
       },
       "category": "official",
@@ -157,15 +157,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8202,
-      "importance": 0.8202,
-      "importance_score": 0.8202,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8922,
+        "recency": 0.8737,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -185,85 +185,84 @@
       }
     },
     {
-      "story_id": "story_f7b1eaa8826e",
-      "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布 / Kimi K2.7 Code is generally available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_d46c588e8d7f",
+      "title": "Microsoft 成立\"Frontier Company\"，斥资 25 亿美元派驻 6000 名 AI 工程师到企业客户现场",
+      "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients",
+      "primary_url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ce134d31709dd941228b78e2331571b6b09f6d4e",
-          "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布 / Kimi K2.7 Code is generally available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T19:00:21Z"
-        },
-        {
-          "id": "c1ba6c397a5e2969ce5d11a3991cd7ec6392422c",
-          "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
-          "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "bb3062360d49680e1f57b481b93ffc72aa2be102",
+          "title": "Microsoft 成立\"Frontier Company\"，斥资 25 亿美元派驻 6000 名 AI 工程师到企业客户现场",
+          "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-02T08:24:53.347000Z"
+          "published_at": "2026-07-02T19:18:29Z"
+        },
+        {
+          "id": "f15b56663bd406c0676ed9ed8ece4f5fd4415998",
+          "title": "Microsoft 成立\"Frontier Company\"，斥资 25 亿美元派驻 6000 名 AI 工程师到企业客户现场 / Microsoft launches $2.5 billion \"Frontier Company\" to embed 6,000 AI engineers inside enterprise clients",
+          "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-02T19:18:29Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "GitHub Changelog",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "ce134d31709dd941228b78e2331571b6b09f6d4e",
-          "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布 / Kimi K2.7 Code is generally available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T19:00:21Z"
-        },
-        {
-          "id": "c1ba6c397a5e2969ce5d11a3991cd7ec6392422c",
-          "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
-          "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "bb3062360d49680e1f57b481b93ffc72aa2be102",
+          "title": "Microsoft 成立\"Frontier Company\"，斥资 25 亿美元派驻 6000 名 AI 工程师到企业客户现场",
+          "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-02T08:24:53.347000Z"
+          "published_at": "2026-07-02T19:18:29Z"
+        },
+        {
+          "id": "f15b56663bd406c0676ed9ed8ece4f5fd4415998",
+          "title": "Microsoft 成立\"Frontier Company\"，斥资 25 亿美元派驻 6000 名 AI 工程师到企业客户现场 / Microsoft launches $2.5 billion \"Frontier Company\" to embed 6,000 AI engineers inside enterprise clients",
+          "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-02T19:18:29Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8244,
-      "importance": 0.8244,
-      "importance_score": 0.8244,
-      "importance_label": "官方更新",
+      "score": 0.8077,
+      "importance": 0.8077,
+      "importance_score": 0.8077,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7075,
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9841,
         "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-01T19:00:21Z",
-      "latest_at": "2026-07-02T08:24:53.347000Z",
+      "earliest_at": "2026-07-02T19:18:29Z",
+      "latest_at": "2026-07-02T19:18:29Z",
       "primary_item": {
-        "id": "ce134d31709dd941228b78e2331571b6b09f6d4e",
-        "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布 / Kimi K2.7 Code is generally available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "bb3062360d49680e1f57b481b93ffc72aa2be102",
+        "title": "Microsoft 成立\"Frontier Company\"，斥资 25 亿美元派驻 6000 名 AI 工程师到企业客户现场",
+        "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -339,15 +338,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7927,
-      "importance": 0.7927,
-      "importance_score": 0.7927,
+      "score": 0.7893,
+      "importance": 0.7893,
+      "importance_score": 0.7893,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8948,
+        "recency": 0.8762,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -364,6 +363,68 @@
         "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025",
         "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_155ea32414b0",
+      "title": "问题字段现已普遍可用 / Issue fields are now generally available",
+      "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
+          "title": "问题字段现已普遍可用 / Issue fields are now generally available",
+          "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T08:17:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
+          "title": "问题字段现已普遍可用 / Issue fields are now generally available",
+          "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T08:17:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8151,
+      "importance": 0.8151,
+      "importance_score": 0.8151,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8393,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T08:17:17Z",
+      "latest_at": "2026-07-02T08:17:17Z",
+      "primary_item": {
+        "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
+        "title": "问题字段现已普遍可用 / Issue fields are now generally available",
+        "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -420,15 +481,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7871,
-      "importance": 0.7871,
-      "importance_score": 0.7871,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9359,
+        "recency": 0.9165,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -444,87 +505,6 @@
         "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
         "url": "https://www.ithome.com/0/971/937.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f1d85e98cefe",
-      "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
-      "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
-      "primary_url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "956ddad026f9f13f6d9598266fd1c7acbba9650d",
-          "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
-          "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T12:37:49Z"
-        },
-        {
-          "id": "d36af898783e57a7259812a1fe033f73ee9817f7",
-          "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍 / AI agents can now complete 16 percent of freelance jobs at pro quality, up from 2.5 percent eight months ago",
-          "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-02T12:37:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "956ddad026f9f13f6d9598266fd1c7acbba9650d",
-          "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
-          "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T12:37:49Z"
-        },
-        {
-          "id": "d36af898783e57a7259812a1fe033f73ee9817f7",
-          "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍 / AI agents can now complete 16 percent of freelance jobs at pro quality, up from 2.5 percent eight months ago",
-          "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-02T12:37:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7739,
-      "importance": 0.7739,
-      "importance_score": 0.7739,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9126,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T12:37:49Z",
-      "latest_at": "2026-07-02T12:37:49Z",
-      "primary_item": {
-        "id": "956ddad026f9f13f6d9598266fd1c7acbba9650d",
-        "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
-        "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
-        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -582,15 +562,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7724,
-      "importance": 0.7724,
-      "importance_score": 0.7724,
+      "score": 0.7691,
+      "importance": 0.7691,
+      "importance_score": 0.7691,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8876,
+        "recency": 0.8692,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -644,15 +624,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7703,
-      "importance": 0.7703,
-      "importance_score": 0.7703,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8985,
+        "recency": 0.8798,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -705,15 +685,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
+      "score": 0.7665,
+      "importance": 0.7665,
+      "importance_score": 0.7665,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9638,
+        "recency": 0.9438,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -785,15 +765,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8633,
+        "recency": 0.8454,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -813,65 +793,103 @@
       }
     },
     {
-      "story_id": "story_155ea32414b0",
-      "title": "问题字段现已普遍可用 / Issue fields are now generally available",
-      "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_f7b1eaa8826e",
+      "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
-          "title": "问题字段现已普遍可用 / Issue fields are now generally available",
-          "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T08:17:17Z"
+          "id": "c1ba6c397a5e2969ce5d11a3991cd7ec6392422c",
+          "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
+          "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T08:24:53.347000Z"
+        },
+        {
+          "id": "bef2dae6e98e51bc824ae9bbdefb5e02e19cb0a3",
+          "title": "Kimi K2.7 代码已在 GitHub Copilot 中公开 / Kimi K2.7 Code is generally available in GitHub Copilot",
+          "url": "https://news.ycombinator.com/item?id=48756602",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-02T07:35:11.467000Z"
+        },
+        {
+          "id": "1cf0359dd35612aac91fcec4f42eea2d143a0f5b",
+          "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布 / Kimi K2.7 Code is generally available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-02T04:32:41Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "GitHub Changelog"
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
-          "title": "问题字段现已普遍可用 / Issue fields are now generally available",
-          "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T08:17:17Z"
+          "id": "c1ba6c397a5e2969ce5d11a3991cd7ec6392422c",
+          "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
+          "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T08:24:53.347000Z"
+        },
+        {
+          "id": "bef2dae6e98e51bc824ae9bbdefb5e02e19cb0a3",
+          "title": "Kimi K2.7 代码已在 GitHub Copilot 中公开 / Kimi K2.7 Code is generally available in GitHub Copilot",
+          "url": "https://news.ycombinator.com/item?id=48756602",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-02T07:35:11.467000Z"
+        },
+        {
+          "id": "1cf0359dd35612aac91fcec4f42eea2d143a0f5b",
+          "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布 / Kimi K2.7 Code is generally available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-02T04:32:41Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8183,
-      "importance": 0.8183,
-      "importance_score": 0.8183,
-      "importance_label": "官方更新",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.786,
+      "importance": 0.786,
+      "importance_score": 0.786,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8571,
-        "story_heat": 0.0
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8409,
+        "story_heat": 0.5
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-02T08:17:17Z",
-      "latest_at": "2026-07-02T08:17:17Z",
+      "earliest_at": "2026-07-02T04:32:41Z",
+      "latest_at": "2026-07-02T08:24:53.347000Z",
       "primary_item": {
-        "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
-        "title": "问题字段现已普遍可用 / Issue fields are now generally available",
-        "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "c1ba6c397a5e2969ce5d11a3991cd7ec6392422c",
+        "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
+        "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -909,21 +927,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
+      "score": 0.7489,
+      "importance": 0.7489,
+      "importance_score": 0.7489,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.983,
+        "recency": 0.9626,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-02T17:46:31Z",
       "latest_at": "2026-07-02T17:46:31Z",
@@ -970,15 +987,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8493,
+        "recency": 0.8317,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -993,6 +1010,149 @@
         "url": "https://x.com/testingcatalog/status/2072585845542969583",
         "source": "X：Testing Catalog (@testingcatalog)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f1d85e98cefe",
+      "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
+      "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
+      "primary_url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "956ddad026f9f13f6d9598266fd1c7acbba9650d",
+          "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
+          "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T12:37:49Z"
+        },
+        {
+          "id": "d36af898783e57a7259812a1fe033f73ee9817f7",
+          "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍 / AI agents can now complete 16 percent of freelance jobs at pro quality, up from 2.5 percent eight months ago",
+          "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-02T12:37:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "956ddad026f9f13f6d9598266fd1c7acbba9650d",
+          "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
+          "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T12:37:49Z"
+        },
+        {
+          "id": "d36af898783e57a7259812a1fe033f73ee9817f7",
+          "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍 / AI agents can now complete 16 percent of freelance jobs at pro quality, up from 2.5 percent eight months ago",
+          "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-02T12:37:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7705,
+      "importance": 0.7705,
+      "importance_score": 0.7705,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8937,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T12:37:49Z",
+      "latest_at": "2026-07-02T12:37:49Z",
+      "primary_item": {
+        "id": "956ddad026f9f13f6d9598266fd1c7acbba9650d",
+        "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
+        "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0818b7e36264",
+      "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
+      "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
+      "primary_url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
+          "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
+          "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T20:32:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
+          "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
+          "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T20:32:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7995,
+      "importance": 0.7995,
+      "importance_score": 0.7995,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7085,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T20:32:52Z",
+      "latest_at": "2026-07-01T20:32:52Z",
+      "primary_item": {
+        "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
+        "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
+        "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1049,15 +1209,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8483,
+        "recency": 0.8307,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1111,15 +1271,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7323,
-      "importance": 0.7323,
-      "importance_score": 0.7323,
+      "score": 0.7286,
+      "importance": 0.7286,
+      "importance_score": 0.7286,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.987,
+        "recency": 0.9665,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1171,15 +1331,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9527,
+        "recency": 0.933,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1232,15 +1392,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7245,
-      "importance": 0.7245,
-      "importance_score": 0.7245,
+      "score": 0.7216,
+      "importance": 0.7216,
+      "importance_score": 0.7216,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7604,
+        "recency": 0.7447,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1311,15 +1471,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7192,
-      "importance": 0.7192,
-      "importance_score": 0.7192,
+      "score": 0.7165,
+      "importance": 0.7165,
+      "importance_score": 0.7165,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7257,
+        "recency": 0.7106,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1334,128 +1494,6 @@
         "title": "Claude Code v2.1.198 发布",
         "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
         "source": "Claude Code：GitHub Releases（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0818b7e36264",
-      "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
-      "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
-      "primary_url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
-          "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
-          "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T20:32:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
-          "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
-          "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T20:32:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7235,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-01T20:32:52Z",
-      "latest_at": "2026-07-01T20:32:52Z",
-      "primary_item": {
-        "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
-        "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
-        "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d8f3653ac051",
-      "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
-      "url": "https://x.com/shao__meng/status/2072484635955900792",
-      "primary_url": "https://x.com/shao__meng/status/2072484635955900792",
-      "source": "X：邵猛 (@shao__meng)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "be89553067b21e59ee095ac130c583c9121efbfc",
-          "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
-          "url": "https://x.com/shao__meng/status/2072484635955900792",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T00:56:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：邵猛 (@shao__meng)"
-      ],
-      "items": [
-        {
-          "id": "be89553067b21e59ee095ac130c583c9121efbfc",
-          "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
-          "url": "https://x.com/shao__meng/status/2072484635955900792",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T00:56:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7709,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T00:56:56Z",
-      "latest_at": "2026-07-02T00:56:56Z",
-      "primary_item": {
-        "id": "be89553067b21e59ee095ac130c583c9121efbfc",
-        "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
-        "url": "https://x.com/shao__meng/status/2072484635955900792",
-        "source": "X：邵猛 (@shao__meng)",
         "source_name": "AI HOT"
       }
     }
