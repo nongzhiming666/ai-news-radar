@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T16:32:02.389513Z",
+  "generated_at": "2026-07-04T18:02:59.863752Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7774,
-      "importance": 0.7774,
-      "importance_score": 0.7774,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8988,
+        "recency": 0.8793,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7362,
+        "recency": 0.7203,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -180,15 +180,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7427,
+      "importance": 0.7427,
+      "importance_score": 0.7427,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8468,
+        "recency": 0.8284,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -240,15 +240,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
+      "score": 0.7341,
+      "importance": 0.7341,
+      "importance_score": 0.7341,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8657,
+        "recency": 0.8469,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -266,176 +266,134 @@
       }
     },
     {
-      "story_id": "story_d40e693ededc",
-      "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
-      "url": "https://simonwillison.net/2026/Jul/3/judgement",
-      "primary_url": "https://simonwillison.net/2026/Jul/3/judgement",
-      "source": "Simon Willison 博客",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ed848986e585947c1feec14d1c7f627308f4b9f9",
-          "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
-          "url": "https://simonwillison.net/2026/Jul/3/judgement",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T18:51:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Simon Willison 博客"
-      ],
-      "items": [
-        {
-          "id": "ed848986e585947c1feec14d1c7f627308f4b9f9",
-          "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
-          "url": "https://simonwillison.net/2026/Jul/3/judgement",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T18:51:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7222,
-      "importance": 0.7222,
-      "importance_score": 0.7222,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7312,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T18:51:06Z",
-      "latest_at": "2026-07-03T18:51:06Z",
-      "primary_item": {
-        "id": "ed848986e585947c1feec14d1c7f627308f4b9f9",
-        "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
-        "url": "https://simonwillison.net/2026/Jul/3/judgement",
-        "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
-      }
-    },
-    {
       "story_id": "story_2df82173bb28",
-      "title": "如果你也习惯让Claude Code、Codex等AI编程工具自动运行陌生的开源仓库，很可能会遭遇隐蔽供应链的攻击。老金给出一套可直接复用的十条安全防护准则，可以避免AI过度自动执行带来的泄密、篡改系统风险。",
+      "title": "大多数人每天都在使用ChatGPT和Claude，却完全不知道它们究竟是怎么构建出来的。只有一小部分人理解那个精确的流程：它如何把原始互联网文本变成一个能够写作、推理和编程的模型。一旦理解这个流程，你也能从零构建自己的 LLM。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-07-03",
+      "source": "社区更新 · 2026-07-04",
       "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "5d7f9264c7495b8f5875fd8aa25facfd1201ec78",
-          "title": "作者单人运营账号，两个月时间内拿到了抖音8k多粉丝，小红书2k粉丝的结果，总结了这套用codex做视频的方法论。创作者只需要输出核心观点与调整需求。Codex 搭建标准化复用工作流，Remotion 稳定渲染成片，就可以轻松保持高频更新节奏。",
+          "id": "5d25e3a0ace188415c68bded793360491bbade8b",
+          "title": "AI时代，Markdown已经成为AI的第一语言。但是各类Markdown工具要么收费、要么存在云端泄露数据等等问题。冷逸做了一个Markdown编辑器，开源免费，快来上手体验一下！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-03",
+          "source": "社区更新 · 2026-07-04",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-07-03T17:57:43.891060Z"
+          "published_at": "2026-07-04T18:02:59.863752Z"
         },
         {
-          "id": "7be30fc5004302e8d685fa42513f6dcf508bde9c",
-          "title": "如果你也习惯让Claude Code、Codex等AI编程工具自动运行陌生的开源仓库，很可能会遭遇隐蔽供应链的攻击。老金给出一套可直接复用的十条安全防护准则，可以避免AI过度自动执行带来的泄密、篡改系统风险。",
+          "id": "92f7d898593aeb16900a5965794d4c6bd90d29cd",
+          "title": "大多数人每天都在使用ChatGPT和Claude，却完全不知道它们究竟是怎么构建出来的。只有一小部分人理解那个精确的流程：它如何把原始互联网文本变成一个能够写作、推理和编程的模型。一旦理解这个流程，你也能从零构建自己的 LLM。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-03",
+          "source": "社区更新 · 2026-07-04",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-07-03T17:57:43.891060Z"
+          "published_at": "2026-07-04T18:02:59.863752Z"
         },
         {
-          "id": "3732ef9e062ca1ed59de9e1cbe68d7347b3591c8",
-          "title": "很多团队已经把 Cursor、Claude Code、原型工具接进日常工作，可真正卡人的地方常常不在模型参数。任务还是散落在邮件、日历、Slack、文件夹和脑子里，人还在手动搬数据、反复确认权限、盯着屏幕等 AI 跑完。Anthropic 工程负责人 Felix Rieseberg 在这期对话里就拆解了他们日常到底怎么用Claude处理这种协作问题的。",
+          "id": "3a4e7b68afc4186629044be627ef235af82ba5b7",
+          "title": "很多人最近的焦虑很具体：代码已经能让 Agent 写，图片已经能用模型生成，会议纪要、客服、搜索、调研都在被自动化。下一个被重写的，会不会就是自己的岗位？Richard Socher 在这期里给了一个很硬的判断：问题不能只看 AI 能不能做你的任务，还要看这个任务变便宜后，市场到底需要多少。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-03",
+          "source": "社区更新 · 2026-07-04",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-07-03T17:57:43.891060Z"
+          "published_at": "2026-07-04T18:02:59.863752Z"
         },
         {
-          "id": "59dca140a0ff479fc02a44a422749daf48fe29f3",
-          "title": "想靠Codex打造有个人表达、摆脱流水线AI质感的个人站点，作者这套实操思路或许可以对你有所帮助！文中整理了多类优质设计参考渠道与提取网页风格的工具，搭配一系列插件可以精准把控视觉调性。同时还给出了页面迭代、素材生成、画布对比修改的完整实操方案，附带标准化提示词模板，无需专业设计功底，也能清晰界定色彩、布局、动效与避坑要求，生成富有个人特色的网页。",
+          "id": "2740c4ee78a51f3a39014127a4eed4895fe3f5c7",
+          "title": "曾任职于OpenAI、Google等多家头部AI企业的作者结合大厂求职与创业经历，给出了智能体时代专属职业成长路线。文章中围绕稀缺资源投入、问题发掘、选择高难度赛道、打磨落地细节、平衡机会与转化、低成本入局研究六大维度分享了实操思路。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-03",
+          "source": "社区更新 · 2026-07-04",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-07-03T17:57:43.891060Z"
+          "published_at": "2026-07-04T18:02:59.863752Z"
+        },
+        {
+          "id": "0e78145e55abed8abe13fd3ed9da824db1c4f046",
+          "title": "未来硅世界第18期邀请到了前微软、字节资深工程师分享了很多可直接落地的独立开发经验。这次直播不仅给出Claude Code与Codex互补互审的高效工作流，还顺带分享了低成本 VPS 服务、高效信息筛选路线。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-04",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-04T18:02:59.863752Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "source_names": [
-        "社区更新 · 2026-07-03"
+        "社区更新 · 2026-07-04"
       ],
       "items": [
         {
-          "id": "5d7f9264c7495b8f5875fd8aa25facfd1201ec78",
-          "title": "作者单人运营账号，两个月时间内拿到了抖音8k多粉丝，小红书2k粉丝的结果，总结了这套用codex做视频的方法论。创作者只需要输出核心观点与调整需求。Codex 搭建标准化复用工作流，Remotion 稳定渲染成片，就可以轻松保持高频更新节奏。",
+          "id": "5d25e3a0ace188415c68bded793360491bbade8b",
+          "title": "AI时代，Markdown已经成为AI的第一语言。但是各类Markdown工具要么收费、要么存在云端泄露数据等等问题。冷逸做了一个Markdown编辑器，开源免费，快来上手体验一下！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-03",
+          "source": "社区更新 · 2026-07-04",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-07-03T17:57:43.891060Z"
+          "published_at": "2026-07-04T18:02:59.863752Z"
         },
         {
-          "id": "7be30fc5004302e8d685fa42513f6dcf508bde9c",
-          "title": "如果你也习惯让Claude Code、Codex等AI编程工具自动运行陌生的开源仓库，很可能会遭遇隐蔽供应链的攻击。老金给出一套可直接复用的十条安全防护准则，可以避免AI过度自动执行带来的泄密、篡改系统风险。",
+          "id": "92f7d898593aeb16900a5965794d4c6bd90d29cd",
+          "title": "大多数人每天都在使用ChatGPT和Claude，却完全不知道它们究竟是怎么构建出来的。只有一小部分人理解那个精确的流程：它如何把原始互联网文本变成一个能够写作、推理和编程的模型。一旦理解这个流程，你也能从零构建自己的 LLM。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-03",
+          "source": "社区更新 · 2026-07-04",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-07-03T17:57:43.891060Z"
+          "published_at": "2026-07-04T18:02:59.863752Z"
         },
         {
-          "id": "3732ef9e062ca1ed59de9e1cbe68d7347b3591c8",
-          "title": "很多团队已经把 Cursor、Claude Code、原型工具接进日常工作，可真正卡人的地方常常不在模型参数。任务还是散落在邮件、日历、Slack、文件夹和脑子里，人还在手动搬数据、反复确认权限、盯着屏幕等 AI 跑完。Anthropic 工程负责人 Felix Rieseberg 在这期对话里就拆解了他们日常到底怎么用Claude处理这种协作问题的。",
+          "id": "3a4e7b68afc4186629044be627ef235af82ba5b7",
+          "title": "很多人最近的焦虑很具体：代码已经能让 Agent 写，图片已经能用模型生成，会议纪要、客服、搜索、调研都在被自动化。下一个被重写的，会不会就是自己的岗位？Richard Socher 在这期里给了一个很硬的判断：问题不能只看 AI 能不能做你的任务，还要看这个任务变便宜后，市场到底需要多少。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-03",
+          "source": "社区更新 · 2026-07-04",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-07-03T17:57:43.891060Z"
+          "published_at": "2026-07-04T18:02:59.863752Z"
         },
         {
-          "id": "59dca140a0ff479fc02a44a422749daf48fe29f3",
-          "title": "想靠Codex打造有个人表达、摆脱流水线AI质感的个人站点，作者这套实操思路或许可以对你有所帮助！文中整理了多类优质设计参考渠道与提取网页风格的工具，搭配一系列插件可以精准把控视觉调性。同时还给出了页面迭代、素材生成、画布对比修改的完整实操方案，附带标准化提示词模板，无需专业设计功底，也能清晰界定色彩、布局、动效与避坑要求，生成富有个人特色的网页。",
+          "id": "2740c4ee78a51f3a39014127a4eed4895fe3f5c7",
+          "title": "曾任职于OpenAI、Google等多家头部AI企业的作者结合大厂求职与创业经历，给出了智能体时代专属职业成长路线。文章中围绕稀缺资源投入、问题发掘、选择高难度赛道、打磨落地细节、平衡机会与转化、低成本入局研究六大维度分享了实操思路。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-03",
+          "source": "社区更新 · 2026-07-04",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-07-03T17:57:43.891060Z"
+          "published_at": "2026-07-04T18:02:59.863752Z"
+        },
+        {
+          "id": "0e78145e55abed8abe13fd3ed9da824db1c4f046",
+          "title": "未来硅世界第18期邀请到了前微软、字节资深工程师分享了很多可直接落地的独立开发经验。这次直播不仅给出Claude Code与Codex互补互审的高效工作流，还顺带分享了低成本 VPS 服务、高效信息筛选路线。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-04",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-04T18:02:59.863752Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5983,
-      "importance": 0.5983,
-      "importance_score": 0.5983,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6942,
+      "importance": 0.6942,
+      "importance_score": 0.6942,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.4752,
+        "editorial": 0.5112,
         "source_tier": 0.54,
-        "ai_relevance": 0.66,
-        "recency": 0.7218,
-        "story_heat": 0.75
+        "ai_relevance": 0.71,
+        "recency": 1.0,
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T17:57:43.891060Z",
-      "latest_at": "2026-07-03T17:57:43.891060Z",
+      "earliest_at": "2026-07-04T18:02:59.863752Z",
+      "latest_at": "2026-07-04T18:02:59.863752Z",
       "primary_item": {
-        "id": "7be30fc5004302e8d685fa42513f6dcf508bde9c",
-        "title": "如果你也习惯让Claude Code、Codex等AI编程工具自动运行陌生的开源仓库，很可能会遭遇隐蔽供应链的攻击。老金给出一套可直接复用的十条安全防护准则，可以避免AI过度自动执行带来的泄密、篡改系统风险。",
+        "id": "92f7d898593aeb16900a5965794d4c6bd90d29cd",
+        "title": "大多数人每天都在使用ChatGPT和Claude，却完全不知道它们究竟是怎么构建出来的。只有一小部分人理解那个精确的流程：它如何把原始互联网文本变成一个能够写作、推理和编程的模型。一旦理解这个流程，你也能从零构建自己的 LLM。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-07-03",
+        "source": "社区更新 · 2026-07-04",
         "source_name": "WaytoAGI"
       }
     },
@@ -466,18 +424,18 @@
           "published_at": "2026-07-03T22:34:21.834000Z"
         },
         {
-          "id": "a69b5d2a2742a9b181059bdaea6d413489b551e8",
+          "id": "61909141a734290bb3a0ad945426676e0626feb2",
           "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
           "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-03T21:16:16Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "epoch.ai",
         "hackernews"
       ],
@@ -501,26 +459,26 @@
           "published_at": "2026-07-03T22:34:21.834000Z"
         },
         {
-          "id": "a69b5d2a2742a9b181059bdaea6d413489b551e8",
+          "id": "61909141a734290bb3a0ad945426676e0626feb2",
           "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
           "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-03T21:16:16Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5527,
-      "importance": 0.5527,
-      "importance_score": 0.5527,
+      "score": 0.5492,
+      "importance": 0.5492,
+      "importance_score": 0.5492,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8995,
+        "recency": 0.88,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -535,201 +493,6 @@
         "url": "https://epoch.ai/data-insights/cve-severity-spike",
         "source": "epoch.ai",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2136c92701f5",
-      "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025）",
-      "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
-      "primary_url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
-      "source": "inpreparation.substack.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "245757b598ca847002d17893283fa6c037edb6fd",
-          "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025）",
-          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
-          "source": "inpreparation.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T20:23:50.986000Z"
-        },
-        {
-          "id": "46448a29279ffcfa6e79c31dbc7152d0dc070242",
-          "title": "我不被允许在粉笔演讲中提示 ChatGPT：这是歧视 / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination",
-          "url": "https://news.ycombinator.com/item?id=48777728",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T19:26:45.199000Z"
-        },
-        {
-          "id": "437197423258841a12a1dd7612872748c37c0249",
-          "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025） / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination",
-          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T17:46:10Z"
-        },
-        {
-          "id": "0cf69d73f77d5a7bced4f2e1cc15cf5106666661",
-          "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025） / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
-          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T17:46:10Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "inpreparation.substack.com"
-      ],
-      "items": [
-        {
-          "id": "245757b598ca847002d17893283fa6c037edb6fd",
-          "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025）",
-          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
-          "source": "inpreparation.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T20:23:50.986000Z"
-        },
-        {
-          "id": "46448a29279ffcfa6e79c31dbc7152d0dc070242",
-          "title": "我不被允许在粉笔演讲中提示 ChatGPT：这是歧视 / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination",
-          "url": "https://news.ycombinator.com/item?id=48777728",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T19:26:45.199000Z"
-        },
-        {
-          "id": "437197423258841a12a1dd7612872748c37c0249",
-          "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025） / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination",
-          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T17:46:10Z"
-        },
-        {
-          "id": "0cf69d73f77d5a7bced4f2e1cc15cf5106666661",
-          "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025） / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
-          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T17:46:10Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5504,
-      "importance": 0.5504,
-      "importance_score": 0.5504,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7477,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T17:46:10Z",
-      "latest_at": "2026-07-03T20:23:50.986000Z",
-      "primary_item": {
-        "id": "245757b598ca847002d17893283fa6c037edb6fd",
-        "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025）",
-        "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
-        "source": "inpreparation.substack.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_96aeaf10e3fa",
-      "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-      "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
-      "primary_url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "fdfa964b17448b2d73341a7eb1252eccdd6e98ef",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
-          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "fdfa964b17448b2d73341a7eb1252eccdd6e98ef",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
-          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5384,
-      "importance": 0.5384,
-      "importance_score": 0.5384,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9588,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T11:31:17.756395Z",
-      "latest_at": "2026-07-04T13:37:13.727773Z",
-      "primary_item": {
-        "id": "fdfa964b17448b2d73341a7eb1252eccdd6e98ef",
-        "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-        "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -804,15 +567,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5378,
-      "importance": 0.5378,
-      "importance_score": 0.5378,
+      "score": 0.5347,
+      "importance": 0.5347,
+      "importance_score": 0.5347,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8169,
+        "recency": 0.7992,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -827,6 +590,84 @@
         "url": "https://www.wafer.ai/blog/glm52-amd",
         "source": "www.wafer.ai",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_96aeaf10e3fa",
+      "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
+      "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
+      "primary_url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "fdfa964b17448b2d73341a7eb1252eccdd6e98ef",
+          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
+          "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
+          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
+          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "fdfa964b17448b2d73341a7eb1252eccdd6e98ef",
+          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
+          "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
+          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
+          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5346,
+      "importance": 0.5346,
+      "importance_score": 0.5346,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.938,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T11:31:17.756395Z",
+      "latest_at": "2026-07-04T13:37:13.727773Z",
+      "primary_item": {
+        "id": "fdfa964b17448b2d73341a7eb1252eccdd6e98ef",
+        "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
+        "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -883,15 +724,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5332,
-      "importance": 0.5332,
-      "importance_score": 0.5332,
+      "score": 0.5296,
+      "importance": 0.5296,
+      "importance_score": 0.5296,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9302,
+        "recency": 0.91,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -962,15 +803,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5296,
-      "importance": 0.5296,
-      "importance_score": 0.5296,
+      "score": 0.526,
+      "importance": 0.526,
+      "importance_score": 0.526,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9099,
+        "recency": 0.8902,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1041,15 +882,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5235,
-      "importance": 0.5235,
-      "importance_score": 0.5235,
+      "score": 0.5201,
+      "importance": 0.5201,
+      "importance_score": 0.5201,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8764,
+        "recency": 0.8574,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1120,15 +961,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5174,
-      "importance": 0.5174,
-      "importance_score": 0.5174,
+      "score": 0.5141,
+      "importance": 0.5141,
+      "importance_score": 0.5141,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.842,
+        "recency": 0.8237,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1199,15 +1040,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5164,
-      "importance": 0.5164,
-      "importance_score": 0.5164,
+      "score": 0.5132,
+      "importance": 0.5132,
+      "importance_score": 0.5132,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8369,
+        "recency": 0.8188,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1278,15 +1119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.514,
-      "importance": 0.514,
-      "importance_score": 0.514,
+      "score": 0.5108,
+      "importance": 0.5108,
+      "importance_score": 0.5108,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8232,
+        "recency": 0.8054,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1357,15 +1198,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5332,
-      "importance": 0.5332,
-      "importance_score": 0.5332,
+      "score": 0.5296,
+      "importance": 0.5296,
+      "importance_score": 0.5296,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9302,
+        "recency": 0.91,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1436,15 +1277,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5283,
-      "importance": 0.5283,
-      "importance_score": 0.5283,
+      "score": 0.5248,
+      "importance": 0.5248,
+      "importance_score": 0.5248,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9029,
+        "recency": 0.8833,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1515,15 +1356,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5235,
-      "importance": 0.5235,
-      "importance_score": 0.5235,
+      "score": 0.5201,
+      "importance": 0.5201,
+      "importance_score": 0.5201,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8762,
+        "recency": 0.8572,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1541,101 +1382,240 @@
       }
     },
     {
-      "story_id": "story_6dd39e80e7d5",
-      "title": "Show HN：Mcpsnoop – 适用于 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
-      "url": "https://news.ycombinator.com/item?id=48777144",
-      "primary_url": "https://news.ycombinator.com/item?id=48777144",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_2e04f3e69e59",
+      "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
+      "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+      "primary_url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "f2879e84446177edbb2b1cadb62d80d74996c37a",
-          "title": "Show HN：Mcpsnoop – 适用于 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
-          "url": "https://news.ycombinator.com/item?id=48777144",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T19:26:45.199000Z"
-        },
-        {
-          "id": "0106277eaab5730a881a5309eabed31f1085d700",
-          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI）",
-          "url": "https://github.com/kerlenton/mcpsnoop",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T16:55:50.504000Z"
-        },
-        {
-          "id": "de8087956e18e6c29ccf80f53bd8e4f2a1e3761d",
-          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
-          "url": "https://github.com/kerlenton/mcpsnoop",
+          "id": "6946947ee19f4eabd1b586cc7da5f48be7d20b02",
+          "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
+          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-03T16:53:50Z"
+          "published_at": "2026-07-04T00:01:23Z"
+        },
+        {
+          "id": "2678cac44e38d601f3f5c52843d9c80fd1afe32c",
+          "title": "★ Claude 的极其糟糕的 Electron Mac 应用程序是内部人员所为 / ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job",
+          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+          "source": "Daring Fireball",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T21:24:05Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "github.com",
-        "hackernews"
+        "Daring Fireball",
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "f2879e84446177edbb2b1cadb62d80d74996c37a",
-          "title": "Show HN：Mcpsnoop – 适用于 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
-          "url": "https://news.ycombinator.com/item?id=48777144",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T19:26:45.199000Z"
-        },
-        {
-          "id": "0106277eaab5730a881a5309eabed31f1085d700",
-          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI）",
-          "url": "https://github.com/kerlenton/mcpsnoop",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T16:55:50.504000Z"
-        },
-        {
-          "id": "de8087956e18e6c29ccf80f53bd8e4f2a1e3761d",
-          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
-          "url": "https://github.com/kerlenton/mcpsnoop",
+          "id": "6946947ee19f4eabd1b586cc7da5f48be7d20b02",
+          "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
+          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-03T16:53:50Z"
+          "published_at": "2026-07-04T00:01:23Z"
+        },
+        {
+          "id": "2678cac44e38d601f3f5c52843d9c80fd1afe32c",
+          "title": "★ Claude 的极其糟糕的 Electron Mac 应用程序是内部人员所为 / ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job",
+          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+          "source": "Daring Fireball",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T21:24:05Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5235,
-      "importance": 0.5235,
-      "importance_score": 0.5235,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5045,
+      "importance": 0.5045,
+      "importance_score": 0.5045,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7375,
-        "story_heat": 0.5
+        "recency": 0.7708,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T16:53:50Z",
-      "latest_at": "2026-07-03T19:26:45.199000Z",
+      "earliest_at": "2026-07-03T21:24:05Z",
+      "latest_at": "2026-07-04T00:01:23Z",
       "primary_item": {
-        "id": "f2879e84446177edbb2b1cadb62d80d74996c37a",
-        "title": "Show HN：Mcpsnoop – 适用于 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
-        "url": "https://news.ycombinator.com/item?id=48777144",
+        "id": "6946947ee19f4eabd1b586cc7da5f48be7d20b02",
+        "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
+        "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_551c2101be10",
+      "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+      "url": "https://news.ycombinator.com/item?id=48779352",
+      "primary_url": "https://news.ycombinator.com/item?id=48779352",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "88f14b3b5327d5cf3324b82907c58c754a730393",
+          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+          "url": "https://news.ycombinator.com/item?id=48779352",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T22:34:21.834000Z"
+        },
+        {
+          "id": "cb37321763617c01ea664225410a7bb64e9029ce",
+          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+          "url": "https://kagi.com/changelog",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T20:08:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "88f14b3b5327d5cf3324b82907c58c754a730393",
+          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+          "url": "https://news.ycombinator.com/item?id=48779352",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T22:34:21.834000Z"
+        },
+        {
+          "id": "cb37321763617c01ea664225410a7bb64e9029ce",
+          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+          "url": "https://kagi.com/changelog",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T20:08:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5017,
+      "importance": 0.5017,
+      "importance_score": 0.5017,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7548,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T20:08:01Z",
+      "latest_at": "2026-07-03T22:34:21.834000Z",
+      "primary_item": {
+        "id": "88f14b3b5327d5cf3324b82907c58c754a730393",
+        "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+        "url": "https://news.ycombinator.com/item?id=48779352",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_2bf550ae2d7d",
+      "title": "crynta / terax-ai",
+      "url": "https://github.com/crynta/terax-ai",
+      "primary_url": "https://github.com/crynta/terax-ai",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "8332e98da8be230e184e0c6227dc035e0d330367",
+          "title": "crynta / terax-ai",
+          "url": "https://github.com/crynta/terax-ai",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "56becdfdfdbf6893e797561284c64f592dff735d",
+          "title": "crynta /      terax-ai",
+          "url": "https://github.com/crynta/terax-ai",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-04T11:16:55.991000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "8332e98da8be230e184e0c6227dc035e0d330367",
+          "title": "crynta / terax-ai",
+          "url": "https://github.com/crynta/terax-ai",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "56becdfdfdbf6893e797561284c64f592dff735d",
+          "title": "crynta /      terax-ai",
+          "url": "https://github.com/crynta/terax-ai",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-04T11:16:55.991000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5296,
+      "importance": 0.5296,
+      "importance_score": 0.5296,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.91,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T11:16:55.991000Z",
+      "latest_at": "2026-07-04T11:31:17.756395Z",
+      "primary_item": {
+        "id": "8332e98da8be230e184e0c6227dc035e0d330367",
+        "title": "crynta / terax-ai",
+        "url": "https://github.com/crynta/terax-ai",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     }
   ]
