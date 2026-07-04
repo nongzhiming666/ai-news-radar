@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T11:31:17.756395Z",
+  "generated_at": "2026-07-04T13:37:13.727773Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7967,
-      "importance": 0.7967,
-      "importance_score": 0.7967,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7374,
+        "recency": 0.7154,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7895,
-      "importance": 0.7895,
-      "importance_score": 0.7895,
+      "score": 0.7843,
+      "importance": 0.7843,
+      "importance_score": 0.7843,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9663,
+        "recency": 0.9374,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -165,7 +165,7 @@
         },
         {
           "id": "1b58cc270dda04a8a6c2fe3fa4a389193d5f9266",
-          "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本 / 60% Fable cost cut by converting code to images and having the model OCR it",
+          "title": "通过将代码转换为图像并由模型进行OCR识别，将《Fable》的开发成本降低了60% / 60% Fable cost cut by converting code to images and having the model OCR it",
           "url": "https://github.com/teamchong/pxpipe",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -190,7 +190,7 @@
         },
         {
           "id": "1b58cc270dda04a8a6c2fe3fa4a389193d5f9266",
-          "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本 / 60% Fable cost cut by converting code to images and having the model OCR it",
+          "title": "通过将代码转换为图像并由模型进行OCR识别，将《Fable》的开发成本降低了60% / 60% Fable cost cut by converting code to images and having the model OCR it",
           "url": "https://github.com/teamchong/pxpipe",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -200,15 +200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
+      "score": 0.7838,
+      "importance": 0.7838,
+      "importance_score": 0.7838,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7915,
+        "recency": 0.7679,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -262,15 +262,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9103,
+        "recency": 0.8832,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -361,15 +361,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7471,
+        "recency": 0.7248,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -423,15 +423,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9307,
+        "recency": 0.9029,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -483,15 +483,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
+      "score": 0.7279,
+      "importance": 0.7279,
+      "importance_score": 0.7279,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7861,
+        "recency": 0.7626,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -505,126 +505,6 @@
         "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
         "url": "https://simonwillison.net/2026/Jul/3/judgement",
         "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a5f43b6d49fb",
-      "title": "藏师傅PPT与Pencil结合使用技巧",
-      "url": "https://x.com/op7418/status/2073020264083050811",
-      "primary_url": "https://x.com/op7418/status/2073020264083050811",
-      "source": "X：歸藏 (@op7418)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "880f8696a81da341f82c034b06d24cf36ffe61ca",
-          "title": "藏师傅PPT与Pencil结合使用技巧",
-          "url": "https://x.com/op7418/status/2073020264083050811",
-          "source": "X：歸藏 (@op7418)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T12:25:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：歸藏 (@op7418)"
-      ],
-      "items": [
-        {
-          "id": "880f8696a81da341f82c034b06d24cf36ffe61ca",
-          "title": "藏师傅PPT与Pencil结合使用技巧",
-          "url": "https://x.com/op7418/status/2073020264083050811",
-          "source": "X：歸藏 (@op7418)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T12:25:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7255,
-      "importance": 0.7255,
-      "importance_score": 0.7255,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7164,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T12:25:20Z",
-      "latest_at": "2026-07-03T12:25:20Z",
-      "primary_item": {
-        "id": "880f8696a81da341f82c034b06d24cf36ffe61ca",
-        "title": "藏师傅PPT与Pencil结合使用技巧",
-        "url": "https://x.com/op7418/status/2073020264083050811",
-        "source": "X：歸藏 (@op7418)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_065c0c83539d",
-      "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
-      "url": "https://www.ithome.com/0/972/424.htm",
-      "primary_url": "https://www.ithome.com/0/972/424.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d84e8e89198d578068fefa2f458bf27f1faf738e",
-          "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
-          "url": "https://www.ithome.com/0/972/424.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T11:57:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d84e8e89198d578068fefa2f458bf27f1faf738e",
-          "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
-          "url": "https://www.ithome.com/0/972/424.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T11:57:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7277,
-      "importance": 0.7277,
-      "importance_score": 0.7277,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7115,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T11:57:00Z",
-      "latest_at": "2026-07-03T11:57:00Z",
-      "primary_item": {
-        "id": "d84e8e89198d578068fefa2f458bf27f1faf738e",
-        "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
-        "url": "https://www.ithome.com/0/972/424.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -717,15 +597,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.608,
-      "importance": 0.608,
-      "importance_score": 0.608,
+      "score": 0.6039,
+      "importance": 0.6039,
+      "importance_score": 0.6039,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4752,
         "source_tier": 0.54,
         "ai_relevance": 0.66,
-        "recency": 0.776,
+        "recency": 0.7529,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -815,15 +695,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5649,
-      "importance": 0.5649,
-      "importance_score": 0.5649,
+      "score": 0.5597,
+      "importance": 0.5597,
+      "importance_score": 0.5597,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.967,
+        "recency": 0.9381,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -932,15 +812,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5605,
-      "importance": 0.5605,
-      "importance_score": 0.5605,
+      "score": 0.5562,
+      "importance": 0.5562,
+      "importance_score": 0.5562,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8038,
+        "recency": 0.7798,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -955,6 +835,84 @@
         "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
         "source": "inpreparation.substack.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_96aeaf10e3fa",
+      "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
+      "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
+      "primary_url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "fdfa964b17448b2d73341a7eb1252eccdd6e98ef",
+          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
+          "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
+          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
+          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "fdfa964b17448b2d73341a7eb1252eccdd6e98ef",
+          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
+          "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
+          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
+          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T11:31:17.756395Z",
+      "latest_at": "2026-07-04T13:37:13.727773Z",
+      "primary_item": {
+        "id": "fdfa964b17448b2d73341a7eb1252eccdd6e98ef",
+        "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
+        "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1029,15 +987,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5489,
-      "importance": 0.5489,
-      "importance_score": 0.5489,
+      "score": 0.5442,
+      "importance": 0.5442,
+      "importance_score": 0.5442,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8782,
+        "recency": 0.852,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1108,15 +1066,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9701,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1187,15 +1145,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
+      "score": 0.5366,
+      "importance": 0.5366,
+      "importance_score": 0.5366,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9782,
+        "recency": 0.949,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1266,15 +1224,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5354,
-      "importance": 0.5354,
-      "importance_score": 0.5354,
+      "score": 0.5303,
+      "importance": 0.5303,
+      "importance_score": 0.5303,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9422,
+        "recency": 0.914,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1289,85 +1247,6 @@
         "url": "https://news.ycombinator.com/item?id=48782890",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_ddc5ffe6c280",
-      "title": "OpenAI 拟向美国政府出让股份：AI 创造的财富应当由谁享有？",
-      "url": "https://www.huxiu.com/article/4872642.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872642.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "b984d184b92304eb46955d4025cf1bd3e1e5b9e3",
-          "title": "OpenAI 拟向美国政府出让股份：AI 创造的财富应当由谁享有？",
-          "url": "https://www.huxiu.com/article/4872642.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1d707d2ab6b7c2067667020c3b1e94b423f7c93c",
-          "title": "OpenAI拟向美国政府出让股份：AI创造的财富应当由谁享有？",
-          "url": "https://www.huxiu.com/article/4872642.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T06:44:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "b984d184b92304eb46955d4025cf1bd3e1e5b9e3",
-          "title": "OpenAI 拟向美国政府出让股份：AI 创造的财富应当由谁享有？",
-          "url": "https://www.huxiu.com/article/4872642.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1d707d2ab6b7c2067667020c3b1e94b423f7c93c",
-          "title": "OpenAI拟向美国政府出让股份：AI创造的财富应当由谁享有？",
-          "url": "https://www.huxiu.com/article/4872642.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T06:44:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5354,
-      "importance": 0.5354,
-      "importance_score": 0.5354,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.942,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T06:44:56Z",
-      "latest_at": "2026-07-04T07:22:58.938794Z",
-      "primary_item": {
-        "id": "b984d184b92304eb46955d4025cf1bd3e1e5b9e3",
-        "title": "OpenAI 拟向美国政府出让股份：AI 创造的财富应当由谁享有？",
-        "url": "https://www.huxiu.com/article/4872642.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1443,15 +1322,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5322,
-      "importance": 0.5322,
-      "importance_score": 0.5322,
+      "score": 0.528,
+      "importance": 0.528,
+      "importance_score": 0.528,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7854,
+        "recency": 0.762,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1522,15 +1401,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5287,
-      "importance": 0.5287,
-      "importance_score": 0.5287,
+      "score": 0.5239,
+      "importance": 0.5239,
+      "importance_score": 0.5239,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9052,
+        "recency": 0.8781,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1601,15 +1480,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5278,
-      "importance": 0.5278,
-      "importance_score": 0.5278,
+      "score": 0.5229,
+      "importance": 0.5229,
+      "importance_score": 0.5229,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8998,
+        "recency": 0.8729,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1624,6 +1503,164 @@
         "url": "https://www.36kr.com/p/3880629882679301",
         "source": "36氪 · 24小时热榜",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_157847605492",
+      "title": "alirezarezvani / 克劳德技能 / alirezarezvani / claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "primary_url": "https://github.com/alirezarezvani/claude-skills",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "e8e1cc09286cc549500d8a047115e31456eb37f1",
+          "title": "alirezarezvani / 克劳德技能 / alirezarezvani / claude-skills",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "76e3ae2425d8b670625f78af8e44c000b98585bc",
+          "title": "alirezarezvani / 克劳德技能 / alirezarezvani /      claude-skills",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-04T11:16:55.991000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "e8e1cc09286cc549500d8a047115e31456eb37f1",
+          "title": "alirezarezvani / 克劳德技能 / alirezarezvani / claude-skills",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "76e3ae2425d8b670625f78af8e44c000b98585bc",
+          "title": "alirezarezvani / 克劳德技能 / alirezarezvani /      claude-skills",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-04T11:16:55.991000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9701,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T11:16:55.991000Z",
+      "latest_at": "2026-07-04T11:31:17.756395Z",
+      "primary_item": {
+        "id": "e8e1cc09286cc549500d8a047115e31456eb37f1",
+        "title": "alirezarezvani / 克劳德技能 / alirezarezvani / claude-skills",
+        "url": "https://github.com/alirezarezvani/claude-skills",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_f7fd9ce4f776",
+      "title": "担心人工智能会抢走你的工作？未来30天内请这样做。",
+      "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
+      "primary_url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6252ba767d0366878cb43434c625c1990ae4e6b8",
+          "title": "担心人工智能会抢走你的工作？未来30天内请这样做。",
+          "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T09:27:38.407000Z"
+        },
+        {
+          "id": "f22265f9812b93d6026b4a00d521e856d2e92ccb",
+          "title": "担心人工智能会抢走你的工作？未来30天内请这样做。 / If you're worried AI will take your job, here's what to do in the next 30 days, according to an executive coach",
+          "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-04T09:05:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "6252ba767d0366878cb43434c625c1990ae4e6b8",
+          "title": "担心人工智能会抢走你的工作？未来30天内请这样做。",
+          "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T09:27:38.407000Z"
+        },
+        {
+          "id": "f22265f9812b93d6026b4a00d521e856d2e92ccb",
+          "title": "担心人工智能会抢走你的工作？未来30天内请这样做。 / If you're worried AI will take your job, here's what to do in the next 30 days, according to an executive coach",
+          "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-04T09:05:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5353,
+      "importance": 0.5353,
+      "importance_score": 0.5353,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9417,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T09:05:02Z",
+      "latest_at": "2026-07-04T09:27:38.407000Z",
+      "primary_item": {
+        "id": "6252ba767d0366878cb43434c625c1990ae4e6b8",
+        "title": "担心人工智能会抢走你的工作？未来30天内请这样做。",
+        "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     }
   ]
