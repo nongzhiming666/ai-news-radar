@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T09:55:04.688649Z",
+  "generated_at": "2026-07-05T11:36:35.053832Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 17,
   "items": [
     {
       "story_id": "story_ae60d5911c44",
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7873,
-      "importance": 0.7873,
-      "importance_score": 0.7873,
+      "score": 0.7831,
+      "importance": 0.7831,
+      "importance_score": 0.7831,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9704,
+        "recency": 0.947,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -191,15 +191,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6573,
-      "importance": 0.6573,
-      "importance_score": 0.6573,
+      "score": 0.6538,
+      "importance": 0.6538,
+      "importance_score": 0.6538,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.54,
         "ai_relevance": 0.71,
-        "recency": 0.7952,
+        "recency": 0.776,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -214,6 +214,164 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-04",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_e12374b34600",
+      "title": "OpenAI，IPO 大消息",
+      "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872764.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "c7c6699adf30cb3bcd487030ed92008e2ad89d5b",
+          "title": "OpenAI，IPO 大消息",
+          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "58ff0b5aedb9e839fe395f9ea222b3333d5b9848",
+          "title": "OpenAI，IPO大消息",
+          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T10:54:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "c7c6699adf30cb3bcd487030ed92008e2ad89d5b",
+          "title": "OpenAI，IPO 大消息",
+          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "58ff0b5aedb9e839fe395f9ea222b3333d5b9848",
+          "title": "OpenAI，IPO大消息",
+          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T10:54:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T10:54:30Z",
+      "latest_at": "2026-07-05T11:36:35.053832Z",
+      "primary_item": {
+        "id": "c7c6699adf30cb3bcd487030ed92008e2ad89d5b",
+        "title": "OpenAI，IPO 大消息",
+        "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_c7f7e9fbc46c",
+      "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim / awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "primary_url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "7770b97852277f60e1ae13c84d3585b4af8e0c0d",
+          "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim / awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "4d34e46dee5f51410fd8433258ffd0e5392dbb01",
+          "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim /      awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T11:25:32.035000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "7770b97852277f60e1ae13c84d3585b4af8e0c0d",
+          "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim / awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "4d34e46dee5f51410fd8433258ffd0e5392dbb01",
+          "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim /      awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T11:25:32.035000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T11:25:32.035000Z",
+      "latest_at": "2026-07-05T11:36:35.053832Z",
+      "primary_item": {
+        "id": "7770b97852277f60e1ae13c84d3585b4af8e0c0d",
+        "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim / awesome-claude-code",
+        "url": "https://github.com/hesreallyhim/awesome-claude-code",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     },
     {
@@ -289,15 +447,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5465,
-      "importance": 0.5465,
-      "importance_score": 0.5465,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8648,
+        "recency": 0.8439,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -311,6 +469,85 @@
         "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降",
         "url": "https://github.com/openai/codex/issues/30364",
         "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_f3a6a004da89",
+      "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
+      "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
+      "primary_url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "cf7afea64aed01d68f17a5d41f557c2957cfa10c",
+          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
+          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T09:11:39.560000Z"
+        },
+        {
+          "id": "f1e89dca83e7efc7fb77b0b25213a0e8a7eeef91",
+          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少 / AI-native startups are hiring fewer entry-level workers, Harvard study finds",
+          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T09:03:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "cf7afea64aed01d68f17a5d41f557c2957cfa10c",
+          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
+          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T09:11:39.560000Z"
+        },
+        {
+          "id": "f1e89dca83e7efc7fb77b0b25213a0e8a7eeef91",
+          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少 / AI-native startups are hiring fewer entry-level workers, Harvard study finds",
+          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T09:03:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5396,
+      "importance": 0.5396,
+      "importance_score": 0.5396,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9657,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T09:03:02Z",
+      "latest_at": "2026-07-05T09:11:39.560000Z",
+      "primary_item": {
+        "id": "cf7afea64aed01d68f17a5d41f557c2957cfa10c",
+        "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
+        "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -368,15 +605,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.5354,
+      "importance": 0.5354,
+      "importance_score": 0.5354,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9654,
+        "recency": 0.9421,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -446,15 +683,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
+      "score": 0.5283,
+      "importance": 0.5283,
+      "importance_score": 0.5283,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9249,
+        "recency": 0.9025,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -472,82 +709,161 @@
       }
     },
     {
-      "story_id": "story_e82c5ca69fab",
-      "title": "AI 后半场，该关注什么？",
-      "url": "https://www.huxiu.com/article/4872721.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872721.html?f=rss",
-      "source": "Readhub · AI",
+      "story_id": "story_fa6538e9d176",
+      "title": "斯泰皮特 / CodexBar / steipete / CodexBar",
+      "url": "https://github.com/steipete/CodexBar",
+      "primary_url": "https://github.com/steipete/CodexBar",
+      "source": "GitHub · Trending Today",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "8c9049593e936db27e2c8c6ba774f1fd37b1f702",
-          "title": "AI 后半场，该关注什么？",
-          "url": "https://www.huxiu.com/article/4872721.html?f=rss",
-          "source": "Readhub · AI",
+          "id": "d3a16d4e2417b53d3e377f4664a9bf06c86ad32b",
+          "title": "斯泰皮特 / CodexBar / steipete / CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "d65e310f7bd8868cbe14986231e36e281e3cf36e",
-          "title": "AI后半场，该关注什么？",
-          "url": "https://www.huxiu.com/article/4872721.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T02:08:26Z"
+          "id": "450b5e0095953d8f790bcc62ba0a0aa23c162787",
+          "title": "斯泰皮特 / CodexBar / steipete /      CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T11:25:32.035000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "8c9049593e936db27e2c8c6ba774f1fd37b1f702",
-          "title": "AI 后半场，该关注什么？",
-          "url": "https://www.huxiu.com/article/4872721.html?f=rss",
-          "source": "Readhub · AI",
+          "id": "d3a16d4e2417b53d3e377f4664a9bf06c86ad32b",
+          "title": "斯泰皮特 / CodexBar / steipete / CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "d65e310f7bd8868cbe14986231e36e281e3cf36e",
-          "title": "AI后半场，该关注什么？",
-          "url": "https://www.huxiu.com/article/4872721.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T02:08:26Z"
+          "id": "450b5e0095953d8f790bcc62ba0a0aa23c162787",
+          "title": "斯泰皮特 / CodexBar / steipete /      CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T11:25:32.035000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5301,
-      "importance": 0.5301,
-      "importance_score": 0.5301,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9128,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T02:08:26Z",
-      "latest_at": "2026-07-05T03:35:50.654335Z",
+      "earliest_at": "2026-07-05T11:25:32.035000Z",
+      "latest_at": "2026-07-05T11:36:35.053832Z",
       "primary_item": {
-        "id": "8c9049593e936db27e2c8c6ba774f1fd37b1f702",
-        "title": "AI 后半场，该关注什么？",
-        "url": "https://www.huxiu.com/article/4872721.html?f=rss",
-        "source": "Readhub · AI",
+        "id": "d3a16d4e2417b53d3e377f4664a9bf06c86ad32b",
+        "title": "斯泰皮特 / CodexBar / steipete / CodexBar",
+        "url": "https://github.com/steipete/CodexBar",
+        "source": "GitHub · Trending Today",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_141dc99ed661",
+      "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
+      "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+      "primary_url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "19017868000fe1555529a118219dd004ce6095fe",
+          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
+          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T08:55:31.703000Z"
+        },
+        {
+          "id": "e33a82fb6087d743c5e2606ffefd9cea3af41eff",
+          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。 / I've been a trucker for nearly 5 decades. AI made the job safer, but autonomous trucks still need to prove themselves.",
+          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T08:41:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "19017868000fe1555529a118219dd004ce6095fe",
+          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
+          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T08:55:31.703000Z"
+        },
+        {
+          "id": "e33a82fb6087d743c5e2606ffefd9cea3af41eff",
+          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。 / I've been a trucker for nearly 5 decades. AI made the job safer, but autonomous trucks still need to prove themselves.",
+          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T08:41:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.539,
+      "importance": 0.539,
+      "importance_score": 0.539,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.962,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T08:41:01Z",
+      "latest_at": "2026-07-05T08:55:31.703000Z",
+      "primary_item": {
+        "id": "19017868000fe1555529a118219dd004ce6095fe",
+        "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
+        "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -603,15 +919,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5099,
-      "importance": 0.5099,
-      "importance_score": 0.5099,
+      "score": 0.5064,
+      "importance": 0.5064,
+      "importance_score": 0.5064,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8005,
+        "recency": 0.7811,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -681,15 +997,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5082,
-      "importance": 0.5082,
-      "importance_score": 0.5082,
+      "score": 0.5047,
+      "importance": 0.5047,
+      "importance_score": 0.5047,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7909,
+        "recency": 0.7718,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -704,6 +1020,85 @@
         "url": "https://www.v2ex.com/t/1225009",
         "source": "V2EX (创意工作者社区)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_e82c5ca69fab",
+      "title": "AI 后半场，该关注什么？",
+      "url": "https://www.huxiu.com/article/4872721.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872721.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "8c9049593e936db27e2c8c6ba774f1fd37b1f702",
+          "title": "AI 后半场，该关注什么？",
+          "url": "https://www.huxiu.com/article/4872721.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d65e310f7bd8868cbe14986231e36e281e3cf36e",
+          "title": "AI后半场，该关注什么？",
+          "url": "https://www.huxiu.com/article/4872721.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T02:08:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "8c9049593e936db27e2c8c6ba774f1fd37b1f702",
+          "title": "AI 后半场，该关注什么？",
+          "url": "https://www.huxiu.com/article/4872721.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d65e310f7bd8868cbe14986231e36e281e3cf36e",
+          "title": "AI后半场，该关注什么？",
+          "url": "https://www.huxiu.com/article/4872721.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T02:08:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5261,
+      "importance": 0.5261,
+      "importance_score": 0.5261,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8907,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T02:08:26Z",
+      "latest_at": "2026-07-05T03:35:50.654335Z",
+      "primary_item": {
+        "id": "8c9049593e936db27e2c8c6ba774f1fd37b1f702",
+        "title": "AI 后半场，该关注什么？",
+        "url": "https://www.huxiu.com/article/4872721.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -760,15 +1155,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5296,
-      "importance": 0.5296,
-      "importance_score": 0.5296,
+      "score": 0.5257,
+      "importance": 0.5257,
+      "importance_score": 0.5257,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9101,
+        "recency": 0.8882,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -786,109 +1181,30 @@
       }
     },
     {
-      "story_id": "story_6010bac3beb7",
-      "title": "CoplayDev / unity-mcp",
-      "url": "https://github.com/CoplayDev/unity-mcp",
-      "primary_url": "https://github.com/CoplayDev/unity-mcp",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "7334a7a89e6192d9ae798d3dd94f7716d325fd78",
-          "title": "CoplayDev / unity-mcp",
-          "url": "https://github.com/CoplayDev/unity-mcp",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c7034b7c05b248881c674e92dc93b8b8ef943174",
-          "title": "CoplayDev /      unity-mcp",
-          "url": "https://github.com/CoplayDev/unity-mcp",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T11:16:55.991000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "7334a7a89e6192d9ae798d3dd94f7716d325fd78",
-          "title": "CoplayDev / unity-mcp",
-          "url": "https://github.com/CoplayDev/unity-mcp",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c7034b7c05b248881c674e92dc93b8b8ef943174",
-          "title": "CoplayDev /      unity-mcp",
-          "url": "https://github.com/CoplayDev/unity-mcp",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T11:16:55.991000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4961,
-      "importance": 0.4961,
-      "importance_score": 0.4961,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7237,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T11:16:55.991000Z",
-      "latest_at": "2026-07-04T11:31:17.756395Z",
-      "primary_item": {
-        "id": "7334a7a89e6192d9ae798d3dd94f7716d325fd78",
-        "title": "CoplayDev / unity-mcp",
-        "url": "https://github.com/CoplayDev/unity-mcp",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_5f09d23ce6db",
-      "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
-      "url": "https://www.eso.org/public/news/eso2607",
-      "primary_url": "https://www.eso.org/public/news/eso2607",
+      "story_id": "story_212c09bd917e",
+      "title": "无人机自主 (2021) / Drone Autonomy (2021)",
+      "url": "https://www.cggonzalez.com/blog/index.html",
+      "primary_url": "https://www.cggonzalez.com/blog/index.html",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "7df13f63758458c35615fd24fcc64448672c2ae2",
-          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
-          "url": "https://www.eso.org/public/news/eso2607",
+          "id": "102dcc9f0483b55e1961b11e0a357fce2dfb1705",
+          "title": "无人机自主 (2021) / Drone Autonomy (2021)",
+          "url": "https://www.cggonzalez.com/blog/index.html",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-04T17:17:28Z"
+          "published_at": "2026-07-04T23:22:15Z"
         },
         {
-          "id": "d5b0cd59fb184fc83d97261880c8b27d944c8553",
-          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / No more than 100 000 faint satellites should orbit Earth",
-          "url": "https://www.eso.org/public/news/eso2607",
+          "id": "e3a40c848379619601668a5028136a155dfa63ab",
+          "title": "无人机自主速成课程 / Drone Autonomy Crash Course",
+          "url": "https://www.cggonzalez.com/blog/index.html",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-04T17:17:28Z"
+          "published_at": "2026-07-04T23:22:15Z"
         }
       ],
       "source_count": 2,
@@ -897,47 +1213,47 @@
       ],
       "items": [
         {
-          "id": "7df13f63758458c35615fd24fcc64448672c2ae2",
-          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
-          "url": "https://www.eso.org/public/news/eso2607",
+          "id": "102dcc9f0483b55e1961b11e0a357fce2dfb1705",
+          "title": "无人机自主 (2021) / Drone Autonomy (2021)",
+          "url": "https://www.cggonzalez.com/blog/index.html",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-04T17:17:28Z"
+          "published_at": "2026-07-04T23:22:15Z"
         },
         {
-          "id": "d5b0cd59fb184fc83d97261880c8b27d944c8553",
-          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / No more than 100 000 faint satellites should orbit Earth",
-          "url": "https://www.eso.org/public/news/eso2607",
+          "id": "e3a40c848379619601668a5028136a155dfa63ab",
+          "title": "无人机自主速成课程 / Drone Autonomy Crash Course",
+          "url": "https://www.cggonzalez.com/blog/index.html",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-04T17:17:28Z"
+          "published_at": "2026-07-04T23:22:15Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5074,
-      "importance": 0.5074,
-      "importance_score": 0.5074,
+      "score": 0.5166,
+      "importance": 0.5166,
+      "importance_score": 0.5166,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7865,
+        "recency": 0.838,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T17:17:28Z",
-      "latest_at": "2026-07-04T17:17:28Z",
+      "earliest_at": "2026-07-04T23:22:15Z",
+      "latest_at": "2026-07-04T23:22:15Z",
       "primary_item": {
-        "id": "7df13f63758458c35615fd24fcc64448672c2ae2",
-        "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
-        "url": "https://www.eso.org/public/news/eso2607",
+        "id": "102dcc9f0483b55e1961b11e0a357fce2dfb1705",
+        "title": "无人机自主 (2021) / Drone Autonomy (2021)",
+        "url": "https://www.cggonzalez.com/blog/index.html",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
@@ -995,15 +1311,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5054,
-      "importance": 0.5054,
-      "importance_score": 0.5054,
+      "score": 0.502,
+      "importance": 0.502,
+      "importance_score": 0.502,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7756,
+        "recency": 0.7569,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1021,239 +1337,81 @@
       }
     },
     {
-      "story_id": "story_96aeaf10e3fa",
-      "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-      "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
-      "primary_url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_5f09d23ce6db",
+      "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
+      "url": "https://www.eso.org/public/news/eso2607",
+      "primary_url": "https://www.eso.org/public/news/eso2607",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "fdfa964b17448b2d73341a7eb1252eccdd6e98ef",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "7df13f63758458c35615fd24fcc64448672c2ae2",
+          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
+          "url": "https://www.eso.org/public/news/eso2607",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T17:17:28Z"
         },
         {
-          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
-          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "d5b0cd59fb184fc83d97261880c8b27d944c8553",
+          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / No more than 100 000 faint satellites should orbit Earth",
+          "url": "https://www.eso.org/public/news/eso2607",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T17:17:28Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "fdfa964b17448b2d73341a7eb1252eccdd6e98ef",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "7df13f63758458c35615fd24fcc64448672c2ae2",
+          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
+          "url": "https://www.eso.org/public/news/eso2607",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T17:17:28Z"
         },
         {
-          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
-          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "d5b0cd59fb184fc83d97261880c8b27d944c8553",
+          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / No more than 100 000 faint satellites should orbit Earth",
+          "url": "https://www.eso.org/public/news/eso2607",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T17:17:28Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5001,
-      "importance": 0.5001,
-      "importance_score": 0.5001,
+      "score": 0.504,
+      "importance": 0.504,
+      "importance_score": 0.504,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7459,
+        "recency": 0.7676,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T11:31:17.756395Z",
-      "latest_at": "2026-07-04T13:37:13.727773Z",
+      "earliest_at": "2026-07-04T17:17:28Z",
+      "latest_at": "2026-07-04T17:17:28Z",
       "primary_item": {
-        "id": "fdfa964b17448b2d73341a7eb1252eccdd6e98ef",
-        "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-        "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_157847605492",
-      "title": "alirezarezvani / 克劳德技能 / alirezarezvani / claude-skills",
-      "url": "https://github.com/alirezarezvani/claude-skills",
-      "primary_url": "https://github.com/alirezarezvani/claude-skills",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "e8e1cc09286cc549500d8a047115e31456eb37f1",
-          "title": "alirezarezvani / 克劳德技能 / alirezarezvani / claude-skills",
-          "url": "https://github.com/alirezarezvani/claude-skills",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "76e3ae2425d8b670625f78af8e44c000b98585bc",
-          "title": "alirezarezvani / 克劳德技能 / alirezarezvani /      claude-skills",
-          "url": "https://github.com/alirezarezvani/claude-skills",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T11:16:55.991000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "e8e1cc09286cc549500d8a047115e31456eb37f1",
-          "title": "alirezarezvani / 克劳德技能 / alirezarezvani / claude-skills",
-          "url": "https://github.com/alirezarezvani/claude-skills",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "76e3ae2425d8b670625f78af8e44c000b98585bc",
-          "title": "alirezarezvani / 克劳德技能 / alirezarezvani /      claude-skills",
-          "url": "https://github.com/alirezarezvani/claude-skills",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T11:16:55.991000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4961,
-      "importance": 0.4961,
-      "importance_score": 0.4961,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7237,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T11:16:55.991000Z",
-      "latest_at": "2026-07-04T11:31:17.756395Z",
-      "primary_item": {
-        "id": "e8e1cc09286cc549500d8a047115e31456eb37f1",
-        "title": "alirezarezvani / 克劳德技能 / alirezarezvani / claude-skills",
-        "url": "https://github.com/alirezarezvani/claude-skills",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_2bf550ae2d7d",
-      "title": "crynta / terax-ai",
-      "url": "https://github.com/crynta/terax-ai",
-      "primary_url": "https://github.com/crynta/terax-ai",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "8332e98da8be230e184e0c6227dc035e0d330367",
-          "title": "crynta / terax-ai",
-          "url": "https://github.com/crynta/terax-ai",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "56becdfdfdbf6893e797561284c64f592dff735d",
-          "title": "crynta /      terax-ai",
-          "url": "https://github.com/crynta/terax-ai",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T11:16:55.991000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "8332e98da8be230e184e0c6227dc035e0d330367",
-          "title": "crynta / terax-ai",
-          "url": "https://github.com/crynta/terax-ai",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "56becdfdfdbf6893e797561284c64f592dff735d",
-          "title": "crynta /      terax-ai",
-          "url": "https://github.com/crynta/terax-ai",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T11:16:55.991000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4961,
-      "importance": 0.4961,
-      "importance_score": 0.4961,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7237,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T11:16:55.991000Z",
-      "latest_at": "2026-07-04T11:31:17.756395Z",
-      "primary_item": {
-        "id": "8332e98da8be230e184e0c6227dc035e0d330367",
-        "title": "crynta / terax-ai",
-        "url": "https://github.com/crynta/terax-ai",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
+        "id": "7df13f63758458c35615fd24fcc64448672c2ae2",
+        "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
+        "url": "https://www.eso.org/public/news/eso2607",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
