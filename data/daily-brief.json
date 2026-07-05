@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T11:36:35.053832Z",
+  "generated_at": "2026-07-05T13:43:25.584903Z",
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 20,
   "items": [
     {
       "story_id": "story_ae60d5911c44",
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7831,
-      "importance": 0.7831,
-      "importance_score": 0.7831,
+      "score": 0.7779,
+      "importance": 0.7779,
+      "importance_score": 0.7779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.947,
+        "recency": 0.9185,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -191,15 +191,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6538,
-      "importance": 0.6538,
-      "importance_score": 0.6538,
+      "score": 0.6496,
+      "importance": 0.6496,
+      "importance_score": 0.6496,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.54,
         "ai_relevance": 0.71,
-        "recency": 0.776,
+        "recency": 0.7527,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -217,55 +217,54 @@
       }
     },
     {
-      "story_id": "story_e12374b34600",
-      "title": "OpenAI，IPO 大消息",
-      "url": "https://www.huxiu.com/article/4872764.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872764.html?f=rss",
+      "story_id": "story_5b56c05ebbd2",
+      "title": "2026 中国互联网大会将举办 聚焦 AI 产业化落地、算力互联互通、数据要素市场化等核心议题",
+      "url": "https://www.gelonghui.com/live/2537326",
+      "primary_url": "https://www.gelonghui.com/live/2537326",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "c7c6699adf30cb3bcd487030ed92008e2ad89d5b",
-          "title": "OpenAI，IPO 大消息",
-          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+          "id": "11baf58cd01aa2d1e211a8d6082424f1296224ac",
+          "title": "2026 中国互联网大会将举办 聚焦 AI 产业化落地、算力互联互通、数据要素市场化等核心议题",
+          "url": "https://www.gelonghui.com/live/2537326",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "58ff0b5aedb9e839fe395f9ea222b3333d5b9848",
-          "title": "OpenAI，IPO大消息",
-          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T10:54:30Z"
+          "id": "d3a2daf5b1e0a70e6b2834d688e435f2565ae894",
+          "title": "2026 中国互联网大会将举办，聚焦 AI 产业化落地、算力互联互通等核心议题",
+          "url": "https://wallstreetcn.com/livenews/3129011",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "c7c6699adf30cb3bcd487030ed92008e2ad89d5b",
-          "title": "OpenAI，IPO 大消息",
-          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+          "id": "11baf58cd01aa2d1e211a8d6082424f1296224ac",
+          "title": "2026 中国互联网大会将举办 聚焦 AI 产业化落地、算力互联互通、数据要素市场化等核心议题",
+          "url": "https://www.gelonghui.com/live/2537326",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "58ff0b5aedb9e839fe395f9ea222b3333d5b9848",
-          "title": "OpenAI，IPO大消息",
-          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T10:54:30Z"
+          "id": "d3a2daf5b1e0a70e6b2834d688e435f2565ae894",
+          "title": "2026 中国互联网大会将举办，聚焦 AI 产业化落地、算力互联互通等核心议题",
+          "url": "https://wallstreetcn.com/livenews/3129011",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
@@ -285,14 +284,93 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T10:54:30Z",
-      "latest_at": "2026-07-05T11:36:35.053832Z",
+      "earliest_at": "2026-07-05T13:43:25.584903Z",
+      "latest_at": "2026-07-05T13:43:25.584903Z",
       "primary_item": {
-        "id": "c7c6699adf30cb3bcd487030ed92008e2ad89d5b",
-        "title": "OpenAI，IPO 大消息",
-        "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+        "id": "11baf58cd01aa2d1e211a8d6082424f1296224ac",
+        "title": "2026 中国互联网大会将举办 聚焦 AI 产业化落地、算力互联互通、数据要素市场化等核心议题",
+        "url": "https://www.gelonghui.com/live/2537326",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_44de5f528adc",
+      "title": "克劳德设计系统提示 / Claude Design System Prompt",
+      "url": "https://news.ycombinator.com/item?id=48792399",
+      "primary_url": "https://news.ycombinator.com/item?id=48792399",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "fcf645aa0c889b567ca58d551d3a8bc4dac81a97",
+          "title": "克劳德设计系统提示 / Claude Design System Prompt",
+          "url": "https://news.ycombinator.com/item?id=48792399",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T13:15:07.535000Z"
+        },
+        {
+          "id": "f87a36d546cd99be1223bb000e95ea2562d07032",
+          "title": "克劳德设计系统提示 / Claude Design System Prompt",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T08:43:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "fcf645aa0c889b567ca58d551d3a8bc4dac81a97",
+          "title": "克劳德设计系统提示 / Claude Design System Prompt",
+          "url": "https://news.ycombinator.com/item?id=48792399",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T13:15:07.535000Z"
+        },
+        {
+          "id": "f87a36d546cd99be1223bb000e95ea2562d07032",
+          "title": "克劳德设计系统提示 / Claude Design System Prompt",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T08:43:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9932,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T08:43:37Z",
+      "latest_at": "2026-07-05T13:15:07.535000Z",
+      "primary_item": {
+        "id": "fcf645aa0c889b567ca58d551d3a8bc4dac81a97",
+        "title": "克劳德设计系统提示 / Claude Design System Prompt",
+        "url": "https://news.ycombinator.com/item?id=48792399",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -349,15 +427,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9699,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -372,6 +450,85 @@
         "url": "https://github.com/hesreallyhim/awesome-claude-code",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_86b22559dc84",
+      "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
+      "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
+      "primary_url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c9394fa856aed24e10debffb50f237b97632c66b",
+          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
+          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T11:19:41.901000Z"
+        },
+        {
+          "id": "db49aa386974ea8d478b6d2055abd8b58d4e87f1",
+          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁 / My 11-year-old son used AI to build his own video game — I see it as a creativity boost, not a threat",
+          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T11:06:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "c9394fa856aed24e10debffb50f237b97632c66b",
+          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
+          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T11:19:41.901000Z"
+        },
+        {
+          "id": "db49aa386974ea8d478b6d2055abd8b58d4e87f1",
+          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁 / My 11-year-old son used AI to build his own video game — I see it as a creativity boost, not a threat",
+          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T11:06:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5397,
+      "importance": 0.5397,
+      "importance_score": 0.5397,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.966,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T11:06:01Z",
+      "latest_at": "2026-07-05T11:19:41.901000Z",
+      "primary_item": {
+        "id": "c9394fa856aed24e10debffb50f237b97632c66b",
+        "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
+        "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -447,15 +604,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5427,
-      "importance": 0.5427,
-      "importance_score": 0.5427,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8439,
+        "recency": 0.8186,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -470,164 +627,6 @@
         "url": "https://github.com/openai/codex/issues/30364",
         "source": "github.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_f3a6a004da89",
-      "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
-      "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
-      "primary_url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cf7afea64aed01d68f17a5d41f557c2957cfa10c",
-          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
-          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T09:11:39.560000Z"
-        },
-        {
-          "id": "f1e89dca83e7efc7fb77b0b25213a0e8a7eeef91",
-          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少 / AI-native startups are hiring fewer entry-level workers, Harvard study finds",
-          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T09:03:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "cf7afea64aed01d68f17a5d41f557c2957cfa10c",
-          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
-          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T09:11:39.560000Z"
-        },
-        {
-          "id": "f1e89dca83e7efc7fb77b0b25213a0e8a7eeef91",
-          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少 / AI-native startups are hiring fewer entry-level workers, Harvard study finds",
-          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T09:03:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9657,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T09:03:02Z",
-      "latest_at": "2026-07-05T09:11:39.560000Z",
-      "primary_item": {
-        "id": "cf7afea64aed01d68f17a5d41f557c2957cfa10c",
-        "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
-        "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_854a38c44b10",
-      "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-      "url": "https://news.ycombinator.com/item?id=48791380",
-      "primary_url": "https://news.ycombinator.com/item?id=48791380",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
-          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-          "url": "https://news.ycombinator.com/item?id=48791380",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T07:28:57.278000Z"
-        },
-        {
-          "id": "7099819c095c4c195d71135dec37d895ad569659",
-          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-          "url": "https://hic-ai.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T05:01:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
-          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-          "url": "https://news.ycombinator.com/item?id=48791380",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T07:28:57.278000Z"
-        },
-        {
-          "id": "7099819c095c4c195d71135dec37d895ad569659",
-          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-          "url": "https://hic-ai.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T05:01:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5354,
-      "importance": 0.5354,
-      "importance_score": 0.5354,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9421,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T05:01:14Z",
-      "latest_at": "2026-07-05T07:28:57.278000Z",
-      "primary_item": {
-        "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
-        "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-        "url": "https://news.ycombinator.com/item?id=48791380",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -683,15 +682,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5283,
-      "importance": 0.5283,
-      "importance_score": 0.5283,
+      "score": 0.5234,
+      "importance": 0.5234,
+      "importance_score": 0.5234,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9025,
+        "recency": 0.8754,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -706,6 +705,85 @@
         "url": "https://www.hogbaysoftware.com/posts/moby-dick-workout",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_e12374b34600",
+      "title": "OpenAI，IPO 大消息",
+      "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872764.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "c7c6699adf30cb3bcd487030ed92008e2ad89d5b",
+          "title": "OpenAI，IPO 大消息",
+          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "58ff0b5aedb9e839fe395f9ea222b3333d5b9848",
+          "title": "OpenAI，IPO大消息",
+          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T10:54:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "c7c6699adf30cb3bcd487030ed92008e2ad89d5b",
+          "title": "OpenAI，IPO 大消息",
+          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "58ff0b5aedb9e839fe395f9ea222b3333d5b9848",
+          "title": "OpenAI，IPO大消息",
+          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T10:54:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9699,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T10:54:30Z",
+      "latest_at": "2026-07-05T11:36:35.053832Z",
+      "primary_item": {
+        "id": "c7c6699adf30cb3bcd487030ed92008e2ad89d5b",
+        "title": "OpenAI，IPO 大消息",
+        "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -762,15 +840,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9699,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -788,30 +866,30 @@
       }
     },
     {
-      "story_id": "story_141dc99ed661",
-      "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-      "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-      "primary_url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+      "story_id": "story_f3a6a004da89",
+      "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
+      "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
+      "primary_url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "19017868000fe1555529a118219dd004ce6095fe",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "id": "cf7afea64aed01d68f17a5d41f557c2957cfa10c",
+          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
+          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-05T08:55:31.703000Z"
+          "published_at": "2026-07-05T09:11:39.560000Z"
         },
         {
-          "id": "e33a82fb6087d743c5e2606ffefd9cea3af41eff",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。 / I've been a trucker for nearly 5 decades. AI made the job safer, but autonomous trucks still need to prove themselves.",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "id": "f1e89dca83e7efc7fb77b0b25213a0e8a7eeef91",
+          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少 / AI-native startups are hiring fewer entry-level workers, Harvard study finds",
+          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-05T08:41:01Z"
+          "published_at": "2026-07-05T09:03:02Z"
         }
       ],
       "source_count": 2,
@@ -821,47 +899,47 @@
       ],
       "items": [
         {
-          "id": "19017868000fe1555529a118219dd004ce6095fe",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "id": "cf7afea64aed01d68f17a5d41f557c2957cfa10c",
+          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
+          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-05T08:55:31.703000Z"
+          "published_at": "2026-07-05T09:11:39.560000Z"
         },
         {
-          "id": "e33a82fb6087d743c5e2606ffefd9cea3af41eff",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。 / I've been a trucker for nearly 5 decades. AI made the job safer, but autonomous trucks still need to prove themselves.",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "id": "f1e89dca83e7efc7fb77b0b25213a0e8a7eeef91",
+          "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少 / AI-native startups are hiring fewer entry-level workers, Harvard study finds",
+          "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-05T08:41:01Z"
+          "published_at": "2026-07-05T09:03:02Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.539,
-      "importance": 0.539,
-      "importance_score": 0.539,
+      "score": 0.5344,
+      "importance": 0.5344,
+      "importance_score": 0.5344,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.962,
+        "recency": 0.9367,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T08:41:01Z",
-      "latest_at": "2026-07-05T08:55:31.703000Z",
+      "earliest_at": "2026-07-05T09:03:02Z",
+      "latest_at": "2026-07-05T09:11:39.560000Z",
       "primary_item": {
-        "id": "19017868000fe1555529a118219dd004ce6095fe",
-        "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-        "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+        "id": "cf7afea64aed01d68f17a5d41f557c2957cfa10c",
+        "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
+        "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -919,15 +997,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5064,
-      "importance": 0.5064,
-      "importance_score": 0.5064,
+      "score": 0.5022,
+      "importance": 0.5022,
+      "importance_score": 0.5022,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7811,
+        "recency": 0.7576,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -997,15 +1075,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5047,
-      "importance": 0.5047,
-      "importance_score": 0.5047,
+      "score": 0.5005,
+      "importance": 0.5005,
+      "importance_score": 0.5005,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7718,
+        "recency": 0.7486,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1018,6 +1096,320 @@
         "id": "0796e7b4d7d75131ba3b950071c57763285790f0",
         "title": "[Claude Code] 放弃折腾 claude 了，请给我推荐纯血的 claude 的中转站",
         "url": "https://www.v2ex.com/t/1225009",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_854a38c44b10",
+      "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+      "url": "https://news.ycombinator.com/item?id=48791380",
+      "primary_url": "https://news.ycombinator.com/item?id=48791380",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://news.ycombinator.com/item?id=48791380",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T07:28:57.278000Z"
+        },
+        {
+          "id": "7099819c095c4c195d71135dec37d895ad569659",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://hic-ai.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T05:01:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://news.ycombinator.com/item?id=48791380",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T07:28:57.278000Z"
+        },
+        {
+          "id": "7099819c095c4c195d71135dec37d895ad569659",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://hic-ai.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T05:01:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5303,
+      "importance": 0.5303,
+      "importance_score": 0.5303,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9138,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T05:01:14Z",
+      "latest_at": "2026-07-05T07:28:57.278000Z",
+      "primary_item": {
+        "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+        "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+        "url": "https://news.ycombinator.com/item?id=48791380",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_212c09bd917e",
+      "title": "无人机自主 (2021) / Drone Autonomy (2021)",
+      "url": "https://www.cggonzalez.com/blog/index.html",
+      "primary_url": "https://www.cggonzalez.com/blog/index.html",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "102dcc9f0483b55e1961b11e0a357fce2dfb1705",
+          "title": "无人机自主 (2021) / Drone Autonomy (2021)",
+          "url": "https://www.cggonzalez.com/blog/index.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T23:22:15Z"
+        },
+        {
+          "id": "e3a40c848379619601668a5028136a155dfa63ab",
+          "title": "无人机自主速成课程 / Drone Autonomy Crash Course",
+          "url": "https://www.cggonzalez.com/blog/index.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T23:22:15Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "102dcc9f0483b55e1961b11e0a357fce2dfb1705",
+          "title": "无人机自主 (2021) / Drone Autonomy (2021)",
+          "url": "https://www.cggonzalez.com/blog/index.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T23:22:15Z"
+        },
+        {
+          "id": "e3a40c848379619601668a5028136a155dfa63ab",
+          "title": "无人机自主速成课程 / Drone Autonomy Crash Course",
+          "url": "https://www.cggonzalez.com/blog/index.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T23:22:15Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5121,
+      "importance": 0.5121,
+      "importance_score": 0.5121,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8128,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T23:22:15Z",
+      "latest_at": "2026-07-04T23:22:15Z",
+      "primary_item": {
+        "id": "102dcc9f0483b55e1961b11e0a357fce2dfb1705",
+        "title": "无人机自主 (2021) / Drone Autonomy (2021)",
+        "url": "https://www.cggonzalez.com/blog/index.html",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_141dc99ed661",
+      "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
+      "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+      "primary_url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "19017868000fe1555529a118219dd004ce6095fe",
+          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
+          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T08:55:31.703000Z"
+        },
+        {
+          "id": "e33a82fb6087d743c5e2606ffefd9cea3af41eff",
+          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。 / I've been a trucker for nearly 5 decades. AI made the job safer, but autonomous trucks still need to prove themselves.",
+          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T08:41:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "19017868000fe1555529a118219dd004ce6095fe",
+          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
+          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T08:55:31.703000Z"
+        },
+        {
+          "id": "e33a82fb6087d743c5e2606ffefd9cea3af41eff",
+          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。 / I've been a trucker for nearly 5 decades. AI made the job safer, but autonomous trucks still need to prove themselves.",
+          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T08:41:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5338,
+      "importance": 0.5338,
+      "importance_score": 0.5338,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9331,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T08:41:01Z",
+      "latest_at": "2026-07-05T08:55:31.703000Z",
+      "primary_item": {
+        "id": "19017868000fe1555529a118219dd004ce6095fe",
+        "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
+        "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_09d5ebd5eb2a",
+      "title": "[Claude] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
+      "url": "https://www.v2ex.com/t/1225003",
+      "primary_url": "https://www.v2ex.com/t/1225003",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "7d353032b7daa24cf69029deb13679e494371135",
+          "title": "[Claude] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
+          "url": "https://www.v2ex.com/t/1225003",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T16:19:27Z"
+        },
+        {
+          "id": "926c3b12a08ac735cdc96746f144a82e670e9c96",
+          "title": "[程序员] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
+          "url": "https://www.v2ex.com/t/1225003",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T16:19:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "7d353032b7daa24cf69029deb13679e494371135",
+          "title": "[Claude] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
+          "url": "https://www.v2ex.com/t/1225003",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T16:19:27Z"
+        },
+        {
+          "id": "926c3b12a08ac735cdc96746f144a82e670e9c96",
+          "title": "[程序员] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
+          "url": "https://www.v2ex.com/t/1225003",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T16:19:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4979,
+      "importance": 0.4979,
+      "importance_score": 0.4979,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7342,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T16:19:27Z",
+      "latest_at": "2026-07-04T16:19:27Z",
+      "primary_item": {
+        "id": "7d353032b7daa24cf69029deb13679e494371135",
+        "title": "[Claude] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
+        "url": "https://www.v2ex.com/t/1225003",
         "source": "V2EX (创意工作者社区)",
         "source_name": "Info Flow"
       }
@@ -1076,15 +1468,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5261,
-      "importance": 0.5261,
-      "importance_score": 0.5261,
+      "score": 0.5213,
+      "importance": 0.5213,
+      "importance_score": 0.5213,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8907,
+        "recency": 0.864,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1155,15 +1547,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5257,
-      "importance": 0.5257,
-      "importance_score": 0.5257,
+      "score": 0.5209,
+      "importance": 0.5209,
+      "importance_score": 0.5209,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8882,
+        "recency": 0.8614,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1178,162 +1570,6 @@
         "url": "https://news.ycombinator.com/item?id=48789986",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_212c09bd917e",
-      "title": "无人机自主 (2021) / Drone Autonomy (2021)",
-      "url": "https://www.cggonzalez.com/blog/index.html",
-      "primary_url": "https://www.cggonzalez.com/blog/index.html",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "102dcc9f0483b55e1961b11e0a357fce2dfb1705",
-          "title": "无人机自主 (2021) / Drone Autonomy (2021)",
-          "url": "https://www.cggonzalez.com/blog/index.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T23:22:15Z"
-        },
-        {
-          "id": "e3a40c848379619601668a5028136a155dfa63ab",
-          "title": "无人机自主速成课程 / Drone Autonomy Crash Course",
-          "url": "https://www.cggonzalez.com/blog/index.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T23:22:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "102dcc9f0483b55e1961b11e0a357fce2dfb1705",
-          "title": "无人机自主 (2021) / Drone Autonomy (2021)",
-          "url": "https://www.cggonzalez.com/blog/index.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T23:22:15Z"
-        },
-        {
-          "id": "e3a40c848379619601668a5028136a155dfa63ab",
-          "title": "无人机自主速成课程 / Drone Autonomy Crash Course",
-          "url": "https://www.cggonzalez.com/blog/index.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T23:22:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5166,
-      "importance": 0.5166,
-      "importance_score": 0.5166,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.838,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T23:22:15Z",
-      "latest_at": "2026-07-04T23:22:15Z",
-      "primary_item": {
-        "id": "102dcc9f0483b55e1961b11e0a357fce2dfb1705",
-        "title": "无人机自主 (2021) / Drone Autonomy (2021)",
-        "url": "https://www.cggonzalez.com/blog/index.html",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_09d5ebd5eb2a",
-      "title": "[Claude] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
-      "url": "https://www.v2ex.com/t/1225003",
-      "primary_url": "https://www.v2ex.com/t/1225003",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "7d353032b7daa24cf69029deb13679e494371135",
-          "title": "[Claude] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
-          "url": "https://www.v2ex.com/t/1225003",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T16:19:27Z"
-        },
-        {
-          "id": "926c3b12a08ac735cdc96746f144a82e670e9c96",
-          "title": "[程序员] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
-          "url": "https://www.v2ex.com/t/1225003",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T16:19:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "7d353032b7daa24cf69029deb13679e494371135",
-          "title": "[Claude] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
-          "url": "https://www.v2ex.com/t/1225003",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T16:19:27Z"
-        },
-        {
-          "id": "926c3b12a08ac735cdc96746f144a82e670e9c96",
-          "title": "[程序员] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
-          "url": "https://www.v2ex.com/t/1225003",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T16:19:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.502,
-      "importance": 0.502,
-      "importance_score": 0.502,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7569,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T16:19:27Z",
-      "latest_at": "2026-07-04T16:19:27Z",
-      "primary_item": {
-        "id": "7d353032b7daa24cf69029deb13679e494371135",
-        "title": "[Claude] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
-        "url": "https://www.v2ex.com/t/1225003",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -1389,15 +1625,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.504,
-      "importance": 0.504,
-      "importance_score": 0.504,
+      "score": 0.4998,
+      "importance": 0.4998,
+      "importance_score": 0.4998,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7676,
+        "recency": 0.7445,
         "story_heat": 0.25
       },
       "category": "watch",
