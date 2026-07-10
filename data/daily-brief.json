@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T23:20:52.957901Z",
+  "generated_at": "2026-07-10T01:09:56.020194Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8784,
-      "importance": 0.8784,
-      "importance_score": 0.8784,
+      "score": 0.8746,
+      "importance": 0.8746,
+      "importance_score": 0.8746,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8247,
+        "recency": 0.8033,
         "story_heat": 0.5
       },
       "category": "official",
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8515,
-      "importance": 0.8515,
-      "importance_score": 0.8515,
+      "score": 0.8473,
+      "importance": 0.8473,
+      "importance_score": 0.8473,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9083,
+        "recency": 0.8848,
         "story_heat": 0.0
       },
       "category": "official",
@@ -163,87 +163,6 @@
         "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
         "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "Codex 加入 ChatGPT 桌面应用程序 / Codex joins the ChatGPT desktop app",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b7d60fb3018aa90bbfe995c47ffe695ecee22d36",
-          "title": "法典 CLI 0.144.0 / Codex CLI 0.144.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T00:00:00Z"
-        },
-        {
-          "id": "ca2f503518b74f846da513865f932f4d44ff21e6",
-          "title": "Codex 加入 ChatGPT 桌面应用程序 / Codex joins the ChatGPT desktop app",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "b7d60fb3018aa90bbfe995c47ffe695ecee22d36",
-          "title": "法典 CLI 0.144.0 / Codex CLI 0.144.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T00:00:00Z"
-        },
-        {
-          "id": "ca2f503518b74f846da513865f932f4d44ff21e6",
-          "title": "Codex 加入 ChatGPT 桌面应用程序 / Codex joins the ChatGPT desktop app",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8435,
-      "importance": 0.8435,
-      "importance_score": 0.8435,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7138,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T00:00:00Z",
-      "latest_at": "2026-07-09T00:00:00Z",
-      "primary_item": {
-        "id": "ca2f503518b74f846da513865f932f4d44ff21e6",
-        "title": "Codex 加入 ChatGPT 桌面应用程序 / Codex joins the ChatGPT desktop app",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -339,15 +258,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8386,
-      "importance": 0.8386,
-      "importance_score": 0.8386,
+      "score": 0.834,
+      "importance": 0.834,
+      "importance_score": 0.834,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9775,
+        "recency": 0.9522,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -420,15 +339,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8534,
-      "importance": 0.8534,
-      "importance_score": 0.8534,
+      "score": 0.8496,
+      "importance": 0.8496,
+      "importance_score": 0.8496,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8247,
+        "recency": 0.8033,
         "story_heat": 0.25
       },
       "category": "official",
@@ -445,68 +364,6 @@
         "title": "GPT-5.6：前沿智能，随您的雄心壮志而扩展 / GPT-5.6: Frontier intelligence that scales with your ambition",
         "url": "https://openai.com/index/gpt-5-6",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5e689a649359",
-      "title": "提出尖锐的问题 / Inviting hard questions",
-      "url": "https://www.anthropic.com/news/hard-questions",
-      "primary_url": "https://www.anthropic.com/news/hard-questions",
-      "source": "Anthropic News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "481fc63441990c45c5c1acaf92db3a2f8b247724",
-          "title": "提出尖锐的问题 / Inviting hard questions",
-          "url": "https://www.anthropic.com/news/hard-questions",
-          "source": "Anthropic News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic News"
-      ],
-      "items": [
-        {
-          "id": "481fc63441990c45c5c1acaf92db3a2f8b247724",
-          "title": "提出尖锐的问题 / Inviting hard questions",
-          "url": "https://www.anthropic.com/news/hard-questions",
-          "source": "Anthropic News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7138,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T00:00:00Z",
-      "latest_at": "2026-07-09T00:00:00Z",
-      "primary_item": {
-        "id": "481fc63441990c45c5c1acaf92db3a2f8b247724",
-        "title": "提出尖锐的问题 / Inviting hard questions",
-        "url": "https://www.anthropic.com/news/hard-questions",
-        "source": "Anthropic News",
         "source_name": "Official AI Updates"
       }
     },
@@ -545,15 +402,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8302,
-      "importance": 0.8302,
-      "importance_score": 0.8302,
+      "score": 0.8261,
+      "importance": 0.8261,
+      "importance_score": 0.8261,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8791,
+        "recency": 0.8563,
         "story_heat": 0.0
       },
       "category": "official",
@@ -626,15 +483,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.792,
-      "importance": 0.792,
-      "importance_score": 0.792,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9802,
+        "recency": 0.9548,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -688,15 +545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.843,
-      "importance": 0.843,
-      "importance_score": 0.843,
+      "score": 0.839,
+      "importance": 0.839,
+      "importance_score": 0.839,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8612,
+        "recency": 0.8389,
         "story_heat": 0.0
       },
       "category": "official",
@@ -769,15 +626,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
+      "score": 0.7681,
+      "importance": 0.7681,
+      "importance_score": 0.7681,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8696,
+        "recency": 0.8471,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -794,6 +651,67 @@
         "url": "https://www.anthropic.com/news/reflect-with-claude",
         "source": "Anthropic：Newsroom（网页）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d738e13faca6",
+      "title": "AI初创公司Lyzr利用自主研发代理自主完成1亿美元B轮融资",
+      "url": "https://www.aibase.com/news/29506",
+      "primary_url": "https://www.aibase.com/news/29506",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f84bb619b9fc21f341ed1e1f9ecfaeec0217a1ef",
+          "title": "AI初创公司Lyzr利用自主研发代理自主完成1亿美元B轮融资",
+          "url": "https://www.aibase.com/news/29506",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-10T01:09:56.020194Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f84bb619b9fc21f341ed1e1f9ecfaeec0217a1ef",
+          "title": "AI初创公司Lyzr利用自主研发代理自主完成1亿美元B轮融资",
+          "url": "https://www.aibase.com/news/29506",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-10T01:09:56.020194Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T01:09:56.020194Z",
+      "latest_at": "2026-07-10T01:09:56.020194Z",
+      "primary_item": {
+        "id": "f84bb619b9fc21f341ed1e1f9ecfaeec0217a1ef",
+        "title": "AI初创公司Lyzr利用自主研发代理自主完成1亿美元B轮融资",
+        "url": "https://www.aibase.com/news/29506",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -831,15 +749,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8256,
-      "importance": 0.8256,
-      "importance_score": 0.8256,
+      "score": 0.8215,
+      "importance": 0.8215,
+      "importance_score": 0.8215,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.898,
+        "recency": 0.8748,
         "story_heat": 0.0
       },
       "category": "official",
@@ -856,6 +774,67 @@
         "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ff9f8581ffa8",
+      "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
+      "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
+      "primary_url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
+      "source": "Google Research：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b36e620ca8e006a1ebf8069cf9c8c409586b02c0",
+          "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
+          "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
+          "source": "Google Research：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T00:20:20.110000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Research：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "b36e620ca8e006a1ebf8069cf9c8c409586b02c0",
+          "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
+          "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
+          "source": "Google Research：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T00:20:20.110000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9881,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T00:20:20.110000Z",
+      "latest_at": "2026-07-10T00:20:20.110000Z",
+      "primary_item": {
+        "id": "b36e620ca8e006a1ebf8069cf9c8c409586b02c0",
+        "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
+        "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
+        "source": "Google Research：Blog（网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -912,15 +891,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7916,
-      "importance": 0.7916,
-      "importance_score": 0.7916,
+      "score": 0.7871,
+      "importance": 0.7871,
+      "importance_score": 0.7871,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9779,
+        "recency": 0.9525,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -993,15 +972,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7885,
+        "recency": 0.7681,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1018,87 +997,6 @@
         "url": "https://www.ithome.com/0/974/508.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_398f729202f4",
-      "title": "Meta被曝研发全天候AI眼镜：支持超级感知与无感音视频捕捉",
-      "url": "https://www.aibase.com/news/29496",
-      "primary_url": "https://www.aibase.com/news/29496",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1cc4a40104b9283c6e7f1c2cb6e337e89d615f8e",
-          "title": "Meta被曝研发全天候AI眼镜：支持超级感知与无感音视频捕捉",
-          "url": "https://www.aibase.com/news/29496",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-09T07:02:58.047871Z"
-        },
-        {
-          "id": "53940b9681123aed85fcfbbf2a419051b6ce5b52",
-          "title": "Meta 被曝研发全天候 AI 眼镜：支持超级感知与无感音视频捕捉",
-          "url": "https://www.aibase.com/zh/news/29496",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "1cc4a40104b9283c6e7f1c2cb6e337e89d615f8e",
-          "title": "Meta被曝研发全天候AI眼镜：支持超级感知与无感音视频捕捉",
-          "url": "https://www.aibase.com/news/29496",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-09T07:02:58.047871Z"
-        },
-        {
-          "id": "53940b9681123aed85fcfbbf2a419051b6ce5b52",
-          "title": "Meta 被曝研发全天候 AI 眼镜：支持超级感知与无感音视频捕捉",
-          "url": "https://www.aibase.com/zh/news/29496",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7903,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T07:02:58.047871Z",
-      "latest_at": "2026-07-09T07:02:58.047871Z",
-      "primary_item": {
-        "id": "1cc4a40104b9283c6e7f1c2cb6e337e89d615f8e",
-        "title": "Meta被曝研发全天候AI眼镜：支持超级感知与无感音视频捕捉",
-        "url": "https://www.aibase.com/news/29496",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1155,15 +1053,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7839,
-      "importance": 0.7839,
-      "importance_score": 0.7839,
+      "score": 0.7793,
+      "importance": 0.7793,
+      "importance_score": 0.7793,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.985,
+        "recency": 0.9595,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1236,22 +1134,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8104,
+        "recency": 0.7894,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-09T08:47:37Z",
       "latest_at": "2026-07-09T08:47:37Z",
@@ -1298,21 +1195,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9148,
+        "recency": 0.8911,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-09T17:10:58Z",
       "latest_at": "2026-07-09T17:10:58Z",
@@ -1359,21 +1255,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7508,
-      "importance": 0.7508,
-      "importance_score": 0.7508,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9731,
+        "recency": 0.9479,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-09T21:27:27Z",
       "latest_at": "2026-07-09T21:27:27Z",
@@ -1420,15 +1315,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7419,
-      "importance": 0.7419,
-      "importance_score": 0.7419,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8739,
+        "recency": 0.8513,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1443,6 +1338,67 @@
         "url": "https://x.com/OpenBMB/status/2075218678027850154",
         "source": "X：面壁智能 OpenBMB (@OpenBMB)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c6c82df6103f",
+      "title": "OpenAI发布GPT-5.6模型系列:Sol、Terra、Luna三版本上线，主打网络安全与高性价比",
+      "url": "https://www.aibase.com/news/29504",
+      "primary_url": "https://www.aibase.com/news/29504",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c96c41cd2f0b2ee286f65a065ce847b1b2bd982b",
+          "title": "OpenAI发布GPT-5.6模型系列:Sol、Terra、Luna三版本上线，主打网络安全与高性价比",
+          "url": "https://www.aibase.com/news/29504",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-10T01:09:56.020194Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c96c41cd2f0b2ee286f65a065ce847b1b2bd982b",
+          "title": "OpenAI发布GPT-5.6模型系列:Sol、Terra、Luna三版本上线，主打网络安全与高性价比",
+          "url": "https://www.aibase.com/news/29504",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-10T01:09:56.020194Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T01:09:56.020194Z",
+      "latest_at": "2026-07-10T01:09:56.020194Z",
+      "primary_item": {
+        "id": "c96c41cd2f0b2ee286f65a065ce847b1b2bd982b",
+        "title": "OpenAI发布GPT-5.6模型系列:Sol、Terra、Luna三版本上线，主打网络安全与高性价比",
+        "url": "https://www.aibase.com/news/29504",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1480,15 +1436,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8284,
-      "importance": 0.8284,
-      "importance_score": 0.8284,
+      "score": 0.8246,
+      "importance": 0.8246,
+      "importance_score": 0.8246,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8247,
+        "recency": 0.8033,
         "story_heat": 0.0
       },
       "category": "official",
