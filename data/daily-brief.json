@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-07-10T15:13:34.550035Z",
+  "generated_at": "2026-07-10T17:18:49.669096Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_6e4b204fac83",
+      "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
+      "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6c466be7f4e3747a9ce02c3d3ca10b9bffad94bc",
+          "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
+          "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T15:57:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "6c466be7f4e3747a9ce02c3d3ca10b9bffad94bc",
+          "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
+          "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T15:57:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8485,
+      "importance": 0.8485,
+      "importance_score": 0.8485,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9807,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T15:57:47Z",
+      "latest_at": "2026-07-10T15:57:47Z",
+      "primary_item": {
+        "id": "6c466be7f4e3747a9ce02c3d3ca10b9bffad94bc",
+        "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
+        "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_fd60211f7949",
       "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions",
@@ -38,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8383,
-      "importance": 0.8383,
-      "importance_score": 0.8383,
+      "score": 0.8334,
+      "importance": 0.8334,
+      "importance_score": 0.8334,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9241,
+        "recency": 0.8966,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8318,
-      "importance": 0.8318,
-      "importance_score": 0.8318,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.888,
+        "recency": 0.8616,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8245,
-      "importance": 0.8245,
-      "importance_score": 0.8245,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8026,
+        "recency": 0.7788,
         "story_heat": 0.0
       },
       "category": "official",
@@ -186,187 +248,6 @@
         "title": "PyTorch 中的分析（第 3 部分）：注意力就是您的分析 / Profiling in PyTorch (Part 3): Attention is all you profile",
         "url": "https://huggingface.co/blog/torch-attention-profile",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_85dcb3893dbd",
-      "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
-      "url": "https://www.pangram.com/blog/ai-in-your-feed",
-      "primary_url": "https://www.pangram.com/blog/ai-in-your-feed",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "def3d15bc2e0372670e0a0a59f467878d6305648",
-          "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
-          "url": "https://www.pangram.com/blog/ai-in-your-feed",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:29.789000Z"
-        },
-        {
-          "id": "7c4224b2bf3d3481d8a9199883b1d125e5208293",
-          "title": "社交媒体上随处可见AI生成的内容，尤其是LinkedIn上",
-          "url": "https://www.pangram.com/blog/ai-in-your-feed",
-          "source": "www.pangram.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-09T21:46:29.789000Z"
-        },
-        {
-          "id": "a45e5f56df548b7bcc13bd7d47a4c40bda1712cd",
-          "title": "社交媒体上人工智能内容无处不在，尤其是 LinkedIn / AI content is everywhere on social media, especially LinkedIn",
-          "url": "https://news.ycombinator.com/item?id=48847940",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-09T16:15:01.703000Z"
-        },
-        {
-          "id": "be50040874e3147f6f0b58b2d60cf5a7a12d358b",
-          "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作 / AI Content Is Everywhere on Social Media, Especially LinkedIn",
-          "url": "https://www.pangram.com/blog/ai-in-your-feed",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-09T15:50:09Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "www.pangram.com"
-      ],
-      "items": [
-        {
-          "id": "def3d15bc2e0372670e0a0a59f467878d6305648",
-          "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
-          "url": "https://www.pangram.com/blog/ai-in-your-feed",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:29.789000Z"
-        },
-        {
-          "id": "7c4224b2bf3d3481d8a9199883b1d125e5208293",
-          "title": "社交媒体上随处可见AI生成的内容，尤其是LinkedIn上",
-          "url": "https://www.pangram.com/blog/ai-in-your-feed",
-          "source": "www.pangram.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-09T21:46:29.789000Z"
-        },
-        {
-          "id": "a45e5f56df548b7bcc13bd7d47a4c40bda1712cd",
-          "title": "社交媒体上人工智能内容无处不在，尤其是 LinkedIn / AI content is everywhere on social media, especially LinkedIn",
-          "url": "https://news.ycombinator.com/item?id=48847940",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-09T16:15:01.703000Z"
-        },
-        {
-          "id": "be50040874e3147f6f0b58b2d60cf5a7a12d358b",
-          "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作 / AI Content Is Everywhere on Social Media, Especially LinkedIn",
-          "url": "https://www.pangram.com/blog/ai-in-your-feed",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-09T15:50:09Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8025,
-      "importance": 0.8025,
-      "importance_score": 0.8025,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7772,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T15:50:09Z",
-      "latest_at": "2026-07-09T21:46:29.789000Z",
-      "primary_item": {
-        "id": "def3d15bc2e0372670e0a0a59f467878d6305648",
-        "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
-        "url": "https://www.pangram.com/blog/ai-in-your-feed",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_281a7d3afe46",
-      "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fa18e95f858a261e76d8f19b4dfdd2c05fdf5a7a",
-          "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T16:41:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "fa18e95f858a261e76d8f19b4dfdd2c05fdf5a7a",
-          "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T16:41:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.818,
-      "importance": 0.818,
-      "importance_score": 0.818,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7222,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T16:41:29Z",
-      "latest_at": "2026-07-09T16:41:29Z",
-      "primary_item": {
-        "id": "fa18e95f858a261e76d8f19b4dfdd2c05fdf5a7a",
-        "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -424,15 +305,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7824,
-      "importance": 0.7824,
-      "importance_score": 0.7824,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8936,
+        "recency": 0.8671,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -449,6 +330,68 @@
         "url": "https://www.ithome.com/0/975/078.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fe91bd7e0d00",
+      "title": "新的拉取请求仪表板现已普遍可用 / New pull requests dashboard is now generally available",
+      "url": "https://github.blog/changelog/2026-07-09-new-pull-requests-dashboard-is-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-09-new-pull-requests-dashboard-is-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "20e9cf271e8a82d7dec1f3a350b01cc78d9a6fa8",
+          "title": "新的拉取请求仪表板现已普遍可用 / New pull requests dashboard is now generally available",
+          "url": "https://github.blog/changelog/2026-07-09-new-pull-requests-dashboard-is-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-09T20:48:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "20e9cf271e8a82d7dec1f3a350b01cc78d9a6fa8",
+          "title": "新的拉取请求仪表板现已普遍可用 / New pull requests dashboard is now generally available",
+          "url": "https://github.blog/changelog/2026-07-09-new-pull-requests-dashboard-is-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-09T20:48:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7979,
+      "importance": 0.7979,
+      "importance_score": 0.7979,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7437,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T20:48:29Z",
+      "latest_at": "2026-07-09T20:48:29Z",
+      "primary_item": {
+        "id": "20e9cf271e8a82d7dec1f3a350b01cc78d9a6fa8",
+        "title": "新的拉取请求仪表板现已普遍可用 / New pull requests dashboard is now generally available",
+        "url": "https://github.blog/changelog/2026-07-09-new-pull-requests-dashboard-is-now-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -486,15 +429,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.982,
+        "recency": 0.9528,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -547,15 +490,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8924,
+        "recency": 0.8659,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -627,15 +570,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7559,
-      "importance": 0.7559,
-      "importance_score": 0.7559,
+      "score": 0.7517,
+      "importance": 0.7517,
+      "importance_score": 0.7517,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7793,
+        "recency": 0.7562,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -689,21 +632,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9225,
+        "recency": 0.8951,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-10T09:38:25.501058Z",
       "latest_at": "2026-07-10T09:38:25.501058Z",
@@ -713,6 +655,86 @@
         "url": "https://www.aibase.com/news/29529",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_85dcb3893dbd",
+      "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
+      "url": "https://www.pangram.com/blog/ai-in-your-feed",
+      "primary_url": "https://www.pangram.com/blog/ai-in-your-feed",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "def3d15bc2e0372670e0a0a59f467878d6305648",
+          "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
+          "url": "https://www.pangram.com/blog/ai-in-your-feed",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T21:46:29.789000Z"
+        },
+        {
+          "id": "7c4224b2bf3d3481d8a9199883b1d125e5208293",
+          "title": "社交媒体上随处可见AI生成的内容，尤其是LinkedIn上",
+          "url": "https://www.pangram.com/blog/ai-in-your-feed",
+          "source": "www.pangram.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-09T21:46:29.789000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.pangram.com"
+      ],
+      "items": [
+        {
+          "id": "def3d15bc2e0372670e0a0a59f467878d6305648",
+          "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
+          "url": "https://www.pangram.com/blog/ai-in-your-feed",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T21:46:29.789000Z"
+        },
+        {
+          "id": "7c4224b2bf3d3481d8a9199883b1d125e5208293",
+          "title": "社交媒体上随处可见AI生成的内容，尤其是LinkedIn上",
+          "url": "https://www.pangram.com/blog/ai-in-your-feed",
+          "source": "www.pangram.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-09T21:46:29.789000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7542,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-09T21:46:29.789000Z",
+      "latest_at": "2026-07-09T21:46:29.789000Z",
+      "primary_item": {
+        "id": "def3d15bc2e0372670e0a0a59f467878d6305648",
+        "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
+        "url": "https://www.pangram.com/blog/ai-in-your-feed",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -750,15 +772,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9271,
+        "recency": 0.8996,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -772,6 +794,66 @@
         "title": "小红书发布大模型新架构 PIPO",
         "url": "https://mp.weixin.qq.com/s/1eo7rrCAH-OA0TnXwwqJEg",
         "source": "公众号：小红书技术（dots.llm）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_bd0e80076c59",
+      "title": "Perplexity 推出跨模型信用额度分析功能",
+      "url": "https://x.com/perplexity_ai/status/2075599540640714863",
+      "primary_url": "https://x.com/perplexity_ai/status/2075599540640714863",
+      "source": "X：Perplexity (@perplexity_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9875efa23f5875c362188fa81001858ac4b75317",
+          "title": "Perplexity 推出跨模型信用额度分析功能",
+          "url": "https://x.com/perplexity_ai/status/2075599540640714863",
+          "source": "X：Perplexity (@perplexity_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T15:14:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Perplexity (@perplexity_ai)"
+      ],
+      "items": [
+        {
+          "id": "9875efa23f5875c362188fa81001858ac4b75317",
+          "title": "Perplexity 推出跨模型信用额度分析功能",
+          "url": "https://x.com/perplexity_ai/status/2075599540640714863",
+          "source": "X：Perplexity (@perplexity_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T15:14:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9705,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-10T15:14:27Z",
+      "latest_at": "2026-07-10T15:14:27Z",
+      "primary_item": {
+        "id": "9875efa23f5875c362188fa81001858ac4b75317",
+        "title": "Perplexity 推出跨模型信用额度分析功能",
+        "url": "https://x.com/perplexity_ai/status/2075599540640714863",
+        "source": "X：Perplexity (@perplexity_ai)",
         "source_name": "AI HOT"
       }
     },
@@ -810,15 +892,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8911,
+        "recency": 0.8647,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -833,68 +915,6 @@
         "url": "https://x.com/elonmusk/status/2075478792273842370",
         "source": "X：Elon Musk (@elonmusk, xAI)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_76bc3afbe01a",
-      "title": "GitHub 代码质量的组织级目标 / Organization-level targeting for GitHub Code Quality",
-      "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
-      "primary_url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6336487e95335ac0c06fab5a2323f3a386d5b017",
-          "title": "GitHub 代码质量的组织级目标 / Organization-level targeting for GitHub Code Quality",
-          "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T15:54:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6336487e95335ac0c06fab5a2323f3a386d5b017",
-          "title": "GitHub 代码质量的组织级目标 / Organization-level targeting for GitHub Code Quality",
-          "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T15:54:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7925,
-      "importance": 0.7925,
-      "importance_score": 0.7925,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.714,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T15:54:01Z",
-      "latest_at": "2026-07-09T15:54:01Z",
-      "primary_item": {
-        "id": "6336487e95335ac0c06fab5a2323f3a386d5b017",
-        "title": "GitHub 代码质量的组织级目标 / Organization-level targeting for GitHub Code Quality",
-        "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -951,15 +971,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7308,
-      "importance": 0.7308,
-      "importance_score": 0.7308,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8232,
+        "recency": 0.7988,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1012,15 +1032,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7268,
-      "importance": 0.7268,
-      "importance_score": 0.7268,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8066,
+        "recency": 0.7826,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1091,15 +1111,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7775,
+        "recency": 0.7544,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1153,21 +1173,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9225,
+        "recency": 0.8951,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-10T09:38:25.501058Z",
       "latest_at": "2026-07-10T09:38:25.501058Z",
@@ -1232,15 +1251,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7772,
+        "recency": 0.7541,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1293,21 +1312,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9225,
+        "recency": 0.8951,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-10T09:38:25.501058Z",
       "latest_at": "2026-07-10T09:38:25.501058Z",
@@ -1317,66 +1335,6 @@
         "url": "https://www.aibase.com/news/29528",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_25475716ab25",
-      "title": "微软发布Flint：面向AI智能体的可视化语言",
-      "url": "https://microsoft.github.io/flint-chart",
-      "primary_url": "https://microsoft.github.io/flint-chart",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3d6e69ce22c9226faa408a6367bd9ba9390c6635",
-          "title": "微软发布Flint：面向AI智能体的可视化语言",
-          "url": "https://microsoft.github.io/flint-chart",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:19.253000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "3d6e69ce22c9226faa408a6367bd9ba9390c6635",
-          "title": "微软发布Flint：面向AI智能体的可视化语言",
-          "url": "https://microsoft.github.io/flint-chart",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:19.253000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7365,
-      "importance": 0.7365,
-      "importance_score": 0.7365,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7772,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-09T21:46:19.253000Z",
-      "latest_at": "2026-07-09T21:46:19.253000Z",
-      "primary_item": {
-        "id": "3d6e69ce22c9226faa408a6367bd9ba9390c6635",
-        "title": "微软发布Flint：面向AI智能体的可视化语言",
-        "url": "https://microsoft.github.io/flint-chart",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     }
   ]
