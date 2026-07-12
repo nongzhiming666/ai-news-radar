@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T12:02:32.669199Z",
+  "generated_at": "2026-07-12T14:04:17.700886Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8092,
-      "importance": 0.8092,
-      "importance_score": 0.8092,
+      "score": 0.8046,
+      "importance": 0.8046,
+      "importance_score": 0.8046,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8698,
+        "recency": 0.8447,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7825,
-      "importance": 0.7825,
-      "importance_score": 0.7825,
+      "score": 0.7775,
+      "importance": 0.7775,
+      "importance_score": 0.7775,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9607,
+        "recency": 0.9329,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -238,15 +238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
+      "score": 0.7721,
+      "importance": 0.7721,
+      "importance_score": 0.7721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8609,
+        "recency": 0.836,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -319,15 +319,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7745,
-      "importance": 0.7745,
-      "importance_score": 0.7745,
+      "score": 0.7701,
+      "importance": 0.7701,
+      "importance_score": 0.7701,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8495,
+        "recency": 0.8249,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -400,15 +400,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7788,
-      "importance": 0.7788,
-      "importance_score": 0.7788,
+      "score": 0.7742,
+      "importance": 0.7742,
+      "importance_score": 0.7742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8902,
+        "recency": 0.8645,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -462,15 +462,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8797,
+        "recency": 0.8543,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -541,15 +541,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
+      "score": 0.7329,
+      "importance": 0.7329,
+      "importance_score": 0.7329,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7571,
+        "recency": 0.7352,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -621,15 +621,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8728,
+        "recency": 0.8476,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -702,22 +702,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7604,
+        "recency": 0.7384,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-11T17:04:28Z",
       "latest_at": "2026-07-11T17:04:28Z",
@@ -783,15 +782,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7543,
+        "recency": 0.7325,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -864,15 +863,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
+      "score": 0.7522,
+      "importance": 0.7522,
+      "importance_score": 0.7522,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8327,
+        "recency": 0.8087,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -980,15 +979,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6137,
-      "importance": 0.6137,
-      "importance_score": 0.6137,
+      "score": 0.6097,
+      "importance": 0.6097,
+      "importance_score": 0.6097,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.761,
+        "recency": 0.739,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1097,15 +1096,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5785,
-      "importance": 0.5785,
-      "importance_score": 0.5785,
+      "score": 0.5738,
+      "importance": 0.5738,
+      "importance_score": 0.5738,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.904,
+        "recency": 0.8779,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1120,6 +1119,85 @@
         "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
         "source": "pluralistic.net",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_79354e1b81c7",
+      "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
+      "url": "https://www.huxiu.com/article/4874651.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4874651.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "2f73b85ce310166279bd6f41b12db5f86db47840",
+          "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
+          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c96c2c820fa8341624ea5d57bbd3ee17cb4b3e41",
+          "title": "10倍生产力和打折的支付能力，AI最大的矛盾如何破局？",
+          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T12:53:09Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "2f73b85ce310166279bd6f41b12db5f86db47840",
+          "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
+          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c96c2c820fa8341624ea5d57bbd3ee17cb4b3e41",
+          "title": "10倍生产力和打折的支付能力，AI最大的矛盾如何破局？",
+          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T12:53:09Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T12:53:09Z",
+      "latest_at": "2026-07-12T14:04:17.700886Z",
+      "primary_item": {
+        "id": "2f73b85ce310166279bd6f41b12db5f86db47840",
+        "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
+        "url": "https://www.huxiu.com/article/4874651.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1176,15 +1254,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5406,
+      "importance": 0.5406,
+      "importance_score": 0.5406,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9713,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1255,15 +1333,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5447,
-      "importance": 0.5447,
-      "importance_score": 0.5447,
+      "score": 0.5396,
+      "importance": 0.5396,
+      "importance_score": 0.5396,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.994,
+        "recency": 0.9653,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1334,15 +1412,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5436,
-      "importance": 0.5436,
-      "importance_score": 0.5436,
+      "score": 0.5385,
+      "importance": 0.5385,
+      "importance_score": 0.5385,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9877,
+        "recency": 0.9592,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1432,15 +1510,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.5377,
+      "importance": 0.5377,
+      "importance_score": 0.5377,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8402,
+        "recency": 0.8159,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1510,15 +1588,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5395,
-      "importance": 0.5395,
-      "importance_score": 0.5395,
+      "score": 0.5345,
+      "importance": 0.5345,
+      "importance_score": 0.5345,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9649,
+        "recency": 0.937,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1533,85 +1611,6 @@
         "url": "https://www.v2ex.com/t/1226732",
         "source": "V2EX (创意工作者社区)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_46f7a3ba9112",
-      "title": "赛意信息：公司 AI 领域战略规划分阶段有序推进",
-      "url": "https://36kr.com/newsflashes/3892334246345222?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3892334246345222?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "a11a9f2072ab694a129282f61058fabd3d576d19",
-          "title": "赛意信息：公司 AI 领域战略规划分阶段有序推进",
-          "url": "https://36kr.com/newsflashes/3892334246345222?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "9c8cd2aa169679b8aa4519ed1028a946bc578ed9",
-          "title": "赛意信息：公司AI领域战略规划分阶段有序推进",
-          "url": "https://36kr.com/newsflashes/3892334246345222?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T07:48:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "a11a9f2072ab694a129282f61058fabd3d576d19",
-          "title": "赛意信息：公司 AI 领域战略规划分阶段有序推进",
-          "url": "https://36kr.com/newsflashes/3892334246345222?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "9c8cd2aa169679b8aa4519ed1028a946bc578ed9",
-          "title": "赛意信息：公司AI领域战略规划分阶段有序推进",
-          "url": "https://36kr.com/newsflashes/3892334246345222?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T07:48:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5382,
-      "importance": 0.5382,
-      "importance_score": 0.5382,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9577,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T07:48:18Z",
-      "latest_at": "2026-07-12T09:03:03.400648Z",
-      "primary_item": {
-        "id": "a11a9f2072ab694a129282f61058fabd3d576d19",
-        "title": "赛意信息：公司 AI 领域战略规划分阶段有序推进",
-        "url": "https://36kr.com/newsflashes/3892334246345222?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1687,15 +1686,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8128,
+        "recency": 0.7893,
         "story_heat": 0.5
       },
       "category": "multi_source",
