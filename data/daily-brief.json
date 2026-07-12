@@ -1,164 +1,8 @@
 {
-  "generated_at": "2026-07-12T09:03:03.400648Z",
+  "generated_at": "2026-07-12T10:53:39.742882Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_9c885636aaf2",
-      "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-      "url": "https://www.mixfont.com/ghost-font",
-      "primary_url": "https://www.mixfont.com/ghost-font",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "eb0c2a306d2503ddbefd65127804aca9757392ab",
-          "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:31:09.615000Z"
-        },
-        {
-          "id": "9c719a18c6ac7008e0b327dadfc75ea3ce2f0ac3",
-          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "www.mixfont.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T16:31:09.615000Z"
-        },
-        {
-          "id": "04148b5458523d25e939c0c2a26ac81bf999237b",
-          "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
-          "url": "https://news.ycombinator.com/item?id=48870381",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T15:40:23.149000Z"
-        },
-        {
-          "id": "c1e3f041770c9bdbc92726c31eeb2c7415ec4d2d",
-          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
-          "url": "https://news.ycombinator.com/item?id=48870381",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T10:42:46.864000Z"
-        },
-        {
-          "id": "9b0022a6ae175454c81b4ac1d9fb2b53d671f80b",
-          "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体 / A font that humans can read but AI cannot",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T09:36:53Z"
-        },
-        {
-          "id": "cc62ede02ce938a357a2e51d126c92f8f13e83f5",
-          "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体 / Ghost Font: A font that humans can read but AI cannot",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T09:36:53Z"
-        }
-      ],
-      "source_count": 6,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "www.mixfont.com"
-      ],
-      "items": [
-        {
-          "id": "eb0c2a306d2503ddbefd65127804aca9757392ab",
-          "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:31:09.615000Z"
-        },
-        {
-          "id": "9c719a18c6ac7008e0b327dadfc75ea3ce2f0ac3",
-          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "www.mixfont.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T16:31:09.615000Z"
-        },
-        {
-          "id": "04148b5458523d25e939c0c2a26ac81bf999237b",
-          "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
-          "url": "https://news.ycombinator.com/item?id=48870381",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T15:40:23.149000Z"
-        },
-        {
-          "id": "c1e3f041770c9bdbc92726c31eeb2c7415ec4d2d",
-          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
-          "url": "https://news.ycombinator.com/item?id=48870381",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T10:42:46.864000Z"
-        },
-        {
-          "id": "9b0022a6ae175454c81b4ac1d9fb2b53d671f80b",
-          "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体 / A font that humans can read but AI cannot",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T09:36:53Z"
-        },
-        {
-          "id": "cc62ede02ce938a357a2e51d126c92f8f13e83f5",
-          "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体 / Ghost Font: A font that humans can read but AI cannot",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T09:36:53Z"
-        }
-      ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.8384,
-      "importance": 0.8384,
-      "importance_score": 0.8384,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7876,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-11T09:36:53Z",
-      "latest_at": "2026-07-11T16:31:09.615000Z",
-      "primary_item": {
-        "id": "eb0c2a306d2503ddbefd65127804aca9757392ab",
-        "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-        "url": "https://www.mixfont.com/ghost-font",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
     {
       "story_id": "story_3822e0e0e383",
       "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
@@ -232,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8161,
-      "importance": 0.8161,
-      "importance_score": 0.8161,
+      "score": 0.8118,
+      "importance": 0.8118,
+      "importance_score": 0.8118,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9082,
+        "recency": 0.8844,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -256,6 +100,87 @@
         "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
         "url": "https://www.iroh.computer/blog/mesh-llm",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2e50379c134a",
+      "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
+      "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
+      "primary_url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "40b04024e4d42805d7dd204ba5ea764dac00d99a",
+          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
+          "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T09:15:49Z"
+        },
+        {
+          "id": "4183d44328a5f1e7e0afa6dc2e6118e6207f05ac",
+          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论 / OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
+          "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-12T09:15:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "40b04024e4d42805d7dd204ba5ea764dac00d99a",
+          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
+          "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T09:15:49Z"
+        },
+        {
+          "id": "4183d44328a5f1e7e0afa6dc2e6118e6207f05ac",
+          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论 / OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
+          "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-12T09:15:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9767,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T09:15:49Z",
+      "latest_at": "2026-07-12T09:15:49Z",
+      "primary_item": {
+        "id": "40b04024e4d42805d7dd204ba5ea764dac00d99a",
+        "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
+        "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -313,15 +238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7834,
-      "importance": 0.7834,
-      "importance_score": 0.7834,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8989,
+        "recency": 0.8753,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -394,15 +319,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7813,
-      "importance": 0.7813,
-      "importance_score": 0.7813,
+      "score": 0.7771,
+      "importance": 0.7771,
+      "importance_score": 0.7771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.887,
+        "recency": 0.8637,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -422,68 +347,68 @@
       }
     },
     {
-      "story_id": "story_3ff8ee43af6c",
-      "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
-      "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
-      "primary_url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
-      "source": "The Decoder：AI News（RSS）",
+      "story_id": "story_b21c70de14cb",
+      "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "primary_url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "770348495fa83ac8877aa5b751fe2c2b89b2a477",
-          "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
-          "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
-          "source": "The Decoder：AI News（RSS）",
+          "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-11T17:04:28Z"
+          "published_at": "2026-07-12T03:59:09.632000Z"
         },
         {
-          "id": "36b42d78e885c1c1612463e061e1b85d9215a242",
-          "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发 / Terrorist groups are using every major AI chatbot for attack planning and weapons development",
-          "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-11T17:04:28Z"
+          "id": "b97d788b92fd38b4c103fc801bdc650df9832b27",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史 / What xAI's Grok Build CLI Actually Sends to xAI",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T01:09:50Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "770348495fa83ac8877aa5b751fe2c2b89b2a477",
-          "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
-          "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
-          "source": "The Decoder：AI News（RSS）",
+          "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-11T17:04:28Z"
+          "published_at": "2026-07-12T03:59:09.632000Z"
         },
         {
-          "id": "36b42d78e885c1c1612463e061e1b85d9215a242",
-          "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发 / Terrorist groups are using every major AI chatbot for attack planning and weapons development",
-          "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-11T17:04:28Z"
+          "id": "b97d788b92fd38b4c103fc801bdc650df9832b27",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史 / What xAI's Grok Build CLI Actually Sends to xAI",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T01:09:50Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7815,
+      "importance": 0.7815,
+      "importance_score": 0.7815,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.73,
+        "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.794,
+        "recency": 0.9051,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -492,13 +417,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-11T17:04:28Z",
-      "latest_at": "2026-07-11T17:04:28Z",
+      "earliest_at": "2026-07-12T01:09:50Z",
+      "latest_at": "2026-07-12T03:59:09.632000Z",
       "primary_item": {
-        "id": "770348495fa83ac8877aa5b751fe2c2b89b2a477",
-        "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
-        "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
-        "source": "The Decoder：AI News（RSS）",
+        "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
+        "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+        "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -537,21 +462,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9185,
+        "recency": 0.8944,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-12T03:09:47Z",
       "latest_at": "2026-07-12T03:09:47Z",
@@ -617,15 +541,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7905,
+        "recency": 0.7698,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -697,15 +621,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9114,
+        "recency": 0.8874,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -725,68 +649,68 @@
       }
     },
     {
-      "story_id": "story_b21c70de14cb",
-      "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "primary_url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_3ff8ee43af6c",
+      "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
+      "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
+      "primary_url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
-          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "770348495fa83ac8877aa5b751fe2c2b89b2a477",
+          "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
+          "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-12T03:59:09.632000Z"
+          "published_at": "2026-07-11T17:04:28Z"
         },
         {
-          "id": "b97d788b92fd38b4c103fc801bdc650df9832b27",
-          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史 / What xAI's Grok Build CLI Actually Sends to xAI",
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T01:09:50Z"
+          "id": "36b42d78e885c1c1612463e061e1b85d9215a242",
+          "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发 / Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+          "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-11T17:04:28Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
-          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "770348495fa83ac8877aa5b751fe2c2b89b2a477",
+          "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
+          "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-12T03:59:09.632000Z"
+          "published_at": "2026-07-11T17:04:28Z"
         },
         {
-          "id": "b97d788b92fd38b4c103fc801bdc650df9832b27",
-          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史 / What xAI's Grok Build CLI Actually Sends to xAI",
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T01:09:50Z"
+          "id": "36b42d78e885c1c1612463e061e1b85d9215a242",
+          "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发 / Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+          "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-11T17:04:28Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7859,
-      "importance": 0.7859,
-      "importance_score": 0.7859,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.74,
+        "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9295,
+        "recency": 0.7731,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -795,12 +719,93 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-12T01:09:50Z",
-      "latest_at": "2026-07-12T03:59:09.632000Z",
+      "earliest_at": "2026-07-11T17:04:28Z",
+      "latest_at": "2026-07-11T17:04:28Z",
       "primary_item": {
-        "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
-        "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-        "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+        "id": "770348495fa83ac8877aa5b751fe2c2b89b2a477",
+        "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
+        "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9c885636aaf2",
+      "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
+      "url": "https://www.mixfont.com/ghost-font",
+      "primary_url": "https://www.mixfont.com/ghost-font",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "eb0c2a306d2503ddbefd65127804aca9757392ab",
+          "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T16:31:09.615000Z"
+        },
+        {
+          "id": "9c719a18c6ac7008e0b327dadfc75ea3ce2f0ac3",
+          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "www.mixfont.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T16:31:09.615000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.mixfont.com"
+      ],
+      "items": [
+        {
+          "id": "eb0c2a306d2503ddbefd65127804aca9757392ab",
+          "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T16:31:09.615000Z"
+        },
+        {
+          "id": "9c719a18c6ac7008e0b327dadfc75ea3ce2f0ac3",
+          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "www.mixfont.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T16:31:09.615000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7669,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-11T16:31:09.615000Z",
+      "latest_at": "2026-07-11T16:31:09.615000Z",
+      "primary_item": {
+        "id": "eb0c2a306d2503ddbefd65127804aca9757392ab",
+        "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
+        "url": "https://www.mixfont.com/ghost-font",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
@@ -859,15 +864,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.759,
+      "importance": 0.759,
+      "importance_score": 0.759,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8695,
+        "recency": 0.8466,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -975,15 +980,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6197,
-      "importance": 0.6197,
-      "importance_score": 0.6197,
+      "score": 0.6159,
+      "importance": 0.6159,
+      "importance_score": 0.6159,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.7946,
+        "recency": 0.7737,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1092,15 +1097,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5857,
-      "importance": 0.5857,
-      "importance_score": 0.5857,
+      "score": 0.5812,
+      "importance": 0.5812,
+      "importance_score": 0.5812,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9439,
+        "recency": 0.9191,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1190,15 +1195,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5487,
-      "importance": 0.5487,
-      "importance_score": 0.5487,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8773,
+        "recency": 0.8543,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1269,15 +1274,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5411,
+      "importance": 0.5411,
+      "importance_score": 0.5411,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9737,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1367,15 +1372,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5436,
-      "importance": 0.5436,
-      "importance_score": 0.5436,
+      "score": 0.5395,
+      "importance": 0.5395,
+      "importance_score": 0.5395,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8487,
+        "recency": 0.8264,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1446,15 +1451,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5325,
-      "importance": 0.5325,
-      "importance_score": 0.5325,
+      "score": 0.5281,
+      "importance": 0.5281,
+      "importance_score": 0.5281,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9259,
+        "recency": 0.9016,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1524,15 +1529,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5289,
-      "importance": 0.5289,
-      "importance_score": 0.5289,
+      "score": 0.5246,
+      "importance": 0.5246,
+      "importance_score": 0.5246,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9062,
+        "recency": 0.8824,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1603,15 +1608,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5166,
-      "importance": 0.5166,
-      "importance_score": 0.5166,
+      "score": 0.5126,
+      "importance": 0.5126,
+      "importance_score": 0.5126,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8377,
+        "recency": 0.8157,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1682,15 +1687,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5154,
-      "importance": 0.5154,
-      "importance_score": 0.5154,
+      "score": 0.5115,
+      "importance": 0.5115,
+      "importance_score": 0.5115,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8312,
+        "recency": 0.8094,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1705,85 +1710,6 @@
         "url": "https://github.com/sqlsure/sqlsure",
         "source": "github.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2c1bf5ffef3f",
-      "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
-      "url": "https://36kr.com/p/3892222176574211?f=rss",
-      "primary_url": "https://36kr.com/p/3892222176574211?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "a1415601490e7550f147f8f8aadcfa33a77ab23c",
-          "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
-          "url": "https://36kr.com/p/3892222176574211?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4f1200c6ce0e1f2f535a45da9b799fa115cdcb53",
-          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "url": "https://36kr.com/p/3892222176574211?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T05:47:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "a1415601490e7550f147f8f8aadcfa33a77ab23c",
-          "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
-          "url": "https://36kr.com/p/3892222176574211?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4f1200c6ce0e1f2f535a45da9b799fa115cdcb53",
-          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "url": "https://36kr.com/p/3892222176574211?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T05:47:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5395,
-      "importance": 0.5395,
-      "importance_score": 0.5395,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9649,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T05:47:23Z",
-      "latest_at": "2026-07-12T06:34:30.139414Z",
-      "primary_item": {
-        "id": "a1415601490e7550f147f8f8aadcfa33a77ab23c",
-        "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
-        "url": "https://36kr.com/p/3892222176574211?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
