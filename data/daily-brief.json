@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T19:58:57.143802Z",
+  "generated_at": "2026-07-13T21:07:51.559177Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -56,15 +56,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8459,
-      "importance": 0.8459,
-      "importance_score": 0.8459,
+      "score": 0.8437,
+      "importance": 0.8437,
+      "importance_score": 0.8437,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7493,
+        "recency": 0.737,
         "story_heat": 0.25
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8339,
-      "importance": 0.8339,
-      "importance_score": 0.8339,
+      "score": 0.8311,
+      "importance": 0.8311,
+      "importance_score": 0.8311,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9436,
+        "recency": 0.9281,
         "story_heat": 0.0
       },
       "category": "official",
@@ -200,15 +200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.805,
-      "importance": 0.805,
-      "importance_score": 0.805,
+      "score": 0.8021,
+      "importance": 0.8021,
+      "importance_score": 0.8021,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9689,
+        "recency": 0.953,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -281,15 +281,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7695,
-      "importance": 0.7695,
-      "importance_score": 0.7695,
+      "score": 0.7669,
+      "importance": 0.7669,
+      "importance_score": 0.7669,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8718,
+        "recency": 0.8574,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -343,15 +343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7646,
-      "importance": 0.7646,
-      "importance_score": 0.7646,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7502,
+        "recency": 0.7379,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -423,15 +423,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7594,
+        "recency": 0.7469,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -485,15 +485,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7582,
-      "importance": 0.7582,
-      "importance_score": 0.7582,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8811,
+        "recency": 0.8666,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -546,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7505,
+      "importance": 0.7505,
+      "importance_score": 0.7505,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7843,
+        "recency": 0.7714,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -607,21 +607,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
+      "score": 0.7495,
+      "importance": 0.7495,
+      "importance_score": 0.7495,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8635,
+        "recency": 0.8493,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T09:48:59Z",
       "latest_at": "2026-07-13T09:48:59Z",
@@ -687,15 +686,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7409,
-      "importance": 0.7409,
-      "importance_score": 0.7409,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.746,
+        "recency": 0.7337,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -767,15 +766,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7695,
-      "importance": 0.7695,
-      "importance_score": 0.7695,
+      "score": 0.7669,
+      "importance": 0.7669,
+      "importance_score": 0.7669,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8718,
+        "recency": 0.8574,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -848,15 +847,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.7636,
+      "importance": 0.7636,
+      "importance_score": 0.7636,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8871,
+        "recency": 0.8725,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -910,15 +909,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7584,
-      "importance": 0.7584,
-      "importance_score": 0.7584,
+      "score": 0.7558,
+      "importance": 0.7558,
+      "importance_score": 0.7558,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8513,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -990,15 +989,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8249,
+        "recency": 0.8113,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1013,6 +1012,87 @@
         "id": "9132a8a4bda51df30f925f3d73111d4d7079ddad",
         "title": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
         "url": "https://www.aibase.com/news/29541",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_30b2b7775a31",
+      "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
+      "url": "https://www.aibase.com/news/29539",
+      "primary_url": "https://www.aibase.com/news/29539",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "edc4f6360e6710e178004982d3e013be98514cae",
+          "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
+          "url": "https://www.aibase.com/news/29539",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T03:29:43.078394Z"
+        },
+        {
+          "id": "705e7ffb09bdcc09518e2bda514c3f676f29ca7f",
+          "title": "解法都市孤独感，努比亚拟生命 AI 陪伴机器人 iMoochi 即将开",
+          "url": "https://www.aibase.com/zh/news/29539",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "edc4f6360e6710e178004982d3e013be98514cae",
+          "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
+          "url": "https://www.aibase.com/news/29539",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T03:29:43.078394Z"
+        },
+        {
+          "id": "705e7ffb09bdcc09518e2bda514c3f676f29ca7f",
+          "title": "解法都市孤独感，努比亚拟生命 AI 陪伴机器人 iMoochi 即将开",
+          "url": "https://www.aibase.com/zh/news/29539",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7521,
+      "importance": 0.7521,
+      "importance_score": 0.7521,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7752,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T03:29:43.078394Z",
+      "latest_at": "2026-07-13T03:29:43.078394Z",
+      "primary_item": {
+        "id": "edc4f6360e6710e178004982d3e013be98514cae",
+        "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
+        "url": "https://www.aibase.com/news/29539",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1124,15 +1204,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6648,
-      "importance": 0.6648,
-      "importance_score": 0.6648,
+      "score": 0.6619,
+      "importance": 0.6619,
+      "importance_score": 0.6619,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9757,
+        "recency": 0.9596,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1147,87 +1227,6 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-13",
         "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_30b2b7775a31",
-      "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
-      "url": "https://www.aibase.com/news/29539",
-      "primary_url": "https://www.aibase.com/news/29539",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "edc4f6360e6710e178004982d3e013be98514cae",
-          "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
-          "url": "https://www.aibase.com/news/29539",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T03:29:43.078394Z"
-        },
-        {
-          "id": "705e7ffb09bdcc09518e2bda514c3f676f29ca7f",
-          "title": "解法都市孤独感，努比亚拟生命 AI 陪伴机器人 iMoochi 即将开",
-          "url": "https://www.aibase.com/zh/news/29539",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "edc4f6360e6710e178004982d3e013be98514cae",
-          "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
-          "url": "https://www.aibase.com/news/29539",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T03:29:43.078394Z"
-        },
-        {
-          "id": "705e7ffb09bdcc09518e2bda514c3f676f29ca7f",
-          "title": "解法都市孤独感，努比亚拟生命 AI 陪伴机器人 iMoochi 即将开",
-          "url": "https://www.aibase.com/zh/news/29539",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7881,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T03:29:43.078394Z",
-      "latest_at": "2026-07-13T03:29:43.078394Z",
-      "primary_item": {
-        "id": "edc4f6360e6710e178004982d3e013be98514cae",
-        "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
-        "url": "https://www.aibase.com/news/29539",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1265,15 +1264,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7445,
-      "importance": 0.7445,
-      "importance_score": 0.7445,
+      "score": 0.7419,
+      "importance": 0.7419,
+      "importance_score": 0.7419,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8718,
+        "recency": 0.8574,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1343,15 +1342,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6204,
-      "importance": 0.6204,
-      "importance_score": 0.6204,
+      "score": 0.6175,
+      "importance": 0.6175,
+      "importance_score": 0.6175,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.9578,
+        "recency": 0.9421,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1403,15 +1402,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7445,
-      "importance": 0.7445,
-      "importance_score": 0.7445,
+      "score": 0.7419,
+      "importance": 0.7419,
+      "importance_score": 0.7419,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8718,
+        "recency": 0.8574,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1429,99 +1428,99 @@
       }
     },
     {
-      "story_id": "story_3bb21a6673df",
-      "title": "Show HN：BillAI Bass，使用 Strands 代理的 AI 驱动的大嘴 Billy Bass / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
-      "url": "https://news.ycombinator.com/item?id=48896599",
-      "primary_url": "https://news.ycombinator.com/item?id=48896599",
+      "story_id": "story_7596375c34fb",
+      "title": "Show HN：PlanWright – AI 编码代理的控制平面 / Show HN: PlanWright – A control plane for AI coding agents",
+      "url": "https://news.ycombinator.com/item?id=48897969",
+      "primary_url": "https://news.ycombinator.com/item?id=48897969",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "1b20635e1882662eab988b069e14cbef656c98d3",
-          "title": "Show HN：BillAI Bass，使用 Strands 代理的 AI 驱动的大嘴 Billy Bass / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
-          "url": "https://news.ycombinator.com/item?id=48896599",
+          "id": "8dae23469af8cdb4109495d99f25da1014472554",
+          "title": "Show HN：PlanWright – AI 编码代理的控制平面 / Show HN: PlanWright – A control plane for AI coding agents",
+          "url": "https://news.ycombinator.com/item?id=48897969",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-13T19:31:37.609000Z"
+          "published_at": "2026-07-13T21:08:37.712000Z"
         },
         {
-          "id": "37797f74e17305fad14285eb7949619bb6c92429",
-          "title": "Show HN: BillAI Bass：一款基于Strands Agents技术、由人工智能驱动的“大嘴比利·巴斯”",
-          "url": "https://github.com/morganwilliscloud/billai-bass",
-          "source": "github.com",
+          "id": "cbfb17a357e8e68b2fcff60def488cd6cd9541aa",
+          "title": "Show HN: PlanWright——一个用于人工智能编码代理的控制平面",
+          "url": "https://planwright.tools",
+          "source": "planwright.tools",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-13T18:25:33.396000Z"
+          "published_at": "2026-07-13T20:01:46.597000Z"
         },
         {
-          "id": "d16a194d7d63f4c82524d54df29a9a86019a1d04",
-          "title": "Show HN: BillAI Bass：一款基于Strands Agents技术、由人工智能驱动的“大嘴比利·巴斯” / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
-          "url": "https://github.com/morganwilliscloud/billai-bass",
+          "id": "f08dc15868358e60ce2199c640ae0dc1eef2bb07",
+          "title": "Show HN: PlanWright——一个用于人工智能编码代理的控制平面 / Show HN: PlanWright – A control plane for AI coding agents",
+          "url": "https://planwright.tools",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-13T18:18:23Z"
+          "published_at": "2026-07-13T19:59:50Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News",
-        "github.com",
-        "hackernews"
+        "hackernews",
+        "planwright.tools"
       ],
       "items": [
         {
-          "id": "1b20635e1882662eab988b069e14cbef656c98d3",
-          "title": "Show HN：BillAI Bass，使用 Strands 代理的 AI 驱动的大嘴 Billy Bass / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
-          "url": "https://news.ycombinator.com/item?id=48896599",
+          "id": "8dae23469af8cdb4109495d99f25da1014472554",
+          "title": "Show HN：PlanWright – AI 编码代理的控制平面 / Show HN: PlanWright – A control plane for AI coding agents",
+          "url": "https://news.ycombinator.com/item?id=48897969",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-13T19:31:37.609000Z"
+          "published_at": "2026-07-13T21:08:37.712000Z"
         },
         {
-          "id": "37797f74e17305fad14285eb7949619bb6c92429",
-          "title": "Show HN: BillAI Bass：一款基于Strands Agents技术、由人工智能驱动的“大嘴比利·巴斯”",
-          "url": "https://github.com/morganwilliscloud/billai-bass",
-          "source": "github.com",
+          "id": "cbfb17a357e8e68b2fcff60def488cd6cd9541aa",
+          "title": "Show HN: PlanWright——一个用于人工智能编码代理的控制平面",
+          "url": "https://planwright.tools",
+          "source": "planwright.tools",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-13T18:25:33.396000Z"
+          "published_at": "2026-07-13T20:01:46.597000Z"
         },
         {
-          "id": "d16a194d7d63f4c82524d54df29a9a86019a1d04",
-          "title": "Show HN: BillAI Bass：一款基于Strands Agents技术、由人工智能驱动的“大嘴比利·巴斯” / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
-          "url": "https://github.com/morganwilliscloud/billai-bass",
+          "id": "f08dc15868358e60ce2199c640ae0dc1eef2bb07",
+          "title": "Show HN: PlanWright——一个用于人工智能编码代理的控制平面 / Show HN: PlanWright – A control plane for AI coding agents",
+          "url": "https://planwright.tools",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-13T18:18:23Z"
+          "published_at": "2026-07-13T19:59:50Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5696,
-      "importance": 0.5696,
-      "importance_score": 0.5696,
+      "score": 0.5708,
+      "importance": 0.5708,
+      "importance_score": 0.5708,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9934,
+        "recency": 1.0,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-13T18:18:23Z",
-      "latest_at": "2026-07-13T19:31:37.609000Z",
+      "earliest_at": "2026-07-13T19:59:50Z",
+      "latest_at": "2026-07-13T21:08:37.712000Z",
       "primary_item": {
-        "id": "1b20635e1882662eab988b069e14cbef656c98d3",
-        "title": "Show HN：BillAI Bass，使用 Strands 代理的 AI 驱动的大嘴 Billy Bass / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
-        "url": "https://news.ycombinator.com/item?id=48896599",
+        "id": "8dae23469af8cdb4109495d99f25da1014472554",
+        "title": "Show HN：PlanWright – AI 编码代理的控制平面 / Show HN: PlanWright – A control plane for AI coding agents",
+        "url": "https://news.ycombinator.com/item?id=48897969",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
