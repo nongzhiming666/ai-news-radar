@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T10:48:16.727583Z",
+  "generated_at": "2026-07-17T12:10:29.465195Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8262,
-      "importance": 0.8262,
-      "importance_score": 0.8262,
+      "score": 0.8235,
+      "importance": 0.8235,
+      "importance_score": 0.8235,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7622,
+        "recency": 0.7473,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8232,
-      "importance": 0.8232,
-      "importance_score": 0.8232,
+      "score": 0.8206,
+      "importance": 0.8206,
+      "importance_score": 0.8206,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7624,
+        "recency": 0.7475,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8092,
-      "importance": 0.8092,
-      "importance_score": 0.8092,
+      "score": 0.8065,
+      "importance": 0.8065,
+      "importance_score": 0.8065,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7622,
+        "recency": 0.7473,
         "story_heat": 0.0
       },
       "category": "official",
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
+      "score": 0.8047,
+      "importance": 0.8047,
+      "importance_score": 0.8047,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7973,
+        "recency": 0.7817,
         "story_heat": 0.0
       },
       "category": "official",
@@ -325,15 +325,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8052,
-      "importance": 0.8052,
-      "importance_score": 0.8052,
+      "score": 0.8018,
+      "importance": 0.8018,
+      "importance_score": 0.8018,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.97,
+        "recency": 0.951,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -406,15 +406,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7891,
+      "importance": 0.7891,
+      "importance_score": 0.7891,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9804,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -431,68 +431,6 @@
         "url": "https://www.aibase.com/news/29695",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4babaf3e269b",
-      "title": "更新型号，同样的优势 / Newer Models, Same Advantage",
-      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-      "primary_url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f9dab31ff1cbacf2542008b471d9231fd350dd74",
-          "title": "更新型号，同样的优势 / Newer Models, Same Advantage",
-          "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T11:49:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "f9dab31ff1cbacf2542008b471d9231fd350dd74",
-          "title": "更新型号，同样的优势 / Newer Models, Same Advantage",
-          "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T11:49:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8092,
-      "importance": 0.8092,
-      "importance_score": 0.8092,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7177,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T11:49:48Z",
-      "latest_at": "2026-07-16T11:49:48Z",
-      "primary_item": {
-        "id": "f9dab31ff1cbacf2542008b471d9231fd350dd74",
-        "title": "更新型号，同样的优势 / Newer Models, Same Advantage",
-        "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -530,15 +468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
+      "score": 0.776,
+      "importance": 0.776,
+      "importance_score": 0.776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8127,
+        "recency": 0.7967,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -591,15 +529,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8073,
-      "importance": 0.8073,
-      "importance_score": 0.8073,
+      "score": 0.8045,
+      "importance": 0.8045,
+      "importance_score": 0.8045,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7962,
+        "recency": 0.7806,
         "story_heat": 0.0
       },
       "category": "official",
@@ -653,15 +591,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7755,
-      "importance": 0.7755,
-      "importance_score": 0.7755,
+      "score": 0.7726,
+      "importance": 0.7726,
+      "importance_score": 0.7726,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8271,
+        "recency": 0.8109,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -714,15 +652,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8012,
-      "importance": 0.8012,
-      "importance_score": 0.8012,
+      "score": 0.7985,
+      "importance": 0.7985,
+      "importance_score": 0.7985,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7622,
+        "recency": 0.7473,
         "story_heat": 0.0
       },
       "category": "official",
@@ -739,6 +677,67 @@
         "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_599b6a56e0fb",
+      "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
+      "url": "https://www.ithome.com/0/978/277.htm",
+      "primary_url": "https://www.ithome.com/0/978/277.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4cbba37163f0aa7a385f67b42c2e2382c3e8d069",
+          "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
+          "url": "https://www.ithome.com/0/978/277.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T11:10:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4cbba37163f0aa7a385f67b42c2e2382c3e8d069",
+          "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
+          "url": "https://www.ithome.com/0/978/277.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T11:10:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9856,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T11:10:01Z",
+      "latest_at": "2026-07-17T11:10:01Z",
+      "primary_item": {
+        "id": "4cbba37163f0aa7a385f67b42c2e2382c3e8d069",
+        "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
+        "url": "https://www.ithome.com/0/978/277.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -776,15 +775,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.7673,
+      "importance": 0.7673,
+      "importance_score": 0.7673,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.984,
+        "recency": 0.9648,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -837,15 +836,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9191,
+        "recency": 0.9011,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -917,15 +916,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7869,
-      "importance": 0.7869,
-      "importance_score": 0.7869,
+      "score": 0.7835,
+      "importance": 0.7835,
+      "importance_score": 0.7835,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9685,
+        "recency": 0.9495,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -942,87 +941,6 @@
         "url": "https://www.aibase.com/news/29688",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_cf0f39086348",
-      "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-      "url": "https://www.ithome.com/0/977/793.htm",
-      "primary_url": "https://www.ithome.com/0/977/793.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9e5e9c82b17e8d5f9f02898d4f70f7e7a1e61376",
-          "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-          "url": "https://www.ithome.com/0/977/793.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T14:38:08Z"
-        },
-        {
-          "id": "a551944f913ff2a5fb7fed74d92a1a47fd770242",
-          "title": "世界人工智能合作组织协定签署仪式举行，总部设中国上海",
-          "url": "https://www.ithome.com/0/977/793.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-16T14:38:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9e5e9c82b17e8d5f9f02898d4f70f7e7a1e61376",
-          "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-          "url": "https://www.ithome.com/0/977/793.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T14:38:08Z"
-        },
-        {
-          "id": "a551944f913ff2a5fb7fed74d92a1a47fd770242",
-          "title": "世界人工智能合作组织协定签署仪式举行，总部设中国上海",
-          "url": "https://www.ithome.com/0/977/793.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-16T14:38:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7473,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T14:38:08Z",
-      "latest_at": "2026-07-16T14:38:08Z",
-      "primary_item": {
-        "id": "9e5e9c82b17e8d5f9f02898d4f70f7e7a1e61376",
-        "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-        "url": "https://www.ithome.com/0/977/793.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1079,22 +997,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7697,
+        "recency": 0.7546,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-16T16:40:48Z",
       "latest_at": "2026-07-16T16:40:48Z",
@@ -1141,15 +1058,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8054,
-      "importance": 0.8054,
-      "importance_score": 0.8054,
+      "score": 0.8027,
+      "importance": 0.8027,
+      "importance_score": 0.8027,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7858,
+        "recency": 0.7704,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1166,66 +1083,6 @@
         "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f2d4f0d12d3b",
-      "title": "欧盟裁定 Google 必须向竞争对手开放 Android 和 Search，影响 Gemini 等 AI 服务",
-      "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-      "primary_url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "25000ba3f47ef083b2ca71fdfd291f2cdcc8015d",
-          "title": "欧盟裁定 Google 必须向竞争对手开放 Android 和 Search，影响 Gemini 等 AI 服务",
-          "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T12:06:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "25000ba3f47ef083b2ca71fdfd291f2cdcc8015d",
-          "title": "欧盟裁定 Google 必须向竞争对手开放 Android 和 Search，影响 Gemini 等 AI 服务",
-          "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T12:06:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7353,
-      "importance": 0.7353,
-      "importance_score": 0.7353,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7206,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T12:06:51Z",
-      "latest_at": "2026-07-16T12:06:51Z",
-      "primary_item": {
-        "id": "25000ba3f47ef083b2ca71fdfd291f2cdcc8015d",
-        "title": "欧盟裁定 Google 必须向竞争对手开放 Android 和 Search，影响 Gemini 等 AI 服务",
-        "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1282,15 +1139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8639,
+        "recency": 0.847,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1363,15 +1220,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7319,
-      "importance": 0.7319,
-      "importance_score": 0.7319,
+      "score": 0.7291,
+      "importance": 0.7291,
+      "importance_score": 0.7291,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7793,
+        "recency": 0.7641,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1386,6 +1243,147 @@
         "title": "Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成",
         "url": "https://claude.com/blog/ai-code-migration",
         "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cf0f39086348",
+      "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+      "url": "https://www.ithome.com/0/977/793.htm",
+      "primary_url": "https://www.ithome.com/0/977/793.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9e5e9c82b17e8d5f9f02898d4f70f7e7a1e61376",
+          "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+          "url": "https://www.ithome.com/0/977/793.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T14:38:08Z"
+        },
+        {
+          "id": "a551944f913ff2a5fb7fed74d92a1a47fd770242",
+          "title": "世界人工智能合作组织协定签署仪式举行，总部设中国上海",
+          "url": "https://www.ithome.com/0/977/793.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-16T14:38:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9e5e9c82b17e8d5f9f02898d4f70f7e7a1e61376",
+          "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+          "url": "https://www.ithome.com/0/977/793.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T14:38:08Z"
+        },
+        {
+          "id": "a551944f913ff2a5fb7fed74d92a1a47fd770242",
+          "title": "世界人工智能合作组织协定签署仪式举行，总部设中国上海",
+          "url": "https://www.ithome.com/0/977/793.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-16T14:38:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7327,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T14:38:08Z",
+      "latest_at": "2026-07-16T14:38:08Z",
+      "primary_item": {
+        "id": "9e5e9c82b17e8d5f9f02898d4f70f7e7a1e61376",
+        "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+        "url": "https://www.ithome.com/0/977/793.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_77654aaff125",
+      "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
+      "url": "https://www.kimi.com/blog/perception-bench",
+      "primary_url": "https://www.kimi.com/blog/perception-bench",
+      "source": "Moonshot AI：Kimi Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ce8c88f36db4b4d4dd052be3cf3e4419b232412f",
+          "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
+          "url": "https://www.kimi.com/blog/perception-bench",
+          "source": "Moonshot AI：Kimi Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T19:11:01.192000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Moonshot AI：Kimi Blog"
+      ],
+      "items": [
+        {
+          "id": "ce8c88f36db4b4d4dd052be3cf3e4419b232412f",
+          "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
+          "url": "https://www.kimi.com/blog/perception-bench",
+          "source": "Moonshot AI：Kimi Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T19:11:01.192000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7224,
+      "importance": 0.7224,
+      "importance_score": 0.7224,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7824,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-16T19:11:01.192000Z",
+      "latest_at": "2026-07-16T19:11:01.192000Z",
+      "primary_item": {
+        "id": "ce8c88f36db4b4d4dd052be3cf3e4419b232412f",
+        "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
+        "url": "https://www.kimi.com/blog/perception-bench",
+        "source": "Moonshot AI：Kimi Blog",
         "source_name": "AI HOT"
       }
     }
