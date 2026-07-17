@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T20:06:45.223546Z",
+  "generated_at": "2026-07-17T21:21:46.136552Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8745,
-      "importance": 0.8745,
-      "importance_score": 0.8745,
+      "score": 0.8715,
+      "importance": 0.8715,
+      "importance_score": 0.8715,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9419,
+        "recency": 0.925,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8572,
-      "importance": 0.8572,
-      "importance_score": 0.8572,
+      "score": 0.854,
+      "importance": 0.854,
+      "importance_score": 0.854,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9954,
+        "recency": 0.9776,
         "story_heat": 0.0
       },
       "category": "official",
@@ -201,15 +201,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8525,
-      "importance": 0.8525,
-      "importance_score": 0.8525,
+      "score": 0.8498,
+      "importance": 0.8498,
+      "importance_score": 0.8498,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8641,
+        "recency": 0.8487,
         "story_heat": 0.25
       },
       "category": "official",
@@ -283,15 +283,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7954,
-      "importance": 0.7954,
-      "importance_score": 0.7954,
+      "score": 0.7923,
+      "importance": 0.7923,
+      "importance_score": 0.7923,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9657,
+        "recency": 0.9484,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -345,15 +345,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7883,
-      "importance": 0.7883,
-      "importance_score": 0.7883,
+      "score": 0.7852,
+      "importance": 0.7852,
+      "importance_score": 0.7852,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.965,
+        "recency": 0.9477,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -406,15 +406,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
+      "score": 0.7736,
+      "importance": 0.7736,
+      "importance_score": 0.7736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9501,
+        "recency": 0.9331,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -467,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7722,
-      "importance": 0.7722,
-      "importance_score": 0.7722,
+      "score": 0.7691,
+      "importance": 0.7691,
+      "importance_score": 0.7691,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9587,
+        "recency": 0.9415,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -547,15 +547,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.77,
-      "importance": 0.77,
-      "importance_score": 0.77,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8742,
+        "recency": 0.8586,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -609,15 +609,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7617,
-      "importance": 0.7617,
-      "importance_score": 0.7617,
+      "score": 0.7588,
+      "importance": 0.7588,
+      "importance_score": 0.7588,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9174,
+        "recency": 0.901,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -632,67 +632,6 @@
         "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
         "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
         "source": "X：美团 LongCat (@Meituan_LongCat)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_976e25fe768e",
-      "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
-      "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2aca8373dd0d45a54de2bb25665b9081400fd533",
-          "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
-          "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T20:26:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "2aca8373dd0d45a54de2bb25665b9081400fd533",
-          "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
-          "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T20:26:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.87,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7105,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T20:26:23Z",
-      "latest_at": "2026-07-16T20:26:23Z",
-      "primary_item": {
-        "id": "2aca8373dd0d45a54de2bb25665b9081400fd533",
-        "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
-        "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
-        "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -731,15 +670,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7582,
-      "importance": 0.7582,
-      "importance_score": 0.7582,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.848,
+        "recency": 0.8329,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -792,15 +731,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7568,
-      "importance": 0.7568,
-      "importance_score": 0.7568,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7231,
+        "recency": 0.7102,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -853,15 +792,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8788,
+        "recency": 0.8631,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -913,15 +852,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8603,
+        "recency": 0.8449,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -973,15 +912,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8035,
+        "recency": 0.7891,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1052,15 +991,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8467,
+        "recency": 0.8315,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1114,15 +1053,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
+      "score": 0.7315,
+      "importance": 0.7315,
+      "importance_score": 0.7315,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9498,
+        "recency": 0.9328,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1174,15 +1113,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7281,
-      "importance": 0.7281,
-      "importance_score": 0.7281,
+      "score": 0.7254,
+      "importance": 0.7254,
+      "importance_score": 0.7254,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8303,
+        "recency": 0.8154,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1196,66 +1135,6 @@
         "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
         "url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
         "source": "公众号：通义实验室（千问）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d15e37ab2566",
-      "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
-      "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
-      "primary_url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "78996dfa263154031e4769c9285030721f78fd89",
-          "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
-          "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T00:40:20.333000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "78996dfa263154031e4769c9285030721f78fd89",
-          "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
-          "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T00:40:20.333000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7205,
-      "importance": 0.7205,
-      "importance_score": 0.7205,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7552,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T00:40:20.333000Z",
-      "latest_at": "2026-07-17T00:40:20.333000Z",
-      "primary_item": {
-        "id": "78996dfa263154031e4769c9285030721f78fd89",
-        "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
-        "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1366,15 +1245,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6902,
-      "importance": 0.6902,
-      "importance_score": 0.6902,
+      "score": 0.6871,
+      "importance": 0.6871,
+      "importance_score": 0.6871,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.54,
         "ai_relevance": 0.71,
-        "recency": 0.978,
+        "recency": 0.9605,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1389,6 +1268,126 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-17",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_afb1620f9a8b",
+      "title": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
+      "url": "https://www.aibase.com/news/29694",
+      "primary_url": "https://www.aibase.com/news/29694",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "41657b2e7b5b9e157c6a12ab8dcd78a49d08fd3d",
+          "title": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
+          "url": "https://www.aibase.com/news/29694",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T10:48:16.727583Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "41657b2e7b5b9e157c6a12ab8dcd78a49d08fd3d",
+          "title": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
+          "url": "https://www.aibase.com/news/29694",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T10:48:16.727583Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8586,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-17T10:48:16.727583Z",
+      "latest_at": "2026-07-17T10:48:16.727583Z",
+      "primary_item": {
+        "id": "41657b2e7b5b9e157c6a12ab8dcd78a49d08fd3d",
+        "title": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
+        "url": "https://www.aibase.com/news/29694",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_acb91d27c05e",
+      "title": "重庆上线“渝小健”AI就医智能体，覆盖233家公立医院",
+      "url": "https://www.aibase.com/news/29693",
+      "primary_url": "https://www.aibase.com/news/29693",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ba5b81907f80dc5504286314a22944ce62406d06",
+          "title": "重庆上线“渝小健”AI就医智能体，覆盖233家公立医院",
+          "url": "https://www.aibase.com/news/29693",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T10:48:16.727583Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ba5b81907f80dc5504286314a22944ce62406d06",
+          "title": "重庆上线“渝小健”AI就医智能体，覆盖233家公立医院",
+          "url": "https://www.aibase.com/news/29693",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T10:48:16.727583Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8586,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-17T10:48:16.727583Z",
+      "latest_at": "2026-07-17T10:48:16.727583Z",
+      "primary_item": {
+        "id": "ba5b81907f80dc5504286314a22944ce62406d06",
+        "title": "重庆上线“渝小健”AI就医智能体，覆盖233家公立医院",
+        "url": "https://www.aibase.com/news/29693",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
