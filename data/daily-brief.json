@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T12:27:20.413699Z",
+  "generated_at": "2026-07-18T13:59:07.883435Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8389,
-      "importance": 0.8389,
-      "importance_score": 0.8389,
+      "score": 0.836,
+      "importance": 0.836,
+      "importance_score": 0.836,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7439,
+        "recency": 0.7276,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8195,
-      "importance": 0.8195,
-      "importance_score": 0.8195,
+      "score": 0.8164,
+      "importance": 0.8164,
+      "importance_score": 0.8164,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7862,
+        "recency": 0.769,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8183,
-      "importance": 0.8183,
-      "importance_score": 0.8183,
+      "score": 0.8151,
+      "importance": 0.8151,
+      "importance_score": 0.8151,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8126,
+        "recency": 0.7949,
         "story_heat": 0.0
       },
       "category": "official",
@@ -263,15 +263,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7677,
-      "importance": 0.7677,
-      "importance_score": 0.7677,
+      "score": 0.7642,
+      "importance": 0.7642,
+      "importance_score": 0.7642,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8952,
+        "recency": 0.8757,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -344,15 +344,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7589,
-      "importance": 0.7589,
-      "importance_score": 0.7589,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7627,
+        "recency": 0.746,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -406,15 +406,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8183,
-      "importance": 0.8183,
-      "importance_score": 0.8183,
+      "score": 0.8151,
+      "importance": 0.8151,
+      "importance_score": 0.8151,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8126,
+        "recency": 0.7949,
         "story_heat": 0.0
       },
       "category": "official",
@@ -468,21 +468,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7621,
+        "recency": 0.7455,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T17:38:33Z",
       "latest_at": "2026-07-17T17:38:33Z",
@@ -529,15 +528,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7504,
+        "recency": 0.734,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -589,15 +588,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
+      "score": 0.7329,
+      "importance": 0.7329,
+      "importance_score": 0.7329,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7571,
+        "recency": 0.7406,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -649,15 +648,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.727,
-      "importance": 0.727,
-      "importance_score": 0.727,
+      "score": 0.7242,
+      "importance": 0.7242,
+      "importance_score": 0.7242,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7245,
+        "recency": 0.7087,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -709,15 +708,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8163,
-      "importance": 0.8163,
-      "importance_score": 0.8163,
+      "score": 0.8131,
+      "importance": 0.8131,
+      "importance_score": 0.8131,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8016,
+        "recency": 0.7841,
         "story_heat": 0.0
       },
       "category": "official",
@@ -843,15 +842,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6532,
-      "importance": 0.6532,
-      "importance_score": 0.6532,
+      "score": 0.6502,
+      "importance": 0.6502,
+      "importance_score": 0.6502,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.54,
         "ai_relevance": 0.71,
-        "recency": 0.7724,
+        "recency": 0.7555,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -866,6 +865,221 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-17",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_8b8e1d1337bc",
+      "title": "为什么人工智能公司的标志看起来像屁眼？ / Why do AI company logos look like buttholes?",
+      "url": "https://news.ycombinator.com/item?id=48956924",
+      "primary_url": "https://news.ycombinator.com/item?id=48956924",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "ca4b86483c18d3920b69f56e1582688055547279",
+          "title": "为什么人工智能公司的标志看起来像屁眼？ / Why do AI company logos look like buttholes?",
+          "url": "https://news.ycombinator.com/item?id=48956924",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T12:28:06.546000Z"
+        },
+        {
+          "id": "afa6b3e0d92f9e76e44a36c2c65a104df83fc874",
+          "title": "为什么人工智能公司的标志看起来像肛门？",
+          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+          "source": "velvetshark.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T12:09:54.152000Z"
+        },
+        {
+          "id": "d5cabbfa788aa3fa90f7b5a9bb0f17420fd1aa03",
+          "title": "为什么人工智能公司的标志看起来像肛门？ / Why do AI company logos look like buttholes?",
+          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:06:50Z"
+        },
+        {
+          "id": "eae0e898a12136e2de72dcc84d0b1d13ea4bd521",
+          "title": "为什么人工智能公司的标志看起来像肛门？ / Why do AI company logos look like buttholes? (2025)",
+          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T11:06:50Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "velvetshark.com"
+      ],
+      "items": [
+        {
+          "id": "ca4b86483c18d3920b69f56e1582688055547279",
+          "title": "为什么人工智能公司的标志看起来像屁眼？ / Why do AI company logos look like buttholes?",
+          "url": "https://news.ycombinator.com/item?id=48956924",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T12:28:06.546000Z"
+        },
+        {
+          "id": "afa6b3e0d92f9e76e44a36c2c65a104df83fc874",
+          "title": "为什么人工智能公司的标志看起来像肛门？",
+          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+          "source": "velvetshark.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T12:09:54.152000Z"
+        },
+        {
+          "id": "d5cabbfa788aa3fa90f7b5a9bb0f17420fd1aa03",
+          "title": "为什么人工智能公司的标志看起来像肛门？ / Why do AI company logos look like buttholes?",
+          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:06:50Z"
+        },
+        {
+          "id": "eae0e898a12136e2de72dcc84d0b1d13ea4bd521",
+          "title": "为什么人工智能公司的标志看起来像肛门？ / Why do AI company logos look like buttholes? (2025)",
+          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T11:06:50Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5919,
+      "importance": 0.5919,
+      "importance_score": 0.5919,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9783,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T11:06:50Z",
+      "latest_at": "2026-07-18T12:28:06.546000Z",
+      "primary_item": {
+        "id": "ca4b86483c18d3920b69f56e1582688055547279",
+        "title": "为什么人工智能公司的标志看起来像屁眼？ / Why do AI company logos look like buttholes?",
+        "url": "https://news.ycombinator.com/item?id=48956924",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_b9b544c1b5eb",
+      "title": "图表展示：AI对Stack Overflow的影响",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+      "primary_url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+      "source": "data.stackexchange.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
+          "title": "图表展示：AI对Stack Overflow的影响",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "data.stackexchange.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T13:29:15.879000Z"
+        },
+        {
+          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
+          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
+          "url": "https://news.ycombinator.com/item?id=48956949",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T12:28:06.546000Z"
+        },
+        {
+          "id": "0af8bfa31dc1a6fb0f8a836a4d612cbd6109afbb",
+          "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:12:46Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "data.stackexchange.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
+          "title": "图表展示：AI对Stack Overflow的影响",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "data.stackexchange.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T13:29:15.879000Z"
+        },
+        {
+          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
+          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
+          "url": "https://news.ycombinator.com/item?id=48956949",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T12:28:06.546000Z"
+        },
+        {
+          "id": "0af8bfa31dc1a6fb0f8a836a4d612cbd6109afbb",
+          "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:12:46Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5695,
+      "importance": 0.5695,
+      "importance_score": 0.5695,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9928,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T11:12:46Z",
+      "latest_at": "2026-07-18T13:29:15.879000Z",
+      "primary_item": {
+        "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
+        "title": "图表展示：AI对Stack Overflow的影响",
+        "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+        "source": "data.stackexchange.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -913,19 +1127,19 @@
           "published_at": "2026-07-17T14:31:10Z"
         },
         {
-          "id": "dd5fc0c942e2cffe2c04481d4dc49e58c70728c8",
+          "id": "b47194ee0332f9490347528350fd805a286d25e0",
           "title": "Mozilla：开源人工智能的发展现状 / The state of open source AI",
           "url": "https://stateofopensource.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-17T14:31:10Z"
         }
       ],
       "source_count": 5,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "stateofopensource.ai"
       ],
@@ -967,26 +1181,26 @@
           "published_at": "2026-07-17T14:31:10Z"
         },
         {
-          "id": "dd5fc0c942e2cffe2c04481d4dc49e58c70728c8",
+          "id": "b47194ee0332f9490347528350fd805a286d25e0",
           "title": "Mozilla：开源人工智能的发展现状 / The state of open source AI",
           "url": "https://stateofopensource.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-17T14:31:10Z"
         }
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.583,
-      "importance": 0.583,
-      "importance_score": 0.583,
+      "score": 0.5799,
+      "importance": 0.5799,
+      "importance_score": 0.5799,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7899,
+        "recency": 0.7727,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1001,6 +1215,164 @@
         "url": "https://news.ycombinator.com/item?id=48947825",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_01582b84f950",
+      "title": "人工智能会改善预授权流程，还是会让情况变得更糟？",
+      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
+      "primary_url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "154748dd4ae8018939f1151d089f9d83cfda0261",
+          "title": "人工智能会改善预授权流程，还是会让情况变得更糟？",
+          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T13:13:21.473000Z"
+        },
+        {
+          "id": "f6fb36b412f366c03d17df45ecc785f645b56023",
+          "title": "人工智能会改善预授权流程，还是会让情况变得更糟？ / Will AI fix prior authorization—or make it worse?",
+          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:18:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "154748dd4ae8018939f1151d089f9d83cfda0261",
+          "title": "人工智能会改善预授权流程，还是会让情况变得更糟？",
+          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T13:13:21.473000Z"
+        },
+        {
+          "id": "f6fb36b412f366c03d17df45ecc785f645b56023",
+          "title": "人工智能会改善预授权流程，还是会让情况变得更糟？ / Will AI fix prior authorization—or make it worse?",
+          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:18:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5438,
+      "importance": 0.5438,
+      "importance_score": 0.5438,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.989,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T11:18:25Z",
+      "latest_at": "2026-07-18T13:13:21.473000Z",
+      "primary_item": {
+        "id": "154748dd4ae8018939f1151d089f9d83cfda0261",
+        "title": "人工智能会改善预授权流程，还是会让情况变得更糟？",
+        "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_84198372e5db",
+      "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化",
+      "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
+      "primary_url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
+      "source": "www.axios.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "44f229f471e7ec4867d8f1322a33faf5ef1e66dc",
+          "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化",
+          "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
+          "source": "www.axios.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T12:57:22.221000Z"
+        },
+        {
+          "id": "6bda4b427a2a5646e36d3a37ba5dc0feda45941c",
+          "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化 - Axios",
+          "url": "https://news.google.com/read/CBMigAFBVV95cUxQTU1GSXFEb1NUS21rRXFCa2ZvaTh5dnhxUHpFRWpUakVzdW5ydmZKTVVSUF82VGJxX0Mzc01zQlc0alBBdGRYNnItSGhxR0RuRVp5TTI3ZnByMU5IenVNdWZ3OWY3Zk5QbW9MUVFzSnJwbmxYU1RXVXZoUU40NXBlNw?hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T12:49:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com",
+        "www.axios.com"
+      ],
+      "items": [
+        {
+          "id": "44f229f471e7ec4867d8f1322a33faf5ef1e66dc",
+          "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化",
+          "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
+          "source": "www.axios.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T12:57:22.221000Z"
+        },
+        {
+          "id": "6bda4b427a2a5646e36d3a37ba5dc0feda45941c",
+          "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化 - Axios",
+          "url": "https://news.google.com/read/CBMigAFBVV95cUxQTU1GSXFEb1NUS21rRXFCa2ZvaTh5dnhxUHpFRWpUakVzdW5ydmZKTVVSUF82VGJxX0Mzc01zQlc0alBBdGRYNnItSGhxR0RuRVp5TTI3ZnByMU5IenVNdWZ3OWY3Zk5QbW9MUVFzSnJwbmxYU1RXVXZoUU40NXBlNw?hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T12:49:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5431,
+      "importance": 0.5431,
+      "importance_score": 0.5431,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9852,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T12:49:11Z",
+      "latest_at": "2026-07-18T12:57:22.221000Z",
+      "primary_item": {
+        "id": "44f229f471e7ec4867d8f1322a33faf5ef1e66dc",
+        "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化",
+        "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
+        "source": "www.axios.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1057,15 +1429,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5443,
-      "importance": 0.5443,
-      "importance_score": 0.5443,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9919,
+        "recency": 0.9703,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1136,15 +1508,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.5387,
+      "importance": 0.5387,
+      "importance_score": 0.5387,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.982,
+        "recency": 0.9605,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1215,15 +1587,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
+      "score": 0.5387,
+      "importance": 0.5387,
+      "importance_score": 0.5387,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9819,
+        "recency": 0.9604,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1238,379 +1610,6 @@
         "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_e02649f4fa30",
-      "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-      "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-      "primary_url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T10:33:45.979000Z"
-        },
-        {
-          "id": "7199971ed0a15f004ab026272d0cc905bce59a07",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。 / I interned at OpenAI in San Francisco. Here's how I landed it, what it was like, and what I thought of Sam Altman.",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T10:21:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T10:33:45.979000Z"
-        },
-        {
-          "id": "7199971ed0a15f004ab026272d0cc905bce59a07",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。 / I interned at OpenAI in San Francisco. Here's how I landed it, what it was like, and what I thought of Sam Altman.",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T10:21:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5409,
-      "importance": 0.5409,
-      "importance_score": 0.5409,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.973,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T10:21:01Z",
-      "latest_at": "2026-07-18T10:33:45.979000Z",
-      "primary_item": {
-        "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
-        "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-        "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_8b8e1d1337bc",
-      "title": "为什么人工智能公司的标志看起来像屁眼？ / Why do AI company logos look like buttholes?",
-      "url": "https://news.ycombinator.com/item?id=48956924",
-      "primary_url": "https://news.ycombinator.com/item?id=48956924",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "ca4b86483c18d3920b69f56e1582688055547279",
-          "title": "为什么人工智能公司的标志看起来像屁眼？ / Why do AI company logos look like buttholes?",
-          "url": "https://news.ycombinator.com/item?id=48956924",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T12:28:06.546000Z"
-        },
-        {
-          "id": "afa6b3e0d92f9e76e44a36c2c65a104df83fc874",
-          "title": "为什么人工智能公司的标志看起来像肛门？",
-          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-          "source": "velvetshark.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T12:09:54.152000Z"
-        },
-        {
-          "id": "d5cabbfa788aa3fa90f7b5a9bb0f17420fd1aa03",
-          "title": "为什么人工智能公司的标志看起来像肛门？ / Why do AI company logos look like buttholes?",
-          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T11:06:50Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "velvetshark.com"
-      ],
-      "items": [
-        {
-          "id": "ca4b86483c18d3920b69f56e1582688055547279",
-          "title": "为什么人工智能公司的标志看起来像屁眼？ / Why do AI company logos look like buttholes?",
-          "url": "https://news.ycombinator.com/item?id=48956924",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T12:28:06.546000Z"
-        },
-        {
-          "id": "afa6b3e0d92f9e76e44a36c2c65a104df83fc874",
-          "title": "为什么人工智能公司的标志看起来像肛门？",
-          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-          "source": "velvetshark.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T12:09:54.152000Z"
-        },
-        {
-          "id": "d5cabbfa788aa3fa90f7b5a9bb0f17420fd1aa03",
-          "title": "为什么人工智能公司的标志看起来像肛门？ / Why do AI company logos look like buttholes?",
-          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T11:06:50Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5708,
-      "importance": 0.5708,
-      "importance_score": 0.5708,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T11:06:50Z",
-      "latest_at": "2026-07-18T12:28:06.546000Z",
-      "primary_item": {
-        "id": "ca4b86483c18d3920b69f56e1582688055547279",
-        "title": "为什么人工智能公司的标志看起来像屁眼？ / Why do AI company logos look like buttholes?",
-        "url": "https://news.ycombinator.com/item?id=48956924",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_0fb4407ddf01",
-      "title": "Meta正与Anthropic就租赁计算能力进行谈判，这笔交易金额可能高达100亿美元",
-      "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
-      "primary_url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
-      "source": "www.nytimes.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "71e143286682f8385b22fc4fb0b2bd0fa833b3c0",
-          "title": "Meta正与Anthropic就租赁计算能力进行谈判，这笔交易金额可能高达100亿美元",
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T23:38:00.204000Z"
-        },
-        {
-          "id": "49976faca8943d55cd7337aa020050c79f59b960",
-          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T16:33:48Z"
-        },
-        {
-          "id": "ca65045b88ab676eff3dbe92c6c82888c652f98a",
-          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T16:17:06Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "New York Times",
-        "www.nytimes.com"
-      ],
-      "items": [
-        {
-          "id": "71e143286682f8385b22fc4fb0b2bd0fa833b3c0",
-          "title": "Meta正与Anthropic就租赁计算能力进行谈判，这笔交易金额可能高达100亿美元",
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T23:38:00.204000Z"
-        },
-        {
-          "id": "49976faca8943d55cd7337aa020050c79f59b960",
-          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T16:33:48Z"
-        },
-        {
-          "id": "ca65045b88ab676eff3dbe92c6c82888c652f98a",
-          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T16:17:06Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5404,
-      "importance": 0.5404,
-      "importance_score": 0.5404,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.831,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T16:17:06Z",
-      "latest_at": "2026-07-17T23:38:00.204000Z",
-      "primary_item": {
-        "id": "71e143286682f8385b22fc4fb0b2bd0fa833b3c0",
-        "title": "Meta正与Anthropic就租赁计算能力进行谈判，这笔交易金额可能高达100亿美元",
-        "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
-        "source": "www.nytimes.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b59aca9fee2b",
-      "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-      "primary_url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-      "source": "localnewsmatters.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-          "source": "localnewsmatters.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T23:38:00.200000Z"
-        },
-        {
-          "id": "5825b8928eb109011b0ee4060fa73ee625d18081",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T22:26:30Z"
-        },
-        {
-          "id": "eff662776bebd94d321a2d86dbe25597d23184a5",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T22:26:30Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "localnewsmatters.org"
-      ],
-      "items": [
-        {
-          "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-          "source": "localnewsmatters.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T23:38:00.200000Z"
-        },
-        {
-          "id": "5825b8928eb109011b0ee4060fa73ee625d18081",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T22:26:30Z"
-        },
-        {
-          "id": "eff662776bebd94d321a2d86dbe25597d23184a5",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T22:26:30Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5404,
-      "importance": 0.5404,
-      "importance_score": 0.5404,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.831,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T22:26:30Z",
-      "latest_at": "2026-07-17T23:38:00.200000Z",
-      "primary_item": {
-        "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
-        "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
-        "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-        "source": "localnewsmatters.org",
-        "source_name": "Buzzing"
       }
     }
   ]
