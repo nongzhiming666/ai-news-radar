@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T19:41:15.489619Z",
+  "generated_at": "2026-07-19T20:52:20.106430Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8057,
-      "importance": 0.8057,
-      "importance_score": 0.8057,
+      "score": 0.8032,
+      "importance": 0.8032,
+      "importance_score": 0.8032,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8115,
+        "recency": 0.7977,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -176,15 +176,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8021,
+        "recency": 0.7885,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -238,21 +238,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7501,
-      "importance": 0.7501,
-      "importance_score": 0.7501,
+      "score": 0.7473,
+      "importance": 0.7473,
+      "importance_score": 0.7473,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9027,
+        "recency": 0.8874,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-19T12:35:56Z",
       "latest_at": "2026-07-19T12:35:56Z",
@@ -299,21 +298,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9187,
+        "recency": 0.9031,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-19T13:49:01Z",
       "latest_at": "2026-07-19T13:49:01Z",
@@ -360,15 +358,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.749,
-      "importance": 0.749,
-      "importance_score": 0.749,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8469,
+        "recency": 0.8325,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -439,15 +437,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7717,
-      "importance": 0.7717,
-      "importance_score": 0.7717,
+      "score": 0.7693,
+      "importance": 0.7693,
+      "importance_score": 0.7693,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7838,
+        "recency": 0.7705,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -501,15 +499,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7395,
-      "importance": 0.7395,
-      "importance_score": 0.7395,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9107,
+        "recency": 0.8953,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -561,15 +559,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
+      "score": 0.7281,
+      "importance": 0.7281,
+      "importance_score": 0.7281,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.794,
+        "recency": 0.7805,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -588,7 +586,7 @@
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "CY把Codex Micro的“Agent 状态外显”思路做成了Codex + Claude Code都能用的硬件版。他用EasyInput开发板跑通了从Codex / CC、本地Bridge、蓝牙 GATT到实体灯效的完整链路，让Agent的空闲、思考、未读、等待确认、报错等状态都可以直接显示在桌面灯光上。接下来，也会把它放进WaytoAGI AI 硬件训练营，带大家从零跑通相关设置和操作。",
+      "title": "这期AI论文精选很适合关注Agent落地的人看：自我改进、元认知、路由评估、失败追踪、运行框架演化，这几篇都在围绕一个核心问题打转——怎样让智能体更可靠、更可调试、更能长期运行。后半部分论文还延伸到了世界模型、安全监控优化、兼顾推理多样性的强化学习算法和高性能开源人形机器人模型。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "source": "社区更新 · 2026-07-19",
@@ -693,15 +691,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.6662,
+      "importance": 0.6662,
+      "importance_score": 0.6662,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.468,
+        "editorial": 0.4752,
         "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
+        "ai_relevance": 0.66,
+        "recency": 0.9601,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -711,8 +709,8 @@
       "earliest_at": "2026-07-19T16:59:35.403584Z",
       "latest_at": "2026-07-19T19:41:15.489619Z",
       "primary_item": {
-        "id": "09e99af366792cddd98b2c04fb458c11810bfa29",
-        "title": "CY把Codex Micro的“Agent 状态外显”思路做成了Codex + Claude Code都能用的硬件版。他用EasyInput开发板跑通了从Codex / CC、本地Bridge、蓝牙 GATT到实体灯效的完整链路，让Agent的空闲、思考、未读、等待确认、报错等状态都可以直接显示在桌面灯光上。接下来，也会把它放进WaytoAGI AI 硬件训练营，带大家从零跑通相关设置和操作。",
+        "id": "eaaefd0997e994162a8df0ce04b97977a376430c",
+        "title": "这期AI论文精选很适合关注Agent落地的人看：自我改进、元认知、路由评估、失败追踪、运行框架演化，这几篇都在围绕一个核心问题打转——怎样让智能体更可靠、更可调试、更能长期运行。后半部分论文还延伸到了世界模型、安全监控优化、兼顾推理多样性的强化学习算法和高性能开源人形机器人模型。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-19",
         "source_name": "WaytoAGI"
@@ -828,15 +826,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5957,
-      "importance": 0.5957,
-      "importance_score": 0.5957,
+      "score": 0.5931,
+      "importance": 0.5931,
+      "importance_score": 0.5931,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8608,
+        "recency": 0.8462,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -907,15 +905,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5737,
-      "importance": 0.5737,
-      "importance_score": 0.5737,
+      "score": 0.5712,
+      "importance": 0.5712,
+      "importance_score": 0.5712,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.7962,
+        "recency": 0.7827,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -930,6 +928,104 @@
         "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust",
         "source": "Simon Willison",
         "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_3aec985379c8",
+      "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
+      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+      "primary_url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+      "source": "twitter.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8f4c7c76d8086dd75b042af6e723545c91401f96",
+          "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
+          "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T20:09:31.820000Z"
+        },
+        {
+          "id": "4de9207fd8daa01cb81b9aa97ecad828f90abaeb",
+          "title": "Moonshot AI 由于 Kimi K3 需求暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+          "url": "https://news.ycombinator.com/item?id=48969291",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T17:49:41.107000Z"
+        },
+        {
+          "id": "eb2361426f5332e7bf36e887c0aa3424de371737",
+          "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+          "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T16:02:25Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "twitter.com"
+      ],
+      "items": [
+        {
+          "id": "8f4c7c76d8086dd75b042af6e723545c91401f96",
+          "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
+          "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T20:09:31.820000Z"
+        },
+        {
+          "id": "4de9207fd8daa01cb81b9aa97ecad828f90abaeb",
+          "title": "Moonshot AI 由于 Kimi K3 需求暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+          "url": "https://news.ycombinator.com/item?id=48969291",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T17:49:41.107000Z"
+        },
+        {
+          "id": "eb2361426f5332e7bf36e887c0aa3424de371737",
+          "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+          "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T16:02:25Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.569,
+      "importance": 0.569,
+      "importance_score": 0.569,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9898,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T16:02:25Z",
+      "latest_at": "2026-07-19T20:09:31.820000Z",
+      "primary_item": {
+        "id": "8f4c7c76d8086dd75b042af6e723545c91401f96",
+        "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
+        "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+        "source": "twitter.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1005,15 +1101,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5586,
-      "importance": 0.5586,
-      "importance_score": 0.5586,
+      "score": 0.5558,
+      "importance": 0.5558,
+      "importance_score": 0.5558,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9322,
+        "recency": 0.9164,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1028,6 +1124,85 @@
         "url": "https://github.com/openai/codex/pull/33972/files",
         "source": "github.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6f83c4b98e8b",
+      "title": "博杰利/ai-agent-book / bojieli /      ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "primary_url": "https://github.com/bojieli/ai-agent-book",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "9c0158c1f5e569d3b530c782aa2b83120947f640",
+          "title": "博杰利/ai-agent-book / bojieli /      ai-agent-book",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T20:53:01.692000Z"
+        },
+        {
+          "id": "0e16c867b1ceef4eb342ce477ac3378a09fc55c9",
+          "title": "博杰利/ai-agent-book / bojieli / ai-agent-book",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "9c0158c1f5e569d3b530c782aa2b83120947f640",
+          "title": "博杰利/ai-agent-book / bojieli /      ai-agent-book",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T20:53:01.692000Z"
+        },
+        {
+          "id": "0e16c867b1ceef4eb342ce477ac3378a09fc55c9",
+          "title": "博杰利/ai-agent-book / bojieli / ai-agent-book",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T20:52:20.106430Z",
+      "latest_at": "2026-07-19T20:53:01.692000Z",
+      "primary_item": {
+        "id": "9c0158c1f5e569d3b530c782aa2b83120947f640",
+        "title": "博杰利/ai-agent-book / bojieli /      ai-agent-book",
+        "url": "https://github.com/bojieli/ai-agent-book",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1084,15 +1259,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5353,
-      "importance": 0.5353,
-      "importance_score": 0.5353,
+      "score": 0.5324,
+      "importance": 0.5324,
+      "importance_score": 0.5324,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9417,
+        "recency": 0.9258,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1162,15 +1337,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5304,
-      "importance": 0.5304,
-      "importance_score": 0.5304,
+      "score": 0.5276,
+      "importance": 0.5276,
+      "importance_score": 0.5276,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9144,
+        "recency": 0.8989,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1241,15 +1416,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5595,
-      "importance": 0.5595,
-      "importance_score": 0.5595,
+      "score": 0.5571,
+      "importance": 0.5571,
+      "importance_score": 0.5571,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8101,
+        "recency": 0.7964,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1264,85 +1439,6 @@
         "url": "https://simonwillison.net/2026/Jul/19/ai-mania",
         "source": "Simon Willison",
         "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_0e1a94ec72f9",
-      "title": "kvcache-ai /      ktransformers",
-      "url": "https://github.com/kvcache-ai/ktransformers",
-      "primary_url": "https://github.com/kvcache-ai/ktransformers",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2a4a4b770843c1e2adcb689a10e3b485ebb9a093",
-          "title": "kvcache-ai /      ktransformers",
-          "url": "https://github.com/kvcache-ai/ktransformers",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T11:45:33.540000Z"
-        },
-        {
-          "id": "620633cd8d8716eb76dd9b08192830cf50528ca8",
-          "title": "kvcache-ai / ktransformers",
-          "url": "https://github.com/kvcache-ai/ktransformers",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "2a4a4b770843c1e2adcb689a10e3b485ebb9a093",
-          "title": "kvcache-ai /      ktransformers",
-          "url": "https://github.com/kvcache-ai/ktransformers",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T11:45:33.540000Z"
-        },
-        {
-          "id": "620633cd8d8716eb76dd9b08192830cf50528ca8",
-          "title": "kvcache-ai / ktransformers",
-          "url": "https://github.com/kvcache-ai/ktransformers",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5263,
-      "importance": 0.5263,
-      "importance_score": 0.5263,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8918,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T10:56:10.780768Z",
-      "latest_at": "2026-07-19T11:45:33.540000Z",
-      "primary_item": {
-        "id": "2a4a4b770843c1e2adcb689a10e3b485ebb9a093",
-        "title": "kvcache-ai /      ktransformers",
-        "url": "https://github.com/kvcache-ai/ktransformers",
-        "source": "github",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1399,15 +1495,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5254,
-      "importance": 0.5254,
-      "importance_score": 0.5254,
+      "score": 0.5227,
+      "importance": 0.5227,
+      "importance_score": 0.5227,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8867,
+        "recency": 0.8716,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1477,15 +1573,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5195,
-      "importance": 0.5195,
-      "importance_score": 0.5195,
+      "score": 0.5169,
+      "importance": 0.5169,
+      "importance_score": 0.5169,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8539,
+        "recency": 0.8394,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1555,15 +1651,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5153,
-      "importance": 0.5153,
-      "importance_score": 0.5153,
+      "score": 0.5127,
+      "importance": 0.5127,
+      "importance_score": 0.5127,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8305,
+        "recency": 0.8164,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1578,85 +1674,6 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "source": "news.google.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_3aec985379c8",
-      "title": "Moonshot AI 由于 Kimi K3 需求暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-      "url": "https://news.ycombinator.com/item?id=48969291",
-      "primary_url": "https://news.ycombinator.com/item?id=48969291",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "4de9207fd8daa01cb81b9aa97ecad828f90abaeb",
-          "title": "Moonshot AI 由于 Kimi K3 需求暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "url": "https://news.ycombinator.com/item?id=48969291",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T17:49:41.107000Z"
-        },
-        {
-          "id": "eb2361426f5332e7bf36e887c0aa3424de371737",
-          "title": "Moonshot AI 由于 Kimi K3 需求暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-19T16:02:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "4de9207fd8daa01cb81b9aa97ecad828f90abaeb",
-          "title": "Moonshot AI 由于 Kimi K3 需求暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "url": "https://news.ycombinator.com/item?id=48969291",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T17:49:41.107000Z"
-        },
-        {
-          "id": "eb2361426f5332e7bf36e887c0aa3424de371737",
-          "title": "Moonshot AI 由于 Kimi K3 需求暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-19T16:02:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.541,
-      "importance": 0.541,
-      "importance_score": 0.541,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9735,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T16:02:25Z",
-      "latest_at": "2026-07-19T17:49:41.107000Z",
-      "primary_item": {
-        "id": "4de9207fd8daa01cb81b9aa97ecad828f90abaeb",
-        "title": "Moonshot AI 由于 Kimi K3 需求暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-        "url": "https://news.ycombinator.com/item?id=48969291",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
