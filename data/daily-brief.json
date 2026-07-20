@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T22:54:20.104264Z",
+  "generated_at": "2026-07-19T23:59:24.019762Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -114,15 +114,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.824,
-      "importance": 0.824,
-      "importance_score": 0.824,
+      "score": 0.8219,
+      "importance": 0.8219,
+      "importance_score": 0.8219,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7747,
+        "recency": 0.7626,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -195,15 +195,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7974,
-      "importance": 0.7974,
-      "importance_score": 0.7974,
+      "score": 0.7947,
+      "importance": 0.7947,
+      "importance_score": 0.7947,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9766,
+        "recency": 0.9615,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -276,15 +276,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7594,
-      "importance": 0.7594,
-      "importance_score": 0.7594,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7657,
+        "recency": 0.7538,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -338,15 +338,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
+      "score": 0.7403,
+      "importance": 0.7403,
+      "importance_score": 0.7403,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8617,
+        "recency": 0.8483,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -398,15 +398,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
+      "score": 0.74,
+      "importance": 0.74,
+      "importance_score": 0.74,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.877,
+        "recency": 0.8634,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -458,15 +458,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7421,
-      "importance": 0.7421,
-      "importance_score": 0.7421,
+      "score": 0.7399,
+      "importance": 0.7399,
+      "importance_score": 0.7399,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8084,
+        "recency": 0.7959,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -537,15 +537,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7482,
+        "recency": 0.7366,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -599,15 +599,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
+      "score": 0.7297,
+      "importance": 0.7297,
+      "importance_score": 0.7297,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8694,
+        "recency": 0.8559,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -659,15 +659,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.724,
-      "importance": 0.724,
-      "importance_score": 0.724,
+      "score": 0.7219,
+      "importance": 0.7219,
+      "importance_score": 0.7219,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7579,
+        "recency": 0.7462,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -791,15 +791,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6612,
-      "importance": 0.6612,
-      "importance_score": 0.6612,
+      "score": 0.6586,
+      "importance": 0.6586,
+      "importance_score": 0.6586,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4752,
         "source_tier": 0.54,
         "ai_relevance": 0.66,
-        "recency": 0.9323,
+        "recency": 0.9178,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -814,6 +814,104 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-19",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_fd0a7ef35a9d",
+      "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
+      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "primary_url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "source": "thenextweb.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0eea1d87eacc15a486631f4f55c4b2997bd9dc43",
+          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
+          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+          "source": "thenextweb.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T23:05:08.884000Z"
+        },
+        {
+          "id": "d1478b7d662bf7e42e4c5ae373bbec00223f2664",
+          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍 / AI advice made people 3x less accurate but 2x confident, researchers found",
+          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-19T21:18:10Z"
+        },
+        {
+          "id": "9c79fc22db09b74819e6522bef3954a47d57f212",
+          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍 / AI advice made people three times less accurate but twice as confident, researchers found",
+          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+          "source": "The Next Web",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-19T15:35:47Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "The Next Web",
+        "thenextweb.com"
+      ],
+      "items": [
+        {
+          "id": "0eea1d87eacc15a486631f4f55c4b2997bd9dc43",
+          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
+          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+          "source": "thenextweb.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T23:05:08.884000Z"
+        },
+        {
+          "id": "d1478b7d662bf7e42e4c5ae373bbec00223f2664",
+          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍 / AI advice made people 3x less accurate but 2x confident, researchers found",
+          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-19T21:18:10Z"
+        },
+        {
+          "id": "9c79fc22db09b74819e6522bef3954a47d57f212",
+          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍 / AI advice made people three times less accurate but twice as confident, researchers found",
+          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+          "source": "The Next Web",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-19T15:35:47Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5685,
+      "importance": 0.5685,
+      "importance_score": 0.5685,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.987,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T15:35:47Z",
+      "latest_at": "2026-07-19T23:05:08.884000Z",
+      "primary_item": {
+        "id": "0eea1d87eacc15a486631f4f55c4b2997bd9dc43",
+        "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
+        "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+        "source": "thenextweb.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -870,15 +968,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5672,
-      "importance": 0.5672,
-      "importance_score": 0.5672,
+      "score": 0.565,
+      "importance": 0.565,
+      "importance_score": 0.565,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.76,
+        "recency": 0.7482,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -968,15 +1066,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5638,
-      "importance": 0.5638,
-      "importance_score": 0.5638,
+      "score": 0.5611,
+      "importance": 0.5611,
+      "importance_score": 0.5611,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9611,
+        "recency": 0.9462,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1066,15 +1164,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.551,
-      "importance": 0.551,
-      "importance_score": 0.551,
+      "score": 0.5485,
+      "importance": 0.5485,
+      "importance_score": 0.5485,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8899,
+        "recency": 0.8761,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1145,15 +1243,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.543,
+      "importance": 0.543,
+      "importance_score": 0.543,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9845,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1168,85 +1266,6 @@
         "url": "https://www.huxiu.com/article/4876531.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_fd0a7ef35a9d",
-      "title": "研究人员发现，人工智能建议的准确性降低了 3 倍，但信心却提高了 2 倍 / AI advice made people 3x less accurate but 2x confident, researchers found",
-      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-      "primary_url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "d1478b7d662bf7e42e4c5ae373bbec00223f2664",
-          "title": "研究人员发现，人工智能建议的准确性降低了 3 倍，但信心却提高了 2 倍 / AI advice made people 3x less accurate but 2x confident, researchers found",
-          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-19T21:18:10Z"
-        },
-        {
-          "id": "9c79fc22db09b74819e6522bef3954a47d57f212",
-          "title": "研究人员发现，人工智能建议的准确性降低了三倍，但信心却提高了一倍 / AI advice made people three times less accurate but twice as confident, researchers found",
-          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-          "source": "The Next Web",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-19T15:35:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "The Next Web"
-      ],
-      "items": [
-        {
-          "id": "d1478b7d662bf7e42e4c5ae373bbec00223f2664",
-          "title": "研究人员发现，人工智能建议的准确性降低了 3 倍，但信心却提高了 2 倍 / AI advice made people 3x less accurate but 2x confident, researchers found",
-          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-19T21:18:10Z"
-        },
-        {
-          "id": "9c79fc22db09b74819e6522bef3954a47d57f212",
-          "title": "研究人员发现，人工智能建议的准确性降低了三倍，但信心却提高了一倍 / AI advice made people three times less accurate but twice as confident, researchers found",
-          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-          "source": "The Next Web",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-19T15:35:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5417,
-      "importance": 0.5417,
-      "importance_score": 0.5417,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9771,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T15:35:47Z",
-      "latest_at": "2026-07-19T21:18:10Z",
-      "primary_item": {
-        "id": "d1478b7d662bf7e42e4c5ae373bbec00223f2664",
-        "title": "研究人员发现，人工智能建议的准确性降低了 3 倍，但信心却提高了 2 倍 / AI advice made people 3x less accurate but 2x confident, researchers found",
-        "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
       }
     },
     {
@@ -1303,15 +1322,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5406,
-      "importance": 0.5406,
-      "importance_score": 0.5406,
+      "score": 0.5379,
+      "importance": 0.5379,
+      "importance_score": 0.5379,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9712,
+        "recency": 0.9561,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1382,15 +1401,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5271,
-      "importance": 0.5271,
-      "importance_score": 0.5271,
+      "score": 0.5246,
+      "importance": 0.5246,
+      "importance_score": 0.5246,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8963,
+        "recency": 0.8824,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1460,15 +1479,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5229,
-      "importance": 0.5229,
-      "importance_score": 0.5229,
+      "score": 0.5205,
+      "importance": 0.5205,
+      "importance_score": 0.5205,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8729,
+        "recency": 0.8593,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1539,15 +1558,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5182,
-      "importance": 0.5182,
-      "importance_score": 0.5182,
+      "score": 0.5158,
+      "importance": 0.5158,
+      "importance_score": 0.5158,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8464,
+        "recency": 0.8333,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1617,15 +1636,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5125,
-      "importance": 0.5125,
-      "importance_score": 0.5125,
+      "score": 0.5102,
+      "importance": 0.5102,
+      "importance_score": 0.5102,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8151,
+        "recency": 0.8024,
         "story_heat": 0.25
       },
       "category": "watch",
