@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T15:01:38.837109Z",
+  "generated_at": "2026-07-24T17:05:12.584285Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -132,15 +132,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8755,
-      "importance": 0.8755,
-      "importance_score": 0.8755,
+      "score": 0.8706,
+      "importance": 0.8706,
+      "importance_score": 0.8706,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9272,
+        "recency": 0.9,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -157,6 +157,68 @@
         "url": "https://github.com/izeigerman/claude-thermos",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e75df1016aa1",
+      "title": "克劳德作品 5 简介 / Introducing Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "primary_url": "https://www.anthropic.com/news/claude-opus-5",
+      "source": "Anthropic News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
+          "title": "克劳德作品 5 简介 / Introducing Claude Opus 5",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Anthropic News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-24T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic News"
+      ],
+      "items": [
+        {
+          "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
+          "title": "克劳德作品 5 简介 / Introducing Claude Opus 5",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Anthropic News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-24T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8206,
+      "importance": 0.8206,
+      "importance_score": 0.8206,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7813,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T00:00:00Z",
+      "latest_at": "2026-07-24T00:00:00Z",
+      "primary_item": {
+        "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
+        "title": "克劳德作品 5 简介 / Introducing Claude Opus 5",
+        "url": "https://www.anthropic.com/news/claude-opus-5",
+        "source": "Anthropic News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -194,15 +256,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8199,
-      "importance": 0.8199,
-      "importance_score": 0.8199,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7881,
+        "recency": 0.765,
         "story_heat": 0.0
       },
       "category": "official",
@@ -256,15 +318,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8144,
-      "importance": 0.8144,
-      "importance_score": 0.8144,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7576,
+        "recency": 0.7354,
         "story_heat": 0.0
       },
       "category": "official",
@@ -337,15 +399,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7825,
-      "importance": 0.7825,
-      "importance_score": 0.7825,
+      "score": 0.7776,
+      "importance": 0.7776,
+      "importance_score": 0.7776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9274,
+        "recency": 0.9002,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -418,15 +480,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7778,
-      "importance": 0.7778,
-      "importance_score": 0.7778,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9177,
+        "recency": 0.8908,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -499,15 +561,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7754,
-      "importance": 0.7754,
-      "importance_score": 0.7754,
+      "score": 0.7708,
+      "importance": 0.7708,
+      "importance_score": 0.7708,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.888,
+        "recency": 0.862,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -561,15 +623,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7731,
-      "importance": 0.7731,
-      "importance_score": 0.7731,
+      "score": 0.7679,
+      "importance": 0.7679,
+      "importance_score": 0.7679,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9807,
+        "recency": 0.9519,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -584,6 +646,67 @@
         "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
         "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
         "source": "公众号：蚂蚁百灵（Ling）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_814a2650ce82",
+      "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
+      "url": "https://www.anthropic.com/research/project-pilot",
+      "primary_url": "https://www.anthropic.com/research/project-pilot",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6d978bac4bc3e6f0fdd4b448336d72246c3748a0",
+          "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
+          "url": "https://www.anthropic.com/research/project-pilot",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T15:25:45.300000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "6d978bac4bc3e6f0fdd4b448336d72246c3748a0",
+          "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
+          "url": "https://www.anthropic.com/research/project-pilot",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T15:25:45.300000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9763,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T15:25:45.300000Z",
+      "latest_at": "2026-07-24T15:25:45.300000Z",
+      "primary_item": {
+        "id": "6d978bac4bc3e6f0fdd4b448336d72246c3748a0",
+        "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
+        "url": "https://www.anthropic.com/research/project-pilot",
+        "source": "Anthropic：Research（发表成果 · 网页）",
         "source_name": "AI HOT"
       }
     },
@@ -622,15 +745,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7696,
-      "importance": 0.7696,
-      "importance_score": 0.7696,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9777,
+        "recency": 0.9491,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -666,18 +789,18 @@
           "published_at": "2026-07-24T11:55:45.885000Z"
         },
         {
-          "id": "0ee2e4b563ccc64d2b679ce830f9890b7a015ee5",
+          "id": "d9d8a3a19c48f68d00c49361a52d4242cbdaae6e",
           "title": "FLUX 3 x mimic：新一代视频动作模型 / Flux 3 X Mimic: The Next Generation of Video-Action Models",
           "url": "https://bfl.ai/blog/flux-3-mimic",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-24T09:31:48Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
@@ -691,26 +814,26 @@
           "published_at": "2026-07-24T11:55:45.885000Z"
         },
         {
-          "id": "0ee2e4b563ccc64d2b679ce830f9890b7a015ee5",
+          "id": "d9d8a3a19c48f68d00c49361a52d4242cbdaae6e",
           "title": "FLUX 3 x mimic：新一代视频动作模型 / Flux 3 X Mimic: The Next Generation of Video-Action Models",
           "url": "https://bfl.ai/blog/flux-3-mimic",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-24T09:31:48Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
+      "score": 0.7887,
+      "importance": 0.7887,
+      "importance_score": 0.7887,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9562,
+        "recency": 0.9282,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -764,15 +887,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9806,
+        "recency": 0.9518,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -825,15 +948,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.81,
-      "importance": 0.81,
-      "importance_score": 0.81,
+      "score": 0.806,
+      "importance": 0.806,
+      "importance_score": 0.806,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7668,
+        "recency": 0.7443,
         "story_heat": 0.0
       },
       "category": "official",
@@ -887,15 +1010,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9638,
+        "recency": 0.9355,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -947,15 +1070,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7448,
-      "importance": 0.7448,
-      "importance_score": 0.7448,
+      "score": 0.7408,
+      "importance": 0.7408,
+      "importance_score": 0.7408,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7567,
+        "recency": 0.7345,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1026,15 +1149,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7444,
-      "importance": 0.7444,
-      "importance_score": 0.7444,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7489,
+        "recency": 0.7269,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1106,15 +1229,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7715,
-      "importance": 0.7715,
-      "importance_score": 0.7715,
+      "score": 0.7673,
+      "importance": 0.7673,
+      "importance_score": 0.7673,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7993,
+        "recency": 0.7759,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1187,15 +1310,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8515,
+        "recency": 0.8265,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1249,15 +1372,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
+      "score": 0.7292,
+      "importance": 0.7292,
+      "importance_score": 0.7292,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7589,
+        "recency": 0.7367,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1271,86 +1394,6 @@
         "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
         "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
         "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f874ff9a4072",
-      "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
-      "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-      "primary_url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "39ca60e336078bc560f5427e1deef672799be840",
-          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
-          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T17:01:30Z"
-        },
-        {
-          "id": "13371efb49f353a8b7394144c16a08179fd2381c",
-          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-23T17:01:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "39ca60e336078bc560f5427e1deef672799be840",
-          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
-          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T17:01:30Z"
-        },
-        {
-          "id": "13371efb49f353a8b7394144c16a08179fd2381c",
-          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-23T17:01:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7376,
-      "importance": 0.7376,
-      "importance_score": 0.7376,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7278,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T17:01:30Z",
-      "latest_at": "2026-07-23T17:01:30Z",
-      "primary_item": {
-        "id": "39ca60e336078bc560f5427e1deef672799be840",
-        "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
-        "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1389,15 +1432,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7975,
-      "importance": 0.7975,
-      "importance_score": 0.7975,
+      "score": 0.7936,
+      "importance": 0.7936,
+      "importance_score": 0.7936,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7415,
+        "recency": 0.7198,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1414,87 +1457,6 @@
         "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_beff3db76c17",
-      "title": "微软自研双模型MAI-Image-2.5-Pro与MAI-Voice-2-Flash发布：不蒸馏第三方，已落地Bing和PowerPoint",
-      "url": "https://www.aibase.com/news/29851",
-      "primary_url": "https://www.aibase.com/news/29851",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b7bd7e539877eb7ce31286a007ea7eb61350a0af",
-          "title": "微软自研双模型MAI-Image-2.5-Pro与MAI-Voice-2-Flash发布：不蒸馏第三方，已落地Bing和PowerPoint",
-          "url": "https://www.aibase.com/news/29851",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T03:53:40.132860Z"
-        },
-        {
-          "id": "7dfa6c88d9a63b61dda65a9ac87aa132d322743a",
-          "title": "微软发布自研双模型 MAI-Image-2.5-Pro 与 MAI-Voice-2-Flash，已落地 Bing 和 PowerPoint",
-          "url": "https://www.aibase.com/zh/news/29851",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b7bd7e539877eb7ce31286a007ea7eb61350a0af",
-          "title": "微软自研双模型MAI-Image-2.5-Pro与MAI-Voice-2-Flash发布：不蒸馏第三方，已落地Bing和PowerPoint",
-          "url": "https://www.aibase.com/news/29851",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T03:53:40.132860Z"
-        },
-        {
-          "id": "7dfa6c88d9a63b61dda65a9ac87aa132d322743a",
-          "title": "微软发布自研双模型 MAI-Image-2.5-Pro 与 MAI-Voice-2-Flash，已落地 Bing 和 PowerPoint",
-          "url": "https://www.aibase.com/zh/news/29851",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8515,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T03:53:40.132860Z",
-      "latest_at": "2026-07-24T03:53:40.132860Z",
-      "primary_item": {
-        "id": "b7bd7e539877eb7ce31286a007ea7eb61350a0af",
-        "title": "微软自研双模型MAI-Image-2.5-Pro与MAI-Voice-2-Flash发布：不蒸馏第三方，已落地Bing和PowerPoint",
-        "url": "https://www.aibase.com/news/29851",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
