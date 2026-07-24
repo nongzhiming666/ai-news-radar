@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T03:53:40.132860Z",
+  "generated_at": "2026-07-24T09:04:49.390538Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8446,
-      "importance": 0.8446,
-      "importance_score": 0.8446,
+      "score": 0.8326,
+      "importance": 0.8326,
+      "importance_score": 0.8326,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9256,
+        "recency": 0.8588,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8381,
-      "importance": 0.8381,
-      "importance_score": 0.8381,
+      "score": 0.8266,
+      "importance": 0.8266,
+      "importance_score": 0.8266,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8897,
+        "recency": 0.8255,
         "story_heat": 0.0
       },
       "category": "official",
@@ -200,15 +200,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8017,
-      "importance": 0.8017,
-      "importance_score": 0.8017,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8947,
+        "recency": 0.8302,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -228,30 +228,30 @@
       }
     },
     {
-      "story_id": "story_d70d846b51ce",
-      "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-      "url": "https://www.ithome.com/0/980/890.htm",
-      "primary_url": "https://www.ithome.com/0/980/890.htm",
+      "story_id": "story_37e28291df02",
+      "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+      "url": "https://www.ithome.com/0/981/137.htm",
+      "primary_url": "https://www.ithome.com/0/981/137.htm",
       "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
-          "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "url": "https://www.ithome.com/0/980/890.htm",
+          "id": "50ab6583849f884bd6093cd24bb4f14edf02de34",
+          "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+          "url": "https://www.ithome.com/0/981/137.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-23T23:30:43Z"
+          "published_at": "2026-07-24T06:48:04Z"
         },
         {
-          "id": "789ebe117e2fc35b399b461a09065b5c2f1371b7",
-          "title": "佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "url": "https://www.ithome.com/0/980/890.htm",
+          "id": "62bcc0d11d0dc1598af8fbe54037057aec7de792",
+          "title": "FLUX 3 多模态 AI 模型登场：支持单次生成 20 秒多样化视频",
+          "url": "https://www.ithome.com/0/981/137.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-23T23:30:43Z"
+          "published_at": "2026-07-24T06:48:04Z"
         }
       ],
       "source_count": 2,
@@ -261,35 +261,35 @@
       ],
       "items": [
         {
-          "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
-          "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "url": "https://www.ithome.com/0/980/890.htm",
+          "id": "50ab6583849f884bd6093cd24bb4f14edf02de34",
+          "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+          "url": "https://www.ithome.com/0/981/137.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-23T23:30:43Z"
+          "published_at": "2026-07-24T06:48:04Z"
         },
         {
-          "id": "789ebe117e2fc35b399b461a09065b5c2f1371b7",
-          "title": "佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "url": "https://www.ithome.com/0/980/890.htm",
+          "id": "62bcc0d11d0dc1598af8fbe54037057aec7de792",
+          "title": "FLUX 3 多模态 AI 模型登场：支持单次生成 20 秒多样化视频",
+          "url": "https://www.ithome.com/0/981/137.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-23T23:30:43Z"
+          "published_at": "2026-07-24T06:48:04Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7966,
-      "importance": 0.7966,
-      "importance_score": 0.7966,
+      "score": 0.7898,
+      "importance": 0.7898,
+      "importance_score": 0.7898,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9387,
+        "recency": 0.9676,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -298,12 +298,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T23:30:43Z",
-      "latest_at": "2026-07-23T23:30:43Z",
+      "earliest_at": "2026-07-24T06:48:04Z",
+      "latest_at": "2026-07-24T06:48:04Z",
       "primary_item": {
-        "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
-        "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-        "url": "https://www.ithome.com/0/980/890.htm",
+        "id": "50ab6583849f884bd6093cd24bb4f14edf02de34",
+        "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+        "url": "https://www.ithome.com/0/981/137.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
@@ -362,15 +362,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7796,
+      "importance": 0.7796,
+      "importance_score": 0.7796,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9278,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -461,15 +461,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7868,
-      "importance": 0.7868,
-      "importance_score": 0.7868,
+      "score": 0.776,
+      "importance": 0.776,
+      "importance_score": 0.776,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8287,
+        "recency": 0.7689,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -523,15 +523,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8341,
-      "importance": 0.8341,
-      "importance_score": 0.8341,
+      "score": 0.8224,
+      "importance": 0.8224,
+      "importance_score": 0.8224,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9005,
+        "recency": 0.8356,
         "story_heat": 0.0
       },
       "category": "official",
@@ -585,15 +585,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8886,
+        "recency": 0.8245,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -665,15 +665,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
+      "score": 0.7565,
+      "importance": 0.7565,
+      "importance_score": 0.7565,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8795,
+        "recency": 0.816,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -689,6 +689,87 @@
         "title": "Claude 语音模式现已支持 Opus 和 Sonnet 模型",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
         "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d70d846b51ce",
+      "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+      "url": "https://www.ithome.com/0/980/890.htm",
+      "primary_url": "https://www.ithome.com/0/980/890.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
+          "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "url": "https://www.ithome.com/0/980/890.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T23:30:43Z"
+        },
+        {
+          "id": "789ebe117e2fc35b399b461a09065b5c2f1371b7",
+          "title": "佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "url": "https://www.ithome.com/0/980/890.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-23T23:30:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
+          "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "url": "https://www.ithome.com/0/980/890.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T23:30:43Z"
+        },
+        {
+          "id": "789ebe117e2fc35b399b461a09065b5c2f1371b7",
+          "title": "佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "url": "https://www.ithome.com/0/980/890.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-23T23:30:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7844,
+      "importance": 0.7844,
+      "importance_score": 0.7844,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8709,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T23:30:43Z",
+      "latest_at": "2026-07-23T23:30:43Z",
+      "primary_item": {
+        "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
+        "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+        "url": "https://www.ithome.com/0/980/890.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -746,15 +827,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7796,
+      "importance": 0.7796,
+      "importance_score": 0.7796,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9278,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -827,22 +908,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8547,
+        "recency": 0.7931,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T17:01:30Z",
       "latest_at": "2026-07-23T17:01:30Z",
@@ -889,21 +969,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8913,
+        "recency": 0.827,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T19:55:29.530000Z",
       "latest_at": "2026-07-23T19:55:29.530000Z",
@@ -950,21 +1029,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8013,
+        "recency": 0.7435,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T12:33:27Z",
       "latest_at": "2026-07-23T12:33:27Z",
@@ -1030,15 +1108,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8743,
+        "recency": 0.8112,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1092,15 +1170,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7345,
-      "importance": 0.7345,
-      "importance_score": 0.7345,
+      "score": 0.7232,
+      "importance": 0.7232,
+      "importance_score": 0.7232,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.866,
+        "recency": 0.8035,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1171,15 +1249,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7796,
+      "importance": 0.7796,
+      "importance_score": 0.7796,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9278,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1233,15 +1311,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8208,
-      "importance": 0.8208,
-      "importance_score": 0.8208,
+      "score": 0.8094,
+      "importance": 0.8094,
+      "importance_score": 0.8094,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8709,
+        "recency": 0.808,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1258,66 +1336,6 @@
         "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a34a897d283a",
-      "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
-      "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
-      "primary_url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
-      "source": "公众号：小红书技术（dots.llm）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4c73c7c8afcb262fb794bd2cca00819ef9338379",
-          "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
-          "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T04:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：小红书技术（dots.llm）"
-      ],
-      "items": [
-        {
-          "id": "4c73c7c8afcb262fb794bd2cca00819ef9338379",
-          "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
-          "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T04:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7082,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T04:00:00Z",
-      "latest_at": "2026-07-23T04:00:00Z",
-      "primary_item": {
-        "id": "4c73c7c8afcb262fb794bd2cca00819ef9338379",
-        "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
-        "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
-        "source": "公众号：小红书技术（dots.llm）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1374,22 +1392,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8182,
+        "recency": 0.7592,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T14:00:00Z",
       "latest_at": "2026-07-23T14:00:00Z",
@@ -1455,15 +1472,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7796,
+      "importance": 0.7796,
+      "importance_score": 0.7796,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9278,
         "story_heat": 0.25
       },
       "category": "industry",
