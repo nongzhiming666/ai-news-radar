@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T12:58:13.764693Z",
+  "generated_at": "2026-07-24T15:01:38.837109Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -132,15 +132,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8805,
-      "importance": 0.8805,
-      "importance_score": 0.8805,
+      "score": 0.8755,
+      "importance": 0.8755,
+      "importance_score": 0.8755,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9551,
+        "recency": 0.9272,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -194,15 +194,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
+      "score": 0.8199,
+      "importance": 0.8199,
+      "importance_score": 0.8199,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8119,
+        "recency": 0.7881,
         "story_heat": 0.0
       },
       "category": "official",
@@ -256,15 +256,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8185,
-      "importance": 0.8185,
-      "importance_score": 0.8185,
+      "score": 0.8144,
+      "importance": 0.8144,
+      "importance_score": 0.8144,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7804,
+        "recency": 0.7576,
         "story_heat": 0.0
       },
       "category": "official",
@@ -337,15 +337,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7876,
-      "importance": 0.7876,
-      "importance_score": 0.7876,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9554,
+        "recency": 0.9274,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -418,15 +418,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7828,
-      "importance": 0.7828,
-      "importance_score": 0.7828,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9454,
+        "recency": 0.9177,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -499,15 +499,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7803,
-      "importance": 0.7803,
-      "importance_score": 0.7803,
+      "score": 0.7754,
+      "importance": 0.7754,
+      "importance_score": 0.7754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9148,
+        "recency": 0.888,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -523,6 +523,128 @@
         "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
         "url": "https://www.ithome.com/0/981/137.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2ac29ebc87bb",
+      "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+      "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
+      "primary_url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
+      "source": "公众号：蚂蚁百灵（Ling）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cc31beb6a04d5fe1892b55856a826870a83fd214",
+          "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+          "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T13:40:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：蚂蚁百灵（Ling）"
+      ],
+      "items": [
+        {
+          "id": "cc31beb6a04d5fe1892b55856a826870a83fd214",
+          "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+          "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T13:40:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7731,
+      "importance": 0.7731,
+      "importance_score": 0.7731,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9807,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T13:40:30Z",
+      "latest_at": "2026-07-24T13:40:30Z",
+      "primary_item": {
+        "id": "cc31beb6a04d5fe1892b55856a826870a83fd214",
+        "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+        "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
+        "source": "公众号：蚂蚁百灵（Ling）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_886d512748f4",
+      "title": "微软阐述开源模型助力美国竞争力路径",
+      "url": "https://x.com/satyanadella/status/2080646162483417097",
+      "primary_url": "https://x.com/satyanadella/status/2080646162483417097",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "635efd919bc4925c89ab2f7436e3a380f683f93e",
+          "title": "微软阐述开源模型助力美国竞争力路径",
+          "url": "https://x.com/satyanadella/status/2080646162483417097",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T13:27:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Satya Nadella (@satyanadella)"
+      ],
+      "items": [
+        {
+          "id": "635efd919bc4925c89ab2f7436e3a380f683f93e",
+          "title": "微软阐述开源模型助力美国竞争力路径",
+          "url": "https://x.com/satyanadella/status/2080646162483417097",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T13:27:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7696,
+      "importance": 0.7696,
+      "importance_score": 0.7696,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9777,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T13:27:56Z",
+      "latest_at": "2026-07-24T13:27:56Z",
+      "primary_item": {
+        "id": "635efd919bc4925c89ab2f7436e3a380f683f93e",
+        "title": "微软阐述开源模型助力美国竞争力路径",
+        "url": "https://x.com/satyanadella/status/2080646162483417097",
+        "source": "X：Satya Nadella (@satyanadella)",
         "source_name": "AI HOT"
       }
     },
@@ -580,15 +702,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7989,
-      "importance": 0.7989,
-      "importance_score": 0.7989,
+      "score": 0.7937,
+      "importance": 0.7937,
+      "importance_score": 0.7937,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9851,
+        "recency": 0.9562,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -608,101 +730,63 @@
       }
     },
     {
-      "story_id": "story_085548e5aa00",
-      "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
-      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-      "primary_url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-      "source": "TechCrunch：AI（RSS）",
+      "story_id": "story_31cf3740c53e",
+      "title": "Runway Agent 推出自然语言工作流功能",
+      "url": "https://x.com/runwayml/status/2080649234672439389",
+      "primary_url": "https://x.com/runwayml/status/2080649234672439389",
+      "source": "X：Runway (@runwayml)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "fa328c231b7b7dd15d90e5a0a7e84bb354c54288",
-          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
-          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "38b19e75307d67f7ea16deda84f93dc8f08bf77a",
+          "title": "Runway Agent 推出自然语言工作流功能",
+          "url": "https://x.com/runwayml/status/2080649234672439389",
+          "source": "X：Runway (@runwayml)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-23T14:52:44Z"
-        },
-        {
-          "id": "7ca0d4b2f0af7b950c994c03af7a3c23686eeb07",
-          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品 / Google closes in on another billion- user product with Gemini",
-          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-23T14:52:44Z"
-        },
-        {
-          "id": "474065204c1f6c5657392f12803762152e55500c",
-          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品 / Google’s Gemini nears billion-user milestone",
-          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-23T14:52:44Z"
+          "published_at": "2026-07-24T13:40:08Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
+        "X：Runway (@runwayml)"
       ],
       "items": [
         {
-          "id": "fa328c231b7b7dd15d90e5a0a7e84bb354c54288",
-          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
-          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "38b19e75307d67f7ea16deda84f93dc8f08bf77a",
+          "title": "Runway Agent 推出自然语言工作流功能",
+          "url": "https://x.com/runwayml/status/2080649234672439389",
+          "source": "X：Runway (@runwayml)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-23T14:52:44Z"
-        },
-        {
-          "id": "7ca0d4b2f0af7b950c994c03af7a3c23686eeb07",
-          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品 / Google closes in on another billion- user product with Gemini",
-          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-23T14:52:44Z"
-        },
-        {
-          "id": "474065204c1f6c5657392f12803762152e55500c",
-          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品 / Google’s Gemini nears billion-user milestone",
-          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-23T14:52:44Z"
+          "published_at": "2026-07-24T13:40:08Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7269,
-        "story_heat": 0.5
+        "recency": 0.9806,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T14:52:44Z",
-      "latest_at": "2026-07-23T14:52:44Z",
+      "earliest_at": "2026-07-24T13:40:08Z",
+      "latest_at": "2026-07-24T13:40:08Z",
       "primary_item": {
-        "id": "fa328c231b7b7dd15d90e5a0a7e84bb354c54288",
-        "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
-        "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-        "source": "TechCrunch：AI（RSS）",
+        "id": "38b19e75307d67f7ea16deda84f93dc8f08bf77a",
+        "title": "Runway Agent 推出自然语言工作流功能",
+        "url": "https://x.com/runwayml/status/2080649234672439389",
+        "source": "X：Runway (@runwayml)",
         "source_name": "AI HOT"
       }
     },
@@ -741,15 +825,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
+      "score": 0.81,
+      "importance": 0.81,
+      "importance_score": 0.81,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7899,
+        "recency": 0.7668,
         "story_heat": 0.0
       },
       "category": "official",
@@ -803,21 +887,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9928,
+        "recency": 0.9638,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T12:28:24Z",
       "latest_at": "2026-07-24T12:28:24Z",
@@ -864,15 +947,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
+      "score": 0.7448,
+      "importance": 0.7448,
+      "importance_score": 0.7448,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7795,
+        "recency": 0.7567,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -943,15 +1026,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.7444,
+      "importance": 0.7444,
+      "importance_score": 0.7444,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7714,
+        "recency": 0.7489,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1023,15 +1106,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7758,
-      "importance": 0.7758,
-      "importance_score": 0.7758,
+      "score": 0.7715,
+      "importance": 0.7715,
+      "importance_score": 0.7715,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8234,
+        "recency": 0.7993,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1104,15 +1187,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
+      "score": 0.7659,
+      "importance": 0.7659,
+      "importance_score": 0.7659,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8772,
+        "recency": 0.8515,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1166,15 +1249,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7373,
-      "importance": 0.7373,
-      "importance_score": 0.7373,
+      "score": 0.7332,
+      "importance": 0.7332,
+      "importance_score": 0.7332,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7818,
+        "recency": 0.7589,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1188,186 +1271,6 @@
         "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
         "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
         "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c1235e6e1a5b",
-      "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-      "primary_url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
-          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T20:11:31.906000Z"
-        },
-        {
-          "id": "c4c7faebfc9cea5cf488d3f9f4881425a345456b",
-          "title": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-          "source": "www.darpa.mil",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T20:11:31.906000Z"
-        },
-        {
-          "id": "33cce87c1d1999b5e8eb79cce6697396a9f41388",
-          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机 / DARPA, U.S. Air Force fly AI-controlled F-16",
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-23T13:51:36Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.darpa.mil"
-      ],
-      "items": [
-        {
-          "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
-          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T20:11:31.906000Z"
-        },
-        {
-          "id": "c4c7faebfc9cea5cf488d3f9f4881425a345456b",
-          "title": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-          "source": "www.darpa.mil",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T20:11:31.906000Z"
-        },
-        {
-          "id": "33cce87c1d1999b5e8eb79cce6697396a9f41388",
-          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机 / DARPA, U.S. Air Force fly AI-controlled F-16",
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-23T13:51:36Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7819,
-      "importance": 0.7819,
-      "importance_score": 0.7819,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7848,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T13:51:36Z",
-      "latest_at": "2026-07-23T20:11:31.906000Z",
-      "primary_item": {
-        "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
-        "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-        "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9ae095cbc6ee",
-      "title": "Apple 起诉 OpenAI 窃取硬件制造机密",
-      "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-      "primary_url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "794df629b7a6322acb25902743aaec5346a26e71",
-          "title": "Apple 起诉 OpenAI 窃取硬件制造机密",
-          "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T14:00:00Z"
-        },
-        {
-          "id": "2d4fc4509f6b2b68ee8e0e251439b8df2901292b",
-          "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-23T14:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "794df629b7a6322acb25902743aaec5346a26e71",
-          "title": "Apple 起诉 OpenAI 窃取硬件制造机密",
-          "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T14:00:00Z"
-        },
-        {
-          "id": "2d4fc4509f6b2b68ee8e0e251439b8df2901292b",
-          "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-23T14:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7177,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T14:00:00Z",
-      "latest_at": "2026-07-23T14:00:00Z",
-      "primary_item": {
-        "id": "794df629b7a6322acb25902743aaec5346a26e71",
-        "title": "Apple 起诉 OpenAI 窃取硬件制造机密",
-        "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-        "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1425,15 +1328,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.7376,
+      "importance": 0.7376,
+      "importance_score": 0.7376,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7497,
+        "recency": 0.7278,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1486,15 +1389,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
+      "score": 0.7975,
+      "importance": 0.7975,
+      "importance_score": 0.7975,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7639,
+        "recency": 0.7415,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1567,15 +1470,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
+      "score": 0.7659,
+      "importance": 0.7659,
+      "importance_score": 0.7659,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8772,
+        "recency": 0.8515,
         "story_heat": 0.25
       },
       "category": "industry",
