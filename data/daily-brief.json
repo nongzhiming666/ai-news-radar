@@ -1,8 +1,108 @@
 {
-  "generated_at": "2026-07-26T01:07:14.169332Z",
+  "generated_at": "2026-07-26T04:58:43.198449Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_5f284decdfa5",
+      "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "primary_url": "https://github.com/slvDev/esp32-ai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
+          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T03:54:52.332000Z"
+        },
+        {
+          "id": "0d3f67bc703c56530c7a6cf6bd27dcaca9ac10b8",
+          "title": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.332000Z"
+        },
+        {
+          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
+          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型 / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T18:59:50Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
+          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T03:54:52.332000Z"
+        },
+        {
+          "id": "0d3f67bc703c56530c7a6cf6bd27dcaca9ac10b8",
+          "title": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.332000Z"
+        },
+        {
+          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
+          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型 / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T18:59:50Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8269,
+      "importance": 0.8269,
+      "importance_score": 0.8269,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9848,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-25T18:59:50Z",
+      "latest_at": "2026-07-26T03:54:52.332000Z",
+      "primary_item": {
+        "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
+        "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+        "url": "https://github.com/slvDev/esp32-ai",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_5baddcdfddd2",
       "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
@@ -57,15 +157,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7774,
-      "importance": 0.7774,
-      "importance_score": 0.7774,
+      "score": 0.7691,
+      "importance": 0.7691,
+      "importance_score": 0.7691,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8487,
+        "recency": 0.8028,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,21 +219,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7568,
-      "importance": 0.7568,
-      "importance_score": 0.7568,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.99,
+        "recency": 0.9364,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-26T00:25:41Z",
       "latest_at": "2026-07-26T00:25:41Z",
@@ -142,86 +241,6 @@
         "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
         "url": "https://x.com/elonmusk/status/2081174079969632347",
         "source": "X：Elon Musk (@elonmusk, xAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_919f33d88a9b",
-      "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
-      "url": "https://www.ithome.com/0/981/432.htm",
-      "primary_url": "https://www.ithome.com/0/981/432.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e6800627a2a9f0b44852539be4d0ff91c6ccd109",
-          "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
-          "url": "https://www.ithome.com/0/981/432.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-25T01:08:45Z"
-        },
-        {
-          "id": "ff5c3fdc9f519b95299f6a7c9f635bafad19a485",
-          "title": "智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
-          "url": "https://www.ithome.com/0/981/432.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T01:08:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e6800627a2a9f0b44852539be4d0ff91c6ccd109",
-          "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
-          "url": "https://www.ithome.com/0/981/432.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-25T01:08:45Z"
-        },
-        {
-          "id": "ff5c3fdc9f519b95299f6a7c9f635bafad19a485",
-          "title": "智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
-          "url": "https://www.ithome.com/0/981/432.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T01:08:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7074,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-25T01:08:45Z",
-      "latest_at": "2026-07-25T01:08:45Z",
-      "primary_item": {
-        "id": "e6800627a2a9f0b44852539be4d0ff91c6ccd109",
-        "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
-        "url": "https://www.ithome.com/0/981/432.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -314,15 +333,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6307,
-      "importance": 0.6307,
-      "importance_score": 0.6307,
+      "score": 0.6217,
+      "importance": 0.6217,
+      "importance_score": 0.6217,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9251,
+        "recency": 0.875,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -337,6 +356,220 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-25",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_10e81be27811",
+      "title": "Debian 中 LLM 的应用：三项提案",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "primary_url": "https://www.debian.org/vote/2026/vote_002",
+      "source": "www.debian.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
+          "title": "Debian 中 LLM 的应用：三项提案",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "www.debian.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.336000Z"
+        },
+        {
+          "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
+          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T19:44:39Z"
+        },
+        {
+          "id": "99e8214f738422118ebf82a01fed4ba438a21132",
+          "title": "一般性决议：Debian 中 LLM 的使用 / LLM Usage in Debian: Three Proposals",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T19:44:39Z"
+        },
+        {
+          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
+          "title": "一般性决议：Debian 中 LLM 的使用",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "www.debian.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T16:27:16.797000Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "www.debian.org"
+      ],
+      "items": [
+        {
+          "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
+          "title": "Debian 中 LLM 的应用：三项提案",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "www.debian.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.336000Z"
+        },
+        {
+          "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
+          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T19:44:39Z"
+        },
+        {
+          "id": "99e8214f738422118ebf82a01fed4ba438a21132",
+          "title": "一般性决议：Debian 中 LLM 的使用 / LLM Usage in Debian: Three Proposals",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T19:44:39Z"
+        },
+        {
+          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
+          "title": "一般性决议：Debian 中 LLM 的使用",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "www.debian.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T16:27:16.797000Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5931,
+      "importance": 0.5931,
+      "importance_score": 0.5931,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9848,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T16:27:16.797000Z",
+      "latest_at": "2026-07-26T03:54:52.336000Z",
+      "primary_item": {
+        "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
+        "title": "Debian 中 LLM 的应用：三项提案",
+        "url": "https://www.debian.org/vote/2026/vote_002",
+        "source": "www.debian.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7f366388db06",
+      "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
+      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "primary_url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6701328e205a2b0fa38156d13c431358070662ea",
+          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
+          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.690000Z"
+        },
+        {
+          "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
+          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "url": "https://news.ycombinator.com/item?id=49052912",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T01:07:48.592000Z"
+        },
+        {
+          "id": "0dedc15929b175f9d0203d2c31d410eaad8abaa8",
+          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T23:32:50Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6701328e205a2b0fa38156d13c431358070662ea",
+          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
+          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.690000Z"
+        },
+        {
+          "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
+          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "url": "https://news.ycombinator.com/item?id=49052912",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T01:07:48.592000Z"
+        },
+        {
+          "id": "0dedc15929b175f9d0203d2c31d410eaad8abaa8",
+          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T23:32:50Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5681,
+      "importance": 0.5681,
+      "importance_score": 0.5681,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9848,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T23:32:50Z",
+      "latest_at": "2026-07-26T03:54:52.690000Z",
+      "primary_item": {
+        "id": "6701328e205a2b0fa38156d13c431358070662ea",
+        "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
+        "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+        "source": "github.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -412,15 +645,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5663,
-      "importance": 0.5663,
-      "importance_score": 0.5663,
+      "score": 0.5568,
+      "importance": 0.5568,
+      "importance_score": 0.5568,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9753,
+        "recency": 0.9224,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -435,104 +668,6 @@
         "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
         "source": "claude.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_10e81be27811",
-      "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
-      "url": "https://www.debian.org/vote/2026/vote_002",
-      "primary_url": "https://www.debian.org/vote/2026/vote_002",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
-          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "99e8214f738422118ebf82a01fed4ba438a21132",
-          "title": "一般性决议：Debian 中 LLM 的使用 / LLM Usage in Debian: Three Proposals",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
-          "title": "一般性决议：Debian 中 LLM 的使用",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T16:27:16.797000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "www.debian.org"
-      ],
-      "items": [
-        {
-          "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
-          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "99e8214f738422118ebf82a01fed4ba438a21132",
-          "title": "一般性决议：Debian 中 LLM 的使用 / LLM Usage in Debian: Three Proposals",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
-          "title": "一般性决议：Debian 中 LLM 的使用",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T16:27:16.797000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5574,
-      "importance": 0.5574,
-      "importance_score": 0.5574,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9253,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T16:27:16.797000Z",
-      "latest_at": "2026-07-25T19:44:39Z",
-      "primary_item": {
-        "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
-        "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
-        "url": "https://www.debian.org/vote/2026/vote_002",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
       }
     },
     {
@@ -608,15 +743,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.554,
-      "importance": 0.554,
-      "importance_score": 0.554,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9064,
+        "recency": 0.8573,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -631,6 +766,84 @@
         "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
         "source": "tobi.knaup.me",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_8ec02e1c13b5",
+      "title": "实习生日薪5500元，清华姚班凭什么成为AI圈的“硬通货”",
+      "url": "https://www.huxiu.com/article/4878142.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4878142.html?f=rss",
+      "source": "虎嗅 (Huxiu)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "9ce91e788964fa7bb67ffe5f27e0d7b0527ec66c",
+          "title": "实习生日薪5500元，清华姚班凭什么成为AI圈的“硬通货”",
+          "url": "https://www.huxiu.com/article/4878142.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T01:30:00Z"
+        },
+        {
+          "id": "9f11b62e62c0511fe1c3100a50626952b04caf9b",
+          "title": "实习生日薪5500元，清华姚班凭什么成为AI 圈的“硬通货”",
+          "url": "https://www.huxiu.com/article/4878142.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T09:41:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "9ce91e788964fa7bb67ffe5f27e0d7b0527ec66c",
+          "title": "实习生日薪5500元，清华姚班凭什么成为AI圈的“硬通货”",
+          "url": "https://www.huxiu.com/article/4878142.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T01:30:00Z"
+        },
+        {
+          "id": "9f11b62e62c0511fe1c3100a50626952b04caf9b",
+          "title": "实习生日薪5500元，清华姚班凭什么成为AI 圈的“硬通货”",
+          "url": "https://www.huxiu.com/article/4878142.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T09:41:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.537,
+      "importance": 0.537,
+      "importance_score": 0.537,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.951,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T09:41:17Z",
+      "latest_at": "2026-07-26T01:30:00Z",
+      "primary_item": {
+        "id": "9ce91e788964fa7bb67ffe5f27e0d7b0527ec66c",
+        "title": "实习生日薪5500元，清华姚班凭什么成为AI圈的“硬通货”",
+        "url": "https://www.huxiu.com/article/4878142.html?f=rss",
+        "source": "虎嗅 (Huxiu)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -687,15 +900,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9459,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -766,15 +979,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.536,
+      "importance": 0.536,
+      "importance_score": 0.536,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9458,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -845,15 +1058,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5354,
-      "importance": 0.5354,
-      "importance_score": 0.5354,
+      "score": 0.5262,
+      "importance": 0.5262,
+      "importance_score": 0.5262,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.942,
+        "recency": 0.891,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -923,15 +1136,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
+      "score": 0.5256,
+      "importance": 0.5256,
+      "importance_score": 0.5256,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9384,
+        "recency": 0.8876,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1002,15 +1215,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5328,
-      "importance": 0.5328,
-      "importance_score": 0.5328,
+      "score": 0.5237,
+      "importance": 0.5237,
+      "importance_score": 0.5237,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9277,
+        "recency": 0.8775,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1081,15 +1294,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5234,
-      "importance": 0.5234,
-      "importance_score": 0.5234,
+      "score": 0.5149,
+      "importance": 0.5149,
+      "importance_score": 0.5149,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8756,
+        "recency": 0.8281,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1159,15 +1372,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9459,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1186,12 +1399,21 @@
     },
     {
       "story_id": "story_764d08a751dc",
-      "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企",
-      "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
-      "primary_url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
-      "source": "www.reuters.com",
+      "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFdzRUhVaUx2OUhLeVplQ0o1eFJYV3JzcEdJUXBPblRrcy1UUzJrOXlXalRSRFctZUFEUEJqa3k0ZHdSN3JLelpRNGRpSVB3RUYwMk1lbW0tRmtnN1lOYU4yOG9GbDNaNDlVemZiX2UxVExUQzZuV2FGY1NwdE1WbHdWRmJsdzhCdUNQRXJrbloyNnpQanJ2R2pRTWRUc1YxcHNvc192Qnc5SEZqQTJ2WmlFTF9YQTgwYmFkOF9ZUjMyeWVyM05RcVJhcENXRkpU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFdzRUhVaUx2OUhLeVplQ0o1eFJYV3JzcEdJUXBPblRrcy1UUzJrOXlXalRSRFctZUFEUEJqa3k0ZHdSN3JLelpRNGRpSVB3RUYwMk1lbW0tRmtnN1lOYU4yOG9GbDNaNDlVemZiX2UxVExUQzZuV2FGY1NwdE1WbHdWRmJsdzhCdUNQRXJrbloyNnpQanJ2R2pRTWRUc1YxcHNvc192Qnc5SEZqQTJ2WmlFTF9YQTgwYmFkOF9ZUjMyeWVyM05RcVJhcENXRkpU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
       "source_name": "Buzzing",
       "sources": [
+        {
+          "id": "d84311d892e772be7feb398d4473d1e03c63cc10",
+          "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFdzRUhVaUx2OUhLeVplQ0o1eFJYV3JzcEdJUXBPblRrcy1UUzJrOXlXalRSRFctZUFEUEJqa3k0ZHdSN3JLelpRNGRpSVB3RUYwMk1lbW0tRmtnN1lOYU4yOG9GbDNaNDlVemZiX2UxVExUQzZuV2FGY1NwdE1WbHdWRmJsdzhCdUNQRXJrbloyNnpQanJ2R2pRTWRUc1YxcHNvc192Qnc5SEZqQTJ2WmlFTF9YQTgwYmFkOF9ZUjMyeWVyM05RcVJhcENXRkpU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T10:35:06.986000Z"
+        },
         {
           "id": "9000cdfe989925fdc37baffe9561af4590153830",
           "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企",
@@ -1200,23 +1422,24 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-07-25T07:39:30.981000Z"
-        },
-        {
-          "id": "91aa00819920b4c82a1305226cf2195db8ea5cc2",
-          "title": "韩国总统李某主持美国科技峰会，呼吁开启人工智能新时代",
-          "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T02:35:42.562000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
+        "news.google.com",
         "www.reuters.com"
       ],
       "items": [
         {
+          "id": "d84311d892e772be7feb398d4473d1e03c63cc10",
+          "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFdzRUhVaUx2OUhLeVplQ0o1eFJYV3JzcEdJUXBPblRrcy1UUzJrOXlXalRSRFctZUFEUEJqa3k0ZHdSN3JLelpRNGRpSVB3RUYwMk1lbW0tRmtnN1lOYU4yOG9GbDNaNDlVemZiX2UxVExUQzZuV2FGY1NwdE1WbHdWRmJsdzhCdUNQRXJrbloyNnpQanJ2R2pRTWRUc1YxcHNvc192Qnc5SEZqQTJ2WmlFTF9YQTgwYmFkOF9ZUjMyeWVyM05RcVJhcENXRkpU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T10:35:06.986000Z"
+        },
+        {
           "id": "9000cdfe989925fdc37baffe9561af4590153830",
           "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企",
           "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
@@ -1224,118 +1447,110 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-07-25T07:39:30.981000Z"
-        },
-        {
-          "id": "91aa00819920b4c82a1305226cf2195db8ea5cc2",
-          "title": "韩国总统李某主持美国科技峰会，呼吁开启人工智能新时代",
-          "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T02:35:42.562000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5057,
-      "importance": 0.5057,
-      "importance_score": 0.5057,
+      "score": 0.5038,
+      "importance": 0.5038,
+      "importance_score": 0.5038,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7771,
+        "recency": 0.7667,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T02:35:42.562000Z",
-      "latest_at": "2026-07-25T07:39:30.981000Z",
+      "earliest_at": "2026-07-25T07:39:30.981000Z",
+      "latest_at": "2026-07-25T10:35:06.986000Z",
       "primary_item": {
-        "id": "9000cdfe989925fdc37baffe9561af4590153830",
-        "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企",
-        "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
-        "source": "www.reuters.com",
+        "id": "d84311d892e772be7feb398d4473d1e03c63cc10",
+        "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企 - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFdzRUhVaUx2OUhLeVplQ0o1eFJYV3JzcEdJUXBPblRrcy1UUzJrOXlXalRSRFctZUFEUEJqa3k0ZHdSN3JLelpRNGRpSVB3RUYwMk1lbW0tRmtnN1lOYU4yOG9GbDNaNDlVemZiX2UxVExUQzZuV2FGY1NwdE1WbHdWRmJsdzhCdUNQRXJrbloyNnpQanJ2R2pRTWRUc1YxcHNvc192Qnc5SEZqQTJ2WmlFTF9YQTgwYmFkOF9ZUjMyeWVyM05RcVJhcENXRkpU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_774f7412d1a3",
-      "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
-      "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-      "primary_url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
+      "story_id": "story_64934dbed4f8",
+      "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
+      "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+      "primary_url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "b81ec76946d428090d221e10e3ff088e44ee186f",
-          "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
-          "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
+          "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
+          "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
+          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-25T16:31:15Z"
+          "published_at": "2026-07-25T14:41:06Z"
         },
         {
-          "id": "f2855169e408afb0944fe2c9e30cda2a53c10154",
-          "title": "宇宙不是随机的——它是一些奇怪的东西——斯蒂芬·沃尔夫勒姆[视频] / The universe isn't random – it's something stranger – Stephen Wolfram [video]",
-          "url": "https://www.youtube.com/watch?v=U8Omt6K8OnM",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T02:36:51Z"
+          "id": "ce0e3db950f079daf8e9da4564174d5011676407",
+          "title": "人工智能引发的就业危机短期内恐怕不会到来",
+          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T13:14:51.753000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News · 24h最热",
+        "www.theguardian.com"
       ],
       "items": [
         {
-          "id": "b81ec76946d428090d221e10e3ff088e44ee186f",
-          "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
-          "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
+          "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
+          "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
+          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-25T16:31:15Z"
+          "published_at": "2026-07-25T14:41:06Z"
         },
         {
-          "id": "f2855169e408afb0944fe2c9e30cda2a53c10154",
-          "title": "宇宙不是随机的——它是一些奇怪的东西——斯蒂芬·沃尔夫勒姆[视频] / The universe isn't random – it's something stranger – Stephen Wolfram [video]",
-          "url": "https://www.youtube.com/watch?v=U8Omt6K8OnM",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T02:36:51Z"
+          "id": "ce0e3db950f079daf8e9da4564174d5011676407",
+          "title": "人工智能引发的就业危机短期内恐怕不会到来",
+          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T13:14:51.753000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5248,
-      "importance": 0.5248,
-      "importance_score": 0.5248,
+      "score": 0.5122,
+      "importance": 0.5122,
+      "importance_score": 0.5122,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8832,
+        "recency": 0.8135,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T02:36:51Z",
-      "latest_at": "2026-07-25T16:31:15Z",
+      "earliest_at": "2026-07-25T13:14:51.753000Z",
+      "latest_at": "2026-07-25T14:41:06Z",
       "primary_item": {
-        "id": "b81ec76946d428090d221e10e3ff088e44ee186f",
-        "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
-        "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
+        "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
+        "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
+        "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
@@ -1394,15 +1609,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5174,
-      "importance": 0.5174,
-      "importance_score": 0.5174,
+      "score": 0.5092,
+      "importance": 0.5092,
+      "importance_score": 0.5092,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8424,
+        "recency": 0.7968,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1420,30 +1635,30 @@
       }
     },
     {
-      "story_id": "story_7f366388db06",
-      "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-      "url": "https://news.ycombinator.com/item?id=49052912",
-      "primary_url": "https://news.ycombinator.com/item?id=49052912",
+      "story_id": "story_13418d5edb8e",
+      "title": "成为大型法学硕士实验室的研究工程师 / Becoming a Research Engineer at a Big LLM Lab",
+      "url": "https://news.ycombinator.com/item?id=49051707",
+      "primary_url": "https://news.ycombinator.com/item?id=49051707",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
-          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "url": "https://news.ycombinator.com/item?id=49052912",
+          "id": "0b9159f6e4cea71c00ce8f737cd711fe3e125110",
+          "title": "成为大型法学硕士实验室的研究工程师 / Becoming a Research Engineer at a Big LLM Lab",
+          "url": "https://news.ycombinator.com/item?id=49051707",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-07-26T01:07:48.592000Z"
         },
         {
-          "id": "0dedc15929b175f9d0203d2c31d410eaad8abaa8",
-          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "id": "739847f3e15bf6d3e01b374c7c3ba1438eb3fb18",
+          "title": "成为大型法学硕士实验室的研究工程师 / Becoming a Research Engineer at a Big LLM Lab",
+          "url": "https://www.maxmynter.com/pages/blog/jobhunt",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-25T23:32:50Z"
+          "published_at": "2026-07-25T21:19:42Z"
         }
       ],
       "source_count": 2,
@@ -1453,206 +1668,49 @@
       ],
       "items": [
         {
-          "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
-          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "url": "https://news.ycombinator.com/item?id=49052912",
+          "id": "0b9159f6e4cea71c00ce8f737cd711fe3e125110",
+          "title": "成为大型法学硕士实验室的研究工程师 / Becoming a Research Engineer at a Big LLM Lab",
+          "url": "https://news.ycombinator.com/item?id=49051707",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-07-26T01:07:48.592000Z"
         },
         {
-          "id": "0dedc15929b175f9d0203d2c31d410eaad8abaa8",
-          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "id": "739847f3e15bf6d3e01b374c7c3ba1438eb3fb18",
+          "title": "成为大型法学硕士实验室的研究工程师 / Becoming a Research Engineer at a Big LLM Lab",
+          "url": "https://www.maxmynter.com/pages/blog/jobhunt",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-25T23:32:50Z"
+          "published_at": "2026-07-25T21:19:42Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9459,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T23:32:50Z",
+      "earliest_at": "2026-07-25T21:19:42Z",
       "latest_at": "2026-07-26T01:07:48.592000Z",
       "primary_item": {
-        "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
-        "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-        "url": "https://news.ycombinator.com/item?id=49052912",
+        "id": "0b9159f6e4cea71c00ce8f737cd711fe3e125110",
+        "title": "成为大型法学硕士实验室的研究工程师 / Becoming a Research Engineer at a Big LLM Lab",
+        "url": "https://news.ycombinator.com/item?id=49051707",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_6313fad5f5ae",
-      "title": "OvisOCR2 实现端到端文档智能解析，三元量化重塑大模型部署：Ternary Bonsai 27B 实现 9.4 倍压缩",
-      "url": "https://hub.baai.ac.cn/view/56620",
-      "primary_url": "https://hub.baai.ac.cn/view/56620",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "06bd88cbdafcfc0c187f49040d167ad832c7acc5",
-          "title": "OvisOCR2 实现端到端文档智能解析，三元量化重塑大模型部署：Ternary Bonsai 27B 实现 9.4 倍压缩",
-          "url": "https://hub.baai.ac.cn/view/56620",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7d1ffd75010fc7860affd7866057de8d64748123",
-          "title": "文本 / LaTeX/HTML 表格一步搞定！OvisOCR2 实现端到端文档智能解析；三元量化重塑大模型部署：Ternary Bonsai 27B 实现 9.4 倍压缩",
-          "url": "https://hub.baai.ac.cn/view/56620",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "06bd88cbdafcfc0c187f49040d167ad832c7acc5",
-          "title": "OvisOCR2 实现端到端文档智能解析，三元量化重塑大模型部署：Ternary Bonsai 27B 实现 9.4 倍压缩",
-          "url": "https://hub.baai.ac.cn/view/56620",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7d1ffd75010fc7860affd7866057de8d64748123",
-          "title": "文本 / LaTeX/HTML 表格一步搞定！OvisOCR2 实现端到端文档智能解析；三元量化重塑大模型部署：Ternary Bonsai 27B 实现 9.4 倍压缩",
-          "url": "https://hub.baai.ac.cn/view/56620",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.509,
-      "importance": 0.509,
-      "importance_score": 0.509,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7958,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T07:19:00.073374Z",
-      "latest_at": "2026-07-25T09:18:01.281965Z",
-      "primary_item": {
-        "id": "06bd88cbdafcfc0c187f49040d167ad832c7acc5",
-        "title": "OvisOCR2 实现端到端文档智能解析，三元量化重塑大模型部署：Ternary Bonsai 27B 实现 9.4 倍压缩",
-        "url": "https://hub.baai.ac.cn/view/56620",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_64934dbed4f8",
-      "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
-      "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-      "primary_url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
-          "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
-          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T14:41:06Z"
-        },
-        {
-          "id": "ce0e3db950f079daf8e9da4564174d5011676407",
-          "title": "人工智能引发的就业危机短期内恐怕不会到来",
-          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T13:14:51.753000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.theguardian.com"
-      ],
-      "items": [
-        {
-          "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
-          "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
-          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T14:41:06Z"
-        },
-        {
-          "id": "ce0e3db950f079daf8e9da4564174d5011676407",
-          "title": "人工智能引发的就业危机短期内恐怕不会到来",
-          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T13:14:51.753000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5206,
-      "importance": 0.5206,
-      "importance_score": 0.5206,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8601,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T13:14:51.753000Z",
-      "latest_at": "2026-07-25T14:41:06Z",
-      "primary_item": {
-        "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
-        "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
-        "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
