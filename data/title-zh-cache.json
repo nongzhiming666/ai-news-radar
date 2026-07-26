@@ -28280,5 +28280,17 @@
   "VC trying to resist the temptation to buy three shares of Anthropic through an SPV before the IPO so that they can call themselves early investors https://t.co/CKug3rzLYs": "VC 试图抵制诱惑，在 IPO 之前通过 SPV 购买三股 Anthropic 股票，以便他们可以称自己为早期投资者 https://t.co/CKug3rzLYs",
   "Just deployed a new chess engine; we're closing in on an estimated 1200 Elo. The goal is to get it to 2000+, while keeping the constraints: 1. One small finetuned LLM (no custom pretraining or architecture) 2. The mod...": "刚刚部署了一个新的国际象棋引擎；我们估计接近 1200 Elo。我们的目标是使其达到 2000+，同时保持以下约束： 1. 一个小型微调的 LLM（无自定义预训练或架构） 2. 模组...",
   "Now with Google on board, this is a complete endorsement of open weights AI. Pretty big moment for the industry. https://t.co/ixwG6O6pWR https://t.co/tPOWZwXueF": "现在有了谷歌的加入，这是对开放权重人工智能的完全认可。对于这个行业来说是一个非常重要的时刻。 https://t.co/ixwG6O6pWR https://t.co/tPOWZwXueF",
-  "Jason is a DevEx engineer at OpenAI who wrote the official guidebook on how to use Codex for work. In tomorrow’s episode, he showed me his complete Codex work system, including how to: → Run a chief of staff across Sl...": "Jason 是 OpenAI 的 DevEx 工程师，他撰写了有关如何使用 Codex 进行工作的官方指南。在明天的节目中，他向我展示了他完整的 Codex 工作系统，包括如何：→ 在整个 Sl 中管理参谋长……"
+  "Jason is a DevEx engineer at OpenAI who wrote the official guidebook on how to use Codex for work. In tomorrow’s episode, he showed me his complete Codex work system, including how to: → Run a chief of staff across Sl...": "Jason 是 OpenAI 的 DevEx 工程师，他撰写了有关如何使用 Codex 进行工作的官方指南。在明天的节目中，他向我展示了他完整的 Codex 工作系统，包括如何：→ 在整个 Sl 中管理参谋长……",
+  "An OpenAI model left notes about how to evade containment; we need more details": "一个 OpenAI 模型留下了关于如何逃避收容的注释；我们需要更多细节",
+  "Crypto exchanges like tradeXYZ are giving global investors exposure to Chinese AI-linked stocks like CXMT, bypassing Beijing's control on foreign capital access (William Sandlund/Financial Times)": "像 tradeXYZ 这样的加密货币交易所正在让全球投资者接触长鑫存储等与人工智能相关的中国股票，绕过北京对外资准入的控制（William Sandlund/金融时报）",
+  "KwaiKAT Team Releases KAT-Coder-V2.5: An Agentic Coding Model Trained on 100,000+ Verifiable Repository Environments": "KwaiKAT团队发布KAT-Coder-V2.5：在100,000+可验证存储库环境上训练的代理编码模型",
+  "A former OpenAI intern shares 3 tips for breaking into AI": "一位前 OpenAI 实习生分享了进军 AI 领域的 3 个秘诀",
+  "No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s": "没有堆栈溢出，没有自动完成：80 年代编码的感觉",
+  "AI chatbots are quietly becoming the uninvited third person in people’s relationships": "人工智能聊天机器人正在悄然成为人们关系中不请自来的第三者",
+  "DeepSeek pauses its second fundraising round after founder’s leaked investor comments go viral": "在创始人泄露的投资者评论疯传后，DeepSeek 暂停了第二轮融资",
+  "Elevated Errors for Opus 5": "Opus 5 的错误增加",
+  "Induction Labs Photon-1 Simulates Desktops, Plays Checkers, and Models Billiard Physics From One Pretraining Run": "Induction Labs Photon-1 通过一次预训练即可模拟桌面、下跳棋并模拟台球物理",
+  "Claude Code has a hardcoded instruction telling Opus 5 not to use subagents": "Claude Code 有一个硬编码指令告诉 Opus 5 不要使用子代理",
+  "MIT to become hotbed of AI video surveillance": "麻省理工学院将成为人工智能视频监控的温床",
+  "A shell colon does nothing. Use it anyway": "外壳冒号什么也不做。无论如何使用它"
 }
