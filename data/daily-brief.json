@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T14:48:47.011963Z",
+  "generated_at": "2026-07-26T16:02:41.577442Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8034,
-      "importance": 0.8034,
-      "importance_score": 0.8034,
+      "score": 0.8007,
+      "importance": 0.8007,
+      "importance_score": 0.8007,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8544,
+        "recency": 0.8393,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7847,
-      "importance": 0.7847,
-      "importance_score": 0.7847,
+      "score": 0.7816,
+      "importance": 0.7816,
+      "importance_score": 0.7816,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9729,
+        "recency": 0.9557,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -238,15 +238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7772,
+      "importance": 0.7772,
+      "importance_score": 0.7772,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9141,
+        "recency": 0.898,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -319,15 +319,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.875,
+        "recency": 0.8595,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -381,15 +381,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7248,
-      "importance": 0.7248,
-      "importance_score": 0.7248,
+      "score": 0.7223,
+      "importance": 0.7223,
+      "importance_score": 0.7223,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8124,
+        "recency": 0.7981,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -495,15 +495,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6008,
-      "importance": 0.6008,
-      "importance_score": 0.6008,
+      "score": 0.5984,
+      "importance": 0.5984,
+      "importance_score": 0.5984,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7591,
+        "recency": 0.7457,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -611,15 +611,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5696,
-      "importance": 0.5696,
-      "importance_score": 0.5696,
+      "score": 0.5669,
+      "importance": 0.5669,
+      "importance_score": 0.5669,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8544,
+        "recency": 0.8393,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -709,15 +709,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5537,
-      "importance": 0.5537,
-      "importance_score": 0.5537,
+      "score": 0.5509,
+      "importance": 0.5509,
+      "importance_score": 0.5509,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9052,
+        "recency": 0.8892,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -732,6 +732,85 @@
         "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
         "source": "blog.cloudflare.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b6ef92302bcf",
+      "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+      "url": "https://news.ycombinator.com/item?id=49058669",
+      "primary_url": "https://news.ycombinator.com/item?id=49058669",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
+          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+          "url": "https://news.ycombinator.com/item?id=49058669",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T16:03:25.943000Z"
+        },
+        {
+          "id": "447392d8ca6ea964dbae249d9541cb7539cd750b",
+          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T14:40:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
+          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+          "url": "https://news.ycombinator.com/item?id=49058669",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T16:03:25.943000Z"
+        },
+        {
+          "id": "447392d8ca6ea964dbae249d9541cb7539cd750b",
+          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T14:40:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T14:40:27Z",
+      "latest_at": "2026-07-26T16:03:25.943000Z",
+      "primary_item": {
+        "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
+        "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+        "url": "https://news.ycombinator.com/item?id=49058669",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -807,15 +886,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5446,
-      "importance": 0.5446,
-      "importance_score": 0.5446,
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8544,
+        "recency": 0.8393,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -886,15 +965,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
+      "score": 0.5393,
+      "importance": 0.5393,
+      "importance_score": 0.5393,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9814,
+        "recency": 0.9641,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -965,15 +1044,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5364,
-      "importance": 0.5364,
-      "importance_score": 0.5364,
+      "score": 0.5334,
+      "importance": 0.5334,
+      "importance_score": 0.5334,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.948,
+        "recency": 0.9313,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1063,15 +1142,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
+      "score": 0.5323,
+      "importance": 0.5323,
+      "importance_score": 0.5323,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8003,
+        "recency": 0.7862,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1086,104 +1165,6 @@
         "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
         "source": "claude.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_a92321595322",
-      "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
-      "url": "https://news.ycombinator.com/item?id=49051692",
-      "primary_url": "https://news.ycombinator.com/item?id=49051692",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
-          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
-          "url": "https://news.ycombinator.com/item?id=49051692",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T21:58:08.091000Z"
-        },
-        {
-          "id": "902bb7442e2cfd97985cfa3cc79835c7a90f0bea",
-          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
-          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T21:18:06Z"
-        },
-        {
-          "id": "b177dd60cd4406913c3921ae6f3b47fdeca5cab9",
-          "title": "“人工智能狂热正在彻底改变全球决策” / ‘AI Mania Is Eviscerating Global Decision-Making’",
-          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T18:15:12Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Daring Fireball",
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
-          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
-          "url": "https://news.ycombinator.com/item?id=49051692",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T21:58:08.091000Z"
-        },
-        {
-          "id": "902bb7442e2cfd97985cfa3cc79835c7a90f0bea",
-          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
-          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T21:18:06Z"
-        },
-        {
-          "id": "b177dd60cd4406913c3921ae6f3b47fdeca5cab9",
-          "title": "“人工智能狂热正在彻底改变全球决策” / ‘AI Mania Is Eviscerating Global Decision-Making’",
-          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T18:15:12Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5319,
-      "importance": 0.5319,
-      "importance_score": 0.5319,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7841,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T18:15:12Z",
-      "latest_at": "2026-07-25T21:58:08.091000Z",
-      "primary_item": {
-        "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
-        "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
-        "url": "https://news.ycombinator.com/item?id=49051692",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1240,15 +1221,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
+      "score": 0.5252,
+      "importance": 0.5252,
+      "importance_score": 0.5252,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9017,
+        "recency": 0.8858,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1266,101 +1247,82 @@
       }
     },
     {
-      "story_id": "story_2635b89b4413",
-      "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
-      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
-      "primary_url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
-      "source": "tobi.knaup.me",
-      "source_name": "Buzzing",
+      "story_id": "story_8a43a7c831c0",
+      "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+      "url": "https://news.ycombinator.com/item?id=49057877",
+      "primary_url": "https://news.ycombinator.com/item?id=49057877",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "dd5f887f8703d55c609774556a346f21beafa37e",
-          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
-          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
-          "source": "tobi.knaup.me",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T18:19:01.763000Z"
+          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://news.ycombinator.com/item?id=49057877",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T16:03:25.943000Z"
         },
         {
-          "id": "6d00d1de7f364084f276000b09ecddc484feec8b",
-          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了 / Open-weight AI is having its Kubernetes moment",
-          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T14:49:49Z"
-        },
-        {
-          "id": "4e62948af92d373080027f26ab003504047b04ee",
-          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+          "id": "05b39220b5c869b6b921ca427001f0f621e5f2ce",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-25T14:49:49Z"
+          "published_at": "2026-07-26T13:13:03Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News",
-        "Hacker News · 24h最热",
-        "tobi.knaup.me"
+        "hackernews"
       ],
       "items": [
         {
-          "id": "dd5f887f8703d55c609774556a346f21beafa37e",
-          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
-          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
-          "source": "tobi.knaup.me",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T18:19:01.763000Z"
+          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://news.ycombinator.com/item?id=49057877",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T16:03:25.943000Z"
         },
         {
-          "id": "6d00d1de7f364084f276000b09ecddc484feec8b",
-          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了 / Open-weight AI is having its Kubernetes moment",
-          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T14:49:49Z"
-        },
-        {
-          "id": "4e62948af92d373080027f26ab003504047b04ee",
-          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+          "id": "05b39220b5c869b6b921ca427001f0f621e5f2ce",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-25T14:49:49Z"
+          "published_at": "2026-07-26T13:13:03Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5247,
-      "importance": 0.5247,
-      "importance_score": 0.5247,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7438,
-        "story_heat": 0.5
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T14:49:49Z",
-      "latest_at": "2026-07-25T18:19:01.763000Z",
+      "earliest_at": "2026-07-26T13:13:03Z",
+      "latest_at": "2026-07-26T16:03:25.943000Z",
       "primary_item": {
-        "id": "dd5f887f8703d55c609774556a346f21beafa37e",
-        "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
-        "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
-        "source": "tobi.knaup.me",
-        "source_name": "Buzzing"
+        "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+        "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+        "url": "https://news.ycombinator.com/item?id=49057877",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1416,15 +1378,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5162,
-      "importance": 0.5162,
-      "importance_score": 0.5162,
+      "score": 0.5136,
+      "importance": 0.5136,
+      "importance_score": 0.5136,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8356,
+        "recency": 0.8208,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1495,15 +1457,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5135,
-      "importance": 0.5135,
-      "importance_score": 0.5135,
+      "score": 0.5109,
+      "importance": 0.5109,
+      "importance_score": 0.5109,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8206,
+        "recency": 0.8061,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1574,15 +1536,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5345,
-      "importance": 0.5345,
-      "importance_score": 0.5345,
+      "score": 0.5315,
+      "importance": 0.5315,
+      "importance_score": 0.5315,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9371,
+        "recency": 0.9206,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1617,18 +1579,18 @@
           "published_at": "2026-07-25T19:55:34.429000Z"
         },
         {
-          "id": "b10d196f4f488a28a88a5c185e8566c9136e6700",
+          "id": "438253bcd342488e146d10a5ec5bb88b2ca3ecc0",
           "title": "Show HN: 《扫雷》光线投射版 / Show HN: Minesweeper Raycasted",
           "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T19:39:12Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "claude.ai"
       ],
       "items": [
@@ -1642,26 +1604,26 @@
           "published_at": "2026-07-25T19:55:34.429000Z"
         },
         {
-          "id": "b10d196f4f488a28a88a5c185e8566c9136e6700",
+          "id": "438253bcd342488e146d10a5ec5bb88b2ca3ecc0",
           "title": "Show HN: 《扫雷》光线投射版 / Show HN: Minesweeper Raycasted",
           "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T19:39:12Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5028,
-      "importance": 0.5028,
-      "importance_score": 0.5028,
+      "score": 0.5004,
+      "importance": 0.5004,
+      "importance_score": 0.5004,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7613,
+        "recency": 0.7479,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1679,82 +1641,81 @@
       }
     },
     {
-      "story_id": "story_17d8da54b5aa",
-      "title": "Ask HN: 如果我们在Claude Code中对上下文进行压缩，会发生什么？",
-      "url": "https://news.ycombinator.com/item?id=49048571",
-      "primary_url": "https://news.ycombinator.com/item?id=49048571",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
+      "story_id": "story_9130fcc2d02a",
+      "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
+      "url": "https://fly.io/blog/kurt-scott-money-sprites",
+      "primary_url": "https://fly.io/blog/kurt-scott-money-sprites",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "2aaf61fd26b52a84b495b2f33097ed48909b8afe",
-          "title": "Ask HN: 如果我们在Claude Code中对上下文进行压缩，会发生什么？",
-          "url": "https://news.ycombinator.com/item?id=49048571",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T15:55:06.362000Z"
+          "id": "54b179311029d9f90feb1c8cd787eeb303525bbb",
+          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
+          "url": "https://fly.io/blog/kurt-scott-money-sprites",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T20:43:11Z"
         },
         {
-          "id": "f59872de45e6940547b686b79f30b7cb5ca463ce",
-          "title": "Ask HN: 如果我们在Claude Code中对上下文进行压缩，会发生什么？ / Ask HN: What happens when we do compress the context in Claude Code?",
-          "url": "https://news.ycombinator.com/item?id=49048571",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-25T15:44:38Z"
+          "id": "8db0b6f3c45763469c5d0672e114b957f864723f",
+          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Turn And Face The Strange",
+          "url": "https://fly.io/blog/kurt-scott-money-sprites",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T20:43:11Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "HN Algolia · AI 24h",
-        "news.ycombinator.com"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "2aaf61fd26b52a84b495b2f33097ed48909b8afe",
-          "title": "Ask HN: 如果我们在Claude Code中对上下文进行压缩，会发生什么？",
-          "url": "https://news.ycombinator.com/item?id=49048571",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T15:55:06.362000Z"
+          "id": "54b179311029d9f90feb1c8cd787eeb303525bbb",
+          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
+          "url": "https://fly.io/blog/kurt-scott-money-sprites",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T20:43:11Z"
         },
         {
-          "id": "f59872de45e6940547b686b79f30b7cb5ca463ce",
-          "title": "Ask HN: 如果我们在Claude Code中对上下文进行压缩，会发生什么？ / Ask HN: What happens when we do compress the context in Claude Code?",
-          "url": "https://news.ycombinator.com/item?id=49048571",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-25T15:44:38Z"
+          "id": "8db0b6f3c45763469c5d0672e114b957f864723f",
+          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Turn And Face The Strange",
+          "url": "https://fly.io/blog/kurt-scott-money-sprites",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T20:43:11Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4951,
-      "importance": 0.4951,
-      "importance_score": 0.4951,
+      "score": 0.502,
+      "importance": 0.502,
+      "importance_score": 0.502,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7185,
+        "recency": 0.7565,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T15:44:38Z",
-      "latest_at": "2026-07-25T15:55:06.362000Z",
+      "earliest_at": "2026-07-25T20:43:11Z",
+      "latest_at": "2026-07-25T20:43:11Z",
       "primary_item": {
-        "id": "2aaf61fd26b52a84b495b2f33097ed48909b8afe",
-        "title": "Ask HN: 如果我们在Claude Code中对上下文进行压缩，会发生什么？",
-        "url": "https://news.ycombinator.com/item?id=49048571",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
+        "id": "54b179311029d9f90feb1c8cd787eeb303525bbb",
+        "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
+        "url": "https://fly.io/blog/kurt-scott-money-sprites",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
