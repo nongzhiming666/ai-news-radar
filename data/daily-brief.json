@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T22:59:39.423328Z",
+  "generated_at": "2026-07-27T00:08:28.342355Z",
   "window_hours": 24,
   "total_items": 19,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8645,
+        "recency": 0.8503,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -138,15 +138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8123,
+        "recency": 0.7989,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -219,15 +219,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7613,
-      "importance": 0.7613,
-      "importance_score": 0.7613,
+      "score": 0.759,
+      "importance": 0.759,
+      "importance_score": 0.759,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7592,
+        "recency": 0.7467,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -281,15 +281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
+      "score": 0.7409,
+      "importance": 0.7409,
+      "importance_score": 0.7409,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9337,
+        "recency": 0.9183,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -360,15 +360,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7775,
+        "recency": 0.7647,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -457,15 +457,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6097,
-      "importance": 0.6097,
-      "importance_score": 0.6097,
+      "score": 0.6069,
+      "importance": 0.6069,
+      "importance_score": 0.6069,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.947,
+        "recency": 0.9314,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -555,15 +555,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5676,
-      "importance": 0.5676,
-      "importance_score": 0.5676,
+      "score": 0.5647,
+      "importance": 0.5647,
+      "importance_score": 0.5647,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9825,
+        "recency": 0.9663,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -653,15 +653,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5552,
-      "importance": 0.5552,
-      "importance_score": 0.5552,
+      "score": 0.5525,
+      "importance": 0.5525,
+      "importance_score": 0.5525,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9133,
+        "recency": 0.8983,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -679,30 +679,30 @@
       }
     },
     {
-      "story_id": "story_2b5731f70115",
-      "title": "多路图灵机（2021 年人工智能之前） / Multiway Turing Machines (2021 pre-ai)",
-      "url": "https://news.ycombinator.com/item?id=49062259",
-      "primary_url": "https://news.ycombinator.com/item?id=49062259",
+      "story_id": "story_61d407843efb",
+      "title": "Cursor Bridge – 在您的 Cursor 订阅上运行无限的 Claude 代码 / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+      "url": "https://news.ycombinator.com/item?id=49063186",
+      "primary_url": "https://news.ycombinator.com/item?id=49063186",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "41fa66a79125f584268c7e53a0b7c6079f8c3f69",
-          "title": "多路图灵机（2021 年人工智能之前） / Multiway Turing Machines (2021 pre-ai)",
-          "url": "https://news.ycombinator.com/item?id=49062259",
+          "id": "41ca00ed72303fffe5ca0fe42561a20965906002",
+          "title": "Cursor Bridge – 在您的 Cursor 订阅上运行无限的 Claude 代码 / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+          "url": "https://news.ycombinator.com/item?id=49063186",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-26T23:01:00.734000Z"
+          "published_at": "2026-07-26T23:56:58.604000Z"
         },
         {
-          "id": "eadbf580624ac28b901c336fc8849fca2574b374",
-          "title": "多路图灵机（2021 年人工智能之前） / Multiway Turing Machines (2021 pre-ai)",
-          "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines",
+          "id": "eaea27e174e2abad1fcc93a6b0b39e8892b1924f",
+          "title": "Cursor Bridge – 在您的 Cursor 订阅上运行无限的 Claude 代码 / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+          "url": "https://github.com/hkc5/cursor-bridge",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-26T20:49:43Z"
+          "published_at": "2026-07-26T22:48:09Z"
         }
       ],
       "source_count": 2,
@@ -712,49 +712,128 @@
       ],
       "items": [
         {
-          "id": "41fa66a79125f584268c7e53a0b7c6079f8c3f69",
-          "title": "多路图灵机（2021 年人工智能之前） / Multiway Turing Machines (2021 pre-ai)",
-          "url": "https://news.ycombinator.com/item?id=49062259",
+          "id": "41ca00ed72303fffe5ca0fe42561a20965906002",
+          "title": "Cursor Bridge – 在您的 Cursor 订阅上运行无限的 Claude 代码 / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+          "url": "https://news.ycombinator.com/item?id=49063186",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-26T23:01:00.734000Z"
+          "published_at": "2026-07-26T23:56:58.604000Z"
         },
         {
-          "id": "eadbf580624ac28b901c336fc8849fca2574b374",
-          "title": "多路图灵机（2021 年人工智能之前） / Multiway Turing Machines (2021 pre-ai)",
-          "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines",
+          "id": "eaea27e174e2abad1fcc93a6b0b39e8892b1924f",
+          "title": "Cursor Bridge – 在您的 Cursor 订阅上运行无限的 Claude 代码 / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+          "url": "https://github.com/hkc5/cursor-bridge",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-26T20:49:43Z"
+          "published_at": "2026-07-26T22:48:09Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9972,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-26T20:49:43Z",
-      "latest_at": "2026-07-26T23:01:00.734000Z",
+      "earliest_at": "2026-07-26T22:48:09Z",
+      "latest_at": "2026-07-26T23:56:58.604000Z",
       "primary_item": {
-        "id": "41fa66a79125f584268c7e53a0b7c6079f8c3f69",
-        "title": "多路图灵机（2021 年人工智能之前） / Multiway Turing Machines (2021 pre-ai)",
-        "url": "https://news.ycombinator.com/item?id=49062259",
+        "id": "41ca00ed72303fffe5ca0fe42561a20965906002",
+        "title": "Cursor Bridge – 在您的 Cursor 订阅上运行无限的 Claude 代码 / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+        "url": "https://news.ycombinator.com/item?id=49063186",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_9d3ab2335d7a",
+      "title": "陶哲轩：《人工智能时代的数学》[pdf]",
+      "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+      "primary_url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+      "source": "teorth.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "bba9241410da43921be24d1c061427b354a3cb81",
+          "title": "陶哲轩：《人工智能时代的数学》[pdf]",
+          "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+          "source": "teorth.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T23:38:23.200000Z"
+        },
+        {
+          "id": "b172522f57a10069cdd6e20ecc07c2ea9b0c68a8",
+          "title": "陶哲轩：《人工智能时代的数学》[pdf] / Terence Tao: Mathematics in the Age of AI [pdf]",
+          "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T10:32:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "teorth.github.io"
+      ],
+      "items": [
+        {
+          "id": "bba9241410da43921be24d1c061427b354a3cb81",
+          "title": "陶哲轩：《人工智能时代的数学》[pdf]",
+          "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+          "source": "teorth.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T23:38:23.200000Z"
+        },
+        {
+          "id": "b172522f57a10069cdd6e20ecc07c2ea9b0c68a8",
+          "title": "陶哲轩：《人工智能时代的数学》[pdf] / Terence Tao: Mathematics in the Age of AI [pdf]",
+          "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T10:32:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5445,
+      "importance": 0.5445,
+      "importance_score": 0.5445,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9928,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T10:32:35Z",
+      "latest_at": "2026-07-26T23:38:23.200000Z",
+      "primary_item": {
+        "id": "bba9241410da43921be24d1c061427b354a3cb81",
+        "title": "陶哲轩：《人工智能时代的数学》[pdf]",
+        "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+        "source": "teorth.github.io",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -811,15 +890,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5321,
-      "importance": 0.5321,
-      "importance_score": 0.5321,
+      "score": 0.5294,
+      "importance": 0.5294,
+      "importance_score": 0.5294,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9239,
+        "recency": 0.9088,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -889,15 +968,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5268,
-      "importance": 0.5268,
-      "importance_score": 0.5268,
+      "score": 0.5242,
+      "importance": 0.5242,
+      "importance_score": 0.5242,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8946,
+        "recency": 0.88,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -968,15 +1047,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5228,
-      "importance": 0.5228,
-      "importance_score": 0.5228,
+      "score": 0.5202,
+      "importance": 0.5202,
+      "importance_score": 0.5202,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8721,
+        "recency": 0.8578,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -991,6 +1070,85 @@
         "url": "https://www.businessinsider.com/how-to-talk-about-ai-job-interviews-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2b5731f70115",
+      "title": "多路图灵机（2021 年人工智能之前） / Multiway Turing Machines (2021 pre-ai)",
+      "url": "https://news.ycombinator.com/item?id=49062259",
+      "primary_url": "https://news.ycombinator.com/item?id=49062259",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "41fa66a79125f584268c7e53a0b7c6079f8c3f69",
+          "title": "多路图灵机（2021 年人工智能之前） / Multiway Turing Machines (2021 pre-ai)",
+          "url": "https://news.ycombinator.com/item?id=49062259",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T23:01:00.734000Z"
+        },
+        {
+          "id": "eadbf580624ac28b901c336fc8849fca2574b374",
+          "title": "多路图灵机（2021 年人工智能之前） / Multiway Turing Machines (2021 pre-ai)",
+          "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T20:49:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "41fa66a79125f584268c7e53a0b7c6079f8c3f69",
+          "title": "多路图灵机（2021 年人工智能之前） / Multiway Turing Machines (2021 pre-ai)",
+          "url": "https://news.ycombinator.com/item?id=49062259",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T23:01:00.734000Z"
+        },
+        {
+          "id": "eadbf580624ac28b901c336fc8849fca2574b374",
+          "title": "多路图灵机（2021 年人工智能之前） / Multiway Turing Machines (2021 pre-ai)",
+          "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T20:49:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9839,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T20:49:43Z",
+      "latest_at": "2026-07-26T23:01:00.734000Z",
+      "primary_item": {
+        "id": "41fa66a79125f584268c7e53a0b7c6079f8c3f69",
+        "title": "多路图灵机（2021 年人工智能之前） / Multiway Turing Machines (2021 pre-ai)",
+        "url": "https://news.ycombinator.com/item?id=49062259",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1047,15 +1205,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.51,
-      "importance": 0.51,
-      "importance_score": 0.51,
+      "score": 0.5077,
+      "importance": 0.5077,
+      "importance_score": 0.5077,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8012,
+        "recency": 0.7881,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1070,262 +1228,6 @@
         "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
         "source": "huggingface.co",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_8a0d9544ac70",
-      "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
-      "url": "https://news.ycombinator.com/item?id=49059660",
-      "primary_url": "https://news.ycombinator.com/item?id=49059660",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
-          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
-          "url": "https://news.ycombinator.com/item?id=49059660",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T17:33:46.109000Z"
-        },
-        {
-          "id": "d046f8a5036c00e63c224ef6a2a05e8b8abd7a3d",
-          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
-          "url": "https://www.agrillo.it/EvasionEn.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T16:23:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
-          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
-          "url": "https://news.ycombinator.com/item?id=49059660",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T17:33:46.109000Z"
-        },
-        {
-          "id": "d046f8a5036c00e63c224ef6a2a05e8b8abd7a3d",
-          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
-          "url": "https://www.agrillo.it/EvasionEn.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T16:23:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5322,
-      "importance": 0.5322,
-      "importance_score": 0.5322,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9246,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T16:23:56Z",
-      "latest_at": "2026-07-26T17:33:46.109000Z",
-      "primary_item": {
-        "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
-        "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
-        "url": "https://news.ycombinator.com/item?id=49059660",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_7f366388db06",
-      "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-      "primary_url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6701328e205a2b0fa38156d13c431358070662ea",
-          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.690000Z"
-        },
-        {
-          "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
-          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "url": "https://news.ycombinator.com/item?id=49052912",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T01:07:48.592000Z"
-        },
-        {
-          "id": "875c49807ef2df50e759f88d5f91ee418f44e14c",
-          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T23:32:50Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "6701328e205a2b0fa38156d13c431358070662ea",
-          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.690000Z"
-        },
-        {
-          "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
-          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "url": "https://news.ycombinator.com/item?id=49052912",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T01:07:48.592000Z"
-        },
-        {
-          "id": "875c49807ef2df50e759f88d5f91ee418f44e14c",
-          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T23:32:50Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5275,
-      "importance": 0.5275,
-      "importance_score": 0.5275,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7592,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T23:32:50Z",
-      "latest_at": "2026-07-26T03:54:52.690000Z",
-      "primary_item": {
-        "id": "6701328e205a2b0fa38156d13c431358070662ea",
-        "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-        "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4fc9b1b80921",
-      "title": "起底 AI 中转站江湖",
-      "url": "https://www.huxiu.com/article/4878184.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4878184.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "b50ce91575153391bf91de601caf87cd709d0d56",
-          "title": "起底 AI 中转站江湖",
-          "url": "https://www.huxiu.com/article/4878184.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "053ba931bfe61f1c079ebe534781ac2cdf9b2140",
-          "title": "起底AI 中转站江湖",
-          "url": "https://www.huxiu.com/article/4878184.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T00:04:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "b50ce91575153391bf91de601caf87cd709d0d56",
-          "title": "起底 AI 中转站江湖",
-          "url": "https://www.huxiu.com/article/4878184.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "053ba931bfe61f1c079ebe534781ac2cdf9b2140",
-          "title": "起底AI 中转站江湖",
-          "url": "https://www.huxiu.com/article/4878184.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T00:04:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.497,
-      "importance": 0.497,
-      "importance_score": 0.497,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7292,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T00:04:05Z",
-      "latest_at": "2026-07-26T01:07:14.169332Z",
-      "primary_item": {
-        "id": "b50ce91575153391bf91de601caf87cd709d0d56",
-        "title": "起底 AI 中转站江湖",
-        "url": "https://www.huxiu.com/article/4878184.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1382,15 +1284,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5157,
-      "importance": 0.5157,
-      "importance_score": 0.5157,
+      "score": 0.5132,
+      "importance": 0.5132,
+      "importance_score": 0.5132,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8327,
+        "recency": 0.819,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1405,6 +1307,85 @@
         "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_8a0d9544ac70",
+      "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+      "url": "https://news.ycombinator.com/item?id=49059660",
+      "primary_url": "https://news.ycombinator.com/item?id=49059660",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
+          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "url": "https://news.ycombinator.com/item?id=49059660",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T17:33:46.109000Z"
+        },
+        {
+          "id": "c825faa27619bcf57d6f8b548f9b0cd0b9405da2",
+          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "url": "https://www.agrillo.it/EvasionEn.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T16:23:56Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
+          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "url": "https://news.ycombinator.com/item?id=49059660",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T17:33:46.109000Z"
+        },
+        {
+          "id": "c825faa27619bcf57d6f8b548f9b0cd0b9405da2",
+          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "url": "https://www.agrillo.it/EvasionEn.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T16:23:56Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5295,
+      "importance": 0.5295,
+      "importance_score": 0.5295,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9094,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T16:23:56Z",
+      "latest_at": "2026-07-26T17:33:46.109000Z",
+      "primary_item": {
+        "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
+        "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+        "url": "https://news.ycombinator.com/item?id=49059660",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1460,15 +1441,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4994,
-      "importance": 0.4994,
-      "importance_score": 0.4994,
+      "score": 0.4972,
+      "importance": 0.4972,
+      "importance_score": 0.4972,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7425,
+        "recency": 0.7303,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1539,15 +1520,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5117,
-      "importance": 0.5117,
-      "importance_score": 0.5117,
+      "score": 0.5093,
+      "importance": 0.5093,
+      "importance_score": 0.5093,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8105,
+        "recency": 0.7972,
         "story_heat": 0.25
       },
       "category": "watch",
