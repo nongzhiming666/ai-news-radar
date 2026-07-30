@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T18:56:10.293071Z",
+  "generated_at": "2026-07-30T20:16:45.108738Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9132,
-      "importance": 0.9132,
-      "importance_score": 0.9132,
+      "score": 0.9102,
+      "importance": 0.9102,
+      "importance_score": 0.9102,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8789,
+        "recency": 0.8621,
         "story_heat": 0.75
       },
       "category": "official",
@@ -177,15 +177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8791,
-      "importance": 0.8791,
-      "importance_score": 0.8791,
+      "score": 0.8758,
+      "importance": 0.8758,
+      "importance_score": 0.8758,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.945,
+        "recency": 0.9268,
         "story_heat": 0.25
       },
       "category": "official",
@@ -259,15 +259,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8733,
-      "importance": 0.8733,
-      "importance_score": 0.8733,
+      "score": 0.8699,
+      "importance": 0.8699,
+      "importance_score": 0.8699,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9796,
+        "recency": 0.9608,
         "story_heat": 0.25
       },
       "category": "official",
@@ -341,15 +341,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8621,
-      "importance": 0.8621,
-      "importance_score": 0.8621,
+      "score": 0.8588,
+      "importance": 0.8588,
+      "importance_score": 0.8588,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9618,
+        "recency": 0.9434,
         "story_heat": 0.25
       },
       "category": "official",
@@ -404,15 +404,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8564,
-      "importance": 0.8564,
-      "importance_score": 0.8564,
+      "score": 0.8532,
+      "importance": 0.8532,
+      "importance_score": 0.8532,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9468,
+        "recency": 0.9286,
         "story_heat": 0.0
       },
       "category": "official",
@@ -466,15 +466,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8421,
-      "importance": 0.8421,
-      "importance_score": 0.8421,
+      "score": 0.8389,
+      "importance": 0.8389,
+      "importance_score": 0.8389,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9452,
+        "recency": 0.927,
         "story_heat": 0.0
       },
       "category": "official",
@@ -528,15 +528,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
+      "score": 0.8373,
+      "importance": 0.8373,
+      "importance_score": 0.8373,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9818,
+        "recency": 0.9629,
         "story_heat": 0.0
       },
       "category": "official",
@@ -609,15 +609,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7773,
-      "importance": 0.7773,
-      "importance_score": 0.7773,
+      "score": 0.7742,
+      "importance": 0.7742,
+      "importance_score": 0.7742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9152,
+        "recency": 0.8976,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -690,15 +690,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7723,
-      "importance": 0.7723,
-      "importance_score": 0.7723,
+      "score": 0.7693,
+      "importance": 0.7693,
+      "importance_score": 0.7693,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8873,
+        "recency": 0.8703,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -771,15 +771,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7717,
-      "importance": 0.7717,
-      "importance_score": 0.7717,
+      "score": 0.7688,
+      "importance": 0.7688,
+      "importance_score": 0.7688,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8505,
+        "recency": 0.8342,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -795,6 +795,67 @@
         "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
         "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
         "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_235ce9288be4",
+      "title": "Google Earth 集成 Nano Banana 2 图像生成",
+      "url": "https://x.com/GoogleAI/status/2082902334984609936",
+      "primary_url": "https://x.com/GoogleAI/status/2082902334984609936",
+      "source": "X：Google AI (@GoogleAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0868d412089140b46edc3f1649b972040bed8699",
+          "title": "Google Earth 集成 Nano Banana 2 图像生成",
+          "url": "https://x.com/GoogleAI/status/2082902334984609936",
+          "source": "X：Google AI (@GoogleAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T18:53:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Google AI (@GoogleAI)"
+      ],
+      "items": [
+        {
+          "id": "0868d412089140b46edc3f1649b972040bed8699",
+          "title": "Google Earth 集成 Nano Banana 2 图像生成",
+          "url": "https://x.com/GoogleAI/status/2082902334984609936",
+          "source": "X：Google AI (@GoogleAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T18:53:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9801,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T18:53:09Z",
+      "latest_at": "2026-07-30T18:53:09Z",
+      "primary_item": {
+        "id": "0868d412089140b46edc3f1649b972040bed8699",
+        "title": "Google Earth 集成 Nano Banana 2 图像生成",
+        "url": "https://x.com/GoogleAI/status/2082902334984609936",
+        "source": "X：Google AI (@GoogleAI)",
         "source_name": "AI HOT"
       }
     },
@@ -833,15 +894,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9802,
+        "recency": 0.9614,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -856,67 +917,6 @@
         "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
         "url": "https://x.com/OpenRouter/status/2082882158574911564",
         "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fe4ad710c72f",
-      "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
-      "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
-      "primary_url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
-      "source": "X：Google DeepMind (@GoogleDeepMind)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "eb21f3e05e403feda8cff0cad931b819ac00d1ff",
-          "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
-          "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
-          "source": "X：Google DeepMind (@GoogleDeepMind)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T15:02:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Google DeepMind (@GoogleDeepMind)"
-      ],
-      "items": [
-        {
-          "id": "eb21f3e05e403feda8cff0cad931b819ac00d1ff",
-          "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
-          "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
-          "source": "X：Google DeepMind (@GoogleDeepMind)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T15:02:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9452,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T15:02:00Z",
-      "latest_at": "2026-07-30T15:02:00Z",
-      "primary_item": {
-        "id": "eb21f3e05e403feda8cff0cad931b819ac00d1ff",
-        "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
-        "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
-        "source": "X：Google DeepMind (@GoogleDeepMind)",
         "source_name": "AI HOT"
       }
     },
@@ -974,15 +974,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
+      "score": 0.7519,
+      "importance": 0.7519,
+      "importance_score": 0.7519,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7552,
+        "recency": 0.7407,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -998,6 +998,67 @@
         "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
         "url": "https://www.ithome.com/0/983/374.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fe4ad710c72f",
+      "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
+      "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
+      "primary_url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
+      "source": "X：Google DeepMind (@GoogleDeepMind)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "eb21f3e05e403feda8cff0cad931b819ac00d1ff",
+          "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
+          "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
+          "source": "X：Google DeepMind (@GoogleDeepMind)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T15:02:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Google DeepMind (@GoogleDeepMind)"
+      ],
+      "items": [
+        {
+          "id": "eb21f3e05e403feda8cff0cad931b819ac00d1ff",
+          "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
+          "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
+          "source": "X：Google DeepMind (@GoogleDeepMind)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T15:02:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7515,
+      "importance": 0.7515,
+      "importance_score": 0.7515,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.927,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T15:02:00Z",
+      "latest_at": "2026-07-30T15:02:00Z",
+      "primary_item": {
+        "id": "eb21f3e05e403feda8cff0cad931b819ac00d1ff",
+        "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
+        "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
+        "source": "X：Google DeepMind (@GoogleDeepMind)",
         "source_name": "AI HOT"
       }
     },
@@ -1036,21 +1097,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9712,
+        "recency": 0.9526,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-30T16:54:48Z",
       "latest_at": "2026-07-30T16:54:48Z",
@@ -1097,15 +1157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8338,
-      "importance": 0.8338,
-      "importance_score": 0.8338,
+      "score": 0.8306,
+      "importance": 0.8306,
+      "importance_score": 0.8306,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9436,
+        "recency": 0.9254,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1178,15 +1238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7723,
-      "importance": 0.7723,
-      "importance_score": 0.7723,
+      "score": 0.7693,
+      "importance": 0.7693,
+      "importance_score": 0.7693,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8873,
+        "recency": 0.8703,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1240,15 +1300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
+      "score": 0.733,
+      "importance": 0.733,
+      "importance_score": 0.733,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7893,
+        "recency": 0.7742,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1300,15 +1360,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7273,
-      "importance": 0.7273,
-      "importance_score": 0.7273,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.726,
+        "recency": 0.7121,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1360,15 +1420,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7267,
-      "importance": 0.7267,
-      "importance_score": 0.7267,
+      "score": 0.7234,
+      "importance": 0.7234,
+      "importance_score": 0.7234,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9563,
+        "recency": 0.9379,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1382,87 +1442,6 @@
         "title": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU",
         "url": "https://www.lmsys.org/blog/2026-07-30-sglang-google-tpu",
         "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cf352dddb40c",
-      "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-      "url": "https://www.ithome.com/0/983/444.htm",
-      "primary_url": "https://www.ithome.com/0/983/444.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2f2c2962adb80539002c13357b644f38857975fc",
-          "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-          "url": "https://www.ithome.com/0/983/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T02:49:47Z"
-        },
-        {
-          "id": "b7b3015852d443a90d3912bfdee9f469c2399767",
-          "title": "OpenAI 总裁布罗克曼承认新 ChatGPT AI 桌面应用“有点乱”，目标打造“零标签”",
-          "url": "https://www.ithome.com/0/983/444.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-30T02:49:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "2f2c2962adb80539002c13357b644f38857975fc",
-          "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-          "url": "https://www.ithome.com/0/983/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T02:49:47Z"
-        },
-        {
-          "id": "b7b3015852d443a90d3912bfdee9f469c2399767",
-          "title": "OpenAI 总裁布罗克曼承认新 ChatGPT AI 桌面应用“有点乱”，目标打造“零标签”",
-          "url": "https://www.ithome.com/0/983/444.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-30T02:49:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7925,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T02:49:47Z",
-      "latest_at": "2026-07-30T02:49:47Z",
-      "primary_item": {
-        "id": "2f2c2962adb80539002c13357b644f38857975fc",
-        "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-        "url": "https://www.ithome.com/0/983/444.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     }
