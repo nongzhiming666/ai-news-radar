@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T16:01:59.567525Z",
+  "generated_at": "2026-08-01T17:31:41.625266Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8398,
-      "importance": 0.8398,
-      "importance_score": 0.8398,
+      "score": 0.8367,
+      "importance": 0.8367,
+      "importance_score": 0.8367,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7933,
+        "recency": 0.7764,
         "story_heat": 0.25
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
+      "score": 0.804,
+      "importance": 0.804,
+      "importance_score": 0.804,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7495,
+        "recency": 0.7335,
         "story_heat": 0.0
       },
       "category": "official",
@@ -301,15 +301,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.7922,
-      "importance": 0.7922,
-      "importance_score": 0.7922,
+      "score": 0.7893,
+      "importance": 0.7893,
+      "importance_score": 0.7893,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7534,
+        "recency": 0.7373,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -382,15 +382,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7822,
-      "importance": 0.7822,
-      "importance_score": 0.7822,
+      "score": 0.7787,
+      "importance": 0.7787,
+      "importance_score": 0.7787,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9256,
+        "recency": 0.9058,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -444,15 +444,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7953,
-      "importance": 0.7953,
-      "importance_score": 0.7953,
+      "score": 0.7925,
+      "importance": 0.7925,
+      "importance_score": 0.7925,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7296,
+        "recency": 0.714,
         "story_heat": 0.0
       },
       "category": "official",
@@ -525,22 +525,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
+      "score": 0.7499,
+      "importance": 0.7499,
+      "importance_score": 0.7499,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7625,
+        "recency": 0.7462,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-31T21:15:23Z",
       "latest_at": "2026-07-31T21:15:23Z",
@@ -587,15 +586,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
+      "score": 0.7446,
+      "importance": 0.7446,
+      "importance_score": 0.7446,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8399,
+        "recency": 0.822,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -647,15 +646,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7436,
-      "importance": 0.7436,
-      "importance_score": 0.7436,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7667,
+        "recency": 0.7503,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -707,15 +706,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.886,
+        "recency": 0.8671,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -733,76 +732,41 @@
       }
     },
     {
-      "story_id": "story_40a9fce1f45e",
-      "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-      "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-      "primary_url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
-          "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T16:45:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
-          "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T16:45:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7146,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T16:45:50Z",
-      "latest_at": "2026-07-31T16:45:50Z",
-      "primary_item": {
-        "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
-        "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-        "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
       "story_id": "story_2df82173bb28",
-      "title": "如果你最近也在担心：AI越来越强，我现在到底该学什么、往哪走，才不容易被甩下？这篇很适合普通人看看。Khan Academy 创始人Sal Khan用网约车、工程师、学生论文这些真实例子，讲了AI正在怎么改变工作，人该把力气花在哪里。",
+      "title": "如果你已经会让 AI 帮自己写代码、查资料，但一到团队协作就变乱：谁的记忆算谁的？文件和权限怎么隔离？AI 能不能在Slack里一起推进项目？这篇就很好理解。YC开源了他们内部使用的多Agent协作框架：QM。它让每个员工、每个频道、每个项目都有独立的记忆、文件、密钥权限、定时任务和沙箱环境；还能接入 Pi、OpenCode、Codex、Claude Code 等不同Agent框架，避免被单一模型或工具绑定。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "source": "社区更新 · 2026-08-01",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "c06e1536ca165c819ac55c05b2693fb3441cb121",
+          "title": "作者对Codex Micro，这个vibecoding 键盘做了配置体验和拆机。它没有本地AI、也没有内置麦克风，主要负责输入、灯光、通信和供电；同时也遇到了 USB 卡顿、HID 读取中断等稳定性问题。一起来看看230美元到底买到的是什么。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-01T17:31:41.625266Z"
+        },
+        {
+          "id": "961db9ce643831a109b7d562d2efbeb5a4d5134a",
+          "title": "大多数人用 Codex 的方式，是开一个会话、交代一件事、等它做完。这种用法只动用了它很小一部分能力。这篇文章把几个关键概念讲得很清楚：Task、Subagent、Worktree、SSH、Handoff、Automation。已经会用Codex、想处理复杂项目的人不容错过！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-01T17:31:41.625266Z"
+        },
+        {
+          "id": "ef8a92139ed81c0d03704b1795eac9596de0060e",
+          "title": "如果你已经会让 AI 帮自己写代码、查资料，但一到团队协作就变乱：谁的记忆算谁的？文件和权限怎么隔离？AI 能不能在Slack里一起推进项目？这篇就很好理解。YC开源了他们内部使用的多Agent协作框架：QM。它让每个员工、每个频道、每个项目都有独立的记忆、文件、密钥权限、定时任务和沙箱环境；还能接入 Pi、OpenCode、Codex、Claude Code 等不同Agent框架，避免被单一模型或工具绑定。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-01T17:31:41.625266Z"
+        },
+        {
           "id": "e21e886d0cf89b666afd8d7fc1fea8962c35fe43",
           "title": "如果你最近也在担心：AI越来越强，我现在到底该学什么、往哪走，才不容易被甩下？这篇很适合普通人看看。Khan Academy 创始人Sal Khan用网约车、工程师、学生论文这些真实例子，讲了AI正在怎么改变工作，人该把力气花在哪里。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -875,13 +839,40 @@
           "published_at": "2026-07-31T17:39:26.665506Z"
         }
       ],
-      "source_count": 8,
+      "source_count": 11,
       "source_names": [
         "社区更新 · 2026-07-31",
         "社区更新 · 2026-08-01"
       ],
       "items": [
         {
+          "id": "c06e1536ca165c819ac55c05b2693fb3441cb121",
+          "title": "作者对Codex Micro，这个vibecoding 键盘做了配置体验和拆机。它没有本地AI、也没有内置麦克风，主要负责输入、灯光、通信和供电；同时也遇到了 USB 卡顿、HID 读取中断等稳定性问题。一起来看看230美元到底买到的是什么。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-01T17:31:41.625266Z"
+        },
+        {
+          "id": "961db9ce643831a109b7d562d2efbeb5a4d5134a",
+          "title": "大多数人用 Codex 的方式，是开一个会话、交代一件事、等它做完。这种用法只动用了它很小一部分能力。这篇文章把几个关键概念讲得很清楚：Task、Subagent、Worktree、SSH、Handoff、Automation。已经会用Codex、想处理复杂项目的人不容错过！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-01T17:31:41.625266Z"
+        },
+        {
+          "id": "ef8a92139ed81c0d03704b1795eac9596de0060e",
+          "title": "如果你已经会让 AI 帮自己写代码、查资料，但一到团队协作就变乱：谁的记忆算谁的？文件和权限怎么隔离？AI 能不能在Slack里一起推进项目？这篇就很好理解。YC开源了他们内部使用的多Agent协作框架：QM。它让每个员工、每个频道、每个项目都有独立的记忆、文件、密钥权限、定时任务和沙箱环境；还能接入 Pi、OpenCode、Codex、Claude Code 等不同Agent框架，避免被单一模型或工具绑定。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-01T17:31:41.625266Z"
+        },
+        {
           "id": "e21e886d0cf89b666afd8d7fc1fea8962c35fe43",
           "title": "如果你最近也在担心：AI越来越强，我现在到底该学什么、往哪走，才不容易被甩下？这篇很适合普通人看看。Khan Academy 创始人Sal Khan用网约车、工程师、学生论文这些真实例子，讲了AI正在怎么改变工作，人该把力气花在哪里。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -954,16 +945,16 @@
           "published_at": "2026-07-31T17:39:26.665506Z"
         }
       ],
-      "item_count": 8,
-      "duplicate_count": 8,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "item_count": 11,
+      "duplicate_count": 11,
+      "score": 0.6734,
+      "importance": 0.6734,
+      "importance_score": 0.6734,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.468,
+        "editorial": 0.4752,
         "source_tier": 0.54,
-        "ai_relevance": 0.65,
+        "ai_relevance": 0.66,
         "recency": 1.0,
         "story_heat": 1.0
       },
@@ -972,10 +963,10 @@
         "multi_source"
       ],
       "earliest_at": "2026-07-31T17:39:26.665506Z",
-      "latest_at": "2026-08-01T16:01:59.567525Z",
+      "latest_at": "2026-08-01T17:31:41.625266Z",
       "primary_item": {
-        "id": "e21e886d0cf89b666afd8d7fc1fea8962c35fe43",
-        "title": "如果你最近也在担心：AI越来越强，我现在到底该学什么、往哪走，才不容易被甩下？这篇很适合普通人看看。Khan Academy 创始人Sal Khan用网约车、工程师、学生论文这些真实例子，讲了AI正在怎么改变工作，人该把力气花在哪里。",
+        "id": "ef8a92139ed81c0d03704b1795eac9596de0060e",
+        "title": "如果你已经会让 AI 帮自己写代码、查资料，但一到团队协作就变乱：谁的记忆算谁的？文件和权限怎么隔离？AI 能不能在Slack里一起推进项目？这篇就很好理解。YC开源了他们内部使用的多Agent协作框架：QM。它让每个员工、每个频道、每个项目都有独立的记忆、文件、密钥权限、定时任务和沙箱环境；还能接入 Pi、OpenCode、Codex、Claude Code 等不同Agent框架，避免被单一模型或工具绑定。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-01",
         "source_name": "WaytoAGI"
@@ -1034,15 +1025,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6108,
-      "importance": 0.6108,
-      "importance_score": 0.6108,
+      "score": 0.6073,
+      "importance": 0.6073,
+      "importance_score": 0.6073,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.91,
+        "recency": 0.8905,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1112,15 +1103,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5688,
-      "importance": 0.5688,
-      "importance_score": 0.5688,
+      "score": 0.5659,
+      "importance": 0.5659,
+      "importance_score": 0.5659,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7405,
+        "recency": 0.7246,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1210,15 +1201,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5584,
-      "importance": 0.5584,
-      "importance_score": 0.5584,
+      "score": 0.5548,
+      "importance": 0.5548,
+      "importance_score": 0.5548,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9311,
+        "recency": 0.9112,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1308,15 +1299,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5527,
-      "importance": 0.5527,
-      "importance_score": 0.5527,
+      "score": 0.5492,
+      "importance": 0.5492,
+      "importance_score": 0.5492,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8994,
+        "recency": 0.8802,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1334,30 +1325,30 @@
       }
     },
     {
-      "story_id": "story_f5fb55945fb6",
-      "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-      "url": "https://news.ycombinator.com/item?id=49134038",
-      "primary_url": "https://news.ycombinator.com/item?id=49134038",
+      "story_id": "story_4d5fae192487",
+      "title": "光标从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+      "url": "https://news.ycombinator.com/item?id=49135257",
+      "primary_url": "https://news.ycombinator.com/item?id=49135257",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
-          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "url": "https://news.ycombinator.com/item?id=49134038",
+          "id": "e9c7de4959c8c31c8ebcc99f00578f42deff131f",
+          "title": "光标从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+          "url": "https://news.ycombinator.com/item?id=49135257",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-01T16:02:33.062000Z"
+          "published_at": "2026-08-01T17:32:14.566000Z"
         },
         {
-          "id": "59122596060397c08e2b41594d1c0231c18ad2b1",
-          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "id": "f6b7e33694d28407978eecc77a104a45c3ba21d2",
+          "title": "光标从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+          "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-01T12:56:54Z"
+          "published_at": "2026-08-01T15:25:21Z"
         }
       ],
       "source_count": 2,
@@ -1367,22 +1358,22 @@
       ],
       "items": [
         {
-          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
-          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "url": "https://news.ycombinator.com/item?id=49134038",
+          "id": "e9c7de4959c8c31c8ebcc99f00578f42deff131f",
+          "title": "光标从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+          "url": "https://news.ycombinator.com/item?id=49135257",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-01T16:02:33.062000Z"
+          "published_at": "2026-08-01T17:32:14.566000Z"
         },
         {
-          "id": "59122596060397c08e2b41594d1c0231c18ad2b1",
-          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "id": "f6b7e33694d28407978eecc77a104a45c3ba21d2",
+          "title": "光标从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+          "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-01T12:56:54Z"
+          "published_at": "2026-08-01T15:25:21Z"
         }
       ],
       "item_count": 2,
@@ -1402,14 +1393,93 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-01T12:56:54Z",
-      "latest_at": "2026-08-01T16:02:33.062000Z",
+      "earliest_at": "2026-08-01T15:25:21Z",
+      "latest_at": "2026-08-01T17:32:14.566000Z",
       "primary_item": {
-        "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
-        "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-        "url": "https://news.ycombinator.com/item?id=49134038",
+        "id": "e9c7de4959c8c31c8ebcc99f00578f42deff131f",
+        "title": "光标从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+        "url": "https://news.ycombinator.com/item?id=49135257",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_4d68a5c042f1",
+      "title": "我解雇了我的AI助手 / I Fired My AI Assitant",
+      "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
+      "primary_url": "https://chreke.com/posts/i-fired-my-ai-assistant",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "38367609b583d48947cecfaec4395791e51136bc",
+          "title": "我解雇了我的AI助手 / I Fired My AI Assitant",
+          "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T16:38:28Z"
+        },
+        {
+          "id": "40b716b431d38234ddaa8c7c6a5e068b9c0efce8",
+          "title": "我解雇了我的AI助手",
+          "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
+          "source": "chreke.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T08:25:11.079000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "chreke.com"
+      ],
+      "items": [
+        {
+          "id": "38367609b583d48947cecfaec4395791e51136bc",
+          "title": "我解雇了我的AI助手 / I Fired My AI Assitant",
+          "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T16:38:28Z"
+        },
+        {
+          "id": "40b716b431d38234ddaa8c7c6a5e068b9c0efce8",
+          "title": "我解雇了我的AI助手",
+          "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
+          "source": "chreke.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T08:25:11.079000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5435,
+      "importance": 0.5435,
+      "importance_score": 0.5435,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9873,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T08:25:11.079000Z",
+      "latest_at": "2026-08-01T16:38:28Z",
+      "primary_item": {
+        "id": "38367609b583d48947cecfaec4395791e51136bc",
+        "title": "我解雇了我的AI助手 / I Fired My AI Assitant",
+        "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1485,15 +1555,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8328,
+        "recency": 0.815,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1564,15 +1634,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
+      "score": 0.5369,
+      "importance": 0.5369,
+      "importance_score": 0.5369,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9714,
+        "recency": 0.9507,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1643,15 +1713,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9397,
+        "recency": 0.9196,
         "story_heat": 0.25
       },
       "category": "watch",
