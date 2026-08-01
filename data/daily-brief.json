@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T23:30:42.755622Z",
+  "generated_at": "2026-08-01T02:55:22.815436Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8433,
-      "importance": 0.8433,
-      "importance_score": 0.8433,
+      "score": 0.835,
+      "importance": 0.835,
+      "importance_score": 0.835,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9515,
+        "recency": 0.9057,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,15 +219,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8287,
-      "importance": 0.8287,
-      "importance_score": 0.8287,
+      "score": 0.8205,
+      "importance": 0.8205,
+      "importance_score": 0.8205,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9564,
+        "recency": 0.9104,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -244,68 +244,6 @@
         "url": "https://tailscale.com/blog/hugging-face-intrusion",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "GPT-5.4 和 GPT-5.4 mini 将于 8 月 31 日从 Codex 退役 / GPT-5.4 and GPT-5.4 mini retire from Codex on August 31",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1c4c9bd5d7c55386079a901350ad446150649d54",
-          "title": "GPT-5.4 和 GPT-5.4 mini 将于 8 月 31 日从 Codex 退役 / GPT-5.4 and GPT-5.4 mini retire from Codex on August 31",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "1c4c9bd5d7c55386079a901350ad446150649d54",
-          "title": "GPT-5.4 和 GPT-5.4 mini 将于 8 月 31 日从 Codex 退役 / GPT-5.4 and GPT-5.4 mini retire from Codex on August 31",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8182,
-      "importance": 0.8182,
-      "importance_score": 0.8182,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7121,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T00:00:00Z",
-      "latest_at": "2026-07-31T00:00:00Z",
-      "primary_item": {
-        "id": "1c4c9bd5d7c55386079a901350ad446150649d54",
-        "title": "GPT-5.4 和 GPT-5.4 mini 将于 8 月 31 日从 Codex 退役 / GPT-5.4 and GPT-5.4 mini retire from Codex on August 31",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -343,15 +281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8312,
-      "importance": 0.8312,
-      "importance_score": 0.8312,
+      "score": 0.8235,
+      "importance": 0.8235,
+      "importance_score": 0.8235,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8843,
+        "recency": 0.8418,
         "story_heat": 0.0
       },
       "category": "official",
@@ -405,15 +343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8307,
-      "importance": 0.8307,
-      "importance_score": 0.8307,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9261,
+        "recency": 0.8816,
         "story_heat": 0.0
       },
       "category": "official",
@@ -486,15 +424,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
+      "score": 0.7845,
+      "importance": 0.7845,
+      "importance_score": 0.7845,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.793,
+        "recency": 0.7549,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -567,15 +505,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7898,
-      "importance": 0.7898,
-      "importance_score": 0.7898,
+      "score": 0.7815,
+      "importance": 0.7815,
+      "importance_score": 0.7815,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.968,
+        "recency": 0.9214,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -629,15 +567,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9733,
+        "recency": 0.9265,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -690,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8312,
-      "importance": 0.8312,
-      "importance_score": 0.8312,
+      "score": 0.8235,
+      "importance": 0.8235,
+      "importance_score": 0.8235,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8843,
+        "recency": 0.8418,
         "story_heat": 0.0
       },
       "category": "official",
@@ -771,15 +709,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7688,
-      "importance": 0.7688,
-      "importance_score": 0.7688,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8342,
+        "recency": 0.7941,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -833,15 +771,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8273,
-      "importance": 0.8273,
-      "importance_score": 0.8273,
+      "score": 0.8194,
+      "importance": 0.8194,
+      "importance_score": 0.8194,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9072,
+        "recency": 0.8636,
         "story_heat": 0.0
       },
       "category": "official",
@@ -895,15 +833,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7582,
-      "importance": 0.7582,
-      "importance_score": 0.7582,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8976,
+        "recency": 0.8545,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -975,15 +913,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8025,
+        "recency": 0.764,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1037,21 +975,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8225,
+        "recency": 0.783,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-31T09:59:02.996000Z",
       "latest_at": "2026-07-31T09:59:02.996000Z",
@@ -1098,21 +1035,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8592,
+        "recency": 0.8179,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-31T13:00:02Z",
       "latest_at": "2026-07-31T13:00:02Z",
@@ -1178,15 +1114,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7683,
-      "importance": 0.7683,
-      "importance_score": 0.7683,
+      "score": 0.7617,
+      "importance": 0.7617,
+      "importance_score": 0.7617,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7649,
+        "recency": 0.7282,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1259,15 +1195,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8025,
+        "recency": 0.764,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1340,22 +1276,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7567,
-      "importance": 0.7567,
-      "importance_score": 0.7567,
+      "score": 0.7499,
+      "importance": 0.7499,
+      "importance_score": 0.7499,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7839,
+        "recency": 0.7462,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-31T06:38:54Z",
       "latest_at": "2026-07-31T06:38:54Z",
@@ -1368,62 +1303,124 @@
       }
     },
     {
-      "story_id": "story_ba9f53c1265c",
-      "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
-      "url": "https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de",
-      "primary_url": "https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de",
-      "source": "Google AI：DEV 作者专属（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_487981959078",
+      "title": "Univé 打造人工智能就绪的劳动力队伍 / Univé builds an AI-ready workforce",
+      "url": "https://openai.com/index/unive",
+      "primary_url": "https://openai.com/index/unive",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "58a5804e580bb994112df43c0fdddf76a001c735",
-          "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
-          "url": "https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de",
-          "source": "Google AI：DEV 作者专属（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T11:07:35Z"
+          "id": "4dabd3013738d25515192e1f33862f429d47f0c4",
+          "title": "Univé 打造人工智能就绪的劳动力队伍 / Univé builds an AI-ready workforce",
+          "url": "https://openai.com/index/unive",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T07:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI：DEV 作者专属（RSS）"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "58a5804e580bb994112df43c0fdddf76a001c735",
-          "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
-          "url": "https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de",
-          "source": "Google AI：DEV 作者专属（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T11:07:35Z"
+          "id": "4dabd3013738d25515192e1f33862f429d47f0c4",
+          "title": "Univé 打造人工智能就绪的劳动力队伍 / Univé builds an AI-ready workforce",
+          "url": "https://openai.com/index/unive",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T07:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7261,
-      "importance": 0.7261,
-      "importance_score": 0.7261,
+      "score": 0.807,
+      "importance": 0.807,
+      "importance_score": 0.807,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.75,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T07:00:00Z",
+      "latest_at": "2026-07-31T07:00:00Z",
+      "primary_item": {
+        "id": "4dabd3013738d25515192e1f33862f429d47f0c4",
+        "title": "Univé 打造人工智能就绪的劳动力队伍 / Univé builds an AI-ready workforce",
+        "url": "https://openai.com/index/unive",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0ae4eaaaeeda",
+      "title": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分",
+      "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c9ea765a549630b1225f52ace49b6d1c6619d979",
+          "title": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分",
+          "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T09:30:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "c9ea765a549630b1225f52ace49b6d1c6619d979",
+          "title": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分",
+          "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T09:30:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.68,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8362,
+        "recency": 0.7777,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-31T11:07:35Z",
-      "latest_at": "2026-07-31T11:07:35Z",
+      "earliest_at": "2026-07-31T09:30:43Z",
+      "latest_at": "2026-07-31T09:30:43Z",
       "primary_item": {
-        "id": "58a5804e580bb994112df43c0fdddf76a001c735",
-        "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
-        "url": "https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de",
-        "source": "Google AI：DEV 作者专属（RSS）",
+        "id": "c9ea765a549630b1225f52ace49b6d1c6619d979",
+        "title": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分",
+        "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
         "source_name": "AI HOT"
       }
     }
