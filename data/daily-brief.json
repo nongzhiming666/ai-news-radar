@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T23:32:04.201184Z",
+  "generated_at": "2026-08-02T02:54:29.981103Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -66,88 +66,6 @@
       }
     },
     {
-      "story_id": "story_6d58997b466c",
-      "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "primary_url": "https://openai.com/index/ten-advances-in-mathematics",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
-          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-01T00:00:00Z"
-        },
-        {
-          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
-          "title": "数学与理论计算机科学领域的十大进展",
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T10:17:30.122000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
-          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-01T00:00:00Z"
-        },
-        {
-          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
-          "title": "数学与理论计算机科学领域的十大进展",
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T10:17:30.122000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8251,
-      "importance": 0.8251,
-      "importance_score": 0.8251,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7119,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-01T00:00:00Z",
-      "latest_at": "2026-08-01T10:17:30.122000Z",
-      "primary_item": {
-        "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
-        "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
-        "url": "https://openai.com/index/ten-advances-in-mathematics",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
       "story_id": "story_a86f05568153",
       "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
       "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
@@ -201,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.758,
+      "importance": 0.758,
+      "importance_score": 0.758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8306,
+        "recency": 0.7911,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -263,15 +181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7323,
-      "importance": 0.7323,
-      "importance_score": 0.7323,
+      "score": 0.7258,
+      "importance": 0.7258,
+      "importance_score": 0.7258,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7537,
+        "recency": 0.7178,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -285,66 +203,6 @@
         "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
         "url": "https://x.com/AYi_AInotes/status/2083401614623133921",
         "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_478fa414920c",
-      "title": "OpenAI Astra 以约2000美元证明10项数学难题",
-      "url": "https://x.com/gdb/status/2083457463337287721",
-      "primary_url": "https://x.com/gdb/status/2083457463337287721",
-      "source": "X：Greg Brockman (@gdb)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5388e09d34b8b96f7241cc196d2cde3bb212a98d",
-          "title": "OpenAI Astra 以约2000美元证明10项数学难题",
-          "url": "https://x.com/gdb/status/2083457463337287721",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-01T07:39:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Greg Brockman (@gdb)"
-      ],
-      "items": [
-        {
-          "id": "5388e09d34b8b96f7241cc196d2cde3bb212a98d",
-          "title": "OpenAI Astra 以约2000美元证明10项数学难题",
-          "url": "https://x.com/gdb/status/2083457463337287721",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-01T07:39:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7247,
-      "importance": 0.7247,
-      "importance_score": 0.7247,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.795,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-01T07:39:02Z",
-      "latest_at": "2026-08-01T07:39:02Z",
-      "primary_item": {
-        "id": "5388e09d34b8b96f7241cc196d2cde3bb212a98d",
-        "title": "OpenAI Astra 以约2000美元证明10项数学难题",
-        "url": "https://x.com/gdb/status/2083457463337287721",
-        "source": "X：Greg Brockman (@gdb)",
         "source_name": "AI HOT"
       }
     },
@@ -455,15 +313,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6584,
-      "importance": 0.6584,
-      "importance_score": 0.6584,
+      "score": 0.6506,
+      "importance": 0.6506,
+      "importance_score": 0.6506,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4752,
         "source_tier": 0.54,
         "ai_relevance": 0.66,
-        "recency": 0.9169,
+        "recency": 0.8733,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -478,6 +336,122 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-01",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_e8cc710abd7b",
+      "title": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "primary_url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "source": "mitsloan.mit.edu",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0e1018d749979b50e90fe930365a1bc914b6ff1b",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "mitsloan.mit.edu",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T00:41:17.348000Z"
+        },
+        {
+          "id": "c3f29c8509745216f7b46dcf7cc7c70be1d41160",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good if you ask the right questions",
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T22:25:12Z"
+        },
+        {
+          "id": "b6b7111cd3c30b9939c52702f3f026caaaf55f1f",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good, especially if you ask right questions",
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T22:25:12Z"
+        },
+        {
+          "id": "9126135bf5ecfda8cea2ab4b9ffea2fbba8cc6dd",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / From MIT: AI financial advice is surprisingly good",
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T22:25:12Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "mitsloan.mit.edu"
+      ],
+      "items": [
+        {
+          "id": "0e1018d749979b50e90fe930365a1bc914b6ff1b",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "mitsloan.mit.edu",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T00:41:17.348000Z"
+        },
+        {
+          "id": "c3f29c8509745216f7b46dcf7cc7c70be1d41160",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good if you ask the right questions",
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T22:25:12Z"
+        },
+        {
+          "id": "b6b7111cd3c30b9939c52702f3f026caaaf55f1f",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good, especially if you ask right questions",
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T22:25:12Z"
+        },
+        {
+          "id": "9126135bf5ecfda8cea2ab4b9ffea2fbba8cc6dd",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / From MIT: AI financial advice is surprisingly good",
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T22:25:12Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5901,
+      "importance": 0.5901,
+      "importance_score": 0.5901,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9684,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T22:25:12Z",
+      "latest_at": "2026-08-02T00:41:17.348000Z",
+      "primary_item": {
+        "id": "0e1018d749979b50e90fe930365a1bc914b6ff1b",
+        "title": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+        "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+        "source": "mitsloan.mit.edu",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -533,15 +507,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.594,
-      "importance": 0.594,
-      "importance_score": 0.594,
+      "score": 0.587,
+      "importance": 0.587,
+      "importance_score": 0.587,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.8166,
+        "recency": 0.7777,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -650,15 +624,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5827,
-      "importance": 0.5827,
-      "importance_score": 0.5827,
+      "score": 0.5747,
+      "importance": 0.5747,
+      "importance_score": 0.5747,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9271,
+        "recency": 0.883,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -748,15 +722,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5559,
-      "importance": 0.5559,
-      "importance_score": 0.5559,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.917,
+        "recency": 0.8734,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -774,82 +748,82 @@
       }
     },
     {
-      "story_id": "story_e8cc710abd7b",
-      "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "primary_url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_9913dded4f75",
+      "title": "初创公司 Majestic 推出 AI 服务器「普罗米修斯」，可选配 8TB-128TB LPDDR6 内存",
+      "url": "https://www.ithome.com/0/984/671.htm",
+      "primary_url": "https://www.ithome.com/0/984/671.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "c3f29c8509745216f7b46dcf7cc7c70be1d41160",
-          "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T22:25:12Z"
+          "id": "34f53649cf093a81fa348fe320de2adf87398de0",
+          "title": "初创公司 Majestic 推出 AI 服务器「普罗米修斯」，可选配 8TB-128TB LPDDR6 内存",
+          "url": "https://www.ithome.com/0/984/671.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "9126135bf5ecfda8cea2ab4b9ffea2fbba8cc6dd",
-          "title": "麻省理工学院：人工智能财务建议出奇的好 / From MIT: AI financial advice is surprisingly good",
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-01T22:25:12Z"
+          "id": "c70a424ede9564b97959e47d0150984604ec6b21",
+          "title": "初创公司 Majestic 推出 AI 服务器“普罗米修斯”，可选配 8TB-128TB LPDDR6 内存",
+          "url": "https://www.ithome.com/0/984/671.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T02:06:47Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "c3f29c8509745216f7b46dcf7cc7c70be1d41160",
-          "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T22:25:12Z"
+          "id": "34f53649cf093a81fa348fe320de2adf87398de0",
+          "title": "初创公司 Majestic 推出 AI 服务器「普罗米修斯」，可选配 8TB-128TB LPDDR6 内存",
+          "url": "https://www.ithome.com/0/984/671.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "9126135bf5ecfda8cea2ab4b9ffea2fbba8cc6dd",
-          "title": "麻省理工学院：人工智能财务建议出奇的好 / From MIT: AI financial advice is surprisingly good",
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-01T22:25:12Z"
+          "id": "c70a424ede9564b97959e47d0150984604ec6b21",
+          "title": "初创公司 Majestic 推出 AI 服务器“普罗米修斯”，可选配 8TB-128TB LPDDR6 内存",
+          "url": "https://www.ithome.com/0/984/671.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T02:06:47Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5429,
-      "importance": 0.5429,
-      "importance_score": 0.5429,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.984,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-01T22:25:12Z",
-      "latest_at": "2026-08-01T22:25:12Z",
+      "earliest_at": "2026-08-02T02:06:47Z",
+      "latest_at": "2026-08-02T02:54:29.981103Z",
       "primary_item": {
-        "id": "c3f29c8509745216f7b46dcf7cc7c70be1d41160",
-        "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
-        "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "id": "34f53649cf093a81fa348fe320de2adf87398de0",
+        "title": "初创公司 Majestic 推出 AI 服务器「普罗米修斯」，可选配 8TB-128TB LPDDR6 内存",
+        "url": "https://www.ithome.com/0/984/671.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -925,15 +899,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5412,
-      "importance": 0.5412,
-      "importance_score": 0.5412,
+      "score": 0.534,
+      "importance": 0.534,
+      "importance_score": 0.534,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8355,
+        "recency": 0.7958,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1004,15 +978,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5399,
-      "importance": 0.5399,
-      "importance_score": 0.5399,
+      "score": 0.5316,
+      "importance": 0.5316,
+      "importance_score": 0.5316,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9672,
+        "recency": 0.9212,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1083,15 +1057,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
+      "score": 0.531,
+      "importance": 0.531,
+      "importance_score": 0.531,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9635,
+        "recency": 0.9177,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1105,104 +1079,6 @@
         "title": "YouTube网红汉克·格林在向粉丝致歉时表示，自己“过度依赖”了人工智能",
         "url": "https://www.businessinsider.com/hank-green-youtube-ai-apology-2026-8",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_25475716ab25",
-      "title": "Flint：面向人工智能时代的可视化语言",
-      "url": "https://microsoft.github.io/flint-chart",
-      "primary_url": "https://microsoft.github.io/flint-chart",
-      "source": "microsoft.github.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
-          "title": "Flint：面向人工智能时代的可视化语言",
-          "url": "https://microsoft.github.io/flint-chart",
-          "source": "microsoft.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T08:41:23.781000Z"
-        },
-        {
-          "id": "7566c9af461db37ce69beab06930c018b0a158ec",
-          "title": "Flint：AI时代的可视化语言 / Flint: A Visualization Language for the AI Era",
-          "url": "https://news.ycombinator.com/item?id=49130604",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T05:57:44.168000Z"
-        },
-        {
-          "id": "ed35827006d0817c480f3ca25d737c19b8b90564",
-          "title": "Flint：面向人工智能时代的可视化语言 / Flint: A Visualization Language for the AI Era",
-          "url": "https://microsoft.github.io/flint-chart",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T02:45:09Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "microsoft.github.io"
-      ],
-      "items": [
-        {
-          "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
-          "title": "Flint：面向人工智能时代的可视化语言",
-          "url": "https://microsoft.github.io/flint-chart",
-          "source": "microsoft.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T08:41:23.781000Z"
-        },
-        {
-          "id": "7566c9af461db37ce69beab06930c018b0a158ec",
-          "title": "Flint：AI时代的可视化语言 / Flint: A Visualization Language for the AI Era",
-          "url": "https://news.ycombinator.com/item?id=49130604",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T05:57:44.168000Z"
-        },
-        {
-          "id": "ed35827006d0817c480f3ca25d737c19b8b90564",
-          "title": "Flint：面向人工智能时代的可视化语言 / Flint: A Visualization Language for the AI Era",
-          "url": "https://microsoft.github.io/flint-chart",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T02:45:09Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5361,
-      "importance": 0.5361,
-      "importance_score": 0.5361,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8071,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T02:45:09Z",
-      "latest_at": "2026-08-01T08:41:23.781000Z",
-      "primary_item": {
-        "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
-        "title": "Flint：面向人工智能时代的可视化语言",
-        "url": "https://microsoft.github.io/flint-chart",
-        "source": "microsoft.github.io",
         "source_name": "Buzzing"
       }
     },
@@ -1259,15 +1135,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.536,
-      "importance": 0.536,
-      "importance_score": 0.536,
+      "score": 0.5279,
+      "importance": 0.5279,
+      "importance_score": 0.5279,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9456,
+        "recency": 0.9006,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1282,6 +1158,84 @@
         "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_06f5d97e22e3",
+      "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
+      "url": "https://news.ycombinator.com/item?id=49139102",
+      "primary_url": "https://news.ycombinator.com/item?id=49139102",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "a37f6d0f91a128324e51feaa4161dd48cdcb38f4",
+          "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
+          "url": "https://news.ycombinator.com/item?id=49139102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T02:56:31.156000Z"
+        },
+        {
+          "id": "58184bc38a961d35ec4841027b62c78810a8e38e",
+          "title": "麻省理工学院：人工智能财务建议出奇的好 / From MIT: AI financial advice is surprisingly good",
+          "url": "https://news.ycombinator.com/item?id=49139102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T23:32:36.866000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a37f6d0f91a128324e51feaa4161dd48cdcb38f4",
+          "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
+          "url": "https://news.ycombinator.com/item?id=49139102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T02:56:31.156000Z"
+        },
+        {
+          "id": "58184bc38a961d35ec4841027b62c78810a8e38e",
+          "title": "麻省理工学院：人工智能财务建议出奇的好 / From MIT: AI financial advice is surprisingly good",
+          "url": "https://news.ycombinator.com/item?id=49139102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T23:32:36.866000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T23:32:36.866000Z",
+      "latest_at": "2026-08-02T02:56:31.156000Z",
+      "primary_item": {
+        "id": "a37f6d0f91a128324e51feaa4161dd48cdcb38f4",
+        "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
+        "url": "https://news.ycombinator.com/item?id=49139102",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1338,15 +1292,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5227,
-      "importance": 0.5227,
-      "importance_score": 0.5227,
+      "score": 0.5152,
+      "importance": 0.5152,
+      "importance_score": 0.5152,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8717,
+        "recency": 0.8303,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1417,15 +1371,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5221,
-      "importance": 0.5221,
-      "importance_score": 0.5221,
+      "score": 0.5147,
+      "importance": 0.5147,
+      "importance_score": 0.5147,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8683,
+        "recency": 0.827,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1496,15 +1450,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5176,
-      "importance": 0.5176,
-      "importance_score": 0.5176,
+      "score": 0.5104,
+      "importance": 0.5104,
+      "importance_score": 0.5104,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8432,
+        "recency": 0.8031,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1522,161 +1476,239 @@
       }
     },
     {
-      "story_id": "story_8021cb4f67ea",
-      "title": "AI：决策者需考虑的因素",
-      "url": "https://berthub.eu/articles/posts/ai-for-decision-makers",
-      "primary_url": "https://berthub.eu/articles/posts/ai-for-decision-makers",
-      "source": "berthub.eu",
+      "story_id": "story_6d58997b466c",
+      "title": "数学与理论计算机科学领域的十大进展",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "primary_url": "https://openai.com/index/ten-advances-in-mathematics",
+      "source": "openai.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "3fe1dcf1013bdf150b81f979545725b0f46832c6",
-          "title": "AI：决策者需考虑的因素",
-          "url": "https://berthub.eu/articles/posts/ai-for-decision-makers",
-          "source": "berthub.eu",
+          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
+          "title": "数学与理论计算机科学领域的十大进展",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "openai.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-01T11:05:25.839000Z"
+          "published_at": "2026-08-01T10:17:30.122000Z"
         },
         {
-          "id": "5c9c965eab2f15cc646be3e29e835c2a7f78daac",
-          "title": "AI：决策者需考虑的因素 / AI: Considerations for people who make decisions",
-          "url": "https://berthub.eu/articles/posts/ai-for-decision-makers",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T01:56:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "berthub.eu"
-      ],
-      "items": [
-        {
-          "id": "3fe1dcf1013bdf150b81f979545725b0f46832c6",
-          "title": "AI：决策者需考虑的因素",
-          "url": "https://berthub.eu/articles/posts/ai-for-decision-makers",
-          "source": "berthub.eu",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T11:05:25.839000Z"
-        },
-        {
-          "id": "5c9c965eab2f15cc646be3e29e835c2a7f78daac",
-          "title": "AI：决策者需考虑的因素 / AI: Considerations for people who make decisions",
-          "url": "https://berthub.eu/articles/posts/ai-for-decision-makers",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T01:56:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5162,
-      "importance": 0.5162,
-      "importance_score": 0.5162,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8355,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T01:56:29Z",
-      "latest_at": "2026-08-01T11:05:25.839000Z",
-      "primary_item": {
-        "id": "3fe1dcf1013bdf150b81f979545725b0f46832c6",
-        "title": "AI：决策者需考虑的因素",
-        "url": "https://berthub.eu/articles/posts/ai-for-decision-makers",
-        "source": "berthub.eu",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
-      "url": "https://news.ycombinator.com/item?id=49139325",
-      "primary_url": "https://news.ycombinator.com/item?id=49139325",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2fd239d5b47a429b094663aea8df929d2759f9be",
-          "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
-          "url": "https://news.ycombinator.com/item?id=49139325",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T23:32:36.866000Z"
-        },
-        {
-          "id": "62644f9928a745e9be4bd80277b0026ef59e0482",
-          "title": "Zitron：关于人工智能“每个人都被骗了” / Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-          "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+          "id": "e44665178ec4140c0f5a67877b906ac10188bcc3",
+          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-01T22:50:30Z"
+          "published_at": "2026-08-01T07:37:44Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "hackernews"
+        "openai.com"
       ],
       "items": [
         {
-          "id": "2fd239d5b47a429b094663aea8df929d2759f9be",
-          "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
-          "url": "https://news.ycombinator.com/item?id=49139325",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T23:32:36.866000Z"
+          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
+          "title": "数学与理论计算机科学领域的十大进展",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T10:17:30.122000Z"
         },
         {
-          "id": "62644f9928a745e9be4bd80277b0026ef59e0482",
-          "title": "Zitron：关于人工智能“每个人都被骗了” / Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-          "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+          "id": "e44665178ec4140c0f5a67877b906ac10188bcc3",
+          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-01T22:50:30Z"
+          "published_at": "2026-08-01T07:37:44Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5074,
+      "importance": 0.5074,
+      "importance_score": 0.5074,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.7867,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-01T22:50:30Z",
-      "latest_at": "2026-08-01T23:32:36.866000Z",
+      "earliest_at": "2026-08-01T07:37:44Z",
+      "latest_at": "2026-08-01T10:17:30.122000Z",
       "primary_item": {
-        "id": "2fd239d5b47a429b094663aea8df929d2759f9be",
-        "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
-        "url": "https://news.ycombinator.com/item?id=49139325",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
+        "title": "数学与理论计算机科学领域的十大进展",
+        "url": "https://openai.com/index/ten-advances-in-mathematics",
+        "source": "openai.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_16eec787773e",
+      "title": "均为 10 年以上未解难题：OpenAI 公布下一代模型 Astra 在数学等领域的十项进展，Token 成本约 2000 美元",
+      "url": "https://www.ithome.com/0/984/557.htm",
+      "primary_url": "https://www.ithome.com/0/984/557.htm",
+      "source": "IT之家 (ITHome)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "c4490cc4f94f9539bbb2d2d0453426c792b6aa83",
+          "title": "均为 10 年以上未解难题：OpenAI 公布下一代模型 Astra 在数学等领域的十项进展，Token 成本约 2000 美元",
+          "url": "https://www.ithome.com/0/984/557.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T08:23:25Z"
+        },
+        {
+          "id": "4713ca6708ad870d934005b3abc539671fc76a9d",
+          "title": "均为 10 年以上未解难题：OpenAI 公布在数学与理论计算机科学领域的十项进展，Token 成本约 2000 美元",
+          "url": "https://www.ithome.com/0/984/557.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T08:23:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "c4490cc4f94f9539bbb2d2d0453426c792b6aa83",
+          "title": "均为 10 年以上未解难题：OpenAI 公布下一代模型 Astra 在数学等领域的十项进展，Token 成本约 2000 美元",
+          "url": "https://www.ithome.com/0/984/557.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T08:23:25Z"
+        },
+        {
+          "id": "4713ca6708ad870d934005b3abc539671fc76a9d",
+          "title": "均为 10 年以上未解难题：OpenAI 公布在数学与理论计算机科学领域的十项进展，Token 成本约 2000 美元",
+          "url": "https://www.ithome.com/0/984/557.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T08:23:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5036,
+      "importance": 0.5036,
+      "importance_score": 0.5036,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7654,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T08:23:25Z",
+      "latest_at": "2026-08-01T08:23:25Z",
+      "primary_item": {
+        "id": "c4490cc4f94f9539bbb2d2d0453426c792b6aa83",
+        "title": "均为 10 年以上未解难题：OpenAI 公布下一代模型 Astra 在数学等领域的十项进展，Token 成本约 2000 美元",
+        "url": "https://www.ithome.com/0/984/557.htm",
+        "source": "IT之家 (ITHome)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_43d66e8debd7",
+      "title": "萨姆·奥尔特曼因向家长推荐这一ChatGPT“使用场景”而遭到抨击",
+      "url": "https://www.businessinsider.com/sam-altman-chatgpt-parenting-ai-criticism-2026-8",
+      "primary_url": "https://www.businessinsider.com/sam-altman-chatgpt-parenting-ai-criticism-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "46a86b809a6b54394bcf6814d1c8843e57100846",
+          "title": "萨姆·奥尔特曼因向家长推荐这一ChatGPT“使用场景”而遭到抨击",
+          "url": "https://www.businessinsider.com/sam-altman-chatgpt-parenting-ai-criticism-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T18:49:33.997000Z"
+        },
+        {
+          "id": "4ad730fe873571990fd52d247e28688b2362d4e8",
+          "title": "萨姆·奥尔特曼因向家长推荐这一ChatGPT“使用场景”而遭到抨击 / Sam Altman is getting dragged for suggesting this ChatGPT 'use case' for parents",
+          "url": "https://www.businessinsider.com/sam-altman-chatgpt-parenting-ai-criticism-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T18:24:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "46a86b809a6b54394bcf6814d1c8843e57100846",
+          "title": "萨姆·奥尔特曼因向家长推荐这一ChatGPT“使用场景”而遭到抨击",
+          "url": "https://www.businessinsider.com/sam-altman-chatgpt-parenting-ai-criticism-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T18:49:33.997000Z"
+        },
+        {
+          "id": "4ad730fe873571990fd52d247e28688b2362d4e8",
+          "title": "萨姆·奥尔特曼因向家长推荐这一ChatGPT“使用场景”而遭到抨击 / Sam Altman is getting dragged for suggesting this ChatGPT 'use case' for parents",
+          "url": "https://www.businessinsider.com/sam-altman-chatgpt-parenting-ai-criticism-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T18:24:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.526,
+      "importance": 0.526,
+      "importance_score": 0.526,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8898,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T18:24:58Z",
+      "latest_at": "2026-08-01T18:49:33.997000Z",
+      "primary_item": {
+        "id": "46a86b809a6b54394bcf6814d1c8843e57100846",
+        "title": "萨姆·奥尔特曼因向家长推荐这一ChatGPT“使用场景”而遭到抨击",
+        "url": "https://www.businessinsider.com/sam-altman-chatgpt-parenting-ai-criticism-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     }
   ]
