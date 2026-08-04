@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-08-04T05:48:25.804987Z",
+  "generated_at": "2026-08-04T08:38:52.067600Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_2163b413300d",
+      "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "primary_url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
+          "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
+          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T22:00:00Z"
+        },
+        {
+          "id": "a833a6eb0db2cced4af45800a3813f6fb7acdd2c",
+          "title": "苹果在这件事上搞错了",
+          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-04T07:20:54.985000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
+          "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
+          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T22:00:00Z"
+        },
+        {
+          "id": "a833a6eb0db2cced4af45800a3813f6fb7acdd2c",
+          "title": "苹果在这件事上搞错了",
+          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-04T07:20:54.985000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8513,
+      "importance": 0.8513,
+      "importance_score": 0.8513,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8575,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T22:00:00Z",
+      "latest_at": "2026-08-04T07:20:54.985000Z",
+      "primary_item": {
+        "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
+        "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
+        "url": "https://openai.com/index/apple-is-getting-this-wrong",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_3949965c0b54",
       "title": "自定义 Copilot 云代理的推理级别 / Customize the reasoning level for Copilot cloud agent",
@@ -38,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8422,
-      "importance": 0.8422,
-      "importance_score": 0.8422,
+      "score": 0.8356,
+      "importance": 0.8356,
+      "importance_score": 0.8356,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9124,
+        "recency": 0.8757,
         "story_heat": 0.0
       },
       "category": "official",
@@ -66,65 +148,103 @@
       }
     },
     {
-      "story_id": "story_c5ad624a6ffb",
-      "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_6cbde97d8260",
+      "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+      "source": "公众号：面壁智能（MiniCPM）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T00:00:00Z"
+          "id": "51868ebba24a0c391770271a0455d8d630015049",
+          "title": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T08:12:36Z"
+        },
+        {
+          "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
+          "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T04:20:28Z"
+        },
+        {
+          "id": "0de57b7d014107379b4cd5b1c435cb4df25bf721",
+          "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T00:06:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "OpenAI News"
+        "公众号：数字生命卡兹克",
+        "公众号：腾讯混元",
+        "公众号：面壁智能（MiniCPM）"
       ],
       "items": [
         {
-          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T00:00:00Z"
+          "id": "51868ebba24a0c391770271a0455d8d630015049",
+          "title": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T08:12:36Z"
+        },
+        {
+          "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
+          "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T04:20:28Z"
+        },
+        {
+          "id": "0de57b7d014107379b4cd5b1c435cb4df25bf721",
+          "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T00:06:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8375,
-      "importance": 0.8375,
-      "importance_score": 0.8375,
-      "importance_label": "官方更新",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8247,
+      "importance": 0.8247,
+      "importance_score": 0.8247,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9196,
-        "story_heat": 0.0
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9397,
+        "story_heat": 0.5
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T00:00:00Z",
-      "latest_at": "2026-08-04T00:00:00Z",
+      "earliest_at": "2026-08-04T00:06:00Z",
+      "latest_at": "2026-08-04T08:12:36Z",
       "primary_item": {
-        "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-        "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
+        "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+        "source": "公众号：面壁智能（MiniCPM）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -219,15 +339,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
+      "score": 0.817,
+      "importance": 0.817,
+      "importance_score": 0.817,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8241,
+        "recency": 0.791,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -247,102 +367,21 @@
       }
     },
     {
-      "story_id": "story_6cbde97d8260",
-      "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
-      "source": "公众号：面壁智能（MiniCPM）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
-          "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T04:20:28Z"
-        },
-        {
-          "id": "0de57b7d014107379b4cd5b1c435cb4df25bf721",
-          "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T00:06:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "公众号：数字生命卡兹克",
-        "公众号：面壁智能（MiniCPM）"
-      ],
-      "items": [
-        {
-          "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
-          "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T04:20:28Z"
-        },
-        {
-          "id": "0de57b7d014107379b4cd5b1c435cb4df25bf721",
-          "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T00:06:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8068,
-      "importance": 0.8068,
-      "importance_score": 0.8068,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9791,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T00:06:00Z",
-      "latest_at": "2026-08-04T04:20:28Z",
-      "primary_item": {
-        "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
-        "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
-        "source": "公众号：面壁智能（MiniCPM）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2163b413300d",
-      "title": "苹果在这个问题上犯了错误 / Apple is getting this wrong",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "primary_url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "story_id": "story_c5ad624a6ffb",
+      "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
-          "title": "苹果在这个问题上犯了错误 / Apple is getting this wrong",
-          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T22:00:00Z"
+          "published_at": "2026-08-04T00:00:00Z"
         }
       ],
       "source_count": 1,
@@ -351,26 +390,26 @@
       ],
       "items": [
         {
-          "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
-          "title": "苹果在这个问题上犯了错误 / Apple is getting this wrong",
-          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T22:00:00Z"
+          "published_at": "2026-08-04T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8328,
-      "importance": 0.8328,
-      "importance_score": 0.8328,
+      "score": 0.8309,
+      "importance": 0.8309,
+      "importance_score": 0.8309,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8934,
+        "recency": 0.8826,
         "story_heat": 0.0
       },
       "category": "official",
@@ -379,14 +418,95 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T22:00:00Z",
-      "latest_at": "2026-08-03T22:00:00Z",
+      "earliest_at": "2026-08-04T00:00:00Z",
+      "latest_at": "2026-08-04T00:00:00Z",
       "primary_item": {
-        "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
-        "title": "苹果在这个问题上犯了错误 / Apple is getting this wrong",
-        "url": "https://openai.com/index/apple-is-getting-this-wrong",
+        "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+        "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c800daf76f55",
+      "title": "Swiftlet 把 80B 量级 Qwen 巨兽塞进 Mac：峰值内存仅 4.3GB，iPhone 17 还能原生机跑 35B",
+      "url": "https://www.aibase.com/news/30104",
+      "primary_url": "https://www.aibase.com/news/30104",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "922f6b04a1b3efbcffe6865718746cfac9ec6f72",
+          "title": "Swiftlet 把 80B 量级 Qwen 巨兽塞进 Mac：峰值内存仅 4.3GB，iPhone 17 还能原生机跑 35B",
+          "url": "https://www.aibase.com/news/30104",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T08:38:52.067600Z"
+        },
+        {
+          "id": "249d12e303e57807d262b847463a9bc392f5d78c",
+          "title": "Swiftlet 将 80B 量级 Qwen 模型塞进 Mac：峰值内存仅 4.3GB，iPhone 17 可原生机跑 35B",
+          "url": "https://www.aibase.com/zh/news/30104",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "922f6b04a1b3efbcffe6865718746cfac9ec6f72",
+          "title": "Swiftlet 把 80B 量级 Qwen 巨兽塞进 Mac：峰值内存仅 4.3GB，iPhone 17 还能原生机跑 35B",
+          "url": "https://www.aibase.com/news/30104",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T08:38:52.067600Z"
+        },
+        {
+          "id": "249d12e303e57807d262b847463a9bc392f5d78c",
+          "title": "Swiftlet 将 80B 量级 Qwen 模型塞进 Mac：峰值内存仅 4.3GB，iPhone 17 可原生机跑 35B",
+          "url": "https://www.aibase.com/zh/news/30104",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T08:38:52.067600Z",
+      "latest_at": "2026-08-04T08:38:52.067600Z",
+      "primary_item": {
+        "id": "922f6b04a1b3efbcffe6865718746cfac9ec6f72",
+        "title": "Swiftlet 把 80B 量级 Qwen 巨兽塞进 Mac：峰值内存仅 4.3GB，iPhone 17 还能原生机跑 35B",
+        "url": "https://www.aibase.com/news/30104",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -424,15 +544,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.827,
-      "importance": 0.827,
-      "importance_score": 0.827,
+      "score": 0.8204,
+      "importance": 0.8204,
+      "importance_score": 0.8204,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9054,
+        "recency": 0.869,
         "story_heat": 0.0
       },
       "category": "official",
@@ -452,68 +572,68 @@
       }
     },
     {
-      "story_id": "story_df2d2241c86e",
-      "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂\"反乌托邦\"",
-      "url": "https://www.aibase.com/news/30096",
-      "primary_url": "https://www.aibase.com/news/30096",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_8e9b4ad079fc",
+      "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+      "url": "https://github.com/leonickson1/Swiftlet",
+      "primary_url": "https://github.com/leonickson1/Swiftlet",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9cff6cc6d202ead97fcafb57e05c741cab949ff8",
-          "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂\"反乌托邦\"",
-          "url": "https://www.aibase.com/news/30096",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-04T05:48:25.804987Z"
+          "id": "9ca5efb7665863255dd6411d8c3788db9606bd9a",
+          "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+          "url": "https://github.com/leonickson1/Swiftlet",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T06:32:44.149000Z"
         },
         {
-          "id": "9a68aa6443998240366e96f84e334c4375dbc004",
-          "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂「反乌托邦」",
-          "url": "https://www.aibase.com/zh/news/30096",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "bd94efb556ce551a00d9ca0e1c7d4b2f30fc8349",
+          "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版 / Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+          "url": "https://github.com/leonickson1/Swiftlet",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-03T16:54:15Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "9cff6cc6d202ead97fcafb57e05c741cab949ff8",
-          "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂\"反乌托邦\"",
-          "url": "https://www.aibase.com/news/30096",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-04T05:48:25.804987Z"
+          "id": "9ca5efb7665863255dd6411d8c3788db9606bd9a",
+          "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+          "url": "https://github.com/leonickson1/Swiftlet",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T06:32:44.149000Z"
         },
         {
-          "id": "9a68aa6443998240366e96f84e334c4375dbc004",
-          "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂「反乌托邦」",
-          "url": "https://www.aibase.com/zh/news/30096",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "bd94efb556ce551a00d9ca0e1c7d4b2f30fc8349",
+          "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版 / Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+          "url": "https://github.com/leonickson1/Swiftlet",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-03T16:54:15Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9701,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -522,14 +642,95 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T05:48:25.804987Z",
-      "latest_at": "2026-08-04T05:48:25.804987Z",
+      "earliest_at": "2026-08-03T16:54:15Z",
+      "latest_at": "2026-08-04T06:32:44.149000Z",
       "primary_item": {
-        "id": "9cff6cc6d202ead97fcafb57e05c741cab949ff8",
-        "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂\"反乌托邦\"",
-        "url": "https://www.aibase.com/news/30096",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "9ca5efb7665863255dd6411d8c3788db9606bd9a",
+        "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+        "url": "https://github.com/leonickson1/Swiftlet",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f234c9d5df2e",
+      "title": "GPT-5.6 Luna降价80%永久生效",
+      "url": "https://x.com/thsottiaux/status/2084506501834829833",
+      "primary_url": "https://x.com/thsottiaux/status/2084506501834829833",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5a5581dd72f15919b939b9a10cbc444d6c0ac610",
+          "title": "GPT-5.6 Luna降价80%永久生效",
+          "url": "https://x.com/thsottiaux/status/2084506501834829833",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T05:07:32Z"
+        },
+        {
+          "id": "3ecb7a8d7e77866dbf1c8628255df999601f122a",
+          "title": "GPT-5.6 Luna降价80%永久生效 / Some fine folks apparently misunderstood, but the GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go away. Fortunately. https://t.co/043ZF9T7gL",
+          "url": "https://x.com/thsottiaux/status/2084506501834829833",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-04T05:07:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Thibault Sottiaux",
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "5a5581dd72f15919b939b9a10cbc444d6c0ac610",
+          "title": "GPT-5.6 Luna降价80%永久生效",
+          "url": "https://x.com/thsottiaux/status/2084506501834829833",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T05:07:32Z"
+        },
+        {
+          "id": "3ecb7a8d7e77866dbf1c8628255df999601f122a",
+          "title": "GPT-5.6 Luna降价80%永久生效 / Some fine folks apparently misunderstood, but the GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go away. Fortunately. https://t.co/043ZF9T7gL",
+          "url": "https://x.com/thsottiaux/status/2084506501834829833",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-04T05:07:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9504,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T05:07:32Z",
+      "latest_at": "2026-08-04T05:07:32Z",
+      "primary_item": {
+        "id": "5a5581dd72f15919b939b9a10cbc444d6c0ac610",
+        "title": "GPT-5.6 Luna降价80%永久生效",
+        "url": "https://x.com/thsottiaux/status/2084506501834829833",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -586,15 +787,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9107,
+        "recency": 0.8741,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -667,15 +868,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8389,
+        "recency": 0.8052,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -729,15 +930,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8265,
-      "importance": 0.8265,
-      "importance_score": 0.8265,
+      "score": 0.8203,
+      "importance": 0.8203,
+      "importance_score": 0.8203,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8586,
+        "recency": 0.8241,
         "story_heat": 0.0
       },
       "category": "official",
@@ -757,26 +958,26 @@
       }
     },
     {
-      "story_id": "story_bc23ab81383f",
-      "title": "微软为Teams加入“举报会议”功能，打击AI身份冒用和深度伪造",
-      "url": "https://www.aibase.com/news/30094",
-      "primary_url": "https://www.aibase.com/news/30094",
+      "story_id": "story_df2d2241c86e",
+      "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂\"反乌托邦\"",
+      "url": "https://www.aibase.com/news/30096",
+      "primary_url": "https://www.aibase.com/news/30096",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "793e61be516f44b9c6cf08f160afa27b64140ea1",
-          "title": "微软为Teams加入“举报会议”功能，打击AI身份冒用和深度伪造",
-          "url": "https://www.aibase.com/news/30094",
+          "id": "9cff6cc6d202ead97fcafb57e05c741cab949ff8",
+          "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂\"反乌托邦\"",
+          "url": "https://www.aibase.com/news/30096",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-04T05:48:25.804987Z"
         },
         {
-          "id": "eb3c0bd07d792a79c4fc9ce8e1c1e96f8eabd4d2",
-          "title": "微软为 Teams 加入「举报会议」功能，打击 AI 身份冒用和深度伪造",
-          "url": "https://www.aibase.com/zh/news/30094",
+          "id": "9a68aa6443998240366e96f84e334c4375dbc004",
+          "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂「反乌托邦」",
+          "url": "https://www.aibase.com/zh/news/30096",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -790,18 +991,18 @@
       ],
       "items": [
         {
-          "id": "793e61be516f44b9c6cf08f160afa27b64140ea1",
-          "title": "微软为Teams加入“举报会议”功能，打击AI身份冒用和深度伪造",
-          "url": "https://www.aibase.com/news/30094",
+          "id": "9cff6cc6d202ead97fcafb57e05c741cab949ff8",
+          "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂\"反乌托邦\"",
+          "url": "https://www.aibase.com/news/30096",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-04T05:48:25.804987Z"
         },
         {
-          "id": "eb3c0bd07d792a79c4fc9ce8e1c1e96f8eabd4d2",
-          "title": "微软为 Teams 加入「举报会议」功能，打击 AI 身份冒用和深度伪造",
-          "url": "https://www.aibase.com/zh/news/30094",
+          "id": "9a68aa6443998240366e96f84e334c4375dbc004",
+          "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂「反乌托邦」",
+          "url": "https://www.aibase.com/zh/news/30096",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -810,15 +1011,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9598,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -830,11 +1031,91 @@
       "earliest_at": "2026-08-04T05:48:25.804987Z",
       "latest_at": "2026-08-04T05:48:25.804987Z",
       "primary_item": {
-        "id": "793e61be516f44b9c6cf08f160afa27b64140ea1",
-        "title": "微软为Teams加入“举报会议”功能，打击AI身份冒用和深度伪造",
-        "url": "https://www.aibase.com/news/30094",
+        "id": "9cff6cc6d202ead97fcafb57e05c741cab949ff8",
+        "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂\"反乌托邦\"",
+        "url": "https://www.aibase.com/news/30096",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a46f9f764e9f",
+      "title": "Claude Code 连接器可复用至 Artifacts",
+      "url": "https://x.com/trq212/status/2084387303959740449",
+      "primary_url": "https://x.com/trq212/status/2084387303959740449",
+      "source": "X：Thariq (@trq212)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1f375cb9e7f66477bc02bdeeb1eedb00ac4d99f1",
+          "title": "Claude Code 连接器可复用至 Artifacts",
+          "url": "https://x.com/trq212/status/2084387303959740449",
+          "source": "X：Thariq (@trq212)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T21:13:53Z"
+        },
+        {
+          "id": "9ea4ca1c3fd3f663b5a8fa17b67bd8b9b87bc892",
+          "title": "Claude Code 连接器可复用至 Artifacts / I think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be able to use them, including in Artifacts. https://t.co/FZ1iSHqL5m",
+          "url": "https://x.com/trq212/status/2084387303959740449",
+          "source": "Follow Builders · X · Thariq",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-03T21:13:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Thariq",
+        "X：Thariq (@trq212)"
+      ],
+      "items": [
+        {
+          "id": "1f375cb9e7f66477bc02bdeeb1eedb00ac4d99f1",
+          "title": "Claude Code 连接器可复用至 Artifacts",
+          "url": "https://x.com/trq212/status/2084387303959740449",
+          "source": "X：Thariq (@trq212)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T21:13:53Z"
+        },
+        {
+          "id": "9ea4ca1c3fd3f663b5a8fa17b67bd8b9b87bc892",
+          "title": "Claude Code 连接器可复用至 Artifacts / I think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be able to use them, including in Artifacts. https://t.co/FZ1iSHqL5m",
+          "url": "https://x.com/trq212/status/2084387303959740449",
+          "source": "Follow Builders · X · Thariq",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-03T21:13:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.848,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T21:13:53Z",
+      "latest_at": "2026-08-03T21:13:53Z",
+      "primary_item": {
+        "id": "1f375cb9e7f66477bc02bdeeb1eedb00ac4d99f1",
+        "title": "Claude Code 连接器可复用至 Artifacts",
+        "url": "https://x.com/trq212/status/2084387303959740449",
+        "source": "X：Thariq (@trq212)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -891,15 +1172,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7845,
+        "recency": 0.753,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -918,109 +1199,190 @@
       }
     },
     {
-      "story_id": "story_f234c9d5df2e",
-      "title": "GPT-5.6 Luna降价80%永久生效",
-      "url": "https://x.com/thsottiaux/status/2084506501834829833",
-      "primary_url": "https://x.com/thsottiaux/status/2084506501834829833",
-      "source": "X：Tibo (@thsottiaux)",
+      "story_id": "story_bc23ab81383f",
+      "title": "微软为Teams加入“举报会议”功能，打击AI身份冒用和深度伪造",
+      "url": "https://www.aibase.com/news/30094",
+      "primary_url": "https://www.aibase.com/news/30094",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "793e61be516f44b9c6cf08f160afa27b64140ea1",
+          "title": "微软为Teams加入“举报会议”功能，打击AI身份冒用和深度伪造",
+          "url": "https://www.aibase.com/news/30094",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T05:48:25.804987Z"
+        },
+        {
+          "id": "eb3c0bd07d792a79c4fc9ce8e1c1e96f8eabd4d2",
+          "title": "微软为 Teams 加入「举报会议」功能，打击 AI 身份冒用和深度伪造",
+          "url": "https://www.aibase.com/zh/news/30094",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "793e61be516f44b9c6cf08f160afa27b64140ea1",
+          "title": "微软为Teams加入“举报会议”功能，打击AI身份冒用和深度伪造",
+          "url": "https://www.aibase.com/news/30094",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T05:48:25.804987Z"
+        },
+        {
+          "id": "eb3c0bd07d792a79c4fc9ce8e1c1e96f8eabd4d2",
+          "title": "微软为 Teams 加入「举报会议」功能，打击 AI 身份冒用和深度伪造",
+          "url": "https://www.aibase.com/zh/news/30094",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9598,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T05:48:25.804987Z",
+      "latest_at": "2026-08-04T05:48:25.804987Z",
+      "primary_item": {
+        "id": "793e61be516f44b9c6cf08f160afa27b64140ea1",
+        "title": "微软为Teams加入“举报会议”功能，打击AI身份冒用和深度伪造",
+        "url": "https://www.aibase.com/news/30094",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a2535cc9c733",
+      "title": "GPT-Live实时音频新架构发布",
+      "url": "https://x.com/gdb/status/2084405421041963356",
+      "primary_url": "https://x.com/gdb/status/2084405421041963356",
+      "source": "X：Greg Brockman (@gdb)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5a5581dd72f15919b939b9a10cbc444d6c0ac610",
-          "title": "GPT-5.6 Luna降价80%永久生效",
-          "url": "https://x.com/thsottiaux/status/2084506501834829833",
-          "source": "X：Tibo (@thsottiaux)",
+          "id": "2615292954ce75366bdc3a09bb62170ff1889f0e",
+          "title": "GPT-Live实时音频新架构发布",
+          "url": "https://x.com/gdb/status/2084405421041963356",
+          "source": "X：Greg Brockman (@gdb)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T05:07:32Z"
+          "published_at": "2026-08-03T22:25:53Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Tibo (@thsottiaux)"
+        "X：Greg Brockman (@gdb)"
       ],
       "items": [
         {
-          "id": "5a5581dd72f15919b939b9a10cbc444d6c0ac610",
-          "title": "GPT-5.6 Luna降价80%永久生效",
-          "url": "https://x.com/thsottiaux/status/2084506501834829833",
-          "source": "X：Tibo (@thsottiaux)",
+          "id": "2615292954ce75366bdc3a09bb62170ff1889f0e",
+          "title": "GPT-Live实时音频新架构发布",
+          "url": "https://x.com/gdb/status/2084405421041963356",
+          "source": "X：Greg Brockman (@gdb)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T05:07:32Z"
+          "published_at": "2026-08-03T22:25:53Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
+      "score": 0.7249,
+      "importance": 0.7249,
+      "importance_score": 0.7249,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9902,
+        "recency": 0.8628,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-04T05:07:32Z",
-      "latest_at": "2026-08-04T05:07:32Z",
+      "earliest_at": "2026-08-03T22:25:53Z",
+      "latest_at": "2026-08-03T22:25:53Z",
       "primary_item": {
-        "id": "5a5581dd72f15919b939b9a10cbc444d6c0ac610",
-        "title": "GPT-5.6 Luna降价80%永久生效",
-        "url": "https://x.com/thsottiaux/status/2084506501834829833",
-        "source": "X：Tibo (@thsottiaux)",
+        "id": "2615292954ce75366bdc3a09bb62170ff1889f0e",
+        "title": "GPT-Live实时音频新架构发布",
+        "url": "https://x.com/gdb/status/2084405421041963356",
+        "source": "X：Greg Brockman (@gdb)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_d04cc35bd3cc",
-      "title": "我们如何在六个月内构建响应式语音 AI 实时系统 / How we built a realtime system for responsive voice AI in six months",
-      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "primary_url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "source": "OpenAI News",
+      "story_id": "story_61a162b6e7ab",
+      "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
+      "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+      "primary_url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3802d20eb245fec464de62b2c08c179d52ac1c64",
-          "title": "我们如何在六个月内构建响应式语音 AI 实时系统 / How we built a realtime system for responsive voice AI in six months",
-          "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-          "source": "OpenAI News",
+          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
+          "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
+          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T07:00:00Z"
+          "published_at": "2026-08-03T17:04:32Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "3802d20eb245fec464de62b2c08c179d52ac1c64",
-          "title": "我们如何在六个月内构建响应式语音 AI 实时系统 / How we built a realtime system for responsive voice AI in six months",
-          "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-          "source": "OpenAI News",
+          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
+          "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
+          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T07:00:00Z"
+          "published_at": "2026-08-03T17:04:32Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7194,
+        "ai_relevance": 0.87,
+        "recency": 0.7986,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1029,13 +1391,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T07:00:00Z",
-      "latest_at": "2026-08-03T07:00:00Z",
+      "earliest_at": "2026-08-03T17:04:32Z",
+      "latest_at": "2026-08-03T17:04:32Z",
       "primary_item": {
-        "id": "3802d20eb245fec464de62b2c08c179d52ac1c64",
-        "title": "我们如何在六个月内构建响应式语音 AI 实时系统 / How we built a realtime system for responsive voice AI in six months",
-        "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-        "source": "OpenAI News",
+        "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
+        "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
+        "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -1093,15 +1455,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9598,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1121,141 +1483,21 @@
       }
     },
     {
-      "story_id": "story_a2535cc9c733",
-      "title": "GPT-Live实时音频新架构发布",
-      "url": "https://x.com/gdb/status/2084405421041963356",
-      "primary_url": "https://x.com/gdb/status/2084405421041963356",
-      "source": "X：Greg Brockman (@gdb)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2615292954ce75366bdc3a09bb62170ff1889f0e",
-          "title": "GPT-Live实时音频新架构发布",
-          "url": "https://x.com/gdb/status/2084405421041963356",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T22:25:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Greg Brockman (@gdb)"
-      ],
-      "items": [
-        {
-          "id": "2615292954ce75366bdc3a09bb62170ff1889f0e",
-          "title": "GPT-Live实时音频新架构发布",
-          "url": "https://x.com/gdb/status/2084405421041963356",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T22:25:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.899,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T22:25:53Z",
-      "latest_at": "2026-08-03T22:25:53Z",
-      "primary_item": {
-        "id": "2615292954ce75366bdc3a09bb62170ff1889f0e",
-        "title": "GPT-Live实时音频新架构发布",
-        "url": "https://x.com/gdb/status/2084405421041963356",
-        "source": "X：Greg Brockman (@gdb)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a46f9f764e9f",
-      "title": "Claude Code 连接器可复用至 Artifacts",
-      "url": "https://x.com/trq212/status/2084387303959740449",
-      "primary_url": "https://x.com/trq212/status/2084387303959740449",
-      "source": "X：Thariq (@trq212)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1f375cb9e7f66477bc02bdeeb1eedb00ac4d99f1",
-          "title": "Claude Code 连接器可复用至 Artifacts",
-          "url": "https://x.com/trq212/status/2084387303959740449",
-          "source": "X：Thariq (@trq212)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T21:13:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Thariq (@trq212)"
-      ],
-      "items": [
-        {
-          "id": "1f375cb9e7f66477bc02bdeeb1eedb00ac4d99f1",
-          "title": "Claude Code 连接器可复用至 Artifacts",
-          "url": "https://x.com/trq212/status/2084387303959740449",
-          "source": "X：Thariq (@trq212)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T21:13:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7256,
-      "importance": 0.7256,
-      "importance_score": 0.7256,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8835,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T21:13:53Z",
-      "latest_at": "2026-08-03T21:13:53Z",
-      "primary_item": {
-        "id": "1f375cb9e7f66477bc02bdeeb1eedb00ac4d99f1",
-        "title": "Claude Code 连接器可复用至 Artifacts",
-        "url": "https://x.com/trq212/status/2084387303959740449",
-        "source": "X：Thariq (@trq212)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_61a162b6e7ab",
-      "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
-      "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
-      "primary_url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+      "story_id": "story_545d6c402c71",
+      "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+      "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+      "primary_url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
-          "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
-          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+          "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T17:04:32Z"
+          "published_at": "2026-08-03T16:33:13Z"
         }
       ],
       "source_count": 1,
@@ -1264,26 +1506,26 @@
       ],
       "items": [
         {
-          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
-          "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
-          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+          "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T17:04:32Z"
+          "published_at": "2026-08-03T16:33:13Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8138,
-      "importance": 0.8138,
-      "importance_score": 0.8138,
+      "score": 0.8067,
+      "importance": 0.8067,
+      "importance_score": 0.8067,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8321,
+        "recency": 0.7926,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1292,134 +1534,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T17:04:32Z",
-      "latest_at": "2026-08-03T17:04:32Z",
+      "earliest_at": "2026-08-03T16:33:13Z",
+      "latest_at": "2026-08-03T16:33:13Z",
       "primary_item": {
-        "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
-        "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
-        "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+        "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+        "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+        "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2ef22af5488a",
-      "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
-      "url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
-      "primary_url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
-      "source": "Runway：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3cbea6c166df92918432972ce10e79ea2ecd33ea",
-          "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
-          "url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
-          "source": "Runway：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T20:12:03.229000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Runway：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "3cbea6c166df92918432972ce10e79ea2ecd33ea",
-          "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
-          "url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
-          "source": "Runway：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T20:12:03.229000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7233,
-      "importance": 0.7233,
-      "importance_score": 0.7233,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8705,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T20:12:03.229000Z",
-      "latest_at": "2026-08-03T20:12:03.229000Z",
-      "primary_item": {
-        "id": "3cbea6c166df92918432972ce10e79ea2ecd33ea",
-        "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
-        "url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
-        "source": "Runway：News（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8bd7492eeab5",
-      "title": "微软开源 Orchard 智能体训练框架",
-      "url": "https://x.com/MSFTResearch/status/2084364547142418722",
-      "primary_url": "https://x.com/MSFTResearch/status/2084364547142418722",
-      "source": "X：Microsoft Research (@MSFTResearch)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "556ce1f1e1539881d630412aec4ff6f25aa4f6fe",
-          "title": "微软开源 Orchard 智能体训练框架",
-          "url": "https://x.com/MSFTResearch/status/2084364547142418722",
-          "source": "X：Microsoft Research (@MSFTResearch)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T19:43:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Microsoft Research (@MSFTResearch)"
-      ],
-      "items": [
-        {
-          "id": "556ce1f1e1539881d630412aec4ff6f25aa4f6fe",
-          "title": "微软开源 Orchard 智能体训练框架",
-          "url": "https://x.com/MSFTResearch/status/2084364547142418722",
-          "source": "X：Microsoft Research (@MSFTResearch)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T19:43:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7222,
-      "importance": 0.7222,
-      "importance_score": 0.7222,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8645,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T19:43:28Z",
-      "latest_at": "2026-08-03T19:43:28Z",
-      "primary_item": {
-        "id": "556ce1f1e1539881d630412aec4ff6f25aa4f6fe",
-        "title": "微软开源 Orchard 智能体训练框架",
-        "url": "https://x.com/MSFTResearch/status/2084364547142418722",
-        "source": "X：Microsoft Research (@MSFTResearch)",
-        "source_name": "AI HOT"
       }
     }
   ]
