@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T20:08:43.770376Z",
+  "generated_at": "2026-08-05T21:47:31.102606Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,18 +48,18 @@
           "published_at": "2026-08-05T16:23:34.819000Z"
         },
         {
-          "id": "4b1da2e147ec98f348d4c66b294b9211bd9a5a0c",
+          "id": "ddb30b9ccc522b86b61d1105aedfa4b20eff1385",
           "title": "为什么传奇的埃尔德什问题正被人工智能攻克 / Why Erdős Problems Are Falling to AI",
           "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-05T11:49:34Z"
         }
       ],
       "source_count": 5,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "Lobsters (技术社区)",
         "www.quantamagazine.org"
@@ -102,26 +102,26 @@
           "published_at": "2026-08-05T16:23:34.819000Z"
         },
         {
-          "id": "4b1da2e147ec98f348d4c66b294b9211bd9a5a0c",
+          "id": "ddb30b9ccc522b86b61d1105aedfa4b20eff1385",
           "title": "为什么传奇的埃尔德什问题正被人工智能攻克 / Why Erdős Problems Are Falling to AI",
           "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-05T11:49:34Z"
         }
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8551,
-      "importance": 0.8551,
-      "importance_score": 0.8551,
+      "score": 0.8511,
+      "importance": 0.8511,
+      "importance_score": 0.8511,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9473,
+        "recency": 0.925,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -175,15 +175,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8206,
-      "importance": 0.8206,
-      "importance_score": 0.8206,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7476,
+        "recency": 0.73,
         "story_heat": 0.0
       },
       "category": "official",
@@ -256,15 +256,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7977,
-      "importance": 0.7977,
-      "importance_score": 0.7977,
+      "score": 0.7937,
+      "importance": 0.7937,
+      "importance_score": 0.7937,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9618,
+        "recency": 0.9392,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -356,15 +356,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7931,
-      "importance": 0.7931,
-      "importance_score": 0.7931,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7473,
+        "recency": 0.7297,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -418,15 +418,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7925,
-      "importance": 0.7925,
-      "importance_score": 0.7925,
+      "score": 0.7883,
+      "importance": 0.7883,
+      "importance_score": 0.7883,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9884,
+        "recency": 0.9651,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -498,15 +498,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7866,
-      "importance": 0.7866,
-      "importance_score": 0.7866,
+      "score": 0.7829,
+      "importance": 0.7829,
+      "importance_score": 0.7829,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8664,
+        "recency": 0.8461,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -579,15 +579,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7856,
-      "importance": 0.7856,
-      "importance_score": 0.7856,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8442,
+        "recency": 0.8244,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -678,15 +678,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8118,
-      "importance": 0.8118,
-      "importance_score": 0.8118,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.951,
+        "recency": 0.9286,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -759,15 +759,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.781,
-      "importance": 0.781,
-      "importance_score": 0.781,
+      "score": 0.7771,
+      "importance": 0.7771,
+      "importance_score": 0.7771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.902,
+        "recency": 0.8808,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -821,15 +821,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7723,
-      "importance": 0.7723,
-      "importance_score": 0.7723,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.943,
+        "recency": 0.9209,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -901,15 +901,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.767,
-      "importance": 0.767,
-      "importance_score": 0.767,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8243,
+        "recency": 0.805,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -982,15 +982,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8557,
+        "recency": 0.8355,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1044,15 +1044,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9219,
+        "recency": 0.9002,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1124,15 +1124,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7855,
-      "importance": 0.7855,
-      "importance_score": 0.7855,
+      "score": 0.7813,
+      "importance": 0.7813,
+      "importance_score": 0.7813,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9937,
+        "recency": 0.9704,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1148,6 +1148,67 @@
         "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏",
         "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist",
         "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_91c4f1f63b79",
+      "title": "Jeff Dean 告别谷歌，联合创立 DiscoLoopAI",
+      "url": "https://x.com/JeffDean/status/2085059187437113387",
+      "primary_url": "https://x.com/JeffDean/status/2085059187437113387",
+      "source": "X：Jeff Dean (@JeffDean)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b632d6b61c1d192e351a1a5b590a5f33c18c5818",
+          "title": "Jeff Dean 告别谷歌，联合创立 DiscoLoopAI",
+          "url": "https://x.com/JeffDean/status/2085059187437113387",
+          "source": "X：Jeff Dean (@JeffDean)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T17:43:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Jeff Dean (@JeffDean)"
+      ],
+      "items": [
+        {
+          "id": "b632d6b61c1d192e351a1a5b590a5f33c18c5818",
+          "title": "Jeff Dean 告别谷歌，联合创立 DiscoLoopAI",
+          "url": "https://x.com/JeffDean/status/2085059187437113387",
+          "source": "X：Jeff Dean (@JeffDean)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T17:43:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.943,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T17:43:43Z",
+      "latest_at": "2026-08-05T17:43:43Z",
+      "primary_item": {
+        "id": "b632d6b61c1d192e351a1a5b590a5f33c18c5818",
+        "title": "Jeff Dean 告别谷歌，联合创立 DiscoLoopAI",
+        "url": "https://x.com/JeffDean/status/2085059187437113387",
+        "source": "X：Jeff Dean (@JeffDean)",
         "source_name": "AI HOT"
       }
     },
@@ -1205,15 +1266,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7783,
-      "importance": 0.7783,
-      "importance_score": 0.7783,
+      "score": 0.7746,
+      "importance": 0.7746,
+      "importance_score": 0.7746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8703,
+        "recency": 0.8499,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1267,15 +1328,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.742,
+      "importance": 0.742,
+      "importance_score": 0.742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9127,
+        "recency": 0.8913,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1346,15 +1407,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8557,
+        "recency": 0.8355,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1408,21 +1469,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9021,
+        "recency": 0.8809,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-05T13:00:41Z",
       "latest_at": "2026-08-05T13:00:41Z",
@@ -1469,15 +1529,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8675,
+        "recency": 0.8471,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1492,87 +1552,6 @@
         "url": "https://www.ithome.com/0/986/180.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a81431320936",
-      "title": "无需云端API!手机即可本地运行，Liquid AI推出端侧智能体模型LFM2.5",
-      "url": "https://www.aibase.com/news/30138",
-      "primary_url": "https://www.aibase.com/news/30138",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c40f22f91adbb51d4d4e11098e8d3271a444591c",
-          "title": "无需云端API!手机即可本地运行，Liquid AI推出端侧智能体模型LFM2.5",
-          "url": "https://www.aibase.com/news/30138",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T09:20:59.860007Z"
-        },
-        {
-          "id": "edc73d573e54f4d200e0e8c7a1e1a9d04f6d9e01",
-          "title": "无需云端 API! 手机即可本地运行，Liquid AI 推出端侧智能体模型 LFM2.5",
-          "url": "https://www.aibase.com/zh/news/30138",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c40f22f91adbb51d4d4e11098e8d3271a444591c",
-          "title": "无需云端API!手机即可本地运行，Liquid AI推出端侧智能体模型LFM2.5",
-          "url": "https://www.aibase.com/news/30138",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T09:20:59.860007Z"
-        },
-        {
-          "id": "edc73d573e54f4d200e0e8c7a1e1a9d04f6d9e01",
-          "title": "无需云端 API! 手机即可本地运行，Liquid AI 推出端侧智能体模型 LFM2.5",
-          "url": "https://www.aibase.com/zh/news/30138",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8557,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-05T09:20:59.860007Z",
-      "latest_at": "2026-08-05T09:20:59.860007Z",
-      "primary_item": {
-        "id": "c40f22f91adbb51d4d4e11098e8d3271a444591c",
-        "title": "无需云端API!手机即可本地运行，Liquid AI推出端侧智能体模型LFM2.5",
-        "url": "https://www.aibase.com/news/30138",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
