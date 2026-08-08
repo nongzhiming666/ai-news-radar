@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T08:42:39.036192Z",
+  "generated_at": "2026-08-08T09:38:44.585595Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8371,
-      "importance": 0.8371,
-      "importance_score": 0.8371,
+      "score": 0.8352,
+      "importance": 0.8352,
+      "importance_score": 0.8352,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7781,
+        "recency": 0.7676,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8291,
-      "importance": 0.8291,
-      "importance_score": 0.8291,
+      "score": 0.8269,
+      "importance": 0.8269,
+      "importance_score": 0.8269,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8725,
+        "recency": 0.8608,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8253,
-      "importance": 0.8253,
-      "importance_score": 0.8253,
+      "score": 0.8234,
+      "importance": 0.8234,
+      "importance_score": 0.8234,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8074,
+        "recency": 0.7965,
         "story_heat": 0.0
       },
       "category": "official",
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8242,
-      "importance": 0.8242,
-      "importance_score": 0.8242,
+      "score": 0.8222,
+      "importance": 0.8222,
+      "importance_score": 0.8222,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8456,
+        "recency": 0.8342,
         "story_heat": 0.0
       },
       "category": "official",
@@ -269,6 +269,67 @@
         "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f86125a0b832",
+      "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+      "url": "https://www.ithome.com/0/987/366.htm",
+      "primary_url": "https://www.ithome.com/0/987/366.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "39ae011c786ec99da87b989825c3aba421ec9838",
+          "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+          "url": "https://www.ithome.com/0/987/366.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T08:25:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "39ae011c786ec99da87b989825c3aba421ec9838",
+          "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+          "url": "https://www.ithome.com/0/987/366.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T08:25:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7764,
+      "importance": 0.7764,
+      "importance_score": 0.7764,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9825,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-08T08:25:11Z",
+      "latest_at": "2026-08-08T08:25:11Z",
+      "primary_item": {
+        "id": "39ae011c786ec99da87b989825c3aba421ec9838",
+        "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+        "url": "https://www.ithome.com/0/987/366.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -325,15 +386,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7751,
-      "importance": 0.7751,
-      "importance_score": 0.7751,
+      "score": 0.7731,
+      "importance": 0.7731,
+      "importance_score": 0.7731,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8193,
+        "recency": 0.8083,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -350,68 +411,6 @@
         "url": "https://blog.cloudflare.com/kitesurf",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2ee94000fec4",
-      "title": "HSP GRUPPE 如何构建人工智能税务咨询能力 / How HSP GRUPPE builds AI capabilities for tax advisory",
-      "url": "https://openai.com/index/hsp-gruppe",
-      "primary_url": "https://openai.com/index/hsp-gruppe",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "678a4bd8bf5d6a1b6b3855f41fa13940c1b075a2",
-          "title": "HSP GRUPPE 如何构建人工智能税务咨询能力 / How HSP GRUPPE builds AI capabilities for tax advisory",
-          "url": "https://openai.com/index/hsp-gruppe",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T09:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "678a4bd8bf5d6a1b6b3855f41fa13940c1b075a2",
-          "title": "HSP GRUPPE 如何构建人工智能税务咨询能力 / How HSP GRUPPE builds AI capabilities for tax advisory",
-          "url": "https://openai.com/index/hsp-gruppe",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7101,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T09:00:00Z",
-      "latest_at": "2026-08-07T09:00:00Z",
-      "primary_item": {
-        "id": "678a4bd8bf5d6a1b6b3855f41fa13940c1b075a2",
-        "title": "HSP GRUPPE 如何构建人工智能税务咨询能力 / How HSP GRUPPE builds AI capabilities for tax advisory",
-        "url": "https://openai.com/index/hsp-gruppe",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -449,15 +448,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8236,
-      "importance": 0.8236,
-      "importance_score": 0.8236,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8423,
+        "recency": 0.831,
         "story_heat": 0.0
       },
       "category": "official",
@@ -474,67 +473,6 @@
         "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8ce398d73cfe",
-      "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-      "url": "https://www.ithome.com/0/987/221.htm",
-      "primary_url": "https://www.ithome.com/0/987/221.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
-          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "url": "https://www.ithome.com/0/987/221.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T23:08:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
-          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "url": "https://www.ithome.com/0/987/221.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T23:08:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.871,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T23:08:56Z",
-      "latest_at": "2026-08-07T23:08:56Z",
-      "primary_item": {
-        "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
-        "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-        "url": "https://www.ithome.com/0/987/221.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -591,15 +529,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7534,
+      "importance": 0.7534,
+      "importance_score": 0.7534,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7419,
+        "recency": 0.732,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -672,15 +610,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7506,
+        "recency": 0.7406,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -733,15 +671,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9017,
+        "recency": 0.8896,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -793,15 +731,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7429,
+      "importance": 0.7429,
+      "importance_score": 0.7429,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8069,
+        "recency": 0.7961,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -816,86 +754,6 @@
         "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
         "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4c412f1fef52",
-      "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-      "url": "https://www.aibase.com/news/30199",
-      "primary_url": "https://www.aibase.com/news/30199",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
-          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-          "url": "https://www.aibase.com/news/30199",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T09:32:15.764366Z"
-        },
-        {
-          "id": "916101c865238ed5dd9c46c7a3443161bc8b167c",
-          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-          "url": "https://www.aibase.com/zh/news/30199",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
-          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-          "url": "https://www.aibase.com/news/30199",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T09:32:15.764366Z"
-        },
-        {
-          "id": "916101c865238ed5dd9c46c7a3443161bc8b167c",
-          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-          "url": "https://www.aibase.com/zh/news/30199",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7156,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T09:32:15.764366Z",
-      "latest_at": "2026-08-07T10:53:31.367375Z",
-      "primary_item": {
-        "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
-        "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-        "url": "https://www.aibase.com/news/30199",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -933,15 +791,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7402,
-      "importance": 0.7402,
-      "importance_score": 0.7402,
+      "score": 0.7382,
+      "importance": 0.7382,
+      "importance_score": 0.7382,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8314,
+        "recency": 0.8202,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -993,15 +851,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.735,
-      "importance": 0.735,
-      "importance_score": 0.735,
+      "score": 0.733,
+      "importance": 0.733,
+      "importance_score": 0.733,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.819,
+        "recency": 0.808,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1015,6 +873,67 @@
         "title": "OpenAI 将 Astra 列为首个\"关键\"网络安全模型",
         "url": "https://x.com/OpenAI/status/2085801349866729975",
         "source": "X：OpenAI (@OpenAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8ce398d73cfe",
+      "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+      "url": "https://www.ithome.com/0/987/221.htm",
+      "primary_url": "https://www.ithome.com/0/987/221.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
+          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+          "url": "https://www.ithome.com/0/987/221.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T23:08:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
+          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+          "url": "https://www.ithome.com/0/987/221.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T23:08:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7603,
+      "importance": 0.7603,
+      "importance_score": 0.7603,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8593,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T23:08:56Z",
+      "latest_at": "2026-08-07T23:08:56Z",
+      "primary_item": {
+        "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
+        "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+        "url": "https://www.ithome.com/0/987/221.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1053,15 +972,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
+      "score": 0.7267,
+      "importance": 0.7267,
+      "importance_score": 0.7267,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7324,
+        "recency": 0.7225,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1113,15 +1032,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8183,
-      "importance": 0.8183,
-      "importance_score": 0.8183,
+      "score": 0.8163,
+      "importance": 0.8163,
+      "importance_score": 0.8163,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8127,
+        "recency": 0.8018,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1175,15 +1094,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8175,
-      "importance": 0.8175,
-      "importance_score": 0.8175,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8526,
+        "recency": 0.8412,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1237,15 +1156,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8116,
-      "importance": 0.8116,
-      "importance_score": 0.8116,
+      "score": 0.8098,
+      "importance": 0.8098,
+      "importance_score": 0.8098,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7757,
+        "recency": 0.7653,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1299,15 +1218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8086,
-      "importance": 0.8086,
-      "importance_score": 0.8086,
+      "score": 0.8067,
+      "importance": 0.8067,
+      "importance_score": 0.8067,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8034,
+        "recency": 0.7926,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1324,6 +1243,120 @@
         "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "MiniMax H3 官方开源了专门解决AI视频创作里指令跑偏、角色不一致、镜头表现力不足等棘手问题的Skills。这套技能库包含1个底层提示词能力，搭配8个垂直风格Agent生成器，覆盖3D动画、电商广告、品牌宣传片、MV等众多创作场景。支持多种生成模式，产出结构化描述、分镜脚本与评审清单，可以帮创作者快速搭建一套质量可控的标准化多模态视频生产流水线。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-08-07",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "700e1ed43b5ad6e083e05cb3dfbd3c9426b6da64",
+          "title": "MiniMax H3 官方开源了专门解决AI视频创作里指令跑偏、角色不一致、镜头表现力不足等棘手问题的Skills。这套技能库包含1个底层提示词能力，搭配8个垂直风格Agent生成器，覆盖3D动画、电商广告、品牌宣传片、MV等众多创作场景。支持多种生成模式，产出结构化描述、分镜脚本与评审清单，可以帮创作者快速搭建一套质量可控的标准化多模态视频生产流水线。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-07T20:42:34.267111Z"
+        },
+        {
+          "id": "e306af8d352ae6925295172d3a26fad33c17d6bd",
+          "title": "很多人家里都有一两台闲置电脑，如果用Tailscale和SSH连成私网，再按硬件分工，就能变成一套可远程调度的 AI 工作室。小耳这篇文章会给大家详细讲解下具体是怎么实现的。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-07T20:42:34.267111Z"
+        },
+        {
+          "id": "64e5708304116d0757df60e46abb75717424d49a",
+          "title": "今天，火山引擎开放了 Seedance 2.5 API。来看看海辛和阿文在真实项目中的测试效果。这次最直观的变化，是AI视频里那种“油腻感”被压下去了不少：人物肤质没那么塑料，表情和呼吸更细，雨雾、反射、材质、城市光影也更像在同一个真实空间里发生。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-07T19:55:28.871602Z"
+        },
+        {
+          "id": "f9c37c8731e40c4efd8de92e40e187b16eea739b",
+          "title": "很多人的Vibe Coding还停在“让 AI 帮我写代码、做提效工具”。B站这批作品已经玩到更生活化的方向：督学官、大狗叫模拟器、AI 小镇、弹幕创世、时空电话、AI 猫娘。想做 AI 小产品、找灵感或理解“产品内容化”的人可以打开看看。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-07T19:55:28.871602Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "社区更新 · 2026-08-07"
+      ],
+      "items": [
+        {
+          "id": "700e1ed43b5ad6e083e05cb3dfbd3c9426b6da64",
+          "title": "MiniMax H3 官方开源了专门解决AI视频创作里指令跑偏、角色不一致、镜头表现力不足等棘手问题的Skills。这套技能库包含1个底层提示词能力，搭配8个垂直风格Agent生成器，覆盖3D动画、电商广告、品牌宣传片、MV等众多创作场景。支持多种生成模式，产出结构化描述、分镜脚本与评审清单，可以帮创作者快速搭建一套质量可控的标准化多模态视频生产流水线。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-07T20:42:34.267111Z"
+        },
+        {
+          "id": "e306af8d352ae6925295172d3a26fad33c17d6bd",
+          "title": "很多人家里都有一两台闲置电脑，如果用Tailscale和SSH连成私网，再按硬件分工，就能变成一套可远程调度的 AI 工作室。小耳这篇文章会给大家详细讲解下具体是怎么实现的。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-07T20:42:34.267111Z"
+        },
+        {
+          "id": "64e5708304116d0757df60e46abb75717424d49a",
+          "title": "今天，火山引擎开放了 Seedance 2.5 API。来看看海辛和阿文在真实项目中的测试效果。这次最直观的变化，是AI视频里那种“油腻感”被压下去了不少：人物肤质没那么塑料，表情和呼吸更细，雨雾、反射、材质、城市光影也更像在同一个真实空间里发生。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-07T19:55:28.871602Z"
+        },
+        {
+          "id": "f9c37c8731e40c4efd8de92e40e187b16eea739b",
+          "title": "很多人的Vibe Coding还停在“让 AI 帮我写代码、做提效工具”。B站这批作品已经玩到更生活化的方向：督学官、大狗叫模拟器、AI 小镇、弹幕创世、时空电话、AI 猫娘。想做 AI 小产品、找灵感或理解“产品内容化”的人可以打开看看。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-07T19:55:28.871602Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6135,
+      "importance": 0.6135,
+      "importance_score": 0.6135,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.8296,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-07T19:55:28.871602Z",
+      "latest_at": "2026-08-07T20:42:34.267111Z",
+      "primary_item": {
+        "id": "700e1ed43b5ad6e083e05cb3dfbd3c9426b6da64",
+        "title": "MiniMax H3 官方开源了专门解决AI视频创作里指令跑偏、角色不一致、镜头表现力不足等棘手问题的Skills。这套技能库包含1个底层提示词能力，搭配8个垂直风格Agent生成器，覆盖3D动画、电商广告、品牌宣传片、MV等众多创作场景。支持多种生成模式，产出结构化描述、分镜脚本与评审清单，可以帮创作者快速搭建一套质量可控的标准化多模态视频生产流水线。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-08-07",
+        "source_name": "WaytoAGI"
       }
     }
   ]
