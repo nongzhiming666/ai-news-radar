@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T09:40:44.871089Z",
+  "generated_at": "2026-08-09T10:36:04.552944Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -151,15 +151,15 @@
       ],
       "item_count": 7,
       "duplicate_count": 7,
-      "score": 0.8573,
-      "importance": 0.8573,
-      "importance_score": 0.8573,
+      "score": 0.8555,
+      "importance": 0.8555,
+      "importance_score": 0.8555,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7597,
+        "recency": 0.7496,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -232,15 +232,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7488,
+        "recency": 0.7389,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -256,6 +256,67 @@
         "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
         "url": "https://www.ithome.com/0/987/438.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "Seedance 2.5 上线一周新增六种创意玩法",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
+      "source": "公众号：卡尔的AI沃茨",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f457c769b1a1749686824ffbe42d7d4feaeb6009",
+          "title": "Seedance 2.5 上线一周新增六种创意玩法",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T05:25:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：卡尔的AI沃茨"
+      ],
+      "items": [
+        {
+          "id": "f457c769b1a1749686824ffbe42d7d4feaeb6009",
+          "title": "Seedance 2.5 上线一周新增六种创意玩法",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T05:25:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9279,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T05:25:02Z",
+      "latest_at": "2026-08-09T05:25:02Z",
+      "primary_item": {
+        "id": "f457c769b1a1749686824ffbe42d7d4feaeb6009",
+        "title": "Seedance 2.5 上线一周新增六种创意玩法",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
+        "source": "公众号：卡尔的AI沃茨",
         "source_name": "AI HOT"
       }
     },
@@ -294,15 +355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9661,
+        "recency": 0.9534,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -355,15 +416,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9147,
+        "recency": 0.9026,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -416,15 +477,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7308,
+      "importance": 0.7308,
+      "importance_score": 0.7308,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7217,
+        "recency": 0.7122,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -476,21 +537,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
+      "score": 0.7499,
+      "importance": 0.7499,
+      "importance_score": 0.7499,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9135,
+        "recency": 0.9014,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-09T03:24:44Z",
       "latest_at": "2026-08-09T03:24:44Z",
@@ -537,15 +597,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8543,
+        "recency": 0.843,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -633,15 +693,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5881,
-      "importance": 0.5881,
-      "importance_score": 0.5881,
+      "score": 0.5861,
+      "importance": 0.5861,
+      "importance_score": 0.5861,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.827,
+        "recency": 0.816,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -712,15 +772,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5837,
-      "importance": 0.5837,
-      "importance_score": 0.5837,
+      "score": 0.5817,
+      "importance": 0.5817,
+      "importance_score": 0.5817,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8522,
+        "recency": 0.8409,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -810,15 +870,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5624,
-      "importance": 0.5624,
-      "importance_score": 0.5624,
+      "score": 0.5601,
+      "importance": 0.5601,
+      "importance_score": 0.5601,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9534,
+        "recency": 0.9408,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -833,6 +893,85 @@
         "url": "https://code.claude.com/docs/en/cross-session-messaging",
         "source": "code.claude.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_644ee0a04941",
+      "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+      "url": "https://news.ycombinator.com/item?id=49229412",
+      "primary_url": "https://news.ycombinator.com/item?id=49229412",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
+          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "url": "https://news.ycombinator.com/item?id=49229412",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T10:38:05.260000Z"
+        },
+        {
+          "id": "e9a8939f4cc426279f94b42f96e4aacc82320dc5",
+          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T08:00:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
+          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "url": "https://news.ycombinator.com/item?id=49229412",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T10:38:05.260000Z"
+        },
+        {
+          "id": "e9a8939f4cc426279f94b42f96e4aacc82320dc5",
+          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T08:00:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T08:00:51Z",
+      "latest_at": "2026-08-09T10:38:05.260000Z",
+      "primary_item": {
+        "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
+        "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+        "url": "https://news.ycombinator.com/item?id=49229412",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -907,15 +1046,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5461,
-      "importance": 0.5461,
-      "importance_score": 0.5461,
+      "score": 0.544,
+      "importance": 0.544,
+      "importance_score": 0.544,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8626,
+        "recency": 0.8512,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -933,81 +1072,81 @@
       }
     },
     {
-      "story_id": "story_9771e0733e6a",
-      "title": "Ask HN: 您在工作中是如何将Claude Code/Codex应用于企业的？",
-      "url": "https://news.ycombinator.com/item?id=49228883",
-      "primary_url": "https://news.ycombinator.com/item?id=49228883",
-      "source": "news.ycombinator.com",
+      "story_id": "story_33a4ca69a450",
+      "title": "我建造人工智能数据中心。我希望它们从人们的视野中消失。",
+      "url": "https://www.businessinsider.com/nvidia-ai-data-center-designer-engineer-more-efficient-less-visible-2026-8",
+      "primary_url": "https://www.businessinsider.com/nvidia-ai-data-center-designer-engineer-more-efficient-less-visible-2026-8",
+      "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "5532d79dcaaeb5a76d8f1cf5d67a058fe6ee6a26",
-          "title": "Ask HN: 您在工作中是如何将Claude Code/Codex应用于企业的？",
-          "url": "https://news.ycombinator.com/item?id=49228883",
-          "source": "news.ycombinator.com",
+          "id": "7905cc540138b1821c329d83185511daa44c8d9b",
+          "title": "我建造人工智能数据中心。我希望它们从人们的视野中消失。",
+          "url": "https://www.businessinsider.com/nvidia-ai-data-center-designer-engineer-more-efficient-less-visible-2026-8",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-09T06:22:36.511000Z"
+          "published_at": "2026-08-09T09:18:39.324000Z"
         },
         {
-          "id": "100d89d86e280dcf0e9cf3aad4bf6c6614c2be04",
-          "title": "Ask HN: 您在工作中是如何将Claude Code/Codex应用于企业的？ / Ask HN: How do you use claude code / codex at work for your enterprise?",
-          "url": "https://news.ycombinator.com/item?id=49228883",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-09T06:17:17Z"
+          "id": "024f3159f794b35f22c5948d071c9835e9893198",
+          "title": "我建造人工智能数据中心。我希望它们从人们的视野中消失。 / I build AI data centers. I want them to disappear from view.",
+          "url": "https://www.businessinsider.com/nvidia-ai-data-center-designer-engineer-more-efficient-less-visible-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T09:01:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "HN Algolia · AI 24h",
-        "news.ycombinator.com"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "5532d79dcaaeb5a76d8f1cf5d67a058fe6ee6a26",
-          "title": "Ask HN: 您在工作中是如何将Claude Code/Codex应用于企业的？",
-          "url": "https://news.ycombinator.com/item?id=49228883",
-          "source": "news.ycombinator.com",
+          "id": "7905cc540138b1821c329d83185511daa44c8d9b",
+          "title": "我建造人工智能数据中心。我希望它们从人们的视野中消失。",
+          "url": "https://www.businessinsider.com/nvidia-ai-data-center-designer-engineer-more-efficient-less-visible-2026-8",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-09T06:22:36.511000Z"
+          "published_at": "2026-08-09T09:18:39.324000Z"
         },
         {
-          "id": "100d89d86e280dcf0e9cf3aad4bf6c6614c2be04",
-          "title": "Ask HN: 您在工作中是如何将Claude Code/Codex应用于企业的？ / Ask HN: How do you use claude code / codex at work for your enterprise?",
-          "url": "https://news.ycombinator.com/item?id=49228883",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-09T06:17:17Z"
+          "id": "024f3159f794b35f22c5948d071c9835e9893198",
+          "title": "我建造人工智能数据中心。我希望它们从人们的视野中消失。 / I build AI data centers. I want them to disappear from view.",
+          "url": "https://www.businessinsider.com/nvidia-ai-data-center-designer-engineer-more-efficient-less-visible-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T09:01:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5425,
+      "importance": 0.5425,
+      "importance_score": 0.5425,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9534,
+        "recency": 0.9815,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-09T06:17:17Z",
-      "latest_at": "2026-08-09T06:22:36.511000Z",
+      "earliest_at": "2026-08-09T09:01:01Z",
+      "latest_at": "2026-08-09T09:18:39.324000Z",
       "primary_item": {
-        "id": "5532d79dcaaeb5a76d8f1cf5d67a058fe6ee6a26",
-        "title": "Ask HN: 您在工作中是如何将Claude Code/Codex应用于企业的？",
-        "url": "https://news.ycombinator.com/item?id=49228883",
-        "source": "news.ycombinator.com",
+        "id": "7905cc540138b1821c329d83185511daa44c8d9b",
+        "title": "我建造人工智能数据中心。我希望它们从人们的视野中消失。",
+        "url": "https://www.businessinsider.com/nvidia-ai-data-center-designer-engineer-more-efficient-less-visible-2026-8",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1084,15 +1223,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5354,
+      "importance": 0.5354,
+      "importance_score": 0.5354,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8142,
+        "recency": 0.8035,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1110,82 +1249,82 @@
       }
     },
     {
-      "story_id": "story_3023f1b0d8e2",
-      "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-      "url": "https://news.ycombinator.com/item?id=49228086",
-      "primary_url": "https://news.ycombinator.com/item?id=49228086",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_9771e0733e6a",
+      "title": "Ask HN: 您在工作中是如何将Claude Code/Codex应用于企业的？",
+      "url": "https://news.ycombinator.com/item?id=49228883",
+      "primary_url": "https://news.ycombinator.com/item?id=49228883",
+      "source": "news.ycombinator.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "baf0a07b6a7e61dec2bd07b304166bd08691a17e",
-          "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "url": "https://news.ycombinator.com/item?id=49228086",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T06:08:56.490000Z"
+          "id": "5532d79dcaaeb5a76d8f1cf5d67a058fe6ee6a26",
+          "title": "Ask HN: 您在工作中是如何将Claude Code/Codex应用于企业的？",
+          "url": "https://news.ycombinator.com/item?id=49228883",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T06:22:36.511000Z"
         },
         {
-          "id": "b3f4f2fb78c1c89bbda7afd7adac105b371ff88b",
-          "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "url": "https://marketnow.site",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T03:13:01Z"
+          "id": "100d89d86e280dcf0e9cf3aad4bf6c6614c2be04",
+          "title": "Ask HN: 您在工作中是如何将Claude Code/Codex应用于企业的？ / Ask HN: How do you use claude code / codex at work for your enterprise?",
+          "url": "https://news.ycombinator.com/item?id=49228883",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-09T06:17:17Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "HN Algolia · AI 24h",
+        "news.ycombinator.com"
       ],
       "items": [
         {
-          "id": "baf0a07b6a7e61dec2bd07b304166bd08691a17e",
-          "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "url": "https://news.ycombinator.com/item?id=49228086",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T06:08:56.490000Z"
+          "id": "5532d79dcaaeb5a76d8f1cf5d67a058fe6ee6a26",
+          "title": "Ask HN: 您在工作中是如何将Claude Code/Codex应用于企业的？",
+          "url": "https://news.ycombinator.com/item?id=49228883",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T06:22:36.511000Z"
         },
         {
-          "id": "b3f4f2fb78c1c89bbda7afd7adac105b371ff88b",
-          "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "url": "https://marketnow.site",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T03:13:01Z"
+          "id": "100d89d86e280dcf0e9cf3aad4bf6c6614c2be04",
+          "title": "Ask HN: 您在工作中是如何将Claude Code/Codex应用于企业的？ / Ask HN: How do you use claude code / codex at work for your enterprise?",
+          "url": "https://news.ycombinator.com/item?id=49228883",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-09T06:17:17Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5369,
-      "importance": 0.5369,
-      "importance_score": 0.5369,
+      "score": 0.5351,
+      "importance": 0.5351,
+      "importance_score": 0.5351,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9503,
+        "recency": 0.9408,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-09T03:13:01Z",
-      "latest_at": "2026-08-09T06:08:56.490000Z",
+      "earliest_at": "2026-08-09T06:17:17Z",
+      "latest_at": "2026-08-09T06:22:36.511000Z",
       "primary_item": {
-        "id": "baf0a07b6a7e61dec2bd07b304166bd08691a17e",
-        "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-        "url": "https://news.ycombinator.com/item?id=49228086",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "5532d79dcaaeb5a76d8f1cf5d67a058fe6ee6a26",
+        "title": "Ask HN: 您在工作中是如何将Claude Code/Codex应用于企业的？",
+        "url": "https://news.ycombinator.com/item?id=49228883",
+        "source": "news.ycombinator.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1261,15 +1400,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5346,
-      "importance": 0.5346,
-      "importance_score": 0.5346,
+      "score": 0.5327,
+      "importance": 0.5327,
+      "importance_score": 0.5327,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7987,
+        "recency": 0.7881,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1340,15 +1479,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5343,
-      "importance": 0.5343,
-      "importance_score": 0.5343,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9361,
+        "recency": 0.9237,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1419,15 +1558,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5229,
-      "importance": 0.5229,
-      "importance_score": 0.5229,
+      "score": 0.521,
+      "importance": 0.521,
+      "importance_score": 0.521,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.32,
         "ai_relevance": 0.67,
-        "recency": 0.8268,
+        "recency": 0.8159,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1498,15 +1637,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5127,
-      "importance": 0.5127,
-      "importance_score": 0.5127,
+      "score": 0.5107,
+      "importance": 0.5107,
+      "importance_score": 0.5107,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8161,
+        "recency": 0.8053,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1521,163 +1660,6 @@
         "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
         "source": "HN Algolia · AI 24h",
         "source_name": "Hacker News"
-      }
-    },
-    {
-      "story_id": "story_5537b4f466ec",
-      "title": "[OpenAI] mirasim 注册可以领一年会员 对应 codex、cc 200$",
-      "url": "https://www.v2ex.com/t/1232967",
-      "primary_url": "https://www.v2ex.com/t/1232967",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "213e3f699fc59a00e44dda572179021c2009ab64",
-          "title": "[OpenAI] mirasim 注册可以领一年会员 对应 codex、cc 200$",
-          "url": "https://www.v2ex.com/t/1232967",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T18:40:40Z"
-        },
-        {
-          "id": "e3aad9a9913b3cbe1e10a67901aee6456ec6a94b",
-          "title": "[优惠信息] mirasim 注册可以领一年会员 对应 codex、cc 200$",
-          "url": "https://www.v2ex.com/t/1232967",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T18:40:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "213e3f699fc59a00e44dda572179021c2009ab64",
-          "title": "[OpenAI] mirasim 注册可以领一年会员 对应 codex、cc 200$",
-          "url": "https://www.v2ex.com/t/1232967",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T18:40:40Z"
-        },
-        {
-          "id": "e3aad9a9913b3cbe1e10a67901aee6456ec6a94b",
-          "title": "[优惠信息] mirasim 注册可以领一年会员 对应 codex、cc 200$",
-          "url": "https://www.v2ex.com/t/1232967",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T18:40:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5107,
-      "importance": 0.5107,
-      "importance_score": 0.5107,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8052,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T18:40:40Z",
-      "latest_at": "2026-08-08T18:40:40Z",
-      "primary_item": {
-        "id": "213e3f699fc59a00e44dda572179021c2009ab64",
-        "title": "[OpenAI] mirasim 注册可以领一年会员 对应 codex、cc 200$",
-        "url": "https://www.v2ex.com/t/1232967",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_bc805777cb92",
-      "title": "Show HN: CliTimes 驻留在您的 CLI 上（搭载 Claude Code）",
-      "url": "https://github.com/howieyoung/cli-times",
-      "primary_url": "https://github.com/howieyoung/cli-times",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b3a0821017079f724db3a1e6ffdba6670e9ea959",
-          "title": "Show HN: CliTimes 驻留在您的 CLI 上（搭载 Claude Code）",
-          "url": "https://github.com/howieyoung/cli-times",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T07:26:34.934000Z"
-        },
-        {
-          "id": "67b0967eb97dcc8b64189091f61c2b61a63e0a93",
-          "title": "Show HN: CliTimes 驻留在您的 CLI 上（搭载 Claude Code） / Show HN: CliTimes - Times lives on your CLI (with Claude Code)",
-          "url": "https://github.com/howieyoung/cli-times",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-09T07:25:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "b3a0821017079f724db3a1e6ffdba6670e9ea959",
-          "title": "Show HN: CliTimes 驻留在您的 CLI 上（搭载 Claude Code）",
-          "url": "https://github.com/howieyoung/cli-times",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T07:26:34.934000Z"
-        },
-        {
-          "id": "67b0967eb97dcc8b64189091f61c2b61a63e0a93",
-          "title": "Show HN: CliTimes 驻留在您的 CLI 上（搭载 Claude Code） / Show HN: CliTimes - Times lives on your CLI (with Claude Code)",
-          "url": "https://github.com/howieyoung/cli-times",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-09T07:25:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5401,
-      "importance": 0.5401,
-      "importance_score": 0.5401,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9682,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T07:25:08Z",
-      "latest_at": "2026-08-09T07:26:34.934000Z",
-      "primary_item": {
-        "id": "b3a0821017079f724db3a1e6ffdba6670e9ea959",
-        "title": "Show HN: CliTimes 驻留在您的 CLI 上（搭载 Claude Code）",
-        "url": "https://github.com/howieyoung/cli-times",
-        "source": "github.com",
-        "source_name": "Buzzing"
       }
     }
   ]
