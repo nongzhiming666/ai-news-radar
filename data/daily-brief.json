@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T15:32:59.042715Z",
+  "generated_at": "2026-08-09T16:36:48.137139Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8109,
-      "importance": 0.8109,
-      "importance_score": 0.8109,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.985,
+        "recency": 0.9699,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7431,
-      "importance": 0.7431,
-      "importance_score": 0.7431,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8639,
+        "recency": 0.8507,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -179,15 +179,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8876,
+        "recency": 0.8741,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -239,15 +239,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
+      "score": 0.7366,
+      "importance": 0.7366,
+      "importance_score": 0.7366,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8404,
+        "recency": 0.8276,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -299,15 +299,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
+      "score": 0.7273,
+      "importance": 0.7273,
+      "importance_score": 0.7273,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9914,
+        "recency": 0.9763,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -359,15 +359,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7289,
-      "importance": 0.7289,
-      "importance_score": 0.7289,
+      "score": 0.7267,
+      "importance": 0.7267,
+      "importance_score": 0.7267,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7848,
+        "recency": 0.7729,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -419,15 +419,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7387,
-      "importance": 0.7387,
-      "importance_score": 0.7387,
+      "score": 0.7364,
+      "importance": 0.7364,
+      "importance_score": 0.7364,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8392,
+        "recency": 0.8264,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -442,6 +442,85 @@
         "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
         "source": "Daily Digest",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_70ac8307a80a",
+      "title": "历史学家吉尔·莱波雷 (Jill Lepore) 表示，硅谷误读了科幻小说并破坏了民主 / Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
+      "primary_url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "60475933c9e669f87d78b2c368eaadf87fc79586",
+          "title": "历史学家吉尔·莱波雷 (Jill Lepore) 表示，硅谷误读了科幻小说并破坏了民主 / Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+          "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-09T15:00:00Z"
+        },
+        {
+          "id": "29ae8db8bc1f28d99da1c12ba4c79d2b5f4bef76",
+          "title": "硅谷误读科幻小说并破坏民主 / Silicon Valley misreads science fiction and undermines democracy",
+          "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T15:18:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "60475933c9e669f87d78b2c368eaadf87fc79586",
+          "title": "历史学家吉尔·莱波雷 (Jill Lepore) 表示，硅谷误读了科幻小说并破坏了民主 / Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+          "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-09T15:00:00Z"
+        },
+        {
+          "id": "29ae8db8bc1f28d99da1c12ba4c79d2b5f4bef76",
+          "title": "硅谷误读科幻小说并破坏民主 / Silicon Valley misreads science fiction and undermines democracy",
+          "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T15:18:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6446,
+      "importance": 0.6446,
+      "importance_score": 0.6446,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.977,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T15:00:00Z",
+      "latest_at": "2026-08-09T15:18:25Z",
+      "primary_item": {
+        "id": "60475933c9e669f87d78b2c368eaadf87fc79586",
+        "title": "历史学家吉尔·莱波雷 (Jill Lepore) 表示，硅谷误读了科幻小说并破坏了民主 / Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+        "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -515,15 +594,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.576,
-      "importance": 0.576,
-      "importance_score": 0.576,
+      "score": 0.5739,
+      "importance": 0.5739,
+      "importance_score": 0.5739,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7598,
+        "recency": 0.7482,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -594,15 +673,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5713,
-      "importance": 0.5713,
-      "importance_score": 0.5713,
+      "score": 0.5691,
+      "importance": 0.5691,
+      "importance_score": 0.5691,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.7829,
+        "recency": 0.771,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -692,15 +771,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5697,
-      "importance": 0.5697,
-      "importance_score": 0.5697,
+      "score": 0.567,
+      "importance": 0.567,
+      "importance_score": 0.567,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9938,
+        "recency": 0.9787,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -718,128 +797,30 @@
       }
     },
     {
-      "story_id": "story_561b016160b5",
-      "title": "向您其他“克劳德代码”会话发送消息",
-      "url": "https://code.claude.com/docs/en/cross-session-messaging",
-      "primary_url": "https://code.claude.com/docs/en/cross-session-messaging",
-      "source": "code.claude.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c93e2a7d723746932053a05dcfd00125866be205",
-          "title": "向您其他“克劳德代码”会话发送消息",
-          "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "code.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T06:22:36.507000Z"
-        },
-        {
-          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
-          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-          "url": "https://news.ycombinator.com/item?id=49222824",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T20:17:29.087000Z"
-        },
-        {
-          "id": "ccd78cb14dcef4b54915673f2890b1db5b55a8a9",
-          "title": "向您其他“克劳德代码”会话发送消息 / Message your other Claude Code sessions",
-          "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-08T15:34:49Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "code.claude.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c93e2a7d723746932053a05dcfd00125866be205",
-          "title": "向您其他“克劳德代码”会话发送消息",
-          "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "code.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T06:22:36.507000Z"
-        },
-        {
-          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
-          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-          "url": "https://news.ycombinator.com/item?id=49222824",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T20:17:29.087000Z"
-        },
-        {
-          "id": "ccd78cb14dcef4b54915673f2890b1db5b55a8a9",
-          "title": "向您其他“克劳德代码”会话发送消息 / Message your other Claude Code sessions",
-          "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-08T15:34:49Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5485,
-      "importance": 0.5485,
-      "importance_score": 0.5485,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8759,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T15:34:49Z",
-      "latest_at": "2026-08-09T06:22:36.507000Z",
-      "primary_item": {
-        "id": "c93e2a7d723746932053a05dcfd00125866be205",
-        "title": "向您其他“克劳德代码”会话发送消息",
-        "url": "https://code.claude.com/docs/en/cross-session-messaging",
-        "source": "code.claude.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_695eb81a7c65",
-      "title": "现在轮到OpenAI出招了",
-      "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
-      "primary_url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
+      "story_id": "story_e0f81213158e",
+      "title": "全球领先的人工智能公司都在努力控制其最新模型",
+      "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
+      "primary_url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "abd2e29d6fcdf766ed0ef7f5c0077ed45d295d40",
-          "title": "现在轮到OpenAI出招了",
-          "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
+          "id": "286aded809cdaa1ca891f19fb6d4479fb52ca653",
+          "title": "全球领先的人工智能公司都在努力控制其最新模型",
+          "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-09T14:54:45.218000Z"
+          "published_at": "2026-08-09T15:42:34.143000Z"
         },
         {
-          "id": "b1ac18b85f3b0b250a6216ad642f0c0b14f35ec6",
-          "title": "现在轮到OpenAI出招了 / The Ball in OpenAI's court",
-          "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
+          "id": "af4a66486156ef5d4500ac4f1a2f123596f017ef",
+          "title": "全球领先的人工智能公司都在努力控制其最新模型 / The world's leading AI companies are all struggling to contain their latest models",
+          "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-09T08:11:01Z"
+          "published_at": "2026-08-09T15:24:36Z"
         }
       ],
       "source_count": 2,
@@ -849,47 +830,47 @@
       ],
       "items": [
         {
-          "id": "abd2e29d6fcdf766ed0ef7f5c0077ed45d295d40",
-          "title": "现在轮到OpenAI出招了",
-          "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
+          "id": "286aded809cdaa1ca891f19fb6d4479fb52ca653",
+          "title": "全球领先的人工智能公司都在努力控制其最新模型",
+          "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-09T14:54:45.218000Z"
+          "published_at": "2026-08-09T15:42:34.143000Z"
         },
         {
-          "id": "b1ac18b85f3b0b250a6216ad642f0c0b14f35ec6",
-          "title": "现在轮到OpenAI出招了 / The Ball in OpenAI's court",
-          "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
+          "id": "af4a66486156ef5d4500ac4f1a2f123596f017ef",
+          "title": "全球领先的人工智能公司都在努力控制其最新模型 / The world's leading AI companies are all struggling to contain their latest models",
+          "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-09T08:11:01Z"
+          "published_at": "2026-08-09T15:24:36Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5442,
-      "importance": 0.5442,
-      "importance_score": 0.5442,
+      "score": 0.5435,
+      "importance": 0.5435,
+      "importance_score": 0.5435,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9908,
+        "recency": 0.987,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-09T08:11:01Z",
-      "latest_at": "2026-08-09T14:54:45.218000Z",
+      "earliest_at": "2026-08-09T15:24:36Z",
+      "latest_at": "2026-08-09T15:42:34.143000Z",
       "primary_item": {
-        "id": "abd2e29d6fcdf766ed0ef7f5c0077ed45d295d40",
-        "title": "现在轮到OpenAI出招了",
-        "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
+        "id": "286aded809cdaa1ca891f19fb6d4479fb52ca653",
+        "title": "全球领先的人工智能公司都在努力控制其最新模型",
+        "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -966,15 +947,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5334,
-      "importance": 0.5334,
-      "importance_score": 0.5334,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7925,
+        "recency": 0.7804,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1064,15 +1045,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5633,
-      "importance": 0.5633,
-      "importance_score": 0.5633,
+      "score": 0.5607,
+      "importance": 0.5607,
+      "importance_score": 0.5607,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9585,
+        "recency": 0.9439,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1162,15 +1143,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5254,
-      "importance": 0.5254,
-      "importance_score": 0.5254,
+      "score": 0.5234,
+      "importance": 0.5234,
+      "importance_score": 0.5234,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.748,
+        "recency": 0.7366,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1241,15 +1222,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5235,
-      "importance": 0.5235,
-      "importance_score": 0.5235,
+      "score": 0.5211,
+      "importance": 0.5211,
+      "importance_score": 0.5211,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8759,
+        "recency": 0.8626,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1320,15 +1301,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5206,
-      "importance": 0.5206,
-      "importance_score": 0.5206,
+      "score": 0.5182,
+      "importance": 0.5182,
+      "importance_score": 0.5182,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.86,
+        "recency": 0.8469,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1343,6 +1324,85 @@
         "url": "http://www.geekpark.net/news/368579",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_695eb81a7c65",
+      "title": "现在轮到OpenAI出招了",
+      "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
+      "primary_url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "abd2e29d6fcdf766ed0ef7f5c0077ed45d295d40",
+          "title": "现在轮到OpenAI出招了",
+          "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T14:54:45.218000Z"
+        },
+        {
+          "id": "b1ac18b85f3b0b250a6216ad642f0c0b14f35ec6",
+          "title": "现在轮到OpenAI出招了 / The Ball in OpenAI's court",
+          "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T08:11:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "abd2e29d6fcdf766ed0ef7f5c0077ed45d295d40",
+          "title": "现在轮到OpenAI出招了",
+          "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T14:54:45.218000Z"
+        },
+        {
+          "id": "b1ac18b85f3b0b250a6216ad642f0c0b14f35ec6",
+          "title": "现在轮到OpenAI出招了 / The Ball in OpenAI's court",
+          "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T08:11:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5414,
+      "importance": 0.5414,
+      "importance_score": 0.5414,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9757,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T08:11:01Z",
+      "latest_at": "2026-08-09T14:54:45.218000Z",
+      "primary_item": {
+        "id": "abd2e29d6fcdf766ed0ef7f5c0077ed45d295d40",
+        "title": "现在轮到OpenAI出招了",
+        "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1399,15 +1459,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5108,
-      "importance": 0.5108,
-      "importance_score": 0.5108,
+      "score": 0.5088,
+      "importance": 0.5088,
+      "importance_score": 0.5088,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.32,
         "ai_relevance": 0.67,
-        "recency": 0.7596,
+        "recency": 0.748,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1478,15 +1538,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5008,
-      "importance": 0.5008,
-      "importance_score": 0.5008,
+      "score": 0.4987,
+      "importance": 0.4987,
+      "importance_score": 0.4987,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7497,
+        "recency": 0.7383,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1501,85 +1561,6 @@
         "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
         "source": "HN Algolia · AI 24h",
         "source_name": "Hacker News"
-      }
-    },
-    {
-      "story_id": "story_33a4ca69a450",
-      "title": "我建造人工智能数据中心。我希望它们从人们的视野中消失。",
-      "url": "https://www.businessinsider.com/nvidia-ai-data-center-designer-engineer-more-efficient-less-visible-2026-8",
-      "primary_url": "https://www.businessinsider.com/nvidia-ai-data-center-designer-engineer-more-efficient-less-visible-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7905cc540138b1821c329d83185511daa44c8d9b",
-          "title": "我建造人工智能数据中心。我希望它们从人们的视野中消失。",
-          "url": "https://www.businessinsider.com/nvidia-ai-data-center-designer-engineer-more-efficient-less-visible-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T09:18:39.324000Z"
-        },
-        {
-          "id": "024f3159f794b35f22c5948d071c9835e9893198",
-          "title": "我建造人工智能数据中心。我希望它们从人们的视野中消失。 / I build AI data centers. I want them to disappear from view.",
-          "url": "https://www.businessinsider.com/nvidia-ai-data-center-designer-engineer-more-efficient-less-visible-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T09:01:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "7905cc540138b1821c329d83185511daa44c8d9b",
-          "title": "我建造人工智能数据中心。我希望它们从人们的视野中消失。",
-          "url": "https://www.businessinsider.com/nvidia-ai-data-center-designer-engineer-more-efficient-less-visible-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T09:18:39.324000Z"
-        },
-        {
-          "id": "024f3159f794b35f22c5948d071c9835e9893198",
-          "title": "我建造人工智能数据中心。我希望它们从人们的视野中消失。 / I build AI data centers. I want them to disappear from view.",
-          "url": "https://www.businessinsider.com/nvidia-ai-data-center-designer-engineer-more-efficient-less-visible-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T09:01:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9138,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T09:01:01Z",
-      "latest_at": "2026-08-09T09:18:39.324000Z",
-      "primary_item": {
-        "id": "7905cc540138b1821c329d83185511daa44c8d9b",
-        "title": "我建造人工智能数据中心。我希望它们从人们的视野中消失。",
-        "url": "https://www.businessinsider.com/nvidia-ai-data-center-designer-engineer-more-efficient-less-visible-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
