@@ -1,8 +1,146 @@
 {
-  "generated_at": "2026-08-11T18:27:14.479581Z",
+  "generated_at": "2026-08-11T19:36:59.637421Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_800ebb0d7846",
+      "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "primary_url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T16:41:17.281000Z"
+        },
+        {
+          "id": "4b2102e403d9dec5881249532877b86614b3ef6f",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-11T16:41:17.281000Z"
+        },
+        {
+          "id": "6d1cfa2910e04a5058b726a06334be2164e1126a",
+          "title": "Apple Silicon 和 macOS VM：使用 Llama.cpp 将 LLM 推理速度提高 11–16 倍 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+          "url": "https://news.ycombinator.com/item?id=49259339",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T15:53:20.909000Z"
+        },
+        {
+          "id": "a9b3f1ef17a821b3975a91a795f6a120a6a5480c",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T14:50:33Z"
+        },
+        {
+          "id": "13f4c60667f8b4b32f567dee9d8502109afc97d3",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-11T14:50:33Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T16:41:17.281000Z"
+        },
+        {
+          "id": "4b2102e403d9dec5881249532877b86614b3ef6f",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-11T16:41:17.281000Z"
+        },
+        {
+          "id": "6d1cfa2910e04a5058b726a06334be2164e1126a",
+          "title": "Apple Silicon 和 macOS VM：使用 Llama.cpp 将 LLM 推理速度提高 11–16 倍 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+          "url": "https://news.ycombinator.com/item?id=49259339",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T15:53:20.909000Z"
+        },
+        {
+          "id": "a9b3f1ef17a821b3975a91a795f6a120a6a5480c",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T14:50:33Z"
+        },
+        {
+          "id": "13f4c60667f8b4b32f567dee9d8502109afc97d3",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-11T14:50:33Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.8631,
+      "importance": 0.8631,
+      "importance_score": 0.8631,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9586,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T14:50:33Z",
+      "latest_at": "2026-08-11T16:41:17.281000Z",
+      "primary_item": {
+        "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
+        "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+        "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_9514940f045b",
       "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力 / AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
@@ -57,15 +195,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8653,
-      "importance": 0.8653,
-      "importance_score": 0.8653,
+      "score": 0.8623,
+      "importance": 0.8623,
+      "importance_score": 0.8623,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9792,
+        "recency": 0.9629,
         "story_heat": 0.25
       },
       "category": "official",
@@ -82,6 +220,68 @@
         "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力 / AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
         "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_824a73866601",
+      "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
+          "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T18:13:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
+          "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T18:13:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8484,
+      "importance": 0.8484,
+      "importance_score": 0.8484,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9802,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T18:13:56Z",
+      "latest_at": "2026-08-11T18:13:56Z",
+      "primary_item": {
+        "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
+        "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -120,15 +320,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8479,
-      "importance": 0.8479,
-      "importance_score": 0.8479,
+      "score": 0.8451,
+      "importance": 0.8451,
+      "importance_score": 0.8451,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9326,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "official",
@@ -145,125 +345,6 @@
         "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_800ebb0d7846",
-      "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "primary_url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T16:41:17.281000Z"
-        },
-        {
-          "id": "4b2102e403d9dec5881249532877b86614b3ef6f",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-11T16:41:17.281000Z"
-        },
-        {
-          "id": "6d1cfa2910e04a5058b726a06334be2164e1126a",
-          "title": "Apple Silicon 和 macOS VM：使用 Llama.cpp 将 LLM 推理速度提高 11–16 倍 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-          "url": "https://news.ycombinator.com/item?id=49259339",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T15:53:20.909000Z"
-        },
-        {
-          "id": "a9b3f1ef17a821b3975a91a795f6a120a6a5480c",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T14:50:33Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T16:41:17.281000Z"
-        },
-        {
-          "id": "4b2102e403d9dec5881249532877b86614b3ef6f",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-11T16:41:17.281000Z"
-        },
-        {
-          "id": "6d1cfa2910e04a5058b726a06334be2164e1126a",
-          "title": "Apple Silicon 和 macOS VM：使用 Llama.cpp 将 LLM 推理速度提高 11–16 倍 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-          "url": "https://news.ycombinator.com/item?id=49259339",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T15:53:20.909000Z"
-        },
-        {
-          "id": "a9b3f1ef17a821b3975a91a795f6a120a6a5480c",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T14:50:33Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8411,
-      "importance": 0.8411,
-      "importance_score": 0.8411,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9748,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T14:50:33Z",
-      "latest_at": "2026-08-11T16:41:17.281000Z",
-      "primary_item": {
-        "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
-        "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-        "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -301,15 +382,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8393,
-      "importance": 0.8393,
-      "importance_score": 0.8393,
+      "score": 0.8367,
+      "importance": 0.8367,
+      "importance_score": 0.8367,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8851,
+        "recency": 0.8703,
         "story_heat": 0.0
       },
       "category": "official",
@@ -325,68 +406,6 @@
         "title": "在 ChatGPT 中测试广告 / Testing ads in ChatGPT",
         "url": "https://openai.com/index/testing-ads-in-chatgpt",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_54600e33879d",
-      "title": "使用报告中按型号的令牌细分 / Per-model token breakdown in the usage report",
-      "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
-      "primary_url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "361545eaea5b5eb01fee9d78ba476877bb902c4f",
-          "title": "使用报告中按型号的令牌细分 / Per-model token breakdown in the usage report",
-          "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T14:41:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "361545eaea5b5eb01fee9d78ba476877bb902c4f",
-          "title": "使用报告中按型号的令牌细分 / Per-model token breakdown in the usage report",
-          "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T14:41:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8345,
-      "importance": 0.8345,
-      "importance_score": 0.8345,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9472,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T14:41:52Z",
-      "latest_at": "2026-08-11T14:41:52Z",
-      "primary_item": {
-        "id": "361545eaea5b5eb01fee9d78ba476877bb902c4f",
-        "title": "使用报告中按型号的令牌细分 / Per-model token breakdown in the usage report",
-        "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -482,15 +501,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8204,
-      "importance": 0.8204,
-      "importance_score": 0.8204,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8766,
+        "recency": 0.862,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -507,6 +526,68 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487491&idx=1&sn=fcb14aceb054f9a24e22525d3dae6fa0",
         "source": "公众号：蚂蚁百灵（Ling）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4a8cafacc83b",
+      "title": "即将弃用 MAI-Code-1-Flash / Upcoming deprecation of MAI-Code-1-Flash",
+      "url": "https://github.blog/changelog/2026-08-11-upcoming-deprecation-of-mai-code-1-flash",
+      "primary_url": "https://github.blog/changelog/2026-08-11-upcoming-deprecation-of-mai-code-1-flash",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ecbe4d5296f2077390e25615e94d18721ab6cf50",
+          "title": "即将弃用 MAI-Code-1-Flash / Upcoming deprecation of MAI-Code-1-Flash",
+          "url": "https://github.blog/changelog/2026-08-11-upcoming-deprecation-of-mai-code-1-flash",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T18:50:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ecbe4d5296f2077390e25615e94d18721ab6cf50",
+          "title": "即将弃用 MAI-Code-1-Flash / Upcoming deprecation of MAI-Code-1-Flash",
+          "url": "https://github.blog/changelog/2026-08-11-upcoming-deprecation-of-mai-code-1-flash",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T18:50:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.842,
+      "importance": 0.842,
+      "importance_score": 0.842,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9889,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T18:50:42Z",
+      "latest_at": "2026-08-11T18:50:42Z",
+      "primary_item": {
+        "id": "ecbe4d5296f2077390e25615e94d18721ab6cf50",
+        "title": "即将弃用 MAI-Code-1-Flash / Upcoming deprecation of MAI-Code-1-Flash",
+        "url": "https://github.blog/changelog/2026-08-11-upcoming-deprecation-of-mai-code-1-flash",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -563,15 +644,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8145,
-      "importance": 0.8145,
-      "importance_score": 0.8145,
+      "score": 0.8116,
+      "importance": 0.8116,
+      "importance_score": 0.8116,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9884,
+        "recency": 0.972,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -591,65 +672,103 @@
       }
     },
     {
-      "story_id": "story_db6826b82650",
-      "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
-      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-      "primary_url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
+      "story_id": "story_220d5105e6c7",
+      "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+      "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+      "primary_url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "24acb4029cb84001e3b5f778e74906def87075dc",
-          "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
-          "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T19:30:00Z"
+          "id": "cc776b821336542078cbf9449ac8c69e3bc8dcb8",
+          "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+          "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T18:32:57.961000Z"
+        },
+        {
+          "id": "2d9b62395143cb97064bac915efe75dc0dee4ce8",
+          "title": "我通过将 GitHub Copilot 置于 MitM 代理后面学到了什么 / What I learned by putting GitHub Copilot behind a MitM proxy",
+          "url": "https://news.ycombinator.com/item?id=49256057",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T13:55:19.537000Z"
+        },
+        {
+          "id": "d805d5aba535b64c3a9a729f36afbf788b7bb72f",
+          "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么 / What I learned by putting GitHub Copilot behind a MitM proxy",
+          "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-11T10:40:47Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "GitHub AI & ML"
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "24acb4029cb84001e3b5f778e74906def87075dc",
-          "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
-          "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T19:30:00Z"
+          "id": "cc776b821336542078cbf9449ac8c69e3bc8dcb8",
+          "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+          "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T18:32:57.961000Z"
+        },
+        {
+          "id": "2d9b62395143cb97064bac915efe75dc0dee4ce8",
+          "title": "我通过将 GitHub Copilot 置于 MitM 代理后面学到了什么 / What I learned by putting GitHub Copilot behind a MitM proxy",
+          "url": "https://news.ycombinator.com/item?id=49256057",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T13:55:19.537000Z"
+        },
+        {
+          "id": "d805d5aba535b64c3a9a729f36afbf788b7bb72f",
+          "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么 / What I learned by putting GitHub Copilot behind a MitM proxy",
+          "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-11T10:40:47Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8012,
-      "importance": 0.8012,
-      "importance_score": 0.8012,
-      "importance_label": "官方更新",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8118,
+      "importance": 0.8118,
+      "importance_score": 0.8118,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7179,
-        "story_heat": 0.0
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9847,
+        "story_heat": 0.5
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-10T19:30:00Z",
-      "latest_at": "2026-08-10T19:30:00Z",
+      "earliest_at": "2026-08-11T10:40:47Z",
+      "latest_at": "2026-08-11T18:32:57.961000Z",
       "primary_item": {
-        "id": "24acb4029cb84001e3b5f778e74906def87075dc",
-        "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
-        "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
+        "id": "cc776b821336542078cbf9449ac8c69e3bc8dcb8",
+        "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+        "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -706,15 +825,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7832,
-      "importance": 0.7832,
-      "importance_score": 0.7832,
+      "score": 0.7805,
+      "importance": 0.7805,
+      "importance_score": 0.7805,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.898,
+        "recency": 0.883,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -768,15 +887,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
+      "score": 0.7759,
+      "importance": 0.7759,
+      "importance_score": 0.7759,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9794,
+        "recency": 0.9631,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -792,6 +911,68 @@
         "url": "https://x.com/sundarpichai/status/2087222656819241292",
         "source": "X：Sundar Pichai (@sundarpichai)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_54600e33879d",
+      "title": "使用报告中按型号的令牌细分 / Per-model token breakdown in the usage report",
+      "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
+      "primary_url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "361545eaea5b5eb01fee9d78ba476877bb902c4f",
+          "title": "使用报告中按型号的令牌细分 / Per-model token breakdown in the usage report",
+          "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T14:41:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "361545eaea5b5eb01fee9d78ba476877bb902c4f",
+          "title": "使用报告中按型号的令牌细分 / Per-model token breakdown in the usage report",
+          "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T14:41:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9314,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T14:41:52Z",
+      "latest_at": "2026-08-11T14:41:52Z",
+      "primary_item": {
+        "id": "361545eaea5b5eb01fee9d78ba476877bb902c4f",
+        "title": "使用报告中按型号的令牌细分 / Per-model token breakdown in the usage report",
+        "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -848,15 +1029,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
+      "score": 0.7695,
+      "importance": 0.7695,
+      "importance_score": 0.7695,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8863,
+        "recency": 0.8716,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -873,6 +1054,67 @@
         "url": "https://www.aibase.com/news/30253",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1e7e2d06b693",
+      "title": "Runway Seedance 2.5 上线，支持50角色参考",
+      "url": "https://x.com/runwayml/status/2087251184658657346",
+      "primary_url": "https://x.com/runwayml/status/2087251184658657346",
+      "source": "X：Runway (@runwayml)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
+          "title": "Runway Seedance 2.5 上线，支持50角色参考",
+          "url": "https://x.com/runwayml/status/2087251184658657346",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T18:53:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Runway (@runwayml)"
+      ],
+      "items": [
+        {
+          "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
+          "title": "Runway Seedance 2.5 上线，支持50角色参考",
+          "url": "https://x.com/runwayml/status/2087251184658657346",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T18:53:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9897,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T18:53:56Z",
+      "latest_at": "2026-08-11T18:53:56Z",
+      "primary_item": {
+        "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
+        "title": "Runway Seedance 2.5 上线，支持50角色参考",
+        "url": "https://x.com/runwayml/status/2087251184658657346",
+        "source": "X：Runway (@runwayml)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -910,15 +1152,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.95,
+        "recency": 0.9342,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -971,15 +1213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9244,
+        "recency": 0.909,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1051,15 +1293,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8323,
+        "recency": 0.8185,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1113,15 +1355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9358,
+        "recency": 0.9203,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1174,15 +1416,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7613,
-      "importance": 0.7613,
-      "importance_score": 0.7613,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9652,
+        "recency": 0.9491,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1201,264 +1443,62 @@
       }
     },
     {
-      "story_id": "story_4d4abc4981ba",
-      "title": "英伟达联合六大机构融资5000亿美元建AI工厂",
-      "url": "https://x.com/JensenHuang/status/2086934705207959965",
-      "primary_url": "https://x.com/JensenHuang/status/2086934705207959965",
-      "source": "X：Jensen Huang (@JensenHuang)",
+      "story_id": "story_e10b35396e1a",
+      "title": "ChatGPT 桌面端支持导入其他智能体工作数据",
+      "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
+      "primary_url": "https://x.com/OpenAIDevs/status/2087242829076791392",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e0c66622d06ad11febd7df57f1e2a2985c98b30a",
-          "title": "英伟达联合六大机构融资5000亿美元建AI工厂",
-          "url": "https://x.com/JensenHuang/status/2086934705207959965",
-          "source": "X：Jensen Huang (@JensenHuang)",
+          "id": "9024af61e406cc4fb1c6876b8f915e9d9f24896d",
+          "title": "ChatGPT 桌面端支持导入其他智能体工作数据",
+          "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-10T21:56:21Z"
+          "published_at": "2026-08-11T18:20:44Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Jensen Huang (@JensenHuang)"
+        "X：OpenAI Developers (@OpenAIDevs)"
       ],
       "items": [
         {
-          "id": "e0c66622d06ad11febd7df57f1e2a2985c98b30a",
-          "title": "英伟达联合六大机构融资5000亿美元建AI工厂",
-          "url": "https://x.com/JensenHuang/status/2086934705207959965",
-          "source": "X：Jensen Huang (@JensenHuang)",
+          "id": "9024af61e406cc4fb1c6876b8f915e9d9f24896d",
+          "title": "ChatGPT 桌面端支持导入其他智能体工作数据",
+          "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-10T21:56:21Z"
+          "published_at": "2026-08-11T18:20:44Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.79,
+        "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7436,
+        "recency": 0.9818,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-10T21:56:21Z",
-      "latest_at": "2026-08-10T21:56:21Z",
+      "earliest_at": "2026-08-11T18:20:44Z",
+      "latest_at": "2026-08-11T18:20:44Z",
       "primary_item": {
-        "id": "e0c66622d06ad11febd7df57f1e2a2985c98b30a",
-        "title": "英伟达联合六大机构融资5000亿美元建AI工厂",
-        "url": "https://x.com/JensenHuang/status/2086934705207959965",
-        "source": "X：Jensen Huang (@JensenHuang)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_89e2ec81fbde",
-      "title": "TVB进军AI算力赛道:2027年启动首期万P级算力设施运营",
-      "url": "https://www.aibase.com/news/30236",
-      "primary_url": "https://www.aibase.com/news/30236",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fef489ba6b0758064e6c4ee38a67e4e5152164c1",
-          "title": "TVB进军AI算力赛道:2027年启动首期万P级算力设施运营",
-          "url": "https://www.aibase.com/news/30236",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T03:45:51.554911Z"
-        },
-        {
-          "id": "2ae9b051fb295e4d06e07ef190780a509f7bf81f",
-          "title": "TVB 进军 AI 算力赛道：2027 年启动首期万 P 级算力设施运营",
-          "url": "https://www.aibase.com/zh/news/30236",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "fef489ba6b0758064e6c4ee38a67e4e5152164c1",
-          "title": "TVB进军AI算力赛道:2027年启动首期万P级算力设施运营",
-          "url": "https://www.aibase.com/news/30236",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T03:45:51.554911Z"
-        },
-        {
-          "id": "2ae9b051fb295e4d06e07ef190780a509f7bf81f",
-          "title": "TVB 进军 AI 算力赛道：2027 年启动首期万 P 级算力设施运营",
-          "url": "https://www.aibase.com/zh/news/30236",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7582,
-      "importance": 0.7582,
-      "importance_score": 0.7582,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8089,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T03:45:51.554911Z",
-      "latest_at": "2026-08-11T03:45:51.554911Z",
-      "primary_item": {
-        "id": "fef489ba6b0758064e6c4ee38a67e4e5152164c1",
-        "title": "TVB进军AI算力赛道:2027年启动首期万P级算力设施运营",
-        "url": "https://www.aibase.com/news/30236",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8c85a5e4c7a3",
-      "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能",
-      "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
-      "primary_url": "https://www.dwarkesh.com/p/ryan-greenblatt",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6beecdb6a981fa0908fad902d332d55e43dcabd0",
-          "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能",
-          "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T16:31:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Dwarkesh Patel：Podcast & Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6beecdb6a981fa0908fad902d332d55e43dcabd0",
-          "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能",
-          "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T16:31:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7267,
-      "importance": 0.7267,
-      "importance_score": 0.7267,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.6,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9725,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T16:31:23Z",
-      "latest_at": "2026-08-11T16:31:23Z",
-      "primary_item": {
-        "id": "6beecdb6a981fa0908fad902d332d55e43dcabd0",
-        "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能",
-        "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2fe4bf99b380",
-      "title": "统一 Radix 缓存：为混合模型前缀缓存构建单一树结构",
-      "url": "https://www.lmsys.org/blog/2026-08-11-unified-radix-cache",
-      "primary_url": "https://www.lmsys.org/blog/2026-08-11-unified-radix-cache",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "28faebd4f6fed97a57bbb0906d65af49ee45ea13",
-          "title": "统一 Radix 缓存：为混合模型前缀缓存构建单一树结构",
-          "url": "https://www.lmsys.org/blog/2026-08-11-unified-radix-cache",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T13:51:45.827000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "28faebd4f6fed97a57bbb0906d65af49ee45ea13",
-          "title": "统一 Radix 缓存：为混合模型前缀缓存构建单一树结构",
-          "url": "https://www.lmsys.org/blog/2026-08-11-unified-radix-cache",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T13:51:45.827000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9358,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T13:51:45.827000Z",
-      "latest_at": "2026-08-11T13:51:45.827000Z",
-      "primary_item": {
-        "id": "28faebd4f6fed97a57bbb0906d65af49ee45ea13",
-        "title": "统一 Radix 缓存：为混合模型前缀缓存构建单一树结构",
-        "url": "https://www.lmsys.org/blog/2026-08-11-unified-radix-cache",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "id": "9024af61e406cc4fb1c6876b8f915e9d9f24896d",
+        "title": "ChatGPT 桌面端支持导入其他智能体工作数据",
+        "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
         "source_name": "AI HOT"
       }
     }
