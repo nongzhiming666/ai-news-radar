@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T01:50:34.920306Z",
+  "generated_at": "2026-08-11T03:45:51.554911Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8987,
-      "importance": 0.8987,
-      "importance_score": 0.8987,
+      "score": 0.8946,
+      "importance": 0.8946,
+      "importance_score": 0.8946,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8428,
+        "recency": 0.8197,
         "story_heat": 0.75
       },
       "category": "official",
@@ -177,15 +177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8621,
-      "importance": 0.8621,
-      "importance_score": 0.8621,
+      "score": 0.8578,
+      "importance": 0.8578,
+      "importance_score": 0.8578,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8729,
+        "recency": 0.849,
         "story_heat": 0.25
       },
       "category": "official",
@@ -242,7 +242,7 @@
         },
         {
           "id": "8afc0f7a0b4b5c96efde6740ff5059df0d8dd58b",
-          "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话 / Over 181,000 AI meeting recordings left wide open in note taking app",
+          "title": "笔记应用中逾18.1万段AI会议录音被公开暴露 / Over 181,000 AI meeting recordings left wide open in note taking app",
           "url": "https://bobdahacker.com/blog/tldv-hack",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -251,7 +251,7 @@
         },
         {
           "id": "4ae64a11c74795c15417253f494f3182aaf55481",
-          "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话 / Tl;dv: Over 180k meetings left wide open",
+          "title": "笔记应用中逾18.1万段AI会议录音被公开暴露 / Tl;dv: Over 180k meetings left wide open",
           "url": "https://bobdahacker.com/blog/tldv-hack",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -297,7 +297,7 @@
         },
         {
           "id": "8afc0f7a0b4b5c96efde6740ff5059df0d8dd58b",
-          "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话 / Over 181,000 AI meeting recordings left wide open in note taking app",
+          "title": "笔记应用中逾18.1万段AI会议录音被公开暴露 / Over 181,000 AI meeting recordings left wide open in note taking app",
           "url": "https://bobdahacker.com/blog/tldv-hack",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -306,7 +306,7 @@
         },
         {
           "id": "4ae64a11c74795c15417253f494f3182aaf55481",
-          "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话 / Tl;dv: Over 180k meetings left wide open",
+          "title": "笔记应用中逾18.1万段AI会议录音被公开暴露 / Tl;dv: Over 180k meetings left wide open",
           "url": "https://bobdahacker.com/blog/tldv-hack",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -316,15 +316,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8394,
-      "importance": 0.8394,
-      "importance_score": 0.8394,
+      "score": 0.8353,
+      "importance": 0.8353,
+      "importance_score": 0.8353,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8435,
+        "recency": 0.8204,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -378,15 +378,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8362,
-      "importance": 0.8362,
-      "importance_score": 0.8362,
+      "score": 0.8318,
+      "importance": 0.8318,
+      "importance_score": 0.8318,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9125,
+        "recency": 0.8875,
         "story_heat": 0.0
       },
       "category": "official",
@@ -440,15 +440,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8247,
-      "importance": 0.8247,
-      "importance_score": 0.8247,
+      "score": 0.8205,
+      "importance": 0.8205,
+      "importance_score": 0.8205,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8483,
+        "recency": 0.8251,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,15 +502,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8168,
-      "importance": 0.8168,
-      "importance_score": 0.8168,
+      "score": 0.8126,
+      "importance": 0.8126,
+      "importance_score": 0.8126,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8489,
+        "recency": 0.8257,
         "story_heat": 0.0
       },
       "category": "official",
@@ -583,15 +583,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8402,
-      "importance": 0.8402,
-      "importance_score": 0.8402,
+      "score": 0.8363,
+      "importance": 0.8363,
+      "importance_score": 0.8363,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7955,
+        "recency": 0.7737,
         "story_heat": 0.25
       },
       "category": "official",
@@ -609,6 +609,87 @@
         "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_89e2ec81fbde",
+      "title": "TVB进军AI算力赛道:2027年启动首期万P级算力设施运营",
+      "url": "https://www.aibase.com/news/30236",
+      "primary_url": "https://www.aibase.com/news/30236",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "fef489ba6b0758064e6c4ee38a67e4e5152164c1",
+          "title": "TVB进军AI算力赛道:2027年启动首期万P级算力设施运营",
+          "url": "https://www.aibase.com/news/30236",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-11T03:45:51.554911Z"
+        },
+        {
+          "id": "2ae9b051fb295e4d06e07ef190780a509f7bf81f",
+          "title": "TVB 进军 AI 算力赛道：2027 年启动首期万 P 级算力设施运营",
+          "url": "https://www.aibase.com/zh/news/30236",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "fef489ba6b0758064e6c4ee38a67e4e5152164c1",
+          "title": "TVB进军AI算力赛道:2027年启动首期万P级算力设施运营",
+          "url": "https://www.aibase.com/news/30236",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-11T03:45:51.554911Z"
+        },
+        {
+          "id": "2ae9b051fb295e4d06e07ef190780a509f7bf81f",
+          "title": "TVB 进军 AI 算力赛道：2027 年启动首期万 P 级算力设施运营",
+          "url": "https://www.aibase.com/zh/news/30236",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T03:45:51.554911Z",
+      "latest_at": "2026-08-11T03:45:51.554911Z",
+      "primary_item": {
+        "id": "fef489ba6b0758064e6c4ee38a67e4e5152164c1",
+        "title": "TVB进军AI算力赛道:2027年启动首期万P级算力设施运营",
+        "url": "https://www.aibase.com/news/30236",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -646,15 +727,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8234,
-      "importance": 0.8234,
-      "importance_score": 0.8234,
+      "score": 0.8195,
+      "importance": 0.8195,
+      "importance_score": 0.8195,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7966,
+        "recency": 0.7748,
         "story_heat": 0.0
       },
       "category": "official",
@@ -671,187 +752,6 @@
         "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_85460702741f",
-      "title": "AI促进每周四天工作制？现实却是AI提效反向加剧员工“9006”重压",
-      "url": "https://www.aibase.com/news/30228",
-      "primary_url": "https://www.aibase.com/news/30228",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2ccf4d8196be40bbdc2620175a3b2460ff004309",
-          "title": "AI促进每周四天工作制？现实却是AI提效反向加剧员工“9006”重压",
-          "url": "https://www.aibase.com/news/30228",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T01:50:34.920306Z"
-        },
-        {
-          "id": "bc0d9b74692185dda7d5bed19dd29905a4db987f",
-          "title": "AI 促进每周四天工作制？现实却是 AI 提效反向加剧员工「9006」重压",
-          "url": "https://www.aibase.com/zh/news/30228",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "2ccf4d8196be40bbdc2620175a3b2460ff004309",
-          "title": "AI促进每周四天工作制？现实却是AI提效反向加剧员工“9006”重压",
-          "url": "https://www.aibase.com/news/30228",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T01:50:34.920306Z"
-        },
-        {
-          "id": "bc0d9b74692185dda7d5bed19dd29905a4db987f",
-          "title": "AI 促进每周四天工作制？现实却是 AI 提效反向加剧员工「9006」重压",
-          "url": "https://www.aibase.com/zh/news/30228",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T01:50:34.920306Z",
-      "latest_at": "2026-08-11T01:50:34.920306Z",
-      "primary_item": {
-        "id": "2ccf4d8196be40bbdc2620175a3b2460ff004309",
-        "title": "AI促进每周四天工作制？现实却是AI提效反向加剧员工“9006”重压",
-        "url": "https://www.aibase.com/news/30228",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d29517a81457995e790278d11211679f24adbff8",
-          "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T00:12:00Z"
-        },
-        {
-          "id": "a175dd92c3c7d4e6925dbcffee3b6ef7a0d2b2d6",
-          "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
-          "source": "公众号：千问APP（阿里）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T02:07:18Z"
-        },
-        {
-          "id": "75030745d834589c4a52bcf7fd6f2a25e3fcffcd",
-          "title": "机器学习先驱 Daphne Koller 警告：AI 制药不是魔法棒，下一代药物发现还缺 1000 倍数据",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649802403&idx=1&sn=254c02066da402300ef1b7538ef5207a",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Readhub · AI",
-        "公众号：千问APP（阿里）",
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "d29517a81457995e790278d11211679f24adbff8",
-          "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T00:12:00Z"
-        },
-        {
-          "id": "a175dd92c3c7d4e6925dbcffee3b6ef7a0d2b2d6",
-          "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
-          "source": "公众号：千问APP（阿里）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T02:07:18Z"
-        },
-        {
-          "id": "75030745d834589c4a52bcf7fd6f2a25e3fcffcd",
-          "title": "机器学习先驱 Daphne Koller 警告：AI 制药不是魔法棒，下一代药物发现还缺 1000 倍数据",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649802403&idx=1&sn=254c02066da402300ef1b7538ef5207a",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7924,
-      "importance": 0.7924,
-      "importance_score": 0.7924,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9766,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T02:07:18Z",
-      "latest_at": "2026-08-11T01:50:34.920306Z",
-      "primary_item": {
-        "id": "d29517a81457995e790278d11211679f24adbff8",
-        "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -889,15 +789,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8157,
-      "importance": 0.8157,
-      "importance_score": 0.8157,
+      "score": 0.8116,
+      "importance": 0.8116,
+      "importance_score": 0.8116,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.843,
+        "recency": 0.8199,
         "story_heat": 0.0
       },
       "category": "official",
@@ -951,15 +851,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7787,
-      "importance": 0.7787,
-      "importance_score": 0.7787,
+      "score": 0.7741,
+      "importance": 0.7741,
+      "importance_score": 0.7741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9452,
+        "recency": 0.9193,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1012,15 +912,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8304,
-      "importance": 0.8304,
-      "importance_score": 0.8304,
+      "score": 0.8261,
+      "importance": 0.8261,
+      "importance_score": 0.8261,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8801,
+        "recency": 0.856,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1040,26 +940,26 @@
       }
     },
     {
-      "story_id": "story_e237d1b6fa70",
-      "title": "千问 App 推出付费方案:办公助理最高128元/月，AI视频生成单独计费",
-      "url": "https://www.aibase.com/news/30230",
-      "primary_url": "https://www.aibase.com/news/30230",
+      "story_id": "story_fda8ff171768",
+      "title": "英伟达让AI学会\"抄作业\"：KV缓存可跨模型迁移，推理速度暴增25倍",
+      "url": "https://www.aibase.com/news/30238",
+      "primary_url": "https://www.aibase.com/news/30238",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "91c4b6838c42cdee7325a596252d513c80a523ca",
-          "title": "千问 App 推出付费方案:办公助理最高128元/月，AI视频生成单独计费",
-          "url": "https://www.aibase.com/news/30230",
+          "id": "9fe99e338fca94bce036ee0949ab100cc72274f2",
+          "title": "英伟达让AI学会\"抄作业\"：KV缓存可跨模型迁移，推理速度暴增25倍",
+          "url": "https://www.aibase.com/news/30238",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-11T01:50:34.920306Z"
+          "published_at": "2026-08-11T03:45:51.554911Z"
         },
         {
-          "id": "4ae0e78a117e7e754392439f5714fe3e13355cb8",
-          "title": "千问 App 推出付费方案：办公助理最高 128 元/月，AI 视频生成单独计费",
-          "url": "https://www.aibase.com/zh/news/30230",
+          "id": "479d96700774d6fee746c11222aff07828c12855",
+          "title": "英伟达让 AI 学会「抄作业」：KV 缓存可跨模型迁移，推理速度暴增 25 倍",
+          "url": "https://www.aibase.com/zh/news/30238",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1073,18 +973,18 @@
       ],
       "items": [
         {
-          "id": "91c4b6838c42cdee7325a596252d513c80a523ca",
-          "title": "千问 App 推出付费方案:办公助理最高128元/月，AI视频生成单独计费",
-          "url": "https://www.aibase.com/news/30230",
+          "id": "9fe99e338fca94bce036ee0949ab100cc72274f2",
+          "title": "英伟达让AI学会\"抄作业\"：KV缓存可跨模型迁移，推理速度暴增25倍",
+          "url": "https://www.aibase.com/news/30238",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-11T01:50:34.920306Z"
+          "published_at": "2026-08-11T03:45:51.554911Z"
         },
         {
-          "id": "4ae0e78a117e7e754392439f5714fe3e13355cb8",
-          "title": "千问 App 推出付费方案：办公助理最高 128 元/月，AI 视频生成单独计费",
-          "url": "https://www.aibase.com/zh/news/30230",
+          "id": "479d96700774d6fee746c11222aff07828c12855",
+          "title": "英伟达让 AI 学会「抄作业」：KV 缓存可跨模型迁移，推理速度暴增 25 倍",
+          "url": "https://www.aibase.com/zh/news/30238",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1110,14 +1010,95 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-11T01:50:34.920306Z",
-      "latest_at": "2026-08-11T01:50:34.920306Z",
+      "earliest_at": "2026-08-11T03:45:51.554911Z",
+      "latest_at": "2026-08-11T03:45:51.554911Z",
       "primary_item": {
-        "id": "91c4b6838c42cdee7325a596252d513c80a523ca",
-        "title": "千问 App 推出付费方案:办公助理最高128元/月，AI视频生成单独计费",
-        "url": "https://www.aibase.com/news/30230",
+        "id": "9fe99e338fca94bce036ee0949ab100cc72274f2",
+        "title": "英伟达让AI学会\"抄作业\"：KV缓存可跨模型迁移，推理速度暴增25倍",
+        "url": "https://www.aibase.com/news/30238",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d29517a81457995e790278d11211679f24adbff8",
+          "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T00:12:00Z"
+        },
+        {
+          "id": "75030745d834589c4a52bcf7fd6f2a25e3fcffcd",
+          "title": "机器学习先驱 Daphne Koller 警告：AI 制药不是魔法棒，下一代药物发现还缺 1000 倍数据",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649802403&idx=1&sn=254c02066da402300ef1b7538ef5207a",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "d29517a81457995e790278d11211679f24adbff8",
+          "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T00:12:00Z"
+        },
+        {
+          "id": "75030745d834589c4a52bcf7fd6f2a25e3fcffcd",
+          "title": "机器学习先驱 Daphne Koller 警告：AI 制药不是魔法棒，下一代药物发现还缺 1000 倍数据",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649802403&idx=1&sn=254c02066da402300ef1b7538ef5207a",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9498,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T00:12:00Z",
+      "latest_at": "2026-08-11T01:50:34.920306Z",
+      "primary_item": {
+        "id": "d29517a81457995e790278d11211679f24adbff8",
+        "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1155,15 +1136,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.813,
-      "importance": 0.813,
-      "importance_score": 0.813,
+      "score": 0.8089,
+      "importance": 0.8089,
+      "importance_score": 0.8089,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8279,
+        "recency": 0.8052,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1217,15 +1198,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7968,
+        "recency": 0.775,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1239,66 +1220,6 @@
         "title": "Scale AI 开源 Muse 系列模型",
         "url": "https://x.com/alexandr_wang/status/2086756152034066792",
         "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_13aa163b225a",
-      "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行",
-      "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-      "primary_url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-      "source": "Databricks：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "123277d810480c26bc58f077f9317ab5165ab89f",
-          "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行",
-          "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-          "source": "Databricks：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T23:08:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Databricks：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "123277d810480c26bc58f077f9317ab5165ab89f",
-          "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行",
-          "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-          "source": "Databricks：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T23:08:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7397,
-      "importance": 0.7397,
-      "importance_score": 0.7397,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9618,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T23:08:50Z",
-      "latest_at": "2026-08-10T23:08:50Z",
-      "primary_item": {
-        "id": "123277d810480c26bc58f077f9317ab5165ab89f",
-        "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行",
-        "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-        "source": "Databricks：Blog（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1337,15 +1258,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7352,
+      "importance": 0.7352,
+      "importance_score": 0.7352,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.843,
+        "recency": 0.8199,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1359,6 +1280,66 @@
         "title": "智能体真的会用电脑吗？a16z 用数据给出答案",
         "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
         "source": "a16z：News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_13aa163b225a",
+      "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行",
+      "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
+      "primary_url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
+      "source": "Databricks：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "123277d810480c26bc58f077f9317ab5165ab89f",
+          "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行",
+          "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
+          "source": "Databricks：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T23:08:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Databricks：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "123277d810480c26bc58f077f9317ab5165ab89f",
+          "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行",
+          "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
+          "source": "Databricks：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T23:08:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.735,
+      "importance": 0.735,
+      "importance_score": 0.735,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9355,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-10T23:08:50Z",
+      "latest_at": "2026-08-10T23:08:50Z",
+      "primary_item": {
+        "id": "123277d810480c26bc58f077f9317ab5165ab89f",
+        "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行",
+        "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
+        "source": "Databricks：Blog（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1397,15 +1378,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8274,
-      "importance": 0.8274,
-      "importance_score": 0.8274,
+      "score": 0.8234,
+      "importance": 0.8234,
+      "importance_score": 0.8234,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8188,
+        "recency": 0.7964,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1425,62 +1406,62 @@
       }
     },
     {
-      "story_id": "story_c180c0dbe774",
-      "title": "Claude Code 自动模式默认开启原理",
-      "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
-      "primary_url": "https://x.com/ClaudeDevs/status/2086844755770757531",
-      "source": "X：Claude Devs (@ClaudeDevs)",
+      "story_id": "story_d23e3b6d03cf",
+      "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
+      "url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
+      "primary_url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "047eba7bcd72fdb530ff06aac4ce1e06b0728173",
-          "title": "Claude Code 自动模式默认开启原理",
-          "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
-          "source": "X：Claude Devs (@ClaudeDevs)",
+          "id": "4b1deafc19f11b0b2c9849b01377f1c620ca4f0e",
+          "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
+          "url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-10T15:58:56Z"
+          "published_at": "2026-08-10T11:51:38.747000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Claude Devs (@ClaudeDevs)"
+        "LMSYS：Blog（Chatbot Arena 团队）"
       ],
       "items": [
         {
-          "id": "047eba7bcd72fdb530ff06aac4ce1e06b0728173",
-          "title": "Claude Code 自动模式默认开启原理",
-          "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
-          "source": "X：Claude Devs (@ClaudeDevs)",
+          "id": "4b1deafc19f11b0b2c9849b01377f1c620ca4f0e",
+          "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
+          "url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-10T15:58:56Z"
+          "published_at": "2026-08-10T11:51:38.747000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
+      "score": 0.7307,
+      "importance": 0.7307,
+      "importance_score": 0.7307,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.69,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8673,
+        "recency": 0.7948,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-10T15:58:56Z",
-      "latest_at": "2026-08-10T15:58:56Z",
+      "earliest_at": "2026-08-10T11:51:38.747000Z",
+      "latest_at": "2026-08-10T11:51:38.747000Z",
       "primary_item": {
-        "id": "047eba7bcd72fdb530ff06aac4ce1e06b0728173",
-        "title": "Claude Code 自动模式默认开启原理",
-        "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
-        "source": "X：Claude Devs (@ClaudeDevs)",
+        "id": "4b1deafc19f11b0b2c9849b01377f1c620ca4f0e",
+        "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
+        "url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
       }
     }
