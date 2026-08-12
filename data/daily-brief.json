@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T07:37:25.896659Z",
+  "generated_at": "2026-08-12T09:12:49.733268Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -39,18 +39,18 @@
           "published_at": "2026-08-12T04:02:28.943000Z"
         },
         {
-          "id": "5ac6339b8cf43e440b8cd4f03e239fc3171ab396",
+          "id": "789e8ddc12b5311d3469bfd194f4dd3a3241e874",
           "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
           "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-12T02:05:42Z"
         }
       ],
       "source_count": 4,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "hackernews",
         "www.404media.co"
@@ -84,26 +84,26 @@
           "published_at": "2026-08-12T04:02:28.943000Z"
         },
         {
-          "id": "5ac6339b8cf43e440b8cd4f03e239fc3171ab396",
+          "id": "789e8ddc12b5311d3469bfd194f4dd3a3241e874",
           "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
           "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-12T02:05:42Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8496,
-      "importance": 0.8496,
-      "importance_score": 0.8496,
+      "score": 0.8457,
+      "importance": 0.8457,
+      "importance_score": 0.8457,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9725,
+        "recency": 0.9504,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -176,15 +176,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8347,
-      "importance": 0.8347,
-      "importance_score": 0.8347,
+      "score": 0.8314,
+      "importance": 0.8314,
+      "importance_score": 0.8314,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8096,
+        "recency": 0.7913,
         "story_heat": 0.25
       },
       "category": "official",
@@ -239,15 +239,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8248,
-      "importance": 0.8248,
-      "importance_score": 0.8248,
+      "score": 0.8213,
+      "importance": 0.8213,
+      "importance_score": 0.8213,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8487,
+        "recency": 0.8295,
         "story_heat": 0.0
       },
       "category": "official",
@@ -301,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8188,
-      "importance": 0.8188,
-      "importance_score": 0.8188,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7711,
+        "recency": 0.7536,
         "story_heat": 0.0
       },
       "category": "official",
@@ -363,15 +363,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8117,
-      "importance": 0.8117,
-      "importance_score": 0.8117,
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7318,
+        "recency": 0.7152,
         "story_heat": 0.0
       },
       "category": "official",
@@ -501,15 +501,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8357,
-      "importance": 0.8357,
-      "importance_score": 0.8357,
+      "score": 0.8324,
+      "importance": 0.8324,
+      "importance_score": 0.8324,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.806,
+        "recency": 0.7877,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -526,6 +526,87 @@
         "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6b14515103cc",
+      "title": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
+      "url": "https://www.aibase.com/news/30285",
+      "primary_url": "https://www.aibase.com/news/30285",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "263e185c2b15d0074f53abd47dbb8a3bbf87f105",
+          "title": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
+          "url": "https://www.aibase.com/news/30285",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T09:12:49.733268Z"
+        },
+        {
+          "id": "30a547362a0de41f7fb1a0d2ac65258769968bd8",
+          "title": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当「打工人」而非「聊天工具」",
+          "url": "https://www.aibase.com/zh/news/30285",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "263e185c2b15d0074f53abd47dbb8a3bbf87f105",
+          "title": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
+          "url": "https://www.aibase.com/news/30285",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T09:12:49.733268Z"
+        },
+        {
+          "id": "30a547362a0de41f7fb1a0d2ac65258769968bd8",
+          "title": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当「打工人」而非「聊天工具」",
+          "url": "https://www.aibase.com/zh/news/30285",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T09:12:49.733268Z",
+      "latest_at": "2026-08-12T09:12:49.733268Z",
+      "primary_item": {
+        "id": "263e185c2b15d0074f53abd47dbb8a3bbf87f105",
+        "title": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
+        "url": "https://www.aibase.com/news/30285",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -601,15 +682,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7931,
-      "importance": 0.7931,
-      "importance_score": 0.7931,
+      "score": 0.7895,
+      "importance": 0.7895,
+      "importance_score": 0.7895,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8975,
+        "recency": 0.8771,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -663,15 +744,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8203,
-      "importance": 0.8203,
-      "importance_score": 0.8203,
+      "score": 0.817,
+      "importance": 0.817,
+      "importance_score": 0.817,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8242,
+        "recency": 0.8055,
         "story_heat": 0.0
       },
       "category": "official",
@@ -744,15 +825,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
+      "score": 0.7847,
+      "importance": 0.7847,
+      "importance_score": 0.7847,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8418,
+        "recency": 0.8227,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -769,87 +850,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7958c202a17d",
-      "title": "医疗AI迎来重大突破：研究型系统AMIE首次展示实时临床视频问诊能力",
-      "url": "https://www.aibase.com/news/30271",
-      "primary_url": "https://www.aibase.com/news/30271",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bb106316ad2c12f0c281a97e25e6431fbd8d6573",
-          "title": "医疗AI迎来重大突破：研究型系统AMIE首次展示实时临床视频问诊能力",
-          "url": "https://www.aibase.com/news/30271",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T04:21:50.662906Z"
-        },
-        {
-          "id": "d4e29f7fd60572cdb6800ce593095b96e7a3b7b5",
-          "title": "医疗 AI 迎来重大突破：研究型系统 AMIE 首次展示实时临床视频问诊能力",
-          "url": "https://www.aibase.com/zh/news/30271",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "bb106316ad2c12f0c281a97e25e6431fbd8d6573",
-          "title": "医疗AI迎来重大突破：研究型系统AMIE首次展示实时临床视频问诊能力",
-          "url": "https://www.aibase.com/news/30271",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T04:21:50.662906Z"
-        },
-        {
-          "id": "d4e29f7fd60572cdb6800ce593095b96e7a3b7b5",
-          "title": "医疗 AI 迎来重大突破：研究型系统 AMIE 首次展示实时临床视频问诊能力",
-          "url": "https://www.aibase.com/zh/news/30271",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7843,
-      "importance": 0.7843,
-      "importance_score": 0.7843,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.954,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T04:21:50.662906Z",
-      "latest_at": "2026-08-12T04:21:50.662906Z",
-      "primary_item": {
-        "id": "bb106316ad2c12f0c281a97e25e6431fbd8d6573",
-        "title": "医疗AI迎来重大突破：研究型系统AMIE首次展示实时临床视频问诊能力",
-        "url": "https://www.aibase.com/news/30271",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -906,15 +906,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7837,
-      "importance": 0.7837,
-      "importance_score": 0.7837,
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8172,
+        "recency": 0.7987,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -968,15 +968,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
+      "score": 0.8007,
+      "importance": 0.8007,
+      "importance_score": 0.8007,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7318,
+        "recency": 0.7152,
         "story_heat": 0.0
       },
       "category": "official",
@@ -993,6 +993,87 @@
         "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_31a51d9a09e9",
+      "title": "前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿",
+      "url": "https://www.aibase.com/news/30283",
+      "primary_url": "https://www.aibase.com/news/30283",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4fc88da65bda692dddd2b6ac4763557b467f43af",
+          "title": "前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿",
+          "url": "https://www.aibase.com/news/30283",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T09:12:49.733268Z"
+        },
+        {
+          "id": "c3473b2ee9d39fdf6882560cd609c1363a6e3919",
+          "title": "前通义千问负责人林俊旸官宣创业，成立 AI 实验室 Pragmatik Labs，获数亿美元融资估值达 20 亿",
+          "url": "https://www.aibase.com/zh/news/30283",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "4fc88da65bda692dddd2b6ac4763557b467f43af",
+          "title": "前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿",
+          "url": "https://www.aibase.com/news/30283",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T09:12:49.733268Z"
+        },
+        {
+          "id": "c3473b2ee9d39fdf6882560cd609c1363a6e3919",
+          "title": "前通义千问负责人林俊旸官宣创业，成立 AI 实验室 Pragmatik Labs，获数亿美元融资估值达 20 亿",
+          "url": "https://www.aibase.com/zh/news/30283",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T09:12:49.733268Z",
+      "latest_at": "2026-08-12T09:12:49.733268Z",
+      "primary_item": {
+        "id": "4fc88da65bda692dddd2b6ac4763557b467f43af",
+        "title": "前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿",
+        "url": "https://www.aibase.com/news/30283",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1030,15 +1111,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9879,
+        "recency": 0.9655,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1091,15 +1172,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8172,
-      "importance": 0.8172,
-      "importance_score": 0.8172,
+      "score": 0.8137,
+      "importance": 0.8137,
+      "importance_score": 0.8137,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8509,
+        "recency": 0.8316,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1116,87 +1197,6 @@
         "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e4f4793b8655",
-      "title": "量子计算首次入驻云巨头数据中心：Quantinuum 将 98 量子比特 Helios 装进 Oracle AI 数据中心",
-      "url": "https://www.aibase.com/news/30273",
-      "primary_url": "https://www.aibase.com/news/30273",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6296e14ad778412341ccc1dfd27d4c4acb045a57",
-          "title": "量子计算首次入驻云巨头数据中心：Quantinuum 将 98 量子比特 Helios 装进 Oracle AI 数据中心",
-          "url": "https://www.aibase.com/news/30273",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T04:21:50.662906Z"
-        },
-        {
-          "id": "52f15384f190f8028c277eb53949533e5bc7375e",
-          "title": "量子计算首次入驻云巨头数据中心：Quantinuum 将 98 量子比特 Helios 装进 Oracle AI 数据中心",
-          "url": "https://www.aibase.com/zh/news/30273",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "6296e14ad778412341ccc1dfd27d4c4acb045a57",
-          "title": "量子计算首次入驻云巨头数据中心：Quantinuum 将 98 量子比特 Helios 装进 Oracle AI 数据中心",
-          "url": "https://www.aibase.com/news/30273",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T04:21:50.662906Z"
-        },
-        {
-          "id": "52f15384f190f8028c277eb53949533e5bc7375e",
-          "title": "量子计算首次入驻云巨头数据中心：Quantinuum 将 98 量子比特 Helios 装进 Oracle AI 数据中心",
-          "url": "https://www.aibase.com/zh/news/30273",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7843,
-      "importance": 0.7843,
-      "importance_score": 0.7843,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.954,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T04:21:50.662906Z",
-      "latest_at": "2026-08-12T05:56:00.719403Z",
-      "primary_item": {
-        "id": "6296e14ad778412341ccc1dfd27d4c4acb045a57",
-        "title": "量子计算首次入驻云巨头数据中心：Quantinuum 将 98 量子比特 Helios 装进 Oracle AI 数据中心",
-        "url": "https://www.aibase.com/news/30273",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1234,15 +1234,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8097,
+        "recency": 0.7914,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1256,66 +1256,6 @@
         "title": "Gemini月活破10亿，成谷歌增长最快产品",
         "url": "https://x.com/sundarpichai/status/2087222656819241292",
         "source": "X：Sundar Pichai (@sundarpichai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1e7e2d06b693",
-      "title": "Runway Seedance 2.5 上线，支持50角色参考",
-      "url": "https://x.com/runwayml/status/2087251184658657346",
-      "primary_url": "https://x.com/runwayml/status/2087251184658657346",
-      "source": "X：Runway (@runwayml)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
-          "title": "Runway Seedance 2.5 上线，支持50角色参考",
-          "url": "https://x.com/runwayml/status/2087251184658657346",
-          "source": "X：Runway (@runwayml)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T18:53:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Runway (@runwayml)"
-      ],
-      "items": [
-        {
-          "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
-          "title": "Runway Seedance 2.5 上线，支持50角色参考",
-          "url": "https://x.com/runwayml/status/2087251184658657346",
-          "source": "X：Runway (@runwayml)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T18:53:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8321,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T18:53:56Z",
-      "latest_at": "2026-08-11T18:53:56Z",
-      "primary_item": {
-        "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
-        "title": "Runway Seedance 2.5 上线，支持50角色参考",
-        "url": "https://x.com/runwayml/status/2087251184658657346",
-        "source": "X：Runway (@runwayml)",
         "source_name": "AI HOT"
       }
     },
@@ -1354,15 +1294,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7643,
+        "recency": 0.7469,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1377,6 +1317,147 @@
         "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
         "source": "NVIDIA Blog（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1e7e2d06b693",
+      "title": "Runway Seedance 2.5 上线，支持50角色参考",
+      "url": "https://x.com/runwayml/status/2087251184658657346",
+      "primary_url": "https://x.com/runwayml/status/2087251184658657346",
+      "source": "X：Runway (@runwayml)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
+          "title": "Runway Seedance 2.5 上线，支持50角色参考",
+          "url": "https://x.com/runwayml/status/2087251184658657346",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T18:53:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Runway (@runwayml)"
+      ],
+      "items": [
+        {
+          "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
+          "title": "Runway Seedance 2.5 上线，支持50角色参考",
+          "url": "https://x.com/runwayml/status/2087251184658657346",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T18:53:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8133,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-11T18:53:56Z",
+      "latest_at": "2026-08-11T18:53:56Z",
+      "primary_item": {
+        "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
+        "title": "Runway Seedance 2.5 上线，支持50角色参考",
+        "url": "https://x.com/runwayml/status/2087251184658657346",
+        "source": "X：Runway (@runwayml)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_26d928369bd8",
+      "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+      "url": "https://www.aibase.com/news/30287",
+      "primary_url": "https://www.aibase.com/news/30287",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
+          "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "url": "https://www.aibase.com/news/30287",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T09:12:49.733268Z"
+        },
+        {
+          "id": "183372de777d31ece15c7dbd2b1000028ae0a102",
+          "title": "腾讯发布二季报：模型、AI 产品双线突破，继续加码 AI 投入",
+          "url": "https://www.aibase.com/zh/news/30287",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
+          "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "url": "https://www.aibase.com/news/30287",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T09:12:49.733268Z"
+        },
+        {
+          "id": "183372de777d31ece15c7dbd2b1000028ae0a102",
+          "title": "腾讯发布二季报：模型、AI 产品双线突破，继续加码 AI 投入",
+          "url": "https://www.aibase.com/zh/news/30287",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T09:12:49.733268Z",
+      "latest_at": "2026-08-12T09:12:49.733268Z",
+      "primary_item": {
+        "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
+        "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+        "url": "https://www.aibase.com/news/30287",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1414,15 +1495,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7329,
-      "importance": 0.7329,
-      "importance_score": 0.7329,
+      "score": 0.7297,
+      "importance": 0.7297,
+      "importance_score": 0.7297,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7738,
+        "recency": 0.7562,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1436,66 +1517,6 @@
         "title": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning",
         "url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
         "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3eae35082480",
-      "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
-      "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-      "primary_url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-      "source": "Google Cloud：Databases（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
-          "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
-          "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-          "source": "Google Cloud：Databases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Cloud：Databases（RSS）"
-      ],
-      "items": [
-        {
-          "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
-          "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
-          "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-          "source": "Google Cloud：Databases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7312,
-      "importance": 0.7312,
-      "importance_score": 0.7312,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.798,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T16:00:00Z",
-      "latest_at": "2026-08-11T16:00:00Z",
-      "primary_item": {
-        "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
-        "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
-        "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-        "source": "Google Cloud：Databases（RSS）",
         "source_name": "AI HOT"
       }
     }
