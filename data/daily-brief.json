@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T23:40:56.692766Z",
+  "generated_at": "2026-08-12T02:03:31.556436Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -114,15 +114,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8533,
-      "importance": 0.8533,
-      "importance_score": 0.8533,
+      "score": 0.8478,
+      "importance": 0.8478,
+      "importance_score": 0.8478,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8734,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -195,15 +195,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8524,
-      "importance": 0.8524,
-      "importance_score": 0.8524,
+      "score": 0.8469,
+      "importance": 0.8469,
+      "importance_score": 0.8469,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.908,
+        "recency": 0.8774,
         "story_heat": 0.25
       },
       "category": "official",
@@ -258,15 +258,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8433,
-      "importance": 0.8433,
-      "importance_score": 0.8433,
+      "score": 0.8376,
+      "importance": 0.8376,
+      "importance_score": 0.8376,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9519,
+        "recency": 0.9197,
         "story_heat": 0.0
       },
       "category": "official",
@@ -320,15 +320,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8357,
-      "importance": 0.8357,
-      "importance_score": 0.8357,
+      "score": 0.8304,
+      "importance": 0.8304,
+      "importance_score": 0.8304,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8647,
+        "recency": 0.8356,
         "story_heat": 0.0
       },
       "category": "official",
@@ -382,15 +382,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8277,
-      "importance": 0.8277,
-      "importance_score": 0.8277,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8207,
+        "recency": 0.793,
         "story_heat": 0.0
       },
       "category": "official",
@@ -411,12 +411,21 @@
     },
     {
       "story_id": "story_6cbde97d8260",
-      "title": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487491&idx=1&sn=fcb14aceb054f9a24e22525d3dae6fa0",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487491&idx=1&sn=fcb14aceb054f9a24e22525d3dae6fa0",
-      "source": "公众号：蚂蚁百灵（Ling）",
+      "title": "零基础用户半天上手AI的12步实操流程",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
+      "source": "公众号：数字生命卡兹克",
       "source_name": "AI HOT",
       "sources": [
+        {
+          "id": "d747a416f4c95455fae2ec95897bb170bc08f61c",
+          "title": "零基础用户半天上手AI的12步实操流程",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T00:08:00Z"
+        },
         {
           "id": "f0a6eedb54f0fb1cb79de2bf700485192da8d8b8",
           "title": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
@@ -434,35 +443,25 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-08-11T05:52:25Z"
-        },
-        {
-          "id": "d29517a81457995e790278d11211679f24adbff8",
-          "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T00:12:00Z"
-        },
-        {
-          "id": "75030745d834589c4a52bcf7fd6f2a25e3fcffcd",
-          "title": "机器学习先驱 Daphne Koller 警告：AI 制药不是魔法棒，下一代药物发现还缺 1000 倍数据",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649802403&idx=1&sn=254c02066da402300ef1b7538ef5207a",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
-        "Readhub · AI",
         "公众号：数字生命卡兹克",
         "公众号：智谱（GLM）",
         "公众号：蚂蚁百灵（Ling）"
       ],
       "items": [
         {
+          "id": "d747a416f4c95455fae2ec95897bb170bc08f61c",
+          "title": "零基础用户半天上手AI的12步实操流程",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T00:08:00Z"
+        },
+        {
           "id": "f0a6eedb54f0fb1cb79de2bf700485192da8d8b8",
           "title": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
           "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487491&idx=1&sn=fcb14aceb054f9a24e22525d3dae6fa0",
@@ -479,38 +478,20 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-08-11T05:52:25Z"
-        },
-        {
-          "id": "d29517a81457995e790278d11211679f24adbff8",
-          "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T00:12:00Z"
-        },
-        {
-          "id": "75030745d834589c4a52bcf7fd6f2a25e3fcffcd",
-          "title": "机器学习先驱 Daphne Koller 警告：AI 制药不是魔法棒，下一代药物发现还缺 1000 倍数据",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649802403&idx=1&sn=254c02066da402300ef1b7538ef5207a",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8089,
-      "importance": 0.8089,
-      "importance_score": 0.8089,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8067,
+      "importance": 0.8067,
+      "importance_score": 0.8067,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8128,
-        "story_heat": 0.75
+        "recency": 0.9726,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
@@ -518,13 +499,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-11T00:12:00Z",
-      "latest_at": "2026-08-11T09:20:00Z",
+      "earliest_at": "2026-08-11T05:52:25Z",
+      "latest_at": "2026-08-12T00:08:00Z",
       "primary_item": {
-        "id": "f0a6eedb54f0fb1cb79de2bf700485192da8d8b8",
-        "title": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487491&idx=1&sn=fcb14aceb054f9a24e22525d3dae6fa0",
-        "source": "公众号：蚂蚁百灵（Ling）",
+        "id": "d747a416f4c95455fae2ec95897bb170bc08f61c",
+        "title": "零基础用户半天上手AI的12步实操流程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -563,15 +544,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8384,
-      "importance": 0.8384,
-      "importance_score": 0.8384,
+      "score": 0.8328,
+      "importance": 0.8328,
+      "importance_score": 0.8328,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9243,
+        "recency": 0.8931,
         "story_heat": 0.0
       },
       "category": "official",
@@ -644,15 +625,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
+      "score": 0.8008,
+      "importance": 0.8008,
+      "importance_score": 0.8008,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.944,
+        "recency": 0.9122,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -725,15 +706,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
+      "score": 0.796,
+      "importance": 0.796,
+      "importance_score": 0.796,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9165,
+        "recency": 0.8856,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -750,6 +731,87 @@
         "url": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ebfcdfbe8f7e",
+      "title": "AI 代订健身课反成黑客：自主踢掉排队第一名，澳洲首例智能体网络攻击",
+      "url": "https://www.aibase.com/news/30263",
+      "primary_url": "https://www.aibase.com/news/30263",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6632f29c306cbbb847df823c0b9f5020b8d66c1e",
+          "title": "AI 代订健身课反成黑客：自主踢掉排队第一名，澳洲首例智能体网络攻击",
+          "url": "https://www.aibase.com/news/30263",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T02:03:31.556436Z"
+        },
+        {
+          "id": "deb2fb886b8d760c129ca5aca6da0b65d99efc39",
+          "title": "AI 代订健身课反成黑客：自主踢掉排队第一名，澳洲首例智能体网络攻击",
+          "url": "https://www.aibase.com/zh/news/30263",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6632f29c306cbbb847df823c0b9f5020b8d66c1e",
+          "title": "AI 代订健身课反成黑客：自主踢掉排队第一名，澳洲首例智能体网络攻击",
+          "url": "https://www.aibase.com/news/30263",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T02:03:31.556436Z"
+        },
+        {
+          "id": "deb2fb886b8d760c129ca5aca6da0b65d99efc39",
+          "title": "AI 代订健身课反成黑客：自主踢掉排队第一名，澳洲首例智能体网络攻击",
+          "url": "https://www.aibase.com/zh/news/30263",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T02:03:31.556436Z",
+      "latest_at": "2026-08-12T02:03:31.556436Z",
+      "primary_item": {
+        "id": "6632f29c306cbbb847df823c0b9f5020b8d66c1e",
+        "title": "AI 代订健身课反成黑客：自主踢掉排队第一名，澳洲首例智能体网络攻击",
+        "url": "https://www.aibase.com/news/30263",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -787,15 +849,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8197,
-      "importance": 0.8197,
-      "importance_score": 0.8197,
+      "score": 0.8147,
+      "importance": 0.8147,
+      "importance_score": 0.8147,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8207,
+        "recency": 0.793,
         "story_heat": 0.0
       },
       "category": "official",
@@ -849,15 +911,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8358,
-      "importance": 0.8358,
-      "importance_score": 0.8358,
+      "score": 0.83,
+      "importance": 0.83,
+      "importance_score": 0.83,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9543,
+        "recency": 0.9221,
         "story_heat": 0.0
       },
       "category": "official",
@@ -949,15 +1011,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8017,
-      "importance": 0.8017,
-      "importance_score": 0.8017,
+      "score": 0.7961,
+      "importance": 0.7961,
+      "importance_score": 0.7961,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9286,
+        "recency": 0.8972,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -974,6 +1036,87 @@
         "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_96e9024c1420",
+      "title": "Spotify推出“AI Persona”标签，算法推荐默认排除AI虚拟艺人音乐",
+      "url": "https://www.aibase.com/news/30259",
+      "primary_url": "https://www.aibase.com/news/30259",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0351625976523e05fe86b05c20869b00986397ae",
+          "title": "Spotify推出“AI Persona”标签，算法推荐默认排除AI虚拟艺人音乐",
+          "url": "https://www.aibase.com/news/30259",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T02:03:31.556436Z"
+        },
+        {
+          "id": "0f388d373d4c7c7b19910499f3eb511ad61a16a6",
+          "title": "Spotify 推出「AI Persona」标签，默认排除 AI 虚拟艺人音乐",
+          "url": "https://www.aibase.com/zh/news/30259",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0351625976523e05fe86b05c20869b00986397ae",
+          "title": "Spotify推出“AI Persona”标签，算法推荐默认排除AI虚拟艺人音乐",
+          "url": "https://www.aibase.com/news/30259",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T02:03:31.556436Z"
+        },
+        {
+          "id": "0f388d373d4c7c7b19910499f3eb511ad61a16a6",
+          "title": "Spotify 推出「AI Persona」标签，默认排除 AI 虚拟艺人音乐",
+          "url": "https://www.aibase.com/zh/news/30259",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T02:03:31.556436Z",
+      "latest_at": "2026-08-12T02:03:31.556436Z",
+      "primary_item": {
+        "id": "0351625976523e05fe86b05c20869b00986397ae",
+        "title": "Spotify推出“AI Persona”标签，算法推荐默认排除AI虚拟艺人音乐",
+        "url": "https://www.aibase.com/news/30259",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1011,15 +1154,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9081,
+        "recency": 0.8775,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1035,87 +1178,6 @@
         "url": "https://x.com/sundarpichai/status/2087222656819241292",
         "source": "X：Sundar Pichai (@sundarpichai)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_551983c0675b",
-      "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-      "url": "https://www.aibase.com/news/30253",
-      "primary_url": "https://www.aibase.com/news/30253",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a5f0a62d8324bb17101b64fe498e5962ae4b8f30",
-          "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-          "url": "https://www.aibase.com/news/30253",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T10:05:49.470247Z"
-        },
-        {
-          "id": "e8592ed6992b968a8ef612f646d800d5e57e1068",
-          "title": "Anthropic 为 Claude 输出嵌入隐形水印，AI 内容溯源时代开启",
-          "url": "https://www.aibase.com/zh/news/30253",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "a5f0a62d8324bb17101b64fe498e5962ae4b8f30",
-          "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-          "url": "https://www.aibase.com/news/30253",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T10:05:49.470247Z"
-        },
-        {
-          "id": "e8592ed6992b968a8ef612f646d800d5e57e1068",
-          "title": "Anthropic 为 Claude 输出嵌入隐形水印，AI 内容溯源时代开启",
-          "url": "https://www.aibase.com/zh/news/30253",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8219,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T10:05:49.470247Z",
-      "latest_at": "2026-08-11T10:05:49.470247Z",
-      "primary_item": {
-        "id": "a5f0a62d8324bb17101b64fe498e5962ae4b8f30",
-        "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-        "url": "https://www.aibase.com/news/30253",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1153,21 +1215,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7556,
-      "importance": 0.7556,
-      "importance_score": 0.7556,
+      "score": 0.7499,
+      "importance": 0.7499,
+      "importance_score": 0.7499,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9333,
+        "recency": 0.9018,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-11T18:53:56Z",
       "latest_at": "2026-08-11T18:53:56Z",
@@ -1214,21 +1275,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7552,
-      "importance": 0.7552,
-      "importance_score": 0.7552,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8809,
+        "recency": 0.8512,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-11T14:54:16Z",
       "latest_at": "2026-08-11T14:54:16Z",
@@ -1275,21 +1335,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8571,
+        "recency": 0.8282,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-11T13:00:25Z",
       "latest_at": "2026-08-11T13:00:25Z",
@@ -1355,22 +1414,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7718,
+        "recency": 0.7458,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-11T05:44:38Z",
       "latest_at": "2026-08-11T05:44:38Z",
@@ -1417,15 +1475,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
+      "score": 0.7445,
+      "importance": 0.7445,
+      "importance_score": 0.7445,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8678,
+        "recency": 0.8385,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1439,66 +1497,6 @@
         "title": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning",
         "url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
         "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3eae35082480",
-      "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
-      "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-      "primary_url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-      "source": "Google Cloud：Databases（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
-          "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
-          "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-          "source": "Google Cloud：Databases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Cloud：Databases（RSS）"
-      ],
-      "items": [
-        {
-          "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
-          "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
-          "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-          "source": "Google Cloud：Databases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7487,
-      "importance": 0.7487,
-      "importance_score": 0.7487,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.895,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T16:00:00Z",
-      "latest_at": "2026-08-11T16:00:00Z",
-      "primary_item": {
-        "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
-        "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
-        "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-        "source": "Google Cloud：Databases（RSS）",
         "source_name": "AI HOT"
       }
     }
