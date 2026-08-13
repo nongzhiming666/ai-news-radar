@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T05:57:38.480986Z",
+  "generated_at": "2026-08-13T07:45:23.462956Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8527,
-      "importance": 0.8527,
-      "importance_score": 0.8527,
+      "score": 0.8489,
+      "importance": 0.8489,
+      "importance_score": 0.8489,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8203,
+        "recency": 0.7993,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8337,
-      "importance": 0.8337,
-      "importance_score": 0.8337,
+      "score": 0.8297,
+      "importance": 0.8297,
+      "importance_score": 0.8297,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8536,
+        "recency": 0.8318,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8249,
-      "importance": 0.8249,
-      "importance_score": 0.8249,
+      "score": 0.821,
+      "importance": 0.821,
+      "importance_score": 0.821,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8493,
+        "recency": 0.8276,
         "story_heat": 0.0
       },
       "category": "official",
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.807,
-      "importance": 0.807,
-      "importance_score": 0.807,
+      "score": 0.8034,
+      "importance": 0.8034,
+      "importance_score": 0.8034,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7945,
+        "recency": 0.7742,
         "story_heat": 0.0
       },
       "category": "official",
@@ -268,68 +268,6 @@
         "title": "将手语人工智能交到用户手中 / Putting sign language AI into users’ hands",
         "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
         "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fb21820d806b",
-      "title": "从协助到执行：企业如何让AI发挥作用 / From assistance to execution: How enterprises put AI to work",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "primary_url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "760b01fd6fce24599e5011d7b6fc5d0faa66258d",
-          "title": "从协助到执行：企业如何让AI发挥作用 / From assistance to execution: How enterprises put AI to work",
-          "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T06:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "760b01fd6fce24599e5011d7b6fc5d0faa66258d",
-          "title": "从协助到执行：企业如何让AI发挥作用 / From assistance to execution: How enterprises put AI to work",
-          "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T06:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7994,
-      "importance": 0.7994,
-      "importance_score": 0.7994,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7075,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T06:00:00Z",
-      "latest_at": "2026-08-12T06:00:00Z",
-      "primary_item": {
-        "id": "760b01fd6fce24599e5011d7b6fc5d0faa66258d",
-        "title": "从协助到执行：企业如何让AI发挥作用 / From assistance to execution: How enterprises put AI to work",
-        "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -368,15 +306,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.829,
-      "importance": 0.829,
-      "importance_score": 0.829,
+      "score": 0.8253,
+      "importance": 0.8253,
+      "importance_score": 0.8253,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7943,
+        "recency": 0.774,
         "story_heat": 0.0
       },
       "category": "official",
@@ -396,26 +334,26 @@
       }
     },
     {
-      "story_id": "story_73c748e56062",
-      "title": "AI编程独角兽迎来爆发：Cognition传正洽谈新一轮融资，估值或达 400 亿美元",
-      "url": "https://www.aibase.com/news/30309",
-      "primary_url": "https://www.aibase.com/news/30309",
+      "story_id": "story_b650bb1e15d8",
+      "title": "谷歌DeepMind发布SL2T，手语AI首次进入消费级手机",
+      "url": "https://www.aibase.com/news/30314",
+      "primary_url": "https://www.aibase.com/news/30314",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6971695ec11a5b6c16e23403816651f3b26667fb",
-          "title": "AI编程独角兽迎来爆发：Cognition传正洽谈新一轮融资，估值或达 400 亿美元",
-          "url": "https://www.aibase.com/news/30309",
+          "id": "0d65dabdbfcb418e14c0131395b99c6a206cc765",
+          "title": "谷歌DeepMind发布SL2T，手语AI首次进入消费级手机",
+          "url": "https://www.aibase.com/news/30314",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-13T04:25:28.107706Z"
+          "published_at": "2026-08-13T07:45:23.462956Z"
         },
         {
-          "id": "31416a34095dd1da34ac067cd22b06c64b612daa",
-          "title": "AI 编程独角兽 Cognition 洽谈新一轮融资，估值或达 400 亿美元",
-          "url": "https://www.aibase.com/zh/news/30309",
+          "id": "f58683d07042bbbb40aa65ebdc42e5879ba18b08",
+          "title": "谷歌 DeepMind 发布 SL2T，手语 AI 首次进入消费级手机",
+          "url": "https://www.aibase.com/zh/news/30314",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -429,18 +367,18 @@
       ],
       "items": [
         {
-          "id": "6971695ec11a5b6c16e23403816651f3b26667fb",
-          "title": "AI编程独角兽迎来爆发：Cognition传正洽谈新一轮融资，估值或达 400 亿美元",
-          "url": "https://www.aibase.com/news/30309",
+          "id": "0d65dabdbfcb418e14c0131395b99c6a206cc765",
+          "title": "谷歌DeepMind发布SL2T，手语AI首次进入消费级手机",
+          "url": "https://www.aibase.com/news/30314",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-13T04:25:28.107706Z"
+          "published_at": "2026-08-13T07:45:23.462956Z"
         },
         {
-          "id": "31416a34095dd1da34ac067cd22b06c64b612daa",
-          "title": "AI 编程独角兽 Cognition 洽谈新一轮融资，估值或达 400 亿美元",
-          "url": "https://www.aibase.com/zh/news/30309",
+          "id": "f58683d07042bbbb40aa65ebdc42e5879ba18b08",
+          "title": "谷歌 DeepMind 发布 SL2T，手语 AI 首次进入消费级手机",
+          "url": "https://www.aibase.com/zh/news/30314",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -449,15 +387,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7887,
-      "importance": 0.7887,
-      "importance_score": 0.7887,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9781,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -466,12 +404,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-13T04:25:28.107706Z",
-      "latest_at": "2026-08-13T04:25:28.107706Z",
+      "earliest_at": "2026-08-13T07:45:23.462956Z",
+      "latest_at": "2026-08-13T07:45:23.462956Z",
       "primary_item": {
-        "id": "6971695ec11a5b6c16e23403816651f3b26667fb",
-        "title": "AI编程独角兽迎来爆发：Cognition传正洽谈新一轮融资，估值或达 400 亿美元",
-        "url": "https://www.aibase.com/news/30309",
+        "id": "0d65dabdbfcb418e14c0131395b99c6a206cc765",
+        "title": "谷歌DeepMind发布SL2T，手语AI首次进入消费级手机",
+        "url": "https://www.aibase.com/news/30314",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -511,15 +449,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8166,
-      "importance": 0.8166,
-      "importance_score": 0.8166,
+      "score": 0.8127,
+      "importance": 0.8127,
+      "importance_score": 0.8127,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8476,
+        "recency": 0.8259,
         "story_heat": 0.0
       },
       "category": "official",
@@ -573,15 +511,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.777,
-      "importance": 0.777,
-      "importance_score": 0.777,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9356,
+        "recency": 0.9116,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -652,15 +590,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9797,
+        "recency": 0.9546,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -676,6 +614,348 @@
         "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
         "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
         "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e386e6d144f0",
+      "title": "韩国AI新王Solar Pro 4登场，直接硬刚全球顶尖大模型？",
+      "url": "https://www.aibase.com/news/30315",
+      "primary_url": "https://www.aibase.com/news/30315",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "02d1737118f0460395a90ac4c78bd45e50b038b8",
+          "title": "韩国AI新王Solar Pro 4登场，直接硬刚全球顶尖大模型？",
+          "url": "https://www.aibase.com/news/30315",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T07:45:23.462956Z"
+        },
+        {
+          "id": "9a2898d32ee03748ca8e8397c48a396d0e7cc277",
+          "title": "韩国 AI 新王 Solar Pro 4 登场，直接硬刚全球顶尖大模型？",
+          "url": "https://www.aibase.com/zh/news/30315",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "02d1737118f0460395a90ac4c78bd45e50b038b8",
+          "title": "韩国AI新王Solar Pro 4登场，直接硬刚全球顶尖大模型？",
+          "url": "https://www.aibase.com/news/30315",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T07:45:23.462956Z"
+        },
+        {
+          "id": "9a2898d32ee03748ca8e8397c48a396d0e7cc277",
+          "title": "韩国 AI 新王 Solar Pro 4 登场，直接硬刚全球顶尖大模型？",
+          "url": "https://www.aibase.com/zh/news/30315",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T07:45:23.462956Z",
+      "latest_at": "2026-08-13T07:45:23.462956Z",
+      "primary_item": {
+        "id": "02d1737118f0460395a90ac4c78bd45e50b038b8",
+        "title": "韩国AI新王Solar Pro 4登场，直接硬刚全球顶尖大模型？",
+        "url": "https://www.aibase.com/news/30315",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f23f549d42d2",
+      "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+      "url": "https://www.ithome.com/0/989/001.htm",
+      "primary_url": "https://www.ithome.com/0/989/001.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6ac7ca081eff008390b2045aa33b5cf28a8d2efc",
+          "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+          "url": "https://www.ithome.com/0/989/001.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T16:10:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6ac7ca081eff008390b2045aa33b5cf28a8d2efc",
+          "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+          "url": "https://www.ithome.com/0/989/001.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T16:10:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7984,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T16:10:01Z",
+      "latest_at": "2026-08-12T16:10:01Z",
+      "primary_item": {
+        "id": "6ac7ca081eff008390b2045aa33b5cf28a8d2efc",
+        "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+        "url": "https://www.ithome.com/0/989/001.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_73c748e56062",
+      "title": "AI编程独角兽迎来爆发：Cognition传正洽谈新一轮融资，估值或达 400 亿美元",
+      "url": "https://www.aibase.com/news/30309",
+      "primary_url": "https://www.aibase.com/news/30309",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6971695ec11a5b6c16e23403816651f3b26667fb",
+          "title": "AI编程独角兽迎来爆发：Cognition传正洽谈新一轮融资，估值或达 400 亿美元",
+          "url": "https://www.aibase.com/news/30309",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T04:25:28.107706Z"
+        },
+        {
+          "id": "31416a34095dd1da34ac067cd22b06c64b612daa",
+          "title": "AI 编程独角兽 Cognition 洽谈新一轮融资，估值或达 400 亿美元",
+          "url": "https://www.aibase.com/zh/news/30309",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6971695ec11a5b6c16e23403816651f3b26667fb",
+          "title": "AI编程独角兽迎来爆发：Cognition传正洽谈新一轮融资，估值或达 400 亿美元",
+          "url": "https://www.aibase.com/news/30309",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T04:25:28.107706Z"
+        },
+        {
+          "id": "31416a34095dd1da34ac067cd22b06c64b612daa",
+          "title": "AI 编程独角兽 Cognition 洽谈新一轮融资，估值或达 400 亿美元",
+          "url": "https://www.aibase.com/zh/news/30309",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7841,
+      "importance": 0.7841,
+      "importance_score": 0.7841,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.953,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T04:25:28.107706Z",
+      "latest_at": "2026-08-13T04:25:28.107706Z",
+      "primary_item": {
+        "id": "6971695ec11a5b6c16e23403816651f3b26667fb",
+        "title": "AI编程独角兽迎来爆发：Cognition传正洽谈新一轮融资，估值或达 400 亿美元",
+        "url": "https://www.aibase.com/news/30309",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e1122cbc7d4a",
+      "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
+      "url": "https://x.com/OpenRouter/status/2087509478480765218",
+      "primary_url": "https://x.com/OpenRouter/status/2087509478480765218",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "70eab17d09da8c59da57f9d9c3e922bcdc8b41b4",
+          "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
+          "url": "https://x.com/OpenRouter/status/2087509478480765218",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T12:00:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "70eab17d09da8c59da57f9d9c3e922bcdc8b41b4",
+          "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
+          "url": "https://x.com/OpenRouter/status/2087509478480765218",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T12:00:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7229,
+      "importance": 0.7229,
+      "importance_score": 0.7229,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7518,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T12:00:18Z",
+      "latest_at": "2026-08-12T12:00:18Z",
+      "primary_item": {
+        "id": "70eab17d09da8c59da57f9d9c3e922bcdc8b41b4",
+        "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
+        "url": "https://x.com/OpenRouter/status/2087509478480765218",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6acbb8c7572b",
+      "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
+      "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+      "primary_url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+      "source": "GitHub Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "db8cb1b09708503077cd0ebbc7d6809608eee5d2",
+          "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
+          "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T18:00:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "db8cb1b09708503077cd0ebbc7d6809608eee5d2",
+          "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
+          "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T18:00:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7202,
+      "importance": 0.7202,
+      "importance_score": 0.7202,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8199,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T18:00:08Z",
+      "latest_at": "2026-08-12T18:00:08Z",
+      "primary_item": {
+        "id": "db8cb1b09708503077cd0ebbc7d6809608eee5d2",
+        "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
+        "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+        "source": "GitHub Blog",
         "source_name": "AI HOT"
       }
     },
@@ -733,15 +1013,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7887,
-      "importance": 0.7887,
-      "importance_score": 0.7887,
+      "score": 0.7841,
+      "importance": 0.7841,
+      "importance_score": 0.7841,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9781,
+        "recency": 0.953,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -758,246 +1038,6 @@
         "url": "https://www.aibase.com/news/30303",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f23f549d42d2",
-      "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
-      "url": "https://www.ithome.com/0/989/001.htm",
-      "primary_url": "https://www.ithome.com/0/989/001.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6ac7ca081eff008390b2045aa33b5cf28a8d2efc",
-          "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
-          "url": "https://www.ithome.com/0/989/001.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T16:10:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6ac7ca081eff008390b2045aa33b5cf28a8d2efc",
-          "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
-          "url": "https://www.ithome.com/0/989/001.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T16:10:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8194,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T16:10:01Z",
-      "latest_at": "2026-08-12T16:10:01Z",
-      "primary_item": {
-        "id": "6ac7ca081eff008390b2045aa33b5cf28a8d2efc",
-        "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
-        "url": "https://www.ithome.com/0/989/001.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e1122cbc7d4a",
-      "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
-      "url": "https://x.com/OpenRouter/status/2087509478480765218",
-      "primary_url": "https://x.com/OpenRouter/status/2087509478480765218",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "70eab17d09da8c59da57f9d9c3e922bcdc8b41b4",
-          "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
-          "url": "https://x.com/OpenRouter/status/2087509478480765218",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T12:00:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "70eab17d09da8c59da57f9d9c3e922bcdc8b41b4",
-          "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
-          "url": "https://x.com/OpenRouter/status/2087509478480765218",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T12:00:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7265,
-      "importance": 0.7265,
-      "importance_score": 0.7265,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7716,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T12:00:18Z",
-      "latest_at": "2026-08-12T12:00:18Z",
-      "primary_item": {
-        "id": "70eab17d09da8c59da57f9d9c3e922bcdc8b41b4",
-        "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
-        "url": "https://x.com/OpenRouter/status/2087509478480765218",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6acbb8c7572b",
-      "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
-      "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
-      "primary_url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
-      "source": "GitHub Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "db8cb1b09708503077cd0ebbc7d6809608eee5d2",
-          "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
-          "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T18:00:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "db8cb1b09708503077cd0ebbc7d6809608eee5d2",
-          "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
-          "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T18:00:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7241,
-      "importance": 0.7241,
-      "importance_score": 0.7241,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8414,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T18:00:08Z",
-      "latest_at": "2026-08-12T18:00:08Z",
-      "primary_item": {
-        "id": "db8cb1b09708503077cd0ebbc7d6809608eee5d2",
-        "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
-        "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
-        "source": "GitHub Blog",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_722d2c551110",
-      "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
-      "url": "https://claude.com/blog/cowork-chrome-side-panel",
-      "primary_url": "https://claude.com/blog/cowork-chrome-side-panel",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fc9380064c748bd843a4ec5431d78b939970f548",
-          "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
-          "url": "https://claude.com/blog/cowork-chrome-side-panel",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T20:15:51.977000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "fc9380064c748bd843a4ec5431d78b939970f548",
-          "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
-          "url": "https://claude.com/blog/cowork-chrome-side-panel",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T20:15:51.977000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7231,
-      "importance": 0.7231,
-      "importance_score": 0.7231,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8693,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T20:15:51.977000Z",
-      "latest_at": "2026-08-12T20:15:51.977000Z",
-      "primary_item": {
-        "id": "fc9380064c748bd843a4ec5431d78b939970f548",
-        "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
-        "url": "https://claude.com/blog/cowork-chrome-side-panel",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1054,15 +1094,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7828,
-      "importance": 0.7828,
-      "importance_score": 0.7828,
+      "score": 0.7785,
+      "importance": 0.7785,
+      "importance_score": 0.7785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9457,
+        "recency": 0.9215,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1079,66 +1119,6 @@
         "url": "https://www.aibase.com/news/30297",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_067c31e6e8fd",
-      "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
-      "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
-      "primary_url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
-      "source": "Google Research：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1f941023a37e199732fe7e4052e7401ca80f500b",
-          "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
-          "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
-          "source": "Google Research：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T17:57:36.369000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Research：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "1f941023a37e199732fe7e4052e7401ca80f500b",
-          "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
-          "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
-          "source": "Google Research：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T17:57:36.369000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.721,
-      "importance": 0.721,
-      "importance_score": 0.721,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8409,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T17:57:36.369000Z",
-      "latest_at": "2026-08-12T17:57:36.369000Z",
-      "primary_item": {
-        "id": "1f941023a37e199732fe7e4052e7401ca80f500b",
-        "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
-        "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
-        "source": "Google Research：Blog（网页）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1195,15 +1175,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7828,
-      "importance": 0.7828,
-      "importance_score": 0.7828,
+      "score": 0.7785,
+      "importance": 0.7785,
+      "importance_score": 0.7785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9457,
+        "recency": 0.9215,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1220,6 +1200,85 @@
         "url": "https://www.aibase.com/news/30294",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_77da1d8caea4",
+      "title": "Made by Google ’26 宣布的所有内容：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能 / Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+      "primary_url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "3392d53d8e320f02171fbe08d83c8e0a085008e0",
+          "title": "Made by Google ’26 宣布的所有内容：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能 / Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-12T14:20:33Z"
+        },
+        {
+          "id": "714bbdc216ff742f3bf981a7ea6ba25f3ad209a0",
+          "title": "谷歌在 Made by Google 2026 上推出 Pixel 11 系列、新的 AirTag 竞争对手以及 Gemini 功能 / Google unveils Pixel 11 lineup, new AirTag rival, and Gemini features at Made by Google 2026",
+          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T14:20:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "3392d53d8e320f02171fbe08d83c8e0a085008e0",
+          "title": "Made by Google ’26 宣布的所有内容：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能 / Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-12T14:20:33Z"
+        },
+        {
+          "id": "714bbdc216ff742f3bf981a7ea6ba25f3ad209a0",
+          "title": "谷歌在 Made by Google 2026 上推出 Pixel 11 系列、新的 AirTag 竞争对手以及 Gemini 功能 / Google unveils Pixel 11 lineup, new AirTag rival, and Gemini features at Made by Google 2026",
+          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T14:20:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6212,
+      "importance": 0.6212,
+      "importance_score": 0.6212,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5688,
+        "source_tier": 0.58,
+        "ai_relevance": 0.79,
+        "recency": 0.7777,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-12T14:20:33Z",
+      "latest_at": "2026-08-12T14:20:33Z",
+      "primary_item": {
+        "id": "3392d53d8e320f02171fbe08d83c8e0a085008e0",
+        "title": "Made by Google ’26 宣布的所有内容：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能 / Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+        "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -1276,15 +1335,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7828,
-      "importance": 0.7828,
-      "importance_score": 0.7828,
+      "score": 0.7785,
+      "importance": 0.7785,
+      "importance_score": 0.7785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9457,
+        "recency": 0.9215,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1304,84 +1363,136 @@
       }
     },
     {
-      "story_id": "story_2f79905133b3",
-      "title": "荣耀Robot Phone全球发布：搭载Agentic OS与全新YOYO Pro，开启多模态智能新体验",
-      "url": "https://www.aibase.com/news/30299",
-      "primary_url": "https://www.aibase.com/news/30299",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_09c973eccd6b",
+      "title": "CoreWeave财报提振市场对人工智能的乐观情绪，标普500指数收高",
+      "url": "https://www.reuters.com/business/wall-st-futures-tick-up-heading-into-july-inflation-data-2026-08-12",
+      "primary_url": "https://www.reuters.com/business/wall-st-futures-tick-up-heading-into-july-inflation-data-2026-08-12",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "239e9537832e32cf93a6c548060cbae4af7473a6",
-          "title": "荣耀Robot Phone全球发布：搭载Agentic OS与全新YOYO Pro，开启多模态智能新体验",
-          "url": "https://www.aibase.com/news/30299",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T02:05:34.863617Z"
+          "id": "ffb66327713cddc8394d535037095b048523efa8",
+          "title": "CoreWeave财报提振市场对人工智能的乐观情绪，标普500指数收高",
+          "url": "https://www.reuters.com/business/wall-st-futures-tick-up-heading-into-july-inflation-data-2026-08-12",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-12T20:20:18.427000Z"
         },
         {
-          "id": "f7bdae8a940aad671b1f7c462e70f354a933cabd",
-          "title": "荣耀 Robot Phone 全球发布：搭载 Agentic OS 与全新 YOYO Pro，开启多模态智能新体验",
-          "url": "https://www.aibase.com/zh/news/30299",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "44ed6459c69e710be210a6f0fb308ac2a187cbc1",
+          "title": "CoreWeave财报提振人工智能市场乐观情绪，标普500指数上涨",
+          "url": "https://www.reuters.com/business/wall-st-futures-tick-up-heading-into-july-inflation-data-2026-08-12",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-12T18:44:22.780000Z"
+        },
+        {
+          "id": "da16743d52f9e851dba28208ed976256336f95f3",
+          "title": "人工智能板块强劲的财报提振标普500指数和纳斯达克指数，通胀数据缓解了市场对加息的担忧",
+          "url": "https://www.reuters.com/business/wall-st-futures-tick-up-heading-into-july-inflation-data-2026-08-12",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-12T16:36:27.575000Z"
+        },
+        {
+          "id": "e02673142b2b23a3d2779d5ef529ca0e28112d25",
+          "title": "受人工智能企业财报提振科技股走高，通胀数据支撑市场对维持利率不变的预期，华尔街股市上涨 - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-12T14:28:07.057000Z"
+        },
+        {
+          "id": "9dcecfeeb4a85826587836cd86d2658355ab76e3",
+          "title": "受人工智能企业财报提振科技股走高，通胀数据支撑市场对维持利率不变的预期，华尔街股市上涨",
+          "url": "https://www.reuters.com/business/wall-st-futures-tick-up-heading-into-july-inflation-data-2026-08-12",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-12T14:12:26.376000Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 5,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "news.google.com",
+        "www.reuters.com"
       ],
       "items": [
         {
-          "id": "239e9537832e32cf93a6c548060cbae4af7473a6",
-          "title": "荣耀Robot Phone全球发布：搭载Agentic OS与全新YOYO Pro，开启多模态智能新体验",
-          "url": "https://www.aibase.com/news/30299",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T02:05:34.863617Z"
+          "id": "ffb66327713cddc8394d535037095b048523efa8",
+          "title": "CoreWeave财报提振市场对人工智能的乐观情绪，标普500指数收高",
+          "url": "https://www.reuters.com/business/wall-st-futures-tick-up-heading-into-july-inflation-data-2026-08-12",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-12T20:20:18.427000Z"
         },
         {
-          "id": "f7bdae8a940aad671b1f7c462e70f354a933cabd",
-          "title": "荣耀 Robot Phone 全球发布：搭载 Agentic OS 与全新 YOYO Pro，开启多模态智能新体验",
-          "url": "https://www.aibase.com/zh/news/30299",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "44ed6459c69e710be210a6f0fb308ac2a187cbc1",
+          "title": "CoreWeave财报提振人工智能市场乐观情绪，标普500指数上涨",
+          "url": "https://www.reuters.com/business/wall-st-futures-tick-up-heading-into-july-inflation-data-2026-08-12",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-12T18:44:22.780000Z"
+        },
+        {
+          "id": "da16743d52f9e851dba28208ed976256336f95f3",
+          "title": "人工智能板块强劲的财报提振标普500指数和纳斯达克指数，通胀数据缓解了市场对加息的担忧",
+          "url": "https://www.reuters.com/business/wall-st-futures-tick-up-heading-into-july-inflation-data-2026-08-12",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-12T16:36:27.575000Z"
+        },
+        {
+          "id": "e02673142b2b23a3d2779d5ef529ca0e28112d25",
+          "title": "受人工智能企业财报提振科技股走高，通胀数据支撑市场对维持利率不变的预期，华尔街股市上涨 - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-12T14:28:07.057000Z"
+        },
+        {
+          "id": "9dcecfeeb4a85826587836cd86d2658355ab76e3",
+          "title": "受人工智能企业财报提振科技股走高，通胀数据支撑市场对维持利率不变的预期，华尔街股市上涨",
+          "url": "https://www.reuters.com/business/wall-st-futures-tick-up-heading-into-july-inflation-data-2026-08-12",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-12T14:12:26.376000Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7828,
-      "importance": 0.7828,
-      "importance_score": 0.7828,
-      "importance_label": "行业动态",
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.5934,
+      "importance": 0.5934,
+      "importance_score": 0.5934,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9457,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.848,
+        "story_heat": 1.0
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-13T02:05:34.863617Z",
-      "latest_at": "2026-08-13T02:05:34.863617Z",
+      "earliest_at": "2026-08-12T14:12:26.376000Z",
+      "latest_at": "2026-08-12T20:20:18.427000Z",
       "primary_item": {
-        "id": "239e9537832e32cf93a6c548060cbae4af7473a6",
-        "title": "荣耀Robot Phone全球发布：搭载Agentic OS与全新YOYO Pro，开启多模态智能新体验",
-        "url": "https://www.aibase.com/news/30299",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "ffb66327713cddc8394d535037095b048523efa8",
+        "title": "CoreWeave财报提振市场对人工智能的乐观情绪，标普500指数收高",
+        "url": "https://www.reuters.com/business/wall-st-futures-tick-up-heading-into-july-inflation-data-2026-08-12",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing"
       }
     }
   ]
