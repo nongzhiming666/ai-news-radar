@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T13:14:08.543124Z",
+  "generated_at": "2026-08-13T15:59:52.416711Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8379,
-      "importance": 0.8379,
-      "importance_score": 0.8379,
+      "score": 0.8327,
+      "importance": 0.8327,
+      "importance_score": 0.8327,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7385,
+        "recency": 0.7096,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8183,
-      "importance": 0.8183,
-      "importance_score": 0.8183,
+      "score": 0.8129,
+      "importance": 0.8129,
+      "importance_score": 0.8129,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7685,
+        "recency": 0.7384,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,15 +219,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8183,
-      "importance": 0.8183,
-      "importance_score": 0.8183,
+      "score": 0.8116,
+      "importance": 0.8116,
+      "importance_score": 0.8116,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9541,
+        "recency": 0.9168,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -281,15 +281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8096,
-      "importance": 0.8096,
-      "importance_score": 0.8096,
+      "score": 0.8043,
+      "importance": 0.8043,
+      "importance_score": 0.8043,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7646,
+        "recency": 0.7347,
         "story_heat": 0.0
       },
       "category": "official",
@@ -305,68 +305,6 @@
         "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
         "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_9c2d2be8f210",
-      "title": "将手语人工智能交到用户手中 / Putting sign language AI into users’ hands",
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
-      "primary_url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f4b3d51450affd47eb9faf2cd2b42e2d79128492",
-          "title": "将手语人工智能交到用户手中 / Putting sign language AI into users’ hands",
-          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T14:01:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "f4b3d51450affd47eb9faf2cd2b42e2d79128492",
-          "title": "将手语人工智能交到用户手中 / Putting sign language AI into users’ hands",
-          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T14:01:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7928,
-      "importance": 0.7928,
-      "importance_score": 0.7928,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7153,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T14:01:59Z",
-      "latest_at": "2026-08-12T14:01:59Z",
-      "primary_item": {
-        "id": "f4b3d51450affd47eb9faf2cd2b42e2d79128492",
-        "title": "将手语人工智能交到用户手中 / Putting sign language AI into users’ hands",
-        "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
-        "source": "Google DeepMind",
         "source_name": "Official AI Updates"
       }
     },
@@ -405,15 +343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7896,
-      "importance": 0.7896,
-      "importance_score": 0.7896,
+      "score": 0.7827,
+      "importance": 0.7827,
+      "importance_score": 0.7827,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9721,
+        "recency": 0.9341,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -485,15 +423,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7859,
-      "importance": 0.7859,
-      "importance_score": 0.7859,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9627,
+        "recency": 0.9251,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -510,68 +448,6 @@
         "url": "https://www.aibase.com/news/30324",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ab799e9da743",
-      "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
-          "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T14:00:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
-          "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T14:00:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8147,
-      "importance": 0.8147,
-      "importance_score": 0.8147,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7151,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T14:00:51Z",
-      "latest_at": "2026-08-12T14:00:51Z",
-      "primary_item": {
-        "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
-        "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -609,15 +485,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8013,
-      "importance": 0.8013,
-      "importance_score": 0.8013,
+      "score": 0.796,
+      "importance": 0.796,
+      "importance_score": 0.796,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.763,
+        "recency": 0.7332,
         "story_heat": 0.0
       },
       "category": "official",
@@ -671,15 +547,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7602,
-      "importance": 0.7602,
-      "importance_score": 0.7602,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8423,
+        "recency": 0.8093,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -694,6 +570,66 @@
         "title": "新兴多智能体系统的模式与问题",
         "url": "https://www.anthropic.com/research/multiagent-systems",
         "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_000c9efd5260",
+      "title": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线",
+      "url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
+      "primary_url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
+      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "57f7ab398e64890a13536741b20d63a15c0e39b7",
+          "title": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线",
+          "url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
+          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T14:04:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
+      ],
+      "items": [
+        {
+          "id": "57f7ab398e64890a13536741b20d63a15c0e39b7",
+          "title": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线",
+          "url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
+          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T14:04:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9727,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-13T14:04:55Z",
+      "latest_at": "2026-08-13T14:04:55Z",
+      "primary_item": {
+        "id": "57f7ab398e64890a13536741b20d63a15c0e39b7",
+        "title": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线",
+        "url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
+        "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
         "source_name": "AI HOT"
       }
     },
@@ -751,15 +687,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7825,
-      "importance": 0.7825,
-      "importance_score": 0.7825,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9437,
+        "recency": 0.9068,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -776,6 +712,66 @@
         "url": "https://www.aibase.com/news/30318",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_91f58f322619",
+      "title": "DeepSeek Harness v0.1 开发者预览版发布",
+      "url": "https://x.com/deepseek_ai/status/2087887408440164663",
+      "primary_url": "https://x.com/deepseek_ai/status/2087887408440164663",
+      "source": "X：DeepSeek (@deepseek_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9aa1f77870378fce819e68417a2cf8492851a4b7",
+          "title": "DeepSeek Harness v0.1 开发者预览版发布",
+          "url": "https://x.com/deepseek_ai/status/2087887408440164663",
+          "source": "X：DeepSeek (@deepseek_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T13:02:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：DeepSeek (@deepseek_ai)"
+      ],
+      "items": [
+        {
+          "id": "9aa1f77870378fce819e68417a2cf8492851a4b7",
+          "title": "DeepSeek Harness v0.1 开发者预览版发布",
+          "url": "https://x.com/deepseek_ai/status/2087887408440164663",
+          "source": "X：DeepSeek (@deepseek_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T13:02:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9581,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-13T13:02:03Z",
+      "latest_at": "2026-08-13T13:02:03Z",
+      "primary_item": {
+        "id": "9aa1f77870378fce819e68417a2cf8492851a4b7",
+        "title": "DeepSeek Harness v0.1 开发者预览版发布",
+        "url": "https://x.com/deepseek_ai/status/2087887408440164663",
+        "source": "X：DeepSeek (@deepseek_ai)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -813,15 +809,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
+      "score": 0.7212,
+      "importance": 0.7212,
+      "importance_score": 0.7212,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7377,
+        "recency": 0.7088,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -892,15 +888,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7825,
-      "importance": 0.7825,
-      "importance_score": 0.7825,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9437,
+        "recency": 0.9068,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -973,15 +969,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7825,
-      "importance": 0.7825,
-      "importance_score": 0.7825,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9437,
+        "recency": 0.9068,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1054,15 +1050,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9239,
+        "recency": 0.8878,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1135,15 +1131,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6391,
-      "importance": 0.6391,
-      "importance_score": 0.6391,
+      "score": 0.6334,
+      "importance": 0.6334,
+      "importance_score": 0.6334,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.8077,
+        "recency": 0.7761,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1215,15 +1211,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9239,
+        "recency": 0.8878,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1296,15 +1292,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9239,
+        "recency": 0.8878,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1414,15 +1410,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5892,
-      "importance": 0.5892,
-      "importance_score": 0.5892,
+      "score": 0.5824,
+      "importance": 0.5824,
+      "importance_score": 0.5824,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9634,
+        "recency": 0.9257,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1440,138 +1436,100 @@
       }
     },
     {
-      "story_id": "story_52fa033e5f1f",
-      "title": "人工智能正在消除软件工程的中产阶级？ / AI is removing the middle class of software engineering?",
-      "url": "https://news.ycombinator.com/item?id=49271994",
-      "primary_url": "https://news.ycombinator.com/item?id=49271994",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_83ef0e78131d",
+      "title": "Anthropic正就以60亿美元收购AI初创公司Decart进行谈判",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "fbcbfa36f79e94b02668d12b5ebcfd6226205fd6",
-          "title": "人工智能正在消除软件工程的中产阶级？ / AI is removing the middle class of software engineering?",
-          "url": "https://news.ycombinator.com/item?id=49271994",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T20:36:42.425000Z"
-        },
-        {
-          "id": "dd93c66931d2a3a0077c82c673fbc2cd284ab684",
-          "title": "人工智能正在消灭软件工程领域的中产阶级",
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "blog.florianherrengt.com",
+          "id": "f51df70e13e518f25eb243a9761f06f553698a9f",
+          "title": "Anthropic正就以60亿美元收购AI初创公司Decart进行谈判",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
+          "source": "www.bloomberg.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-12T15:00:03.093000Z"
+          "published_at": "2026-08-13T14:44:13.843000Z"
         },
         {
-          "id": "a3be90b09c426d87865a1d917bf54fa6b8efcc02",
-          "title": "人工智能正在消除软件工程的中产阶级 / AI is removing the middle class of software engineering",
-          "url": "https://news.ycombinator.com/item?id=49271994",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T14:36:37.968000Z"
+          "id": "c814155293ee464fa3f0dbf6a69b8839aba2ad05",
+          "title": "Anthropic称正就以60亿美元收购AI初创公司Decart进行谈判 / Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-13T01:50:27Z"
         },
         {
-          "id": "5db718b2a6183c86d39fd9145ef252eba680b3fa",
-          "title": "人工智能正在消灭软件工程领域的中产阶级 / AI is removing the middle class of software engineering",
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-12T13:20:05Z"
-        },
-        {
-          "id": "3ebabc6faeef7e8588813913dd0e88e0a99104fa",
-          "title": "人工智能正在消灭软件工程领域的中产阶级 / AI is removing the middle class of software engineering?",
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-12T13:20:05Z"
+          "id": "e743972b736f896a2119207d07e502afaf9141c1",
+          "title": "Anthropic称正就以60亿美元收购AI初创公司Decart进行谈判",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-13T01:40:14.539000Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "blog.florianherrengt.com",
-        "hackernews"
+        "HN Algolia · AI 24h",
+        "www.bloomberg.com"
       ],
       "items": [
         {
-          "id": "fbcbfa36f79e94b02668d12b5ebcfd6226205fd6",
-          "title": "人工智能正在消除软件工程的中产阶级？ / AI is removing the middle class of software engineering?",
-          "url": "https://news.ycombinator.com/item?id=49271994",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T20:36:42.425000Z"
-        },
-        {
-          "id": "dd93c66931d2a3a0077c82c673fbc2cd284ab684",
-          "title": "人工智能正在消灭软件工程领域的中产阶级",
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "blog.florianherrengt.com",
+          "id": "f51df70e13e518f25eb243a9761f06f553698a9f",
+          "title": "Anthropic正就以60亿美元收购AI初创公司Decart进行谈判",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
+          "source": "www.bloomberg.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-12T15:00:03.093000Z"
+          "published_at": "2026-08-13T14:44:13.843000Z"
         },
         {
-          "id": "a3be90b09c426d87865a1d917bf54fa6b8efcc02",
-          "title": "人工智能正在消除软件工程的中产阶级 / AI is removing the middle class of software engineering",
-          "url": "https://news.ycombinator.com/item?id=49271994",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T14:36:37.968000Z"
+          "id": "c814155293ee464fa3f0dbf6a69b8839aba2ad05",
+          "title": "Anthropic称正就以60亿美元收购AI初创公司Decart进行谈判 / Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-13T01:50:27Z"
         },
         {
-          "id": "5db718b2a6183c86d39fd9145ef252eba680b3fa",
-          "title": "人工智能正在消灭软件工程领域的中产阶级 / AI is removing the middle class of software engineering",
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-12T13:20:05Z"
-        },
-        {
-          "id": "3ebabc6faeef7e8588813913dd0e88e0a99104fa",
-          "title": "人工智能正在消灭软件工程领域的中产阶级 / AI is removing the middle class of software engineering?",
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-12T13:20:05Z"
+          "id": "e743972b736f896a2119207d07e502afaf9141c1",
+          "title": "Anthropic称正就以60亿美元收购AI初创公司Decart进行谈判",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-13T01:40:14.539000Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5824,
-      "importance": 0.5824,
-      "importance_score": 0.5824,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5676,
+      "importance": 0.5676,
+      "importance_score": 0.5676,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7866,
-        "story_heat": 1.0
+        "recency": 0.982,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-12T13:20:05Z",
-      "latest_at": "2026-08-12T20:36:42.425000Z",
+      "earliest_at": "2026-08-13T01:40:14.539000Z",
+      "latest_at": "2026-08-13T14:44:13.843000Z",
       "primary_item": {
-        "id": "fbcbfa36f79e94b02668d12b5ebcfd6226205fd6",
-        "title": "人工智能正在消除软件工程的中产阶级？ / AI is removing the middle class of software engineering?",
-        "url": "https://news.ycombinator.com/item?id=49271994",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "f51df70e13e518f25eb243a9761f06f553698a9f",
+        "title": "Anthropic正就以60亿美元收购AI初创公司Decart进行谈判",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
       }
     }
   ]
