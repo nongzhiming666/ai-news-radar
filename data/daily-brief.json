@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T15:21:35.228945Z",
+  "generated_at": "2026-08-15T15:46:25.421371Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
+      "score": 0.8047,
+      "importance": 0.8047,
+      "importance_score": 0.8047,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7865,
+        "recency": 0.7818,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7925,
-      "importance": 0.7925,
-      "importance_score": 0.7925,
+      "score": 0.7917,
+      "importance": 0.7917,
+      "importance_score": 0.7917,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7137,
+        "recency": 0.7094,
         "story_heat": 0.0
       },
       "category": "official",
@@ -180,15 +180,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7757,
-      "importance": 0.7757,
-      "importance_score": 0.7757,
+      "score": 0.7746,
+      "importance": 0.7746,
+      "importance_score": 0.7746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9392,
+        "recency": 0.9336,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -242,15 +242,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.801,
-      "importance": 0.801,
-      "importance_score": 0.801,
+      "score": 0.8002,
+      "importance": 0.8002,
+      "importance_score": 0.8002,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7167,
+        "recency": 0.7125,
         "story_heat": 0.0
       },
       "category": "official",
@@ -342,15 +342,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
+      "score": 0.7507,
+      "importance": 0.7507,
+      "importance_score": 0.7507,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7494,
+        "recency": 0.7449,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -423,15 +423,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5976,
-      "importance": 0.5976,
-      "importance_score": 0.5976,
+      "score": 0.5969,
+      "importance": 0.5969,
+      "importance_score": 0.5969,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.716,
+        "recency": 0.7118,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -540,15 +540,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5939,
-      "importance": 0.5939,
-      "importance_score": 0.5939,
+      "score": 0.5929,
+      "importance": 0.5929,
+      "importance_score": 0.5929,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9897,
+        "recency": 0.9838,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -618,15 +618,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5776,
-      "importance": 0.5776,
-      "importance_score": 0.5776,
+      "score": 0.5769,
+      "importance": 0.5769,
+      "importance_score": 0.5769,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7205,
+        "recency": 0.7162,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -716,15 +716,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5672,
-      "importance": 0.5672,
-      "importance_score": 0.5672,
+      "score": 0.5662,
+      "importance": 0.5662,
+      "importance_score": 0.5662,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9801,
+        "recency": 0.9743,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -814,15 +814,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5486,
-      "importance": 0.5486,
-      "importance_score": 0.5486,
+      "score": 0.5476,
+      "importance": 0.5476,
+      "importance_score": 0.5476,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8766,
+        "recency": 0.8713,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -892,15 +892,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5411,
-      "importance": 0.5411,
-      "importance_score": 0.5411,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9739,
+        "recency": 0.968,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -971,15 +971,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5342,
-      "importance": 0.5342,
-      "importance_score": 0.5342,
+      "score": 0.5332,
+      "importance": 0.5332,
+      "importance_score": 0.5332,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9358,
+        "recency": 0.9302,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1050,15 +1050,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5342,
-      "importance": 0.5342,
-      "importance_score": 0.5342,
+      "score": 0.5332,
+      "importance": 0.5332,
+      "importance_score": 0.5332,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9358,
+        "recency": 0.9302,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1148,15 +1148,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5314,
-      "importance": 0.5314,
-      "importance_score": 0.5314,
+      "score": 0.5306,
+      "importance": 0.5306,
+      "importance_score": 0.5306,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7813,
+        "recency": 0.7766,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1227,15 +1227,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5266,
-      "importance": 0.5266,
-      "importance_score": 0.5266,
+      "score": 0.5256,
+      "importance": 0.5256,
+      "importance_score": 0.5256,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8931,
+        "recency": 0.8878,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1250,104 +1250,6 @@
         "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_543d69cb31ad",
-      "title": "谷歌正借助同态加密让私有化人工智能成为现实",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-      "primary_url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-      "source": "blog.google",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f41976f167970f859103f965ef83cfd41f741414",
-          "title": "谷歌正借助同态加密让私有化人工智能成为现实",
-          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-          "source": "blog.google",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T19:22:21.717000Z"
-        },
-        {
-          "id": "424699eea9fa4bc93cac2c0562150cb75326158d",
-          "title": "谷歌正在通过同态加密使私人人工智能变得实用 / Google is making private AI practical with homomorphic encryption",
-          "url": "https://news.ycombinator.com/item?id=49300314",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T16:35:43.362000Z"
-        },
-        {
-          "id": "23a0edbfd1efd7b8ab246f80926b3b03e0ea2075",
-          "title": "谷歌正借助同态加密让私有化人工智能成为现实 / Google Is Making Private AI Practical with Homomorphic Encryption",
-          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T15:43:10Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "blog.google",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f41976f167970f859103f965ef83cfd41f741414",
-          "title": "谷歌正借助同态加密让私有化人工智能成为现实",
-          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-          "source": "blog.google",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T19:22:21.717000Z"
-        },
-        {
-          "id": "424699eea9fa4bc93cac2c0562150cb75326158d",
-          "title": "谷歌正在通过同态加密使私人人工智能变得实用 / Google is making private AI practical with homomorphic encryption",
-          "url": "https://news.ycombinator.com/item?id=49300314",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T16:35:43.362000Z"
-        },
-        {
-          "id": "23a0edbfd1efd7b8ab246f80926b3b03e0ea2075",
-          "title": "谷歌正借助同态加密让私有化人工智能成为现实 / Google Is Making Private AI Practical with Homomorphic Encryption",
-          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T15:43:10Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5257,
-      "importance": 0.5257,
-      "importance_score": 0.5257,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7493,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T15:43:10Z",
-      "latest_at": "2026-08-14T19:22:21.717000Z",
-      "primary_item": {
-        "id": "f41976f167970f859103f965ef83cfd41f741414",
-        "title": "谷歌正借助同态加密让私有化人工智能成为现实",
-        "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-        "source": "blog.google",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1423,15 +1325,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5488,
-      "importance": 0.5488,
-      "importance_score": 0.5488,
+      "score": 0.5479,
+      "importance": 0.5479,
+      "importance_score": 0.5479,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.878,
+        "recency": 0.8728,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1502,15 +1404,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5147,
-      "importance": 0.5147,
-      "importance_score": 0.5147,
+      "score": 0.5138,
+      "importance": 0.5138,
+      "importance_score": 0.5138,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8273,
+        "recency": 0.8224,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1580,15 +1482,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5114,
-      "importance": 0.5114,
-      "importance_score": 0.5114,
+      "score": 0.5105,
+      "importance": 0.5105,
+      "importance_score": 0.5105,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8087,
+        "recency": 0.8039,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1658,15 +1560,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
+      "score": 0.5334,
+      "importance": 0.5334,
+      "importance_score": 0.5334,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9365,
+        "recency": 0.9309,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1681,6 +1583,85 @@
         "url": "https://hub.baai.ac.cn/view/57142",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_c035f19b6650",
+      "title": "亲手打造的AI",
+      "url": "https://www.byhand.ai",
+      "primary_url": "https://www.byhand.ai",
+      "source": "www.byhand.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3523b13d05fc4fd151c64c39871e155186a0caf8",
+          "title": "亲手打造的AI",
+          "url": "https://www.byhand.ai",
+          "source": "www.byhand.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-14T20:56:57.601000Z"
+        },
+        {
+          "id": "b30c037f6065cee52205b74f7c2b9e1f88dafff8",
+          "title": "亲手打造的AI / AI by Hand",
+          "url": "https://www.byhand.ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-14T15:58:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.byhand.ai"
+      ],
+      "items": [
+        {
+          "id": "3523b13d05fc4fd151c64c39871e155186a0caf8",
+          "title": "亲手打造的AI",
+          "url": "https://www.byhand.ai",
+          "source": "www.byhand.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-14T20:56:57.601000Z"
+        },
+        {
+          "id": "b30c037f6065cee52205b74f7c2b9e1f88dafff8",
+          "title": "亲手打造的AI / AI by Hand",
+          "url": "https://www.byhand.ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-14T15:58:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.503,
+      "importance": 0.503,
+      "importance_score": 0.503,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.762,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-14T15:58:59Z",
+      "latest_at": "2026-08-14T20:56:57.601000Z",
+      "primary_item": {
+        "id": "3523b13d05fc4fd151c64c39871e155186a0caf8",
+        "title": "亲手打造的AI",
+        "url": "https://www.byhand.ai",
+        "source": "www.byhand.ai",
+        "source_name": "Buzzing"
       }
     }
   ]
