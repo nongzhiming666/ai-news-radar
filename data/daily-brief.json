@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T20:48:56.845951Z",
+  "generated_at": "2026-08-15T21:22:15.763685Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7948,
-      "importance": 0.7948,
-      "importance_score": 0.7948,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7269,
+        "recency": 0.7211,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7877,
-      "importance": 0.7877,
-      "importance_score": 0.7877,
+      "score": 0.7863,
+      "importance": 0.7863,
+      "importance_score": 0.7863,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9897,
+        "recency": 0.9818,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -199,15 +199,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.868,
+        "recency": 0.8611,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -318,15 +318,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5804,
-      "importance": 0.5804,
-      "importance_score": 0.5804,
+      "score": 0.5791,
+      "importance": 0.5791,
+      "importance_score": 0.5791,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9147,
+        "recency": 0.9074,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -416,15 +416,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5669,
-      "importance": 0.5669,
-      "importance_score": 0.5669,
+      "score": 0.5655,
+      "importance": 0.5655,
+      "importance_score": 0.5655,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9784,
+        "recency": 0.9705,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -514,15 +514,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5603,
-      "importance": 0.5603,
-      "importance_score": 0.5603,
+      "score": 0.5589,
+      "importance": 0.5589,
+      "importance_score": 0.5589,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9414,
+        "recency": 0.9339,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -612,15 +612,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5539,
-      "importance": 0.5539,
-      "importance_score": 0.5539,
+      "score": 0.5525,
+      "importance": 0.5525,
+      "importance_score": 0.5525,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9058,
+        "recency": 0.8986,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -691,15 +691,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5439,
+      "importance": 0.5439,
+      "importance_score": 0.5439,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9974,
+        "recency": 0.9894,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -769,15 +769,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5439,
+      "importance": 0.5439,
+      "importance_score": 0.5439,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9974,
+        "recency": 0.9894,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -866,15 +866,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5708,
-      "importance": 0.5708,
-      "importance_score": 0.5708,
+      "score": 0.5694,
+      "importance": 0.5694,
+      "importance_score": 0.5694,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9921,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -964,15 +964,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
+      "score": 0.5355,
+      "importance": 0.5355,
+      "importance_score": 0.5355,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8102,
+        "recency": 0.8037,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1042,15 +1042,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5278,
-      "importance": 0.5278,
-      "importance_score": 0.5278,
+      "score": 0.5265,
+      "importance": 0.5265,
+      "importance_score": 0.5265,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9001,
+        "recency": 0.8929,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1121,15 +1121,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5215,
-      "importance": 0.5215,
-      "importance_score": 0.5215,
+      "score": 0.5202,
+      "importance": 0.5202,
+      "importance_score": 0.5202,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8649,
+        "recency": 0.858,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1200,15 +1200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5215,
-      "importance": 0.5215,
-      "importance_score": 0.5215,
+      "score": 0.5202,
+      "importance": 0.5202,
+      "importance_score": 0.5202,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8649,
+        "recency": 0.858,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1279,15 +1279,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5034,
-      "importance": 0.5034,
-      "importance_score": 0.5034,
+      "score": 0.5023,
+      "importance": 0.5023,
+      "importance_score": 0.5023,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7646,
+        "recency": 0.7585,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1302,84 +1302,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "source": "news.google.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_085e5e417efb",
-      "title": "“隐身”现象与执法部门黑客攻击时代 / Everything is about to \"go dark\"",
-      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark",
-      "primary_url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "842e80c0ce1c1612980ed546a11e235f2ad73b47",
-          "title": "“隐身”现象与执法部门黑客攻击时代 / Everything is about to \"go dark\"",
-          "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T20:52:44Z"
-        },
-        {
-          "id": "c3cbfe41ae3294c0a80909028e2ef9c5ac8ea5e0",
-          "title": "“隐身”现象与执法部门黑客攻击时代 / Going Dark, and the era of law enforcement hacking",
-          "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T20:52:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "842e80c0ce1c1612980ed546a11e235f2ad73b47",
-          "title": "“隐身”现象与执法部门黑客攻击时代 / Everything is about to \"go dark\"",
-          "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T20:52:44Z"
-        },
-        {
-          "id": "c3cbfe41ae3294c0a80909028e2ef9c5ac8ea5e0",
-          "title": "“隐身”现象与执法部门黑客攻击时代 / Going Dark, and the era of law enforcement hacking",
-          "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T20:52:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4932,
-      "importance": 0.4932,
-      "importance_score": 0.4932,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7078,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T20:52:44Z",
-      "latest_at": "2026-08-14T20:52:44Z",
-      "primary_item": {
-        "id": "842e80c0ce1c1612980ed546a11e235f2ad73b47",
-        "title": "“隐身”现象与执法部门黑客攻击时代 / Everything is about to \"go dark\"",
-        "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1435,15 +1357,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5216,
-      "importance": 0.5216,
-      "importance_score": 0.5216,
+      "score": 0.5203,
+      "importance": 0.5203,
+      "importance_score": 0.5203,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8655,
+        "recency": 0.8586,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1514,15 +1436,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5209,
-      "importance": 0.5209,
-      "importance_score": 0.5209,
+      "score": 0.5196,
+      "importance": 0.5196,
+      "importance_score": 0.5196,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8616,
+        "recency": 0.8547,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1593,15 +1515,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5444,
+      "importance": 0.5444,
+      "importance_score": 0.5444,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9921,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1671,15 +1593,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5003,
-      "importance": 0.5003,
-      "importance_score": 0.5003,
+      "score": 0.4993,
+      "importance": 0.4993,
+      "importance_score": 0.4993,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7474,
+        "recency": 0.7414,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1693,6 +1615,85 @@
         "title": "据《华尔街日报》报道，英伟达缩减了对俄亥俄州OpenAI数据中心的资金担保",
         "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
         "source": "www.reuters.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_fdec6775b90c",
+      "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。",
+      "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+      "primary_url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9b13703f4af2fb62fc36cc02e5c2d9ff6dcf95e1",
+          "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。",
+          "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T10:14:10.909000Z"
+        },
+        {
+          "id": "675fb42a69b1b3c2840cbab77e95dc5f9f6753a4",
+          "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。 / I stared deep into the heart of LinkedIn AI cringe slop. Darkness (and engagement) stared back.",
+          "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T10:02:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "9b13703f4af2fb62fc36cc02e5c2d9ff6dcf95e1",
+          "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。",
+          "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T10:14:10.909000Z"
+        },
+        {
+          "id": "675fb42a69b1b3c2840cbab77e95dc5f9f6753a4",
+          "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。 / I stared deep into the heart of LinkedIn AI cringe slop. Darkness (and engagement) stared back.",
+          "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T10:02:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5191,
+      "importance": 0.5191,
+      "importance_score": 0.5191,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8515,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T10:02:01Z",
+      "latest_at": "2026-08-15T10:14:10.909000Z",
+      "primary_item": {
+        "id": "9b13703f4af2fb62fc36cc02e5c2d9ff6dcf95e1",
+        "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。",
+        "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
