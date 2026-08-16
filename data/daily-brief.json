@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T18:30:43.079681Z",
+  "generated_at": "2026-08-16T19:21:23.207603Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7778,
-      "importance": 0.7778,
-      "importance_score": 0.7778,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9011,
+        "recency": 0.8902,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.732,
-      "importance": 0.732,
-      "importance_score": 0.732,
+      "score": 0.7303,
+      "importance": 0.7303,
+      "importance_score": 0.7303,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8022,
+        "recency": 0.7925,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -198,15 +198,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7398,
-      "importance": 0.7398,
-      "importance_score": 0.7398,
+      "score": 0.7383,
+      "importance": 0.7383,
+      "importance_score": 0.7383,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7235,
+        "recency": 0.7147,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -222,104 +222,6 @@
         "url": "https://cursor.com/blog/joining-spacex",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7086513972fc",
-      "title": "Anthropic 分享了有关克劳德新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-      "primary_url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "ec86a32dff4fd6dbb4f2436446fbeb7445e157c3",
-          "title": "Anthropic 分享了有关克劳德新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
-          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-15T18:58:39Z"
-        },
-        {
-          "id": "dc143132ee980dde76e00ff14e8e79ec4db1408a",
-          "title": "Anthropic 分享了有关克劳德新水印如何工作的更多细节 / Anthropic shares more details about how Claude's new watermarks will work",
-          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-16T10:03:27Z"
-        },
-        {
-          "id": "af7117a7926ff54dcf1993c6b0c5f9b9eda4927d",
-          "title": "Anthropic 分享了有关克劳德的新水印如何工作的详细信息 / Anthropic shares details about how Claude's new watermarks will work",
-          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-15T22:07:08Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "ec86a32dff4fd6dbb4f2436446fbeb7445e157c3",
-          "title": "Anthropic 分享了有关克劳德新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
-          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-15T18:58:39Z"
-        },
-        {
-          "id": "dc143132ee980dde76e00ff14e8e79ec4db1408a",
-          "title": "Anthropic 分享了有关克劳德新水印如何工作的更多细节 / Anthropic shares more details about how Claude's new watermarks will work",
-          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-16T10:03:27Z"
-        },
-        {
-          "id": "af7117a7926ff54dcf1993c6b0c5f9b9eda4927d",
-          "title": "Anthropic 分享了有关克劳德的新水印如何工作的详细信息 / Anthropic shares details about how Claude's new watermarks will work",
-          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-15T22:07:08Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6469,
-      "importance": 0.6469,
-      "importance_score": 0.6469,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5904,
-        "source_tier": 0.58,
-        "ai_relevance": 0.82,
-        "recency": 0.7119,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-15T18:58:39Z",
-      "latest_at": "2026-08-16T10:03:27Z",
-      "primary_item": {
-        "id": "ec86a32dff4fd6dbb4f2436446fbeb7445e157c3",
-        "title": "Anthropic 分享了有关克劳德新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
-        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
       }
     },
     {
@@ -395,15 +297,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.568,
-      "importance": 0.568,
-      "importance_score": 0.568,
+      "score": 0.5659,
+      "importance": 0.5659,
+      "importance_score": 0.5659,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9847,
+        "recency": 0.9728,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -493,15 +395,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5624,
-      "importance": 0.5624,
-      "importance_score": 0.5624,
+      "score": 0.5603,
+      "importance": 0.5603,
+      "importance_score": 0.5603,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9534,
+        "recency": 0.9419,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -516,122 +418,6 @@
         "url": "https://news.ycombinator.com/item?id=49319814",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_611835edca3b",
-      "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "primary_url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "source": "www.science.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7d5005fb42ddcfa124069511ff7a8a4f328f6333",
-          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "www.science.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T02:46:42.706000Z"
-        },
-        {
-          "id": "43fc07649ac561e5b54ef1763a62334624cc015e",
-          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向 / AI in drug discovery – what it is, where we stand and the path forward",
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T19:12:53Z"
-        },
-        {
-          "id": "27bdad6646bdd01e6c3dd7fbbc37fdf837d9b10a",
-          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
-          "url": "https://www.nature.com/articles/s41573-026-01496-2",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T19:12:53Z"
-        },
-        {
-          "id": "272ea2a447fcb4e4062b82df6b876d97ca4cd881",
-          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向 / So How Is AI Drug Discovery Doing, Really?",
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T19:12:53Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "www.science.org"
-      ],
-      "items": [
-        {
-          "id": "7d5005fb42ddcfa124069511ff7a8a4f328f6333",
-          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "www.science.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T02:46:42.706000Z"
-        },
-        {
-          "id": "43fc07649ac561e5b54ef1763a62334624cc015e",
-          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向 / AI in drug discovery – what it is, where we stand and the path forward",
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T19:12:53Z"
-        },
-        {
-          "id": "27bdad6646bdd01e6c3dd7fbbc37fdf837d9b10a",
-          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
-          "url": "https://www.nature.com/articles/s41573-026-01496-2",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T19:12:53Z"
-        },
-        {
-          "id": "272ea2a447fcb4e4062b82df6b876d97ca4cd881",
-          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向 / So How Is AI Drug Discovery Doing, Really?",
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T19:12:53Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5592,
-      "importance": 0.5592,
-      "importance_score": 0.5592,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7968,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T19:12:53Z",
-      "latest_at": "2026-08-16T02:46:42.706000Z",
-      "primary_item": {
-        "id": "7d5005fb42ddcfa124069511ff7a8a4f328f6333",
-        "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-        "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-        "source": "www.science.org",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -707,15 +493,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5493,
-      "importance": 0.5493,
-      "importance_score": 0.5493,
+      "score": 0.5474,
+      "importance": 0.5474,
+      "importance_score": 0.5474,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8805,
+        "recency": 0.8698,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -729,6 +515,85 @@
         "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
         "url": "https://littlelearner-ll.github.io",
         "source": "littlelearner-ll.github.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e81108c281d1",
+      "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c036f9f93ecc215e63182e735174d14dfa81917b",
+          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T18:30:21.826000Z"
+        },
+        {
+          "id": "12e225c702b6b51fe4ecfba6d6e85ef44bfc9c52",
+          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机”",
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-says-ai-backlash-165351283.html",
+          "source": "finance.yahoo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T17:26:40.195000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "finance.yahoo.com",
+        "news.google.com"
+      ],
+      "items": [
+        {
+          "id": "c036f9f93ecc215e63182e735174d14dfa81917b",
+          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T18:30:21.826000Z"
+        },
+        {
+          "id": "12e225c702b6b51fe4ecfba6d6e85ef44bfc9c52",
+          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机”",
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-says-ai-backlash-165351283.html",
+          "source": "finance.yahoo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T17:26:40.195000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5436,
+      "importance": 0.5436,
+      "importance_score": 0.5436,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9878,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T17:26:40.195000Z",
+      "latest_at": "2026-08-16T18:30:21.826000Z",
+      "primary_item": {
+        "id": "c036f9f93ecc215e63182e735174d14dfa81917b",
+        "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
         "source_name": "Buzzing"
       }
     },
@@ -786,15 +651,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.543,
-      "importance": 0.543,
-      "importance_score": 0.543,
+      "score": 0.5409,
+      "importance": 0.5409,
+      "importance_score": 0.5409,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9847,
+        "recency": 0.9728,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -865,15 +730,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5416,
-      "importance": 0.5416,
-      "importance_score": 0.5416,
+      "score": 0.5395,
+      "importance": 0.5395,
+      "importance_score": 0.5395,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9767,
+        "recency": 0.9649,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -944,15 +809,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9438,
+        "recency": 0.9323,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1023,15 +888,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5286,
-      "importance": 0.5286,
-      "importance_score": 0.5286,
+      "score": 0.5267,
+      "importance": 0.5267,
+      "importance_score": 0.5267,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9046,
+        "recency": 0.8936,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1102,15 +967,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5285,
-      "importance": 0.5285,
-      "importance_score": 0.5285,
+      "score": 0.5265,
+      "importance": 0.5265,
+      "importance_score": 0.5265,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9037,
+        "recency": 0.8927,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1125,6 +990,84 @@
         "url": "https://github.com/akitaonrails/ai-memory",
         "source": "github",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_7086513972fc",
+      "title": "Anthropic 分享了有关克劳德新水印如何工作的更多细节 / Anthropic shares more details about how Claude's new watermarks will work",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+      "primary_url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+      "source": "HN Algolia · AI 24h",
+      "source_name": "Hacker News",
+      "sources": [
+        {
+          "id": "dc143132ee980dde76e00ff14e8e79ec4db1408a",
+          "title": "Anthropic 分享了有关克劳德新水印如何工作的更多细节 / Anthropic shares more details about how Claude's new watermarks will work",
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-16T10:03:27Z"
+        },
+        {
+          "id": "af7117a7926ff54dcf1993c6b0c5f9b9eda4927d",
+          "title": "Anthropic 分享了有关克劳德的新水印如何工作的详细信息 / Anthropic shares details about how Claude's new watermarks will work",
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-15T22:07:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h"
+      ],
+      "items": [
+        {
+          "id": "dc143132ee980dde76e00ff14e8e79ec4db1408a",
+          "title": "Anthropic 分享了有关克劳德新水印如何工作的更多细节 / Anthropic shares more details about how Claude's new watermarks will work",
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-16T10:03:27Z"
+        },
+        {
+          "id": "af7117a7926ff54dcf1993c6b0c5f9b9eda4927d",
+          "title": "Anthropic 分享了有关克劳德的新水印如何工作的详细信息 / Anthropic shares details about how Claude's new watermarks will work",
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-15T22:07:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5232,
+      "importance": 0.5232,
+      "importance_score": 0.5232,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8743,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T22:07:08Z",
+      "latest_at": "2026-08-16T10:03:27Z",
+      "primary_item": {
+        "id": "dc143132ee980dde76e00ff14e8e79ec4db1408a",
+        "title": "Anthropic 分享了有关克劳德新水印如何工作的更多细节 / Anthropic shares more details about how Claude's new watermarks will work",
+        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+        "source": "HN Algolia · AI 24h",
+        "source_name": "Hacker News"
       }
     },
     {
@@ -1181,15 +1124,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5365,
-      "importance": 0.5365,
-      "importance_score": 0.5365,
+      "score": 0.5344,
+      "importance": 0.5344,
+      "importance_score": 0.5344,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9484,
+        "recency": 0.9369,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1260,15 +1203,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5305,
-      "importance": 0.5305,
-      "importance_score": 0.5305,
+      "score": 0.5285,
+      "importance": 0.5285,
+      "importance_score": 0.5285,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9151,
+        "recency": 0.904,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1338,15 +1281,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.497,
-      "importance": 0.497,
-      "importance_score": 0.497,
+      "score": 0.4954,
+      "importance": 0.4954,
+      "importance_score": 0.4954,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7291,
+        "recency": 0.7203,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1417,15 +1360,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5238,
-      "importance": 0.5238,
-      "importance_score": 0.5238,
+      "score": 0.5219,
+      "importance": 0.5219,
+      "importance_score": 0.5219,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8776,
+        "recency": 0.867,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1496,15 +1439,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9397,
+        "recency": 0.9283,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1575,15 +1518,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5268,
-      "importance": 0.5268,
-      "importance_score": 0.5268,
+      "score": 0.5248,
+      "importance": 0.5248,
+      "importance_score": 0.5248,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8942,
+        "recency": 0.8833,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1654,15 +1597,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.515,
-      "importance": 0.515,
-      "importance_score": 0.515,
+      "score": 0.5131,
+      "importance": 0.5131,
+      "importance_score": 0.5131,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8286,
+        "recency": 0.8186,
         "story_heat": 0.25
       },
       "category": "watch",
