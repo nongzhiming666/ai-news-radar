@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T14:29:13.535358Z",
+  "generated_at": "2026-08-17T14:56:39.466448Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8551,
-      "importance": 0.8551,
-      "importance_score": 0.8551,
+      "score": 0.8541,
+      "importance": 0.8541,
+      "importance_score": 0.8541,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8783,
+        "recency": 0.8725,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8359,
-      "importance": 0.8359,
-      "importance_score": 0.8359,
+      "score": 0.8348,
+      "importance": 0.8348,
+      "importance_score": 0.8348,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9106,
+        "recency": 0.9046,
         "story_heat": 0.0
       },
       "category": "official",
@@ -201,15 +201,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.85,
-      "importance": 0.85,
-      "importance_score": 0.85,
+      "score": 0.849,
+      "importance": 0.849,
+      "importance_score": 0.849,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8502,
+        "recency": 0.8446,
         "story_heat": 0.25
       },
       "category": "official",
@@ -283,15 +283,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8027,
-      "importance": 0.8027,
-      "importance_score": 0.8027,
+      "score": 0.8016,
+      "importance": 0.8016,
+      "importance_score": 0.8016,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9728,
+        "recency": 0.9664,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -364,15 +364,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7889,
-      "importance": 0.7889,
-      "importance_score": 0.7889,
+      "score": 0.7877,
+      "importance": 0.7877,
+      "importance_score": 0.7877,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9962,
+        "recency": 0.9897,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -389,87 +389,6 @@
         "url": "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5f28e22361cf",
-      "title": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
-      "url": "https://www.aibase.com/news/30405",
-      "primary_url": "https://www.aibase.com/news/30405",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c053dfd325955c079b53086db8ad1bc1926d4c6a",
-          "title": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
-          "url": "https://www.aibase.com/news/30405",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T10:33:13.756206Z"
-        },
-        {
-          "id": "a1b07cb3fb8ce9389948bd2ef5232508f8bfcee9",
-          "title": "阿里发布 AI 音乐模型 HappyShrimp 1.0，自然语言创作降低音乐生产门槛",
-          "url": "https://www.aibase.com/zh/news/30405",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c053dfd325955c079b53086db8ad1bc1926d4c6a",
-          "title": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
-          "url": "https://www.aibase.com/news/30405",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T10:33:13.756206Z"
-        },
-        {
-          "id": "a1b07cb3fb8ce9389948bd2ef5232508f8bfcee9",
-          "title": "阿里发布 AI 音乐模型 HappyShrimp 1.0，自然语言创作降低音乐生产门槛",
-          "url": "https://www.aibase.com/zh/news/30405",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7827,
-      "importance": 0.7827,
-      "importance_score": 0.7827,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9448,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T10:33:13.756206Z",
-      "latest_at": "2026-08-17T10:33:13.756206Z",
-      "primary_item": {
-        "id": "c053dfd325955c079b53086db8ad1bc1926d4c6a",
-        "title": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
-        "url": "https://www.aibase.com/news/30405",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -545,15 +464,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7825,
-      "importance": 0.7825,
-      "importance_score": 0.7825,
+      "score": 0.7816,
+      "importance": 0.7816,
+      "importance_score": 0.7816,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7883,
+        "recency": 0.7831,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -570,6 +489,87 @@
         "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
         "source": "Simon Willison 博客",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5f28e22361cf",
+      "title": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
+      "url": "https://www.aibase.com/news/30405",
+      "primary_url": "https://www.aibase.com/news/30405",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c053dfd325955c079b53086db8ad1bc1926d4c6a",
+          "title": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
+          "url": "https://www.aibase.com/news/30405",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T10:33:13.756206Z"
+        },
+        {
+          "id": "a1b07cb3fb8ce9389948bd2ef5232508f8bfcee9",
+          "title": "阿里发布 AI 音乐模型 HappyShrimp 1.0，自然语言创作降低音乐生产门槛",
+          "url": "https://www.aibase.com/zh/news/30405",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c053dfd325955c079b53086db8ad1bc1926d4c6a",
+          "title": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
+          "url": "https://www.aibase.com/news/30405",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T10:33:13.756206Z"
+        },
+        {
+          "id": "a1b07cb3fb8ce9389948bd2ef5232508f8bfcee9",
+          "title": "阿里发布 AI 音乐模型 HappyShrimp 1.0，自然语言创作降低音乐生产门槛",
+          "url": "https://www.aibase.com/zh/news/30405",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7815,
+      "importance": 0.7815,
+      "importance_score": 0.7815,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9386,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T10:33:13.756206Z",
+      "latest_at": "2026-08-17T10:33:13.756206Z",
+      "primary_item": {
+        "id": "c053dfd325955c079b53086db8ad1bc1926d4c6a",
+        "title": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
+        "url": "https://www.aibase.com/news/30405",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -607,15 +607,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.829,
-      "importance": 0.829,
-      "importance_score": 0.829,
+      "score": 0.8279,
+      "importance": 0.8279,
+      "importance_score": 0.8279,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.872,
+        "recency": 0.8662,
         "story_heat": 0.0
       },
       "category": "official",
@@ -669,15 +669,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7689,
-      "importance": 0.7689,
-      "importance_score": 0.7689,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9741,
+        "recency": 0.9677,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -730,15 +730,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.992,
+        "recency": 0.9855,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -810,15 +810,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7806,
-      "importance": 0.7806,
-      "importance_score": 0.7806,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9333,
+        "recency": 0.9272,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -872,15 +872,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.7642,
+      "importance": 0.7642,
+      "importance_score": 0.7642,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9706,
+        "recency": 0.9643,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -952,15 +952,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7785,
-      "importance": 0.7785,
-      "importance_score": 0.7785,
+      "score": 0.7774,
+      "importance": 0.7774,
+      "importance_score": 0.7774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9216,
+        "recency": 0.9156,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1033,15 +1033,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7785,
-      "importance": 0.7785,
-      "importance_score": 0.7785,
+      "score": 0.7774,
+      "importance": 0.7774,
+      "importance_score": 0.7774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9216,
+        "recency": 0.9156,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1114,15 +1114,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7785,
-      "importance": 0.7785,
-      "importance_score": 0.7785,
+      "score": 0.7774,
+      "importance": 0.7774,
+      "importance_score": 0.7774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9216,
+        "recency": 0.9156,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1194,15 +1194,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6315,
-      "importance": 0.6315,
-      "importance_score": 0.6315,
+      "score": 0.6304,
+      "importance": 0.6304,
+      "importance_score": 0.6304,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.9503,
+        "recency": 0.944,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1273,15 +1273,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7764,
-      "importance": 0.7764,
-      "importance_score": 0.7764,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9099,
+        "recency": 0.9039,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1354,15 +1354,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6085,
-      "importance": 0.6085,
-      "importance_score": 0.6085,
+      "score": 0.6076,
+      "importance": 0.6076,
+      "importance_score": 0.6076,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7763,
+        "recency": 0.7712,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1450,15 +1450,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6072,
-      "importance": 0.6072,
-      "importance_score": 0.6072,
+      "score": 0.6061,
+      "importance": 0.6061,
+      "importance_score": 0.6061,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9333,
+        "recency": 0.9272,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1529,15 +1529,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7741,
-      "importance": 0.7741,
-      "importance_score": 0.7741,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.897,
+        "recency": 0.8911,
         "story_heat": 0.25
       },
       "category": "industry",
