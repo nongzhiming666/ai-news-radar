@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T17:33:41.773017Z",
+  "generated_at": "2026-08-17T18:41:02.801888Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8482,
-      "importance": 0.8482,
-      "importance_score": 0.8482,
+      "score": 0.8458,
+      "importance": 0.8458,
+      "importance_score": 0.8458,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8401,
+        "recency": 0.8266,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.84,
-      "importance": 0.84,
-      "importance_score": 0.84,
+      "score": 0.8372,
+      "importance": 0.8372,
+      "importance_score": 0.8372,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9777,
+        "recency": 0.962,
         "story_heat": 0.0
       },
       "category": "official",
@@ -145,6 +145,125 @@
         "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_28308b9ffb2f",
+      "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+      "url": "https://www.librarian.net/notoai",
+      "primary_url": "https://www.librarian.net/notoai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
+          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+          "url": "https://www.librarian.net/notoai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T17:58:12.144000Z"
+        },
+        {
+          "id": "4473f8065513906e3e3dbe6b04888a94e69e6e4e",
+          "title": "如何禁用或避免侵入式人工智能",
+          "url": "https://www.librarian.net/notoai",
+          "source": "www.librarian.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T17:58:12.144000Z"
+        },
+        {
+          "id": "fdd2dc3e40dbcf4f45e6164d68cffd144a5fd7bd",
+          "title": "如何禁用或避免侵入性人工智能 / How to disable or avoid intrusive AI",
+          "url": "https://news.ycombinator.com/item?id=49331220",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-17T14:40:27.207000Z"
+        },
+        {
+          "id": "f292beecfc162081155e99e248d44a0870cc414f",
+          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南 / How to disable or avoid intrusive AI",
+          "url": "https://www.librarian.net/notoai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T14:07:56Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
+        "www.librarian.net"
+      ],
+      "items": [
+        {
+          "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
+          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+          "url": "https://www.librarian.net/notoai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T17:58:12.144000Z"
+        },
+        {
+          "id": "4473f8065513906e3e3dbe6b04888a94e69e6e4e",
+          "title": "如何禁用或避免侵入式人工智能",
+          "url": "https://www.librarian.net/notoai",
+          "source": "www.librarian.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T17:58:12.144000Z"
+        },
+        {
+          "id": "fdd2dc3e40dbcf4f45e6164d68cffd144a5fd7bd",
+          "title": "如何禁用或避免侵入性人工智能 / How to disable or avoid intrusive AI",
+          "url": "https://news.ycombinator.com/item?id=49331220",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-17T14:40:27.207000Z"
+        },
+        {
+          "id": "f292beecfc162081155e99e248d44a0870cc414f",
+          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南 / How to disable or avoid intrusive AI",
+          "url": "https://www.librarian.net/notoai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T14:07:56Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8348,
+      "importance": 0.8348,
+      "importance_score": 0.8348,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9897,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T14:07:56Z",
+      "latest_at": "2026-08-17T17:58:12.144000Z",
+      "primary_item": {
+        "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
+        "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+        "url": "https://www.librarian.net/notoai",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -182,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8288,
-      "importance": 0.8288,
-      "importance_score": 0.8288,
+      "score": 0.8263,
+      "importance": 0.8263,
+      "importance_score": 0.8263,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.871,
+        "recency": 0.857,
         "story_heat": 0.0
       },
       "category": "official",
@@ -263,15 +382,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8434,
-      "importance": 0.8434,
-      "importance_score": 0.8434,
+      "score": 0.841,
+      "importance": 0.841,
+      "importance_score": 0.841,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8133,
+        "recency": 0.8002,
         "story_heat": 0.25
       },
       "category": "official",
@@ -345,15 +464,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7951,
-      "importance": 0.7951,
-      "importance_score": 0.7951,
+      "score": 0.7924,
+      "importance": 0.7924,
+      "importance_score": 0.7924,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9306,
+        "recency": 0.9156,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -425,15 +544,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7863,
-      "importance": 0.7863,
-      "importance_score": 0.7863,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9318,
+        "recency": 0.9168,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -506,15 +625,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7811,
-      "importance": 0.7811,
-      "importance_score": 0.7811,
+      "score": 0.7784,
+      "importance": 0.7784,
+      "importance_score": 0.7784,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9529,
+        "recency": 0.9376,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -606,15 +725,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7763,
-      "importance": 0.7763,
-      "importance_score": 0.7763,
+      "score": 0.7741,
+      "importance": 0.7741,
+      "importance_score": 0.7741,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.754,
+        "recency": 0.7419,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -687,15 +806,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9038,
+        "recency": 0.8892,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -749,15 +868,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8221,
-      "importance": 0.8221,
-      "importance_score": 0.8221,
+      "score": 0.8197,
+      "importance": 0.8197,
+      "importance_score": 0.8197,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8341,
+        "recency": 0.8207,
         "story_heat": 0.0
       },
       "category": "official",
@@ -811,15 +930,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7584,
-      "importance": 0.7584,
-      "importance_score": 0.7584,
+      "score": 0.7557,
+      "importance": 0.7557,
+      "importance_score": 0.7557,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9489,
+        "recency": 0.9336,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -891,15 +1010,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7733,
-      "importance": 0.7733,
-      "importance_score": 0.7733,
+      "score": 0.7707,
+      "importance": 0.7707,
+      "importance_score": 0.7707,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8928,
+        "recency": 0.8784,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -953,15 +1072,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9285,
+        "recency": 0.9136,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1033,15 +1152,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8816,
+        "recency": 0.8674,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1114,15 +1233,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8816,
+        "recency": 0.8674,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1285,15 +1404,15 @@
       ],
       "item_count": 7,
       "duplicate_count": 7,
-      "score": 0.6664,
-      "importance": 0.6664,
-      "importance_score": 0.6664,
+      "score": 0.6635,
+      "importance": 0.6635,
+      "importance_score": 0.6635,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9844,
+        "recency": 0.9686,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1364,15 +1483,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8816,
+        "recency": 0.8674,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1444,15 +1563,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6464,
-      "importance": 0.6464,
-      "importance_score": 0.6464,
+      "score": 0.6435,
+      "importance": 0.6435,
+      "importance_score": 0.6435,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9869,
+        "recency": 0.971,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1561,15 +1680,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6381,
-      "importance": 0.6381,
-      "importance_score": 0.6381,
+      "score": 0.6353,
+      "importance": 0.6353,
+      "importance_score": 0.6353,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9687,
+        "recency": 0.9531,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1584,84 +1703,6 @@
         "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra",
         "source": "Simon Willison",
         "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_e6c585a846b4",
-      "title": "Anthropic 解释了克劳德的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "e4a1fa384e7dfe47c175c93347eded816acc40c2",
-          "title": "Anthropic 解释了克劳德的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-17T10:57:13Z"
-        },
-        {
-          "id": "7496fe78bb23935a420d21bbf52934a97a65e42b",
-          "title": "Anthropic 解释了克劳德的隐形文本水印的工作原理 / Anthropic explains how Claude’s invisible text watermarks will work",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T10:57:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "e4a1fa384e7dfe47c175c93347eded816acc40c2",
-          "title": "Anthropic 解释了克劳德的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-17T10:57:13Z"
-        },
-        {
-          "id": "7496fe78bb23935a420d21bbf52934a97a65e42b",
-          "title": "Anthropic 解释了克劳德的隐形文本水印的工作原理 / Anthropic explains how Claude’s invisible text watermarks will work",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T10:57:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6241,
-      "importance": 0.6241,
-      "importance_score": 0.6241,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5328,
-        "source_tier": 0.58,
-        "ai_relevance": 0.74,
-        "recency": 0.909,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-17T10:57:13Z",
-      "latest_at": "2026-08-17T10:57:13Z",
-      "primary_item": {
-        "id": "e4a1fa384e7dfe47c175c93347eded816acc40c2",
-        "title": "Anthropic 解释了克劳德的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-        "source": "The Verge",
-        "source_name": "Curated Media"
       }
     }
   ]
