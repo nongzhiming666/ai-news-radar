@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T20:56:50.605915Z",
+  "generated_at": "2026-08-19T21:30:44.421905Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8924,
-      "importance": 0.8924,
-      "importance_score": 0.8924,
+      "score": 0.8911,
+      "importance": 0.8911,
+      "importance_score": 0.8911,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9021,
+        "recency": 0.8948,
         "story_heat": 0.5
       },
       "category": "official",
@@ -158,15 +158,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.872,
-      "importance": 0.872,
-      "importance_score": 0.872,
+      "score": 0.8706,
+      "importance": 0.8706,
+      "importance_score": 0.8706,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9723,
+        "recency": 0.9644,
         "story_heat": 0.25
       },
       "category": "official",
@@ -183,6 +183,68 @@
         "title": "OpenAI 重申前沿模型零数据保留承诺，预览私有安全处理功能 / Offering Zero Data Retention for frontier models",
         "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9c847fb68fda",
+      "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+      "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+      "primary_url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "33dd888158164d0c0121116d57a69affc7df6950",
+          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T21:09:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "33dd888158164d0c0121116d57a69affc7df6950",
+          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T21:09:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8431,
+      "importance": 0.8431,
+      "importance_score": 0.8431,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9949,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T21:09:30Z",
+      "latest_at": "2026-08-19T21:09:30Z",
+      "primary_item": {
+        "id": "33dd888158164d0c0121116d57a69affc7df6950",
+        "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -221,15 +283,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8441,
-      "importance": 0.8441,
-      "importance_score": 0.8441,
+      "score": 0.8427,
+      "importance": 0.8427,
+      "importance_score": 0.8427,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9561,
+        "recency": 0.9483,
         "story_heat": 0.0
       },
       "category": "official",
@@ -283,15 +345,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.839,
-      "importance": 0.839,
-      "importance_score": 0.839,
+      "score": 0.8376,
+      "importance": 0.8376,
+      "importance_score": 0.8376,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9723,
+        "recency": 0.9644,
         "story_heat": 0.0
       },
       "category": "official",
@@ -307,68 +369,6 @@
         "title": "通过搜索提升学习水平的 5 种新方法 / 5 new ways to level up your learning with Search",
         "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
         "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f65a703c4519",
-      "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
-      "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
-      "primary_url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "52ef45c1784e20e142910f5a0f3a0f9f9bc3454f",
-          "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
-          "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T12:56:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "52ef45c1784e20e142910f5a0f3a0f9f9bc3454f",
-          "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
-          "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T12:56:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8244,
-      "importance": 0.8244,
-      "importance_score": 0.8244,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8909,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T12:56:57Z",
-      "latest_at": "2026-08-19T12:56:57Z",
-      "primary_item": {
-        "id": "52ef45c1784e20e142910f5a0f3a0f9f9bc3454f",
-        "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
-        "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -407,15 +407,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8272,
-      "importance": 0.8272,
-      "importance_score": 0.8272,
+      "score": 0.826,
+      "importance": 0.826,
+      "importance_score": 0.826,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8176,
+        "recency": 0.8109,
         "story_heat": 0.0
       },
       "category": "official",
@@ -431,6 +431,68 @@
         "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围 / Replit expands access to software creation with GPT-5.6 Luna",
         "url": "https://openai.com/index/replit",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f65a703c4519",
+      "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
+      "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
+      "primary_url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "52ef45c1784e20e142910f5a0f3a0f9f9bc3454f",
+          "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
+          "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T12:56:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "52ef45c1784e20e142910f5a0f3a0f9f9bc3454f",
+          "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
+          "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T12:56:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8231,
+      "importance": 0.8231,
+      "importance_score": 0.8231,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8837,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T12:56:57Z",
+      "latest_at": "2026-08-19T12:56:57Z",
+      "primary_item": {
+        "id": "52ef45c1784e20e142910f5a0f3a0f9f9bc3454f",
+        "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
+        "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -507,15 +569,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7843,
-      "importance": 0.7843,
-      "importance_score": 0.7843,
+      "score": 0.7831,
+      "importance": 0.7831,
+      "importance_score": 0.7831,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8148,
+        "recency": 0.8082,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -532,68 +594,6 @@
         "url": "https://www.aibase.com/news/30467",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1572a951af05",
-      "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
-      "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
-      "primary_url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
-          "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
-          "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T23:33:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
-          "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
-          "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T23:33:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8042,
-      "importance": 0.8042,
-      "importance_score": 0.8042,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7342,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T23:33:07Z",
-      "latest_at": "2026-08-18T23:33:07Z",
-      "primary_item": {
-        "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
-        "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
-        "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -669,15 +669,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
+      "score": 0.7695,
+      "importance": 0.7695,
+      "importance_score": 0.7695,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.739,
+        "recency": 0.733,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -693,6 +693,67 @@
         "title": "OpenRouter 宣布加入 Stripe",
         "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
         "source": "OpenRouter：Announcements（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_44c5c213e88d",
+      "title": "FastMetal 让 Mac 本地 30 秒生成视频",
+      "url": "https://x.com/haoailab/status/2090177721913770407",
+      "primary_url": "https://x.com/haoailab/status/2090177721913770407",
+      "source": "X：Sky Computing Lab (@haoailab)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
+          "title": "FastMetal 让 Mac 本地 30 秒生成视频",
+          "url": "https://x.com/haoailab/status/2090177721913770407",
+          "source": "X：Sky Computing Lab (@haoailab)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T20:42:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sky Computing Lab (@haoailab)"
+      ],
+      "items": [
+        {
+          "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
+          "title": "FastMetal 让 Mac 本地 30 秒生成视频",
+          "url": "https://x.com/haoailab/status/2090177721913770407",
+          "source": "X：Sky Computing Lab (@haoailab)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T20:42:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9886,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T20:42:57Z",
+      "latest_at": "2026-08-19T20:42:57Z",
+      "primary_item": {
+        "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
+        "title": "FastMetal 让 Mac 本地 30 秒生成视频",
+        "url": "https://x.com/haoailab/status/2090177721913770407",
+        "source": "X：Sky Computing Lab (@haoailab)",
         "source_name": "AI HOT"
       }
     },
@@ -731,15 +792,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9575,
+        "recency": 0.9497,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -792,15 +853,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8092,
-      "importance": 0.8092,
-      "importance_score": 0.8092,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7179,
+        "recency": 0.7121,
         "story_heat": 0.0
       },
       "category": "official",
@@ -816,6 +877,68 @@
         "title": "ChatGPT 广告扩展到整个欧洲 / ChatGPT Ads expands across Europe",
         "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1572a951af05",
+      "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
+      "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+      "primary_url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
+          "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
+          "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T23:33:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
+          "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
+          "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T23:33:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8031,
+      "importance": 0.8031,
+      "importance_score": 0.8031,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7282,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T23:33:07Z",
+      "latest_at": "2026-08-18T23:33:07Z",
+      "primary_item": {
+        "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
+        "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
+        "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -854,15 +977,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
+      "score": 0.7426,
+      "importance": 0.7426,
+      "importance_score": 0.7426,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7504,
+        "recency": 0.7443,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -914,15 +1037,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9497,
+        "recency": 0.942,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -993,15 +1116,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8373,
+        "recency": 0.8305,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1055,15 +1178,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7932,
-      "importance": 0.7932,
-      "importance_score": 0.7932,
+      "score": 0.7921,
+      "importance": 0.7921,
+      "importance_score": 0.7921,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7175,
+        "recency": 0.7117,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1080,126 +1203,6 @@
         "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5874235fe6b1",
-      "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-      "url": "https://www.modular.com/blog/mojo-open-source",
-      "primary_url": "https://www.modular.com/blog/mojo-open-source",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
-          "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-          "url": "https://www.modular.com/blog/mojo-open-source",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T21:26:01.095000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
-          "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-          "url": "https://www.modular.com/blog/mojo-open-source",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T21:26:01.095000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7218,
-      "importance": 0.7218,
-      "importance_score": 0.7218,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7121,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T21:26:01.095000Z",
-      "latest_at": "2026-08-18T21:26:01.095000Z",
-      "primary_item": {
-        "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
-        "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-        "url": "https://www.modular.com/blog/mojo-open-source",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_56d0c9a18268",
-      "title": "Claude 如何加速蛋白质设计与分析化学研究",
-      "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-      "primary_url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2d445d4711836fe1d6d56e649860541e33eb624e",
-          "title": "Claude 如何加速蛋白质设计与分析化学研究",
-          "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T22:27:16.191000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Research（发表成果 · 网页）"
-      ],
-      "items": [
-        {
-          "id": "2d445d4711836fe1d6d56e649860541e33eb624e",
-          "title": "Claude 如何加速蛋白质设计与分析化学研究",
-          "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T22:27:16.191000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7207,
-      "importance": 0.7207,
-      "importance_score": 0.7207,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7227,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T22:27:16.191000Z",
-      "latest_at": "2026-08-18T22:27:16.191000Z",
-      "primary_item": {
-        "id": "2d445d4711836fe1d6d56e649860541e33eb624e",
-        "title": "Claude 如何加速蛋白质设计与分析化学研究",
-        "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1256,15 +1259,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8373,
+        "recency": 0.8305,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1337,15 +1340,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.752,
+      "importance": 0.752,
+      "importance_score": 0.752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7806,
+        "recency": 0.7743,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1471,15 +1474,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6614,
-      "importance": 0.6614,
-      "importance_score": 0.6614,
+      "score": 0.66,
+      "importance": 0.66,
+      "importance_score": 0.66,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9567,
+        "recency": 0.9489,
         "story_heat": 1.0
       },
       "category": "multi_source",
