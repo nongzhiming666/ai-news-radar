@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T06:47:47.462753Z",
+  "generated_at": "2026-08-20T07:41:27.226144Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8709,
-      "importance": 0.8709,
-      "importance_score": 0.8709,
+      "score": 0.869,
+      "importance": 0.869,
+      "importance_score": 0.869,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7825,
+        "recency": 0.7725,
         "story_heat": 0.5
       },
       "category": "official",
@@ -158,15 +158,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8488,
-      "importance": 0.8488,
-      "importance_score": 0.8488,
+      "score": 0.8469,
+      "importance": 0.8469,
+      "importance_score": 0.8469,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8434,
+        "recency": 0.8325,
         "story_heat": 0.25
       },
       "category": "official",
@@ -221,15 +221,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
+      "score": 0.8194,
+      "importance": 0.8194,
+      "importance_score": 0.8194,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8294,
+        "recency": 0.8187,
         "story_heat": 0.0
       },
       "category": "official",
@@ -283,15 +283,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8206,
-      "importance": 0.8206,
-      "importance_score": 0.8206,
+      "score": 0.8186,
+      "importance": 0.8186,
+      "importance_score": 0.8186,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8701,
+        "recency": 0.8589,
         "story_heat": 0.0
       },
       "category": "official",
@@ -345,15 +345,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8158,
-      "importance": 0.8158,
-      "importance_score": 0.8158,
+      "score": 0.8139,
+      "importance": 0.8139,
+      "importance_score": 0.8139,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8434,
+        "recency": 0.8325,
         "story_heat": 0.0
       },
       "category": "official",
@@ -426,15 +426,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7903,
+      "importance": 0.7903,
+      "importance_score": 0.7903,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9872,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -451,68 +451,6 @@
         "url": "https://www.aibase.com/news/30501",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_9ac0643f2427",
-      "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围 / Replit expands access to software creation with GPT-5.6 Luna",
-      "url": "https://openai.com/index/replit",
-      "primary_url": "https://openai.com/index/replit",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d71879ede3f1afde8a969f61c2b4f4fabe2c6ba5",
-          "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围 / Replit expands access to software creation with GPT-5.6 Luna",
-          "url": "https://openai.com/index/replit",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "d71879ede3f1afde8a969f61c2b4f4fabe2c6ba5",
-          "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围 / Replit expands access to software creation with GPT-5.6 Luna",
-          "url": "https://openai.com/index/replit",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8077,
-      "importance": 0.8077,
-      "importance_score": 0.8077,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7092,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T07:00:00Z",
-      "latest_at": "2026-08-19T07:00:00Z",
-      "primary_item": {
-        "id": "d71879ede3f1afde8a969f61c2b4f4fabe2c6ba5",
-        "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围 / Replit expands access to software creation with GPT-5.6 Luna",
-        "url": "https://openai.com/index/replit",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -550,15 +488,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8031,
-      "importance": 0.8031,
-      "importance_score": 0.8031,
+      "score": 0.8013,
+      "importance": 0.8013,
+      "importance_score": 0.8013,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7728,
+        "recency": 0.7629,
         "story_heat": 0.0
       },
       "category": "official",
@@ -631,15 +569,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7704,
-      "importance": 0.7704,
-      "importance_score": 0.7704,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8769,
+        "recency": 0.8657,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -712,15 +650,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7903,
+      "importance": 0.7903,
+      "importance_score": 0.7903,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9872,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -774,15 +712,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.7464,
+      "importance": 0.7464,
+      "importance_score": 0.7464,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9103,
+        "recency": 0.8986,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -834,15 +772,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7402,
-      "importance": 0.7402,
-      "importance_score": 0.7402,
+      "score": 0.7382,
+      "importance": 0.7382,
+      "importance_score": 0.7382,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8645,
+        "recency": 0.8534,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -894,15 +832,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
+      "score": 0.7382,
+      "importance": 0.7382,
+      "importance_score": 0.7382,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8305,
+        "recency": 0.8199,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -973,15 +911,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7903,
+      "importance": 0.7903,
+      "importance_score": 0.7903,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9872,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1054,15 +992,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
+      "score": 0.7828,
+      "importance": 0.7828,
+      "importance_score": 0.7828,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9453,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1135,15 +1073,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7821,
-      "importance": 0.7821,
-      "importance_score": 0.7821,
+      "score": 0.7799,
+      "importance": 0.7799,
+      "importance_score": 0.7799,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9417,
+        "recency": 0.9296,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1269,15 +1207,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6386,
-      "importance": 0.6386,
-      "importance_score": 0.6386,
+      "score": 0.6367,
+      "importance": 0.6367,
+      "importance_score": 0.6367,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8298,
+        "recency": 0.8192,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1348,15 +1286,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
+      "score": 0.7767,
+      "importance": 0.7767,
+      "importance_score": 0.7767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9237,
+        "recency": 0.9118,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1429,15 +1367,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
+      "score": 0.7767,
+      "importance": 0.7767,
+      "importance_score": 0.7767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9237,
+        "recency": 0.9118,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1457,21 +1395,21 @@
       }
     },
     {
-      "story_id": "story_194da5d7ad50",
-      "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
-      "url": "https://www.aibase.com/news/30497",
-      "primary_url": "https://www.aibase.com/news/30497",
+      "story_id": "story_ab4d6ad18fcb",
+      "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
+      "url": "https://www.aibase.com/news/30503",
+      "primary_url": "https://www.aibase.com/news/30503",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d3f775aec7238aa85d31859d61b11ef22857d5af",
-          "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
-          "url": "https://www.aibase.com/news/30497",
+          "id": "5fc805e27b6f5edee03c07254eefbe8d2fc8a942",
+          "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
+          "url": "https://www.aibase.com/news/30503",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T06:47:47.462753Z"
+          "published_at": "2026-08-20T07:41:27.226144Z"
         }
       ],
       "source_count": 1,
@@ -1480,13 +1418,13 @@
       ],
       "items": [
         {
-          "id": "d3f775aec7238aa85d31859d61b11ef22857d5af",
-          "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
-          "url": "https://www.aibase.com/news/30497",
+          "id": "5fc805e27b6f5edee03c07254eefbe8d2fc8a942",
+          "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
+          "url": "https://www.aibase.com/news/30503",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T06:47:47.462753Z"
+          "published_at": "2026-08-20T07:41:27.226144Z"
         }
       ],
       "item_count": 1,
@@ -1507,14 +1445,112 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T06:47:47.462753Z",
-      "latest_at": "2026-08-20T06:47:47.462753Z",
+      "earliest_at": "2026-08-20T07:41:27.226144Z",
+      "latest_at": "2026-08-20T07:41:27.226144Z",
       "primary_item": {
-        "id": "d3f775aec7238aa85d31859d61b11ef22857d5af",
-        "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
-        "url": "https://www.aibase.com/news/30497",
+        "id": "5fc805e27b6f5edee03c07254eefbe8d2fc8a942",
+        "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
+        "url": "https://www.aibase.com/news/30503",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_7cb24afa7d5a",
+      "title": "大语言模型时代的可扩展软件",
+      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
+      "primary_url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
+      "source": "jeremymorrell.dev",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a5119af9a1f0eff47e22842a0cb7c01346547281",
+          "title": "大语言模型时代的可扩展软件",
+          "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
+          "source": "jeremymorrell.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-20T00:38:00.116000Z"
+        },
+        {
+          "id": "7a6969b8dabff4da508b258ce598bbe807d0cd7e",
+          "title": "法学硕士时代的可扩展软件 / Extensible Software in the age of LLMs",
+          "url": "https://news.ycombinator.com/item?id=49363668",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-19T17:01:55.811000Z"
+        },
+        {
+          "id": "a5f5af69aec00eed5b2b7b3c372c39314434868e",
+          "title": "大语言模型时代的可扩展软件 / Extensible Software in the age of LLMs",
+          "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-19T16:26:05Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "jeremymorrell.dev"
+      ],
+      "items": [
+        {
+          "id": "a5119af9a1f0eff47e22842a0cb7c01346547281",
+          "title": "大语言模型时代的可扩展软件",
+          "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
+          "source": "jeremymorrell.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-20T00:38:00.116000Z"
+        },
+        {
+          "id": "7a6969b8dabff4da508b258ce598bbe807d0cd7e",
+          "title": "法学硕士时代的可扩展软件 / Extensible Software in the age of LLMs",
+          "url": "https://news.ycombinator.com/item?id=49363668",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-19T17:01:55.811000Z"
+        },
+        {
+          "id": "a5f5af69aec00eed5b2b7b3c372c39314434868e",
+          "title": "大语言模型时代的可扩展软件 / Extensible Software in the age of LLMs",
+          "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-19T16:26:05Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5534,
+      "importance": 0.5534,
+      "importance_score": 0.5534,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9031,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-19T16:26:05Z",
+      "latest_at": "2026-08-20T00:38:00.116000Z",
+      "primary_item": {
+        "id": "a5119af9a1f0eff47e22842a0cb7c01346547281",
+        "title": "大语言模型时代的可扩展软件",
+        "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
+        "source": "jeremymorrell.dev",
+        "source_name": "Buzzing"
       }
     }
   ]
