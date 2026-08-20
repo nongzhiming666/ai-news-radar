@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T03:47:45.897704Z",
+  "generated_at": "2026-08-20T04:38:22.015175Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8771,
-      "importance": 0.8771,
-      "importance_score": 0.8771,
+      "score": 0.8753,
+      "importance": 0.8753,
+      "importance_score": 0.8753,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8172,
+        "recency": 0.8073,
         "story_heat": 0.5
       },
       "category": "official",
@@ -158,15 +158,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8555,
-      "importance": 0.8555,
-      "importance_score": 0.8555,
+      "score": 0.8536,
+      "importance": 0.8536,
+      "importance_score": 0.8536,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8807,
+        "recency": 0.8701,
         "story_heat": 0.25
       },
       "category": "official",
@@ -221,15 +221,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8279,
-      "importance": 0.8279,
-      "importance_score": 0.8279,
+      "score": 0.826,
+      "importance": 0.826,
+      "importance_score": 0.826,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8661,
+        "recency": 0.8556,
         "story_heat": 0.0
       },
       "category": "official",
@@ -283,15 +283,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8275,
-      "importance": 0.8275,
-      "importance_score": 0.8275,
+      "score": 0.8256,
+      "importance": 0.8256,
+      "importance_score": 0.8256,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9086,
+        "recency": 0.8976,
         "story_heat": 0.0
       },
       "category": "official",
@@ -345,15 +345,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8225,
-      "importance": 0.8225,
-      "importance_score": 0.8225,
+      "score": 0.8206,
+      "importance": 0.8206,
+      "importance_score": 0.8206,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8807,
+        "recency": 0.8701,
         "story_heat": 0.0
       },
       "category": "official",
@@ -426,15 +426,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7904,
+      "importance": 0.7904,
+      "importance_score": 0.7904,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9879,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -488,15 +488,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8133,
-      "importance": 0.8133,
-      "importance_score": 0.8133,
+      "score": 0.8117,
+      "importance": 0.8117,
+      "importance_score": 0.8117,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7406,
+        "recency": 0.7316,
         "story_heat": 0.0
       },
       "category": "official",
@@ -550,15 +550,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
+      "score": 0.8075,
+      "importance": 0.8075,
+      "importance_score": 0.8075,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.807,
+        "recency": 0.7973,
         "story_heat": 0.0
       },
       "category": "official",
@@ -631,15 +631,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7774,
-      "importance": 0.7774,
-      "importance_score": 0.7774,
+      "score": 0.7754,
+      "importance": 0.7754,
+      "importance_score": 0.7754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9158,
+        "recency": 0.9047,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -712,15 +712,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7896,
-      "importance": 0.7896,
-      "importance_score": 0.7896,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9834,
+        "recency": 0.9715,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -774,15 +774,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7557,
-      "importance": 0.7557,
-      "importance_score": 0.7557,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9506,
+        "recency": 0.9391,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -835,15 +835,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7471,
-      "importance": 0.7471,
-      "importance_score": 0.7471,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9028,
+        "recency": 0.8919,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -895,15 +895,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
+      "score": 0.7448,
+      "importance": 0.7448,
+      "importance_score": 0.7448,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8673,
+        "recency": 0.8568,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -974,15 +974,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7862,
-      "importance": 0.7862,
-      "importance_score": 0.7862,
+      "score": 0.7841,
+      "importance": 0.7841,
+      "importance_score": 0.7841,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9646,
+        "recency": 0.9529,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -999,66 +999,6 @@
         "url": "https://www.aibase.com/news/30483",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1cf0a414c2e4",
-      "title": "OpenRouter 加入 Stripe 加速多模型使命",
-      "url": "https://x.com/OpenRouter/status/2090127246430216403",
-      "primary_url": "https://x.com/OpenRouter/status/2090127246430216403",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a3b0f3289268c53b32dae7345a5e0667e7af2f0b",
-          "title": "OpenRouter 加入 Stripe 加速多模型使命",
-          "url": "https://x.com/OpenRouter/status/2090127246430216403",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T17:22:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "a3b0f3289268c53b32dae7345a5e0667e7af2f0b",
-          "title": "OpenRouter 加入 Stripe 加速多模型使命",
-          "url": "https://x.com/OpenRouter/status/2090127246430216403",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T17:22:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7214,
-      "importance": 0.7214,
-      "importance_score": 0.7214,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8603,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-19T17:22:22Z",
-      "latest_at": "2026-08-19T17:22:22Z",
-      "primary_item": {
-        "id": "a3b0f3289268c53b32dae7345a5e0667e7af2f0b",
-        "title": "OpenRouter 加入 Stripe 加速多模型使命",
-        "url": "https://x.com/OpenRouter/status/2090127246430216403",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1115,15 +1055,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7862,
-      "importance": 0.7862,
-      "importance_score": 0.7862,
+      "score": 0.7841,
+      "importance": 0.7841,
+      "importance_score": 0.7841,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9646,
+        "recency": 0.9529,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1215,15 +1155,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
+      "score": 0.7688,
+      "importance": 0.7688,
+      "importance_score": 0.7688,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7381,
+        "recency": 0.7291,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1349,15 +1289,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6452,
-      "importance": 0.6452,
-      "importance_score": 0.6452,
+      "score": 0.6433,
+      "importance": 0.6433,
+      "importance_score": 0.6433,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8666,
+        "recency": 0.8561,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1409,15 +1349,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9879,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1470,15 +1410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7646,
-      "importance": 0.7646,
-      "importance_score": 0.7646,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9834,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1494,6 +1434,104 @@
         "url": "https://www.aibase.com/news/30490",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_7cb24afa7d5a",
+      "title": "大语言模型时代的可扩展软件",
+      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
+      "primary_url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
+      "source": "jeremymorrell.dev",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a5119af9a1f0eff47e22842a0cb7c01346547281",
+          "title": "大语言模型时代的可扩展软件",
+          "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
+          "source": "jeremymorrell.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-20T00:38:00.116000Z"
+        },
+        {
+          "id": "7a6969b8dabff4da508b258ce598bbe807d0cd7e",
+          "title": "法学硕士时代的可扩展软件 / Extensible Software in the age of LLMs",
+          "url": "https://news.ycombinator.com/item?id=49363668",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-19T17:01:55.811000Z"
+        },
+        {
+          "id": "a5f5af69aec00eed5b2b7b3c372c39314434868e",
+          "title": "大语言模型时代的可扩展软件 / Extensible Software in the age of LLMs",
+          "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-19T16:26:05Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "jeremymorrell.dev"
+      ],
+      "items": [
+        {
+          "id": "a5119af9a1f0eff47e22842a0cb7c01346547281",
+          "title": "大语言模型时代的可扩展软件",
+          "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
+          "source": "jeremymorrell.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-20T00:38:00.116000Z"
+        },
+        {
+          "id": "7a6969b8dabff4da508b258ce598bbe807d0cd7e",
+          "title": "法学硕士时代的可扩展软件 / Extensible Software in the age of LLMs",
+          "url": "https://news.ycombinator.com/item?id=49363668",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-19T17:01:55.811000Z"
+        },
+        {
+          "id": "a5f5af69aec00eed5b2b7b3c372c39314434868e",
+          "title": "大语言模型时代的可扩展软件 / Extensible Software in the age of LLMs",
+          "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-19T16:26:05Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5607,
+      "importance": 0.5607,
+      "importance_score": 0.5607,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9438,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-19T16:26:05Z",
+      "latest_at": "2026-08-20T00:38:00.116000Z",
+      "primary_item": {
+        "id": "a5119af9a1f0eff47e22842a0cb7c01346547281",
+        "title": "大语言模型时代的可扩展软件",
+        "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
+        "source": "jeremymorrell.dev",
+        "source_name": "Buzzing"
       }
     }
   ]
