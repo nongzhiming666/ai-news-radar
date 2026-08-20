@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T22:29:00.113741Z",
+  "generated_at": "2026-08-20T22:57:59.156864Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.896,
-      "importance": 0.896,
-      "importance_score": 0.896,
+      "score": 0.8949,
+      "importance": 0.8949,
+      "importance_score": 0.8949,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9223,
+        "recency": 0.9159,
         "story_heat": 0.5
       },
       "category": "official",
@@ -157,15 +157,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8351,
-      "importance": 0.8351,
-      "importance_score": 0.8351,
+      "score": 0.8342,
+      "importance": 0.8342,
+      "importance_score": 0.8342,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7228,
+        "recency": 0.7177,
         "story_heat": 0.25
       },
       "category": "official",
@@ -220,15 +220,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
+      "score": 0.8312,
+      "importance": 0.8312,
+      "importance_score": 0.8312,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9356,
+        "recency": 0.9291,
         "story_heat": 0.0
       },
       "category": "official",
@@ -282,15 +282,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8201,
-      "importance": 0.8201,
-      "importance_score": 0.8201,
+      "score": 0.8192,
+      "importance": 0.8192,
+      "importance_score": 0.8192,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7228,
+        "recency": 0.7177,
         "story_heat": 0.0
       },
       "category": "official",
@@ -344,15 +344,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8261,
-      "importance": 0.8261,
-      "importance_score": 0.8261,
+      "score": 0.825,
+      "importance": 0.825,
+      "importance_score": 0.825,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9007,
+        "recency": 0.8945,
         "story_heat": 0.0
       },
       "category": "official",
@@ -406,15 +406,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8159,
-      "importance": 0.8159,
-      "importance_score": 0.8159,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7996,
+        "recency": 0.7941,
         "story_heat": 0.0
       },
       "category": "official",
@@ -468,15 +468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8244,
-      "importance": 0.8244,
-      "importance_score": 0.8244,
+      "score": 0.8233,
+      "importance": 0.8233,
+      "importance_score": 0.8233,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.891,
+        "recency": 0.8848,
         "story_heat": 0.0
       },
       "category": "official",
@@ -549,15 +549,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8077,
+        "recency": 0.802,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -611,15 +611,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
+      "score": 0.7364,
+      "importance": 0.7364,
+      "importance_score": 0.7364,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8322,
+        "recency": 0.8264,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -671,15 +671,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7366,
-      "importance": 0.7366,
-      "importance_score": 0.7366,
+      "score": 0.7355,
+      "importance": 0.7355,
+      "importance_score": 0.7355,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9111,
+        "recency": 0.9048,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -731,15 +731,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7354,
-      "importance": 0.7354,
-      "importance_score": 0.7354,
+      "score": 0.7342,
+      "importance": 0.7342,
+      "importance_score": 0.7342,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9711,
+        "recency": 0.9643,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -791,15 +791,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8243,
-      "importance": 0.8243,
-      "importance_score": 0.8243,
+      "score": 0.8232,
+      "importance": 0.8232,
+      "importance_score": 0.8232,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8908,
+        "recency": 0.8846,
         "story_heat": 0.0
       },
       "category": "official",
@@ -853,15 +853,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9106,
+        "recency": 0.9043,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -932,15 +932,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7973,
+        "recency": 0.7918,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1013,15 +1013,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7973,
+        "recency": 0.7918,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1075,15 +1075,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7246,
-      "importance": 0.7246,
-      "importance_score": 0.7246,
+      "score": 0.7235,
+      "importance": 0.7235,
+      "importance_score": 0.7235,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8777,
+        "recency": 0.8716,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1154,15 +1154,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7973,
+        "recency": 0.7918,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1179,66 +1179,6 @@
         "url": "https://www.aibase.com/news/30498",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7c3b909383f3",
-      "title": "Anthropic 如何开展 AI 教学",
-      "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
-      "primary_url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dd38bd3d207f43c21bdd7b391bb4a791651609c7",
-          "title": "Anthropic 如何开展 AI 教学",
-          "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T17:56:58.396000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "dd38bd3d207f43c21bdd7b391bb4a791651609c7",
-          "title": "Anthropic 如何开展 AI 教学",
-          "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T17:56:58.396000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7202,
-      "importance": 0.7202,
-      "importance_score": 0.7202,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.6,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9366,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T17:56:58.396000Z",
-      "latest_at": "2026-08-20T17:56:58.396000Z",
-      "primary_item": {
-        "id": "dd38bd3d207f43c21bdd7b391bb4a791651609c7",
-        "title": "Anthropic 如何开展 AI 教学",
-        "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1348,15 +1288,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6601,
-      "importance": 0.6601,
-      "importance_score": 0.6601,
+      "score": 0.6589,
+      "importance": 0.6589,
+      "importance_score": 0.6589,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9493,
+        "recency": 0.9427,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1427,22 +1367,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7635,
+        "recency": 0.7582,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-20T03:47:45.897704Z",
       "latest_at": "2026-08-20T03:47:45.897704Z",
@@ -1452,6 +1391,141 @@
         "url": "https://www.aibase.com/news/30495",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0ac0123bfb33",
+      "title": "呕吐：用单独的 LLM 清理 Claude 5 的代币输出 / Vomit: Clean up Claude 5's token output with a separate LLM",
+      "url": "https://news.ycombinator.com/item?id=49375996",
+      "primary_url": "https://news.ycombinator.com/item?id=49375996",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "52e5af4a6ad035c97121c634cd363b7559ef0b0d",
+          "title": "呕吐：用单独的 LLM 清理 Claude 5 的代币输出 / Vomit: Clean up Claude 5's token output with a separate LLM",
+          "url": "https://news.ycombinator.com/item?id=49375996",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-20T21:10:01.030000Z"
+        },
+        {
+          "id": "c7897b8b9cbf7d2b9924bf8ce5b17399a9e7afba",
+          "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物",
+          "url": "https://github.com/zachahn/vomit",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-20T18:30:20Z"
+        },
+        {
+          "id": "ae7fdf7294d9ba7423cf32a998ec3fd685f8a640",
+          "title": "用单独的法学硕士清理克劳德 5 的代币呕吐物 / Clean up Claude 5's token vomit with a separate LLM",
+          "url": "https://news.ycombinator.com/item?id=49375996",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-20T16:09:19.214000Z"
+        },
+        {
+          "id": "a714876b7fd5e2def57ab7919dd690c66a840f4f",
+          "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物 / Clean up Claude 5's token vomit with a separate LLM",
+          "url": "https://github.com/zachahn/vomit",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-20T15:26:02Z"
+        },
+        {
+          "id": "1bb37e1d486ff8bb13221ef61f464a4b85857866",
+          "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物 / Vomit: Clean up Claude 5's token output with a separate LLM",
+          "url": "https://github.com/zachahn/vomit",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-20T15:26:02Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "52e5af4a6ad035c97121c634cd363b7559ef0b0d",
+          "title": "呕吐：用单独的 LLM 清理 Claude 5 的代币输出 / Vomit: Clean up Claude 5's token output with a separate LLM",
+          "url": "https://news.ycombinator.com/item?id=49375996",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-20T21:10:01.030000Z"
+        },
+        {
+          "id": "c7897b8b9cbf7d2b9924bf8ce5b17399a9e7afba",
+          "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物",
+          "url": "https://github.com/zachahn/vomit",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-20T18:30:20Z"
+        },
+        {
+          "id": "ae7fdf7294d9ba7423cf32a998ec3fd685f8a640",
+          "title": "用单独的法学硕士清理克劳德 5 的代币呕吐物 / Clean up Claude 5's token vomit with a separate LLM",
+          "url": "https://news.ycombinator.com/item?id=49375996",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-20T16:09:19.214000Z"
+        },
+        {
+          "id": "a714876b7fd5e2def57ab7919dd690c66a840f4f",
+          "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物 / Clean up Claude 5's token vomit with a separate LLM",
+          "url": "https://github.com/zachahn/vomit",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-20T15:26:02Z"
+        },
+        {
+          "id": "1bb37e1d486ff8bb13221ef61f464a4b85857866",
+          "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物 / Vomit: Clean up Claude 5's token output with a separate LLM",
+          "url": "https://github.com/zachahn/vomit",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-20T15:26:02Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6162,
+      "importance": 0.6162,
+      "importance_score": 0.6162,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9743,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-20T15:26:02Z",
+      "latest_at": "2026-08-20T21:10:01.030000Z",
+      "primary_item": {
+        "id": "52e5af4a6ad035c97121c634cd363b7559ef0b0d",
+        "title": "呕吐：用单独的 LLM 清理 Claude 5 的代币输出 / Vomit: Clean up Claude 5's token output with a separate LLM",
+        "url": "https://news.ycombinator.com/item?id=49375996",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
