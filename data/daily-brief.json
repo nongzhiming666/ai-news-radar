@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T21:35:24.010905Z",
+  "generated_at": "2026-08-20T22:29:00.113741Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8982,
-      "importance": 0.8982,
-      "importance_score": 0.8982,
+      "score": 0.896,
+      "importance": 0.896,
+      "importance_score": 0.896,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9343,
+        "recency": 0.9223,
         "story_heat": 0.5
       },
       "category": "official",
@@ -101,6 +101,87 @@
         "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
         "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_cb030de2dd94",
+      "title": "ChatGPT 如何帮助 Stampli 将创意推向市场 / How ChatGPT Work helps Stampli move ideas to market",
+      "url": "https://openai.com/index/stampli",
+      "primary_url": "https://openai.com/index/stampli",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3ae845494efe7827db0e55ad56f2b2ac370dd597",
+          "title": "ChatGPT 如何帮助 Stampli 将创意推向市场 / How ChatGPT Work helps Stampli move ideas to market",
+          "url": "https://openai.com/index/stampli",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T00:00:00Z"
+        },
+        {
+          "id": "7fd91e6585094da5bbdeb7314d65d39fd379e452",
+          "title": "Stampli 使用 ChatGPT Work 将启动时间缩短了 68% / Stampli cuts launch hours by 68% using ChatGPT Work",
+          "url": "https://openai.com/index/stampli",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T00:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "3ae845494efe7827db0e55ad56f2b2ac370dd597",
+          "title": "ChatGPT 如何帮助 Stampli 将创意推向市场 / How ChatGPT Work helps Stampli move ideas to market",
+          "url": "https://openai.com/index/stampli",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T00:00:00Z"
+        },
+        {
+          "id": "7fd91e6585094da5bbdeb7314d65d39fd379e452",
+          "title": "Stampli 使用 ChatGPT Work 将启动时间缩短了 68% / Stampli cuts launch hours by 68% using ChatGPT Work",
+          "url": "https://openai.com/index/stampli",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T00:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8351,
+      "importance": 0.8351,
+      "importance_score": 0.8351,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7228,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T00:00:00Z",
+      "latest_at": "2026-08-20T00:00:00Z",
+      "primary_item": {
+        "id": "3ae845494efe7827db0e55ad56f2b2ac370dd597",
+        "title": "ChatGPT 如何帮助 Stampli 将创意推向市场 / How ChatGPT Work helps Stampli move ideas to market",
+        "url": "https://openai.com/index/stampli",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -139,15 +220,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8346,
-      "importance": 0.8346,
-      "importance_score": 0.8346,
+      "score": 0.8324,
+      "importance": 0.8324,
+      "importance_score": 0.8324,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9478,
+        "recency": 0.9356,
         "story_heat": 0.0
       },
       "category": "official",
@@ -201,15 +282,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8218,
-      "importance": 0.8218,
-      "importance_score": 0.8218,
+      "score": 0.8201,
+      "importance": 0.8201,
+      "importance_score": 0.8201,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7321,
+        "recency": 0.7228,
         "story_heat": 0.0
       },
       "category": "official",
@@ -225,68 +306,6 @@
         "title": "Codex 和 ChatGPT 更新 / Codex and ChatGPT updates",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_027379c08484",
-      "title": "介绍人工智能期货 / Introducing AI Futures",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "primary_url": "https://openai.com/index/introducing-ai-futures",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bd145d40d86f467dd6a10beed7263e931c9e17f1",
-          "title": "介绍人工智能期货 / Introducing AI Futures",
-          "url": "https://openai.com/index/introducing-ai-futures",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "bd145d40d86f467dd6a10beed7263e931c9e17f1",
-          "title": "介绍人工智能期货 / Introducing AI Futures",
-          "url": "https://openai.com/index/introducing-ai-futures",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8178,
-      "importance": 0.8178,
-      "importance_score": 0.8178,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.81,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T07:00:00Z",
-      "latest_at": "2026-08-20T07:00:00Z",
-      "primary_item": {
-        "id": "bd145d40d86f467dd6a10beed7263e931c9e17f1",
-        "title": "介绍人工智能期货 / Introducing AI Futures",
-        "url": "https://openai.com/index/introducing-ai-futures",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -325,15 +344,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8282,
-      "importance": 0.8282,
-      "importance_score": 0.8282,
+      "score": 0.8261,
+      "importance": 0.8261,
+      "importance_score": 0.8261,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9124,
+        "recency": 0.9007,
         "story_heat": 0.0
       },
       "category": "official",
@@ -353,21 +372,21 @@
       }
     },
     {
-      "story_id": "story_cb030de2dd94",
-      "title": "ChatGPT 如何帮助 Stampli 将创意推向市场 / How ChatGPT Work helps Stampli move ideas to market",
-      "url": "https://openai.com/index/stampli",
-      "primary_url": "https://openai.com/index/stampli",
+      "story_id": "story_027379c08484",
+      "title": "介绍人工智能期货 / Introducing AI Futures",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "primary_url": "https://openai.com/index/introducing-ai-futures",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3ae845494efe7827db0e55ad56f2b2ac370dd597",
-          "title": "ChatGPT 如何帮助 Stampli 将创意推向市场 / How ChatGPT Work helps Stampli move ideas to market",
-          "url": "https://openai.com/index/stampli",
+          "id": "bd145d40d86f467dd6a10beed7263e931c9e17f1",
+          "title": "介绍人工智能期货 / Introducing AI Futures",
+          "url": "https://openai.com/index/introducing-ai-futures",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T00:00:00Z"
+          "published_at": "2026-08-20T07:00:00Z"
         }
       ],
       "source_count": 1,
@@ -376,26 +395,26 @@
       ],
       "items": [
         {
-          "id": "3ae845494efe7827db0e55ad56f2b2ac370dd597",
-          "title": "ChatGPT 如何帮助 Stampli 将创意推向市场 / How ChatGPT Work helps Stampli move ideas to market",
-          "url": "https://openai.com/index/stampli",
+          "id": "bd145d40d86f467dd6a10beed7263e931c9e17f1",
+          "title": "介绍人工智能期货 / Introducing AI Futures",
+          "url": "https://openai.com/index/introducing-ai-futures",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T00:00:00Z"
+          "published_at": "2026-08-20T07:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8118,
-      "importance": 0.8118,
-      "importance_score": 0.8118,
+      "score": 0.8159,
+      "importance": 0.8159,
+      "importance_score": 0.8159,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7321,
+        "ai_relevance": 0.91,
+        "recency": 0.7996,
         "story_heat": 0.0
       },
       "category": "official",
@@ -404,12 +423,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T00:00:00Z",
-      "latest_at": "2026-08-20T00:00:00Z",
+      "earliest_at": "2026-08-20T07:00:00Z",
+      "latest_at": "2026-08-20T07:00:00Z",
       "primary_item": {
-        "id": "3ae845494efe7827db0e55ad56f2b2ac370dd597",
-        "title": "ChatGPT 如何帮助 Stampli 将创意推向市场 / How ChatGPT Work helps Stampli move ideas to market",
-        "url": "https://openai.com/index/stampli",
+        "id": "bd145d40d86f467dd6a10beed7263e931c9e17f1",
+        "title": "介绍人工智能期货 / Introducing AI Futures",
+        "url": "https://openai.com/index/introducing-ai-futures",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
@@ -449,15 +468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8265,
-      "importance": 0.8265,
-      "importance_score": 0.8265,
+      "score": 0.8244,
+      "importance": 0.8244,
+      "importance_score": 0.8244,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9026,
+        "recency": 0.891,
         "story_heat": 0.0
       },
       "category": "official",
@@ -530,15 +549,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.758,
+      "importance": 0.758,
+      "importance_score": 0.758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8181,
+        "recency": 0.8077,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -555,86 +574,6 @@
         "url": "https://www.aibase.com/news/30503",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_68c52c81310f",
-      "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "primary_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ce2c0cdfe4ae069b6dfff67d4b091934d6e3d942",
-          "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
-          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T21:42:09.969000Z"
-        },
-        {
-          "id": "bb0744309b1a55857451afcd58a4e49b2bbc2f5e",
-          "title": "在网络关键能力时代推进模型开发",
-          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-19T21:42:09.969000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "ce2c0cdfe4ae069b6dfff67d4b091934d6e3d942",
-          "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
-          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T21:42:09.969000Z"
-        },
-        {
-          "id": "bb0744309b1a55857451afcd58a4e49b2bbc2f5e",
-          "title": "在网络关键能力时代推进模型开发",
-          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-19T21:42:09.969000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7083,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-19T21:42:09.969000Z",
-      "latest_at": "2026-08-19T21:42:09.969000Z",
-      "primary_item": {
-        "id": "ce2c0cdfe4ae069b6dfff67d4b091934d6e3d942",
-        "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
-        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -672,15 +611,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.843,
+        "recency": 0.8322,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -732,15 +671,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7387,
-      "importance": 0.7387,
-      "importance_score": 0.7387,
+      "score": 0.7366,
+      "importance": 0.7366,
+      "importance_score": 0.7366,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9229,
+        "recency": 0.9111,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -792,15 +731,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7377,
-      "importance": 0.7377,
-      "importance_score": 0.7377,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9837,
+        "recency": 0.9711,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -852,15 +791,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8264,
-      "importance": 0.8264,
-      "importance_score": 0.8264,
+      "score": 0.8243,
+      "importance": 0.8243,
+      "importance_score": 0.8243,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9024,
+        "recency": 0.8908,
         "story_heat": 0.0
       },
       "category": "official",
@@ -914,15 +853,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9224,
+        "recency": 0.9106,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -993,15 +932,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8077,
+        "recency": 0.7973,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1074,15 +1013,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8077,
+        "recency": 0.7973,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1136,15 +1075,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7266,
-      "importance": 0.7266,
-      "importance_score": 0.7266,
+      "score": 0.7246,
+      "importance": 0.7246,
+      "importance_score": 0.7246,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8891,
+        "recency": 0.8777,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1215,15 +1154,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8077,
+        "recency": 0.7973,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1277,15 +1216,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7224,
-      "importance": 0.7224,
-      "importance_score": 0.7224,
+      "score": 0.7202,
+      "importance": 0.7202,
+      "importance_score": 0.7202,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9488,
+        "recency": 0.9366,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1409,15 +1348,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6623,
-      "importance": 0.6623,
-      "importance_score": 0.6623,
+      "score": 0.6601,
+      "importance": 0.6601,
+      "importance_score": 0.6601,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9616,
+        "recency": 0.9493,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1432,6 +1371,87 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-20",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_c828ab67188c",
+      "title": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
+      "url": "https://www.aibase.com/news/30495",
+      "primary_url": "https://www.aibase.com/news/30495",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "651ff7fbcf2e21de28c647cf4af49aa3ade5a8c4",
+          "title": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
+          "url": "https://www.aibase.com/news/30495",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T03:47:45.897704Z"
+        },
+        {
+          "id": "fedd87b14ce7af681d5eb4f5cb8280b227e88f4b",
+          "title": "OpenAI 升级 Codex 安全防护，新增危险操作拦截与权限控制",
+          "url": "https://www.aibase.com/zh/news/30495",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "651ff7fbcf2e21de28c647cf4af49aa3ade5a8c4",
+          "title": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
+          "url": "https://www.aibase.com/news/30495",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T03:47:45.897704Z"
+        },
+        {
+          "id": "fedd87b14ce7af681d5eb4f5cb8280b227e88f4b",
+          "title": "OpenAI 升级 Codex 安全防护，新增危险操作拦截与权限控制",
+          "url": "https://www.aibase.com/zh/news/30495",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7635,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T03:47:45.897704Z",
+      "latest_at": "2026-08-20T03:47:45.897704Z",
+      "primary_item": {
+        "id": "651ff7fbcf2e21de28c647cf4af49aa3ade5a8c4",
+        "title": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
+        "url": "https://www.aibase.com/news/30495",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
