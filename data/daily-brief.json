@@ -1,233 +1,8 @@
 {
-  "generated_at": "2026-08-21T16:35:46.015236Z",
+  "generated_at": "2026-08-21T17:30:01.065296Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_c7cdb6722fd8",
-      "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
-          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T16:52:57Z"
-        },
-        {
-          "id": "0c6f1fc6bfff8ea3774ad3b6ffcb23a7430ec3ab",
-          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T16:52:57Z"
-        },
-        {
-          "id": "0ada2ec63296334c4ebabce43e4fe8b9a8d82036",
-          "title": "LFM2.5-DSpark 实现最高 3.2 倍推理加速",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
-          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T16:52:57Z"
-        },
-        {
-          "id": "0c6f1fc6bfff8ea3774ad3b6ffcb23a7430ec3ab",
-          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T16:52:57Z"
-        },
-        {
-          "id": "0ada2ec63296334c4ebabce43e4fe8b9a8d82036",
-          "title": "LFM2.5-DSpark 实现最高 3.2 倍推理加速",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8578,
-      "importance": 0.8578,
-      "importance_score": 0.8578,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.71,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T16:52:57Z",
-      "latest_at": "2026-08-20T17:59:08.402670Z",
-      "primary_item": {
-        "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
-        "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_87fedaf94c82",
-      "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
-      "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
-      "primary_url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "95be4d894cfb7732cd86896767c25f43138d9629",
-          "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
-          "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-21T16:07:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "95be4d894cfb7732cd86896767c25f43138d9629",
-          "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
-          "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-21T16:07:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8508,
-      "importance": 0.8508,
-      "importance_score": 0.8508,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9932,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T16:07:15Z",
-      "latest_at": "2026-08-21T16:07:15Z",
-      "primary_item": {
-        "id": "95be4d894cfb7732cd86896767c25f43138d9629",
-        "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
-        "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e42b7af4138c",
-      "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-      "primary_url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "170a12f11c9a3347096780bfa4e659b0e9daca01",
-          "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-21T11:59:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "170a12f11c9a3347096780bfa4e659b0e9daca01",
-          "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-21T11:59:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9357,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T11:59:48Z",
-      "latest_at": "2026-08-21T11:59:48Z",
-      "primary_item": {
-        "id": "170a12f11c9a3347096780bfa4e659b0e9daca01",
-        "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-        "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
     {
       "story_id": "story_68e9fb1705e1",
       "title": "测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型\"刷分\"现象 / Measuring benchmark optimization in speech recognition",
@@ -282,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8526,
-      "importance": 0.8526,
-      "importance_score": 0.8526,
+      "score": 0.8508,
+      "importance": 0.8508,
+      "importance_score": 0.8508,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7869,
+        "recency": 0.7767,
         "story_heat": 0.25
       },
       "category": "official",
@@ -307,6 +82,130 @@
         "title": "测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型\"刷分\"现象 / Measuring benchmark optimization in speech recognition",
         "url": "https://huggingface.co/blog/asr-benchmark-optimization",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_87fedaf94c82",
+      "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
+      "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
+      "primary_url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "95be4d894cfb7732cd86896767c25f43138d9629",
+          "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
+          "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-21T16:07:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "95be4d894cfb7732cd86896767c25f43138d9629",
+          "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
+          "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-21T16:07:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8484,
+      "importance": 0.8484,
+      "importance_score": 0.8484,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9803,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T16:07:15Z",
+      "latest_at": "2026-08-21T16:07:15Z",
+      "primary_item": {
+        "id": "95be4d894cfb7732cd86896767c25f43138d9629",
+        "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
+        "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e42b7af4138c",
+      "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+      "primary_url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "170a12f11c9a3347096780bfa4e659b0e9daca01",
+          "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-21T11:59:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "170a12f11c9a3347096780bfa4e659b0e9daca01",
+          "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-21T11:59:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8302,
+      "importance": 0.8302,
+      "importance_score": 0.8302,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9236,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T11:59:48Z",
+      "latest_at": "2026-08-21T11:59:48Z",
+      "primary_item": {
+        "id": "170a12f11c9a3347096780bfa4e659b0e9daca01",
+        "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+        "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+        "source": "Google DeepMind",
         "source_name": "Official AI Updates"
       }
     },
@@ -345,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8506,
-      "importance": 0.8506,
-      "importance_score": 0.8506,
+      "score": 0.8483,
+      "importance": 0.8483,
+      "importance_score": 0.8483,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9923,
+        "recency": 0.9794,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,15 +344,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7849,
-      "importance": 0.7849,
-      "importance_score": 0.7849,
+      "score": 0.7828,
+      "importance": 0.7828,
+      "importance_score": 0.7828,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9018,
+        "recency": 0.8901,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -526,15 +425,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7775,
-      "importance": 0.7775,
-      "importance_score": 0.7775,
+      "score": 0.7754,
+      "importance": 0.7754,
+      "importance_score": 0.7754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9162,
+        "recency": 0.9043,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -588,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.7629,
+      "importance": 0.7629,
+      "importance_score": 0.7629,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9698,
+        "recency": 0.9572,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -649,15 +548,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7589,
-      "importance": 0.7589,
-      "importance_score": 0.7589,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9017,
+        "recency": 0.89,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -710,15 +609,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.7473,
+      "importance": 0.7473,
+      "importance_score": 0.7473,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9497,
+        "recency": 0.9374,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -789,15 +688,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7754,
-      "importance": 0.7754,
-      "importance_score": 0.7754,
+      "score": 0.7733,
+      "importance": 0.7733,
+      "importance_score": 0.7733,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9042,
+        "recency": 0.8925,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -851,15 +750,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8046,
-      "importance": 0.8046,
-      "importance_score": 0.8046,
+      "score": 0.8028,
+      "importance": 0.8028,
+      "importance_score": 0.8028,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7812,
+        "recency": 0.771,
         "story_heat": 0.0
       },
       "category": "official",
@@ -932,15 +831,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7732,
-      "importance": 0.7732,
-      "importance_score": 0.7732,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8922,
+        "recency": 0.8806,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -994,15 +893,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
+      "score": 0.792,
+      "importance": 0.792,
+      "importance_score": 0.792,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7203,
+        "recency": 0.711,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1075,15 +974,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8797,
+        "recency": 0.8683,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1156,15 +1055,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8797,
+        "recency": 0.8683,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1290,15 +1189,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6207,
-      "importance": 0.6207,
-      "importance_score": 0.6207,
+      "score": 0.619,
+      "importance": 0.619,
+      "importance_score": 0.619,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7308,
+        "recency": 0.7213,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1369,15 +1268,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7689,
-      "importance": 0.7689,
-      "importance_score": 0.7689,
+      "score": 0.7669,
+      "importance": 0.7669,
+      "importance_score": 0.7669,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8685,
+        "recency": 0.8572,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1449,15 +1348,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6048,
-      "importance": 0.6048,
-      "importance_score": 0.6048,
+      "score": 0.6025,
+      "importance": 0.6025,
+      "importance_score": 0.6025,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.969,
+        "recency": 0.9564,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1528,15 +1427,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7689,
-      "importance": 0.7689,
-      "importance_score": 0.7689,
+      "score": 0.7669,
+      "importance": 0.7669,
+      "importance_score": 0.7669,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8685,
+        "recency": 0.8572,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1551,6 +1450,87 @@
         "id": "d6dab1ee27ce17441dd1f90277b18c57b68446c4",
         "title": "SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析",
         "url": "https://www.aibase.com/news/30526",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_fb9dba5038e4",
+      "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
+      "url": "https://www.aibase.com/news/30527",
+      "primary_url": "https://www.aibase.com/news/30527",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "621bd70bc44f5db80bdd8e306bb854d610576db8",
+          "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
+          "url": "https://www.aibase.com/news/30527",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T06:49:45.668925Z"
+        },
+        {
+          "id": "c32ddb47f3cffaf2421762c04b63f9f83bbc7053",
+          "title": "商汤科技开源 8B 轻量多模态大模型：原生 4K 输出、全能视觉编辑",
+          "url": "https://www.aibase.com/zh/news/30527",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "621bd70bc44f5db80bdd8e306bb854d610576db8",
+          "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
+          "url": "https://www.aibase.com/news/30527",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T06:49:45.668925Z"
+        },
+        {
+          "id": "c32ddb47f3cffaf2421762c04b63f9f83bbc7053",
+          "title": "商汤科技开源 8B 轻量多模态大模型：原生 4K 输出、全能视觉编辑",
+          "url": "https://www.aibase.com/zh/news/30527",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7669,
+      "importance": 0.7669,
+      "importance_score": 0.7669,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8572,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T06:49:45.668925Z",
+      "latest_at": "2026-08-21T06:49:45.668925Z",
+      "primary_item": {
+        "id": "621bd70bc44f5db80bdd8e306bb854d610576db8",
+        "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
+        "url": "https://www.aibase.com/news/30527",
         "source": "AIbase",
         "source_name": "AIbase"
       }
