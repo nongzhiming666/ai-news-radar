@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T11:46:13.506850Z",
+  "generated_at": "2026-08-22T12:40:45.482796Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
+      "score": 0.8058,
+      "importance": 0.8058,
+      "importance_score": 0.8058,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.753,
+        "recency": 0.7431,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,68 +62,6 @@
         "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
         "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e42b7af4138c",
-      "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-      "primary_url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "170a12f11c9a3347096780bfa4e659b0e9daca01",
-          "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-21T11:59:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "170a12f11c9a3347096780bfa4e659b0e9daca01",
-          "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-21T11:59:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7917,
-      "importance": 0.7917,
-      "importance_score": 0.7917,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7094,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T11:59:48Z",
-      "latest_at": "2026-08-21T11:59:48Z",
-      "primary_item": {
-        "id": "170a12f11c9a3347096780bfa4e659b0e9daca01",
-        "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-        "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-        "source": "Google DeepMind",
         "source_name": "Official AI Updates"
       }
     },
@@ -162,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8074,
-      "importance": 0.8074,
-      "importance_score": 0.8074,
+      "score": 0.8056,
+      "importance": 0.8056,
+      "importance_score": 0.8056,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7523,
+        "recency": 0.7425,
         "story_heat": 0.0
       },
       "category": "official",
@@ -224,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
+      "score": 0.8004,
+      "importance": 0.8004,
+      "importance_score": 0.8004,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7678,
+        "recency": 0.7578,
         "story_heat": 0.0
       },
       "category": "official",
@@ -286,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7229,
-      "importance": 0.7229,
-      "importance_score": 0.7229,
+      "score": 0.7212,
+      "importance": 0.7212,
+      "importance_score": 0.7212,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7353,
+        "recency": 0.7257,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -365,15 +303,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7188,
-      "importance": 0.7188,
-      "importance_score": 0.7188,
+      "score": 0.717,
+      "importance": 0.717,
+      "importance_score": 0.717,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7734,
+        "recency": 0.7633,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -516,15 +454,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6385,
-      "importance": 0.6385,
-      "importance_score": 0.6385,
+      "score": 0.6366,
+      "importance": 0.6366,
+      "importance_score": 0.6366,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.783,
+        "recency": 0.7728,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -595,15 +533,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5869,
-      "importance": 0.5869,
-      "importance_score": 0.5869,
+      "score": 0.5846,
+      "importance": 0.5846,
+      "importance_score": 0.5846,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9619,
+        "recency": 0.9494,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -711,15 +649,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5561,
-      "importance": 0.5561,
-      "importance_score": 0.5561,
+      "score": 0.5543,
+      "importance": 0.5543,
+      "importance_score": 0.5543,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7796,
+        "recency": 0.7695,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -828,15 +766,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5539,
-      "importance": 0.5539,
-      "importance_score": 0.5539,
+      "score": 0.5521,
+      "importance": 0.5521,
+      "importance_score": 0.5521,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7673,
+        "recency": 0.7573,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -907,15 +845,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5351,
-      "importance": 0.5351,
-      "importance_score": 0.5351,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9407,
+        "recency": 0.9285,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -985,15 +923,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5626,
-      "importance": 0.5626,
-      "importance_score": 0.5626,
+      "score": 0.5609,
+      "importance": 0.5609,
+      "importance_score": 0.5609,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.7347,
+        "recency": 0.7251,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1083,15 +1021,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5294,
-      "importance": 0.5294,
-      "importance_score": 0.5294,
+      "score": 0.5276,
+      "importance": 0.5276,
+      "importance_score": 0.5276,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7702,
+        "recency": 0.7602,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1162,15 +1100,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5214,
-      "importance": 0.5214,
-      "importance_score": 0.5214,
+      "score": 0.5194,
+      "importance": 0.5194,
+      "importance_score": 0.5194,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8645,
+        "recency": 0.8533,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1241,15 +1179,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5202,
-      "importance": 0.5202,
-      "importance_score": 0.5202,
+      "score": 0.5182,
+      "importance": 0.5182,
+      "importance_score": 0.5182,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8579,
+        "recency": 0.8467,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1320,15 +1258,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.511,
-      "importance": 0.511,
-      "importance_score": 0.511,
+      "score": 0.5091,
+      "importance": 0.5091,
+      "importance_score": 0.5091,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8066,
+        "recency": 0.7961,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1399,15 +1337,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5091,
-      "importance": 0.5091,
-      "importance_score": 0.5091,
+      "score": 0.5073,
+      "importance": 0.5073,
+      "importance_score": 0.5073,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7963,
+        "recency": 0.786,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1478,15 +1416,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5066,
-      "importance": 0.5066,
-      "importance_score": 0.5066,
+      "score": 0.5048,
+      "importance": 0.5048,
+      "importance_score": 0.5048,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7822,
+        "recency": 0.772,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1556,15 +1494,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5046,
-      "importance": 0.5046,
-      "importance_score": 0.5046,
+      "score": 0.5028,
+      "importance": 0.5028,
+      "importance_score": 0.5028,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.771,
+        "recency": 0.761,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1635,15 +1573,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5332,
-      "importance": 0.5332,
-      "importance_score": 0.5332,
+      "score": 0.531,
+      "importance": 0.531,
+      "importance_score": 0.531,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.93,
+        "recency": 0.9179,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1658,6 +1596,85 @@
         "url": "https://news.ycombinator.com/item?id=49396590",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_aa9981814fa8",
+      "title": "Mirendil、INT21、rekursiv.ai …… 最热门 RSI 公司都在「自我改进」什么",
+      "url": "https://www.huxiu.com/article/4885100.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4885100.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "ab8f98f5a917179bcc097a5b65d4e817f9988599",
+          "title": "Mirendil、INT21、rekursiv.ai …… 最热门 RSI 公司都在「自我改进」什么",
+          "url": "https://www.huxiu.com/article/4885100.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b8588259dfb654afae276183843e5d3255c1112d",
+          "title": "Mirendil、INT21、rekursiv.ai ……最热门RSI 公司都在“自我改进”什么",
+          "url": "https://www.huxiu.com/article/4885100.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T03:35:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "ab8f98f5a917179bcc097a5b65d4e817f9988599",
+          "title": "Mirendil、INT21、rekursiv.ai …… 最热门 RSI 公司都在「自我改进」什么",
+          "url": "https://www.huxiu.com/article/4885100.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b8588259dfb654afae276183843e5d3255c1112d",
+          "title": "Mirendil、INT21、rekursiv.ai ……最热门RSI 公司都在“自我改进”什么",
+          "url": "https://www.huxiu.com/article/4885100.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T03:35:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5259,
+      "importance": 0.5259,
+      "importance_score": 0.5259,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8894,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T03:35:17Z",
+      "latest_at": "2026-08-22T04:33:53.237519Z",
+      "primary_item": {
+        "id": "ab8f98f5a917179bcc097a5b65d4e817f9988599",
+        "title": "Mirendil、INT21、rekursiv.ai …… 最热门 RSI 公司都在「自我改进」什么",
+        "url": "https://www.huxiu.com/article/4885100.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
