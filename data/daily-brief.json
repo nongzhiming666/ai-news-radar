@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T10:24:37.540730Z",
+  "generated_at": "2026-08-22T10:49:50.406572Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
+      "score": 0.8094,
+      "importance": 0.8094,
+      "importance_score": 0.8094,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7679,
+        "recency": 0.7632,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7942,
-      "importance": 0.7942,
-      "importance_score": 0.7942,
+      "score": 0.7934,
+      "importance": 0.7934,
+      "importance_score": 0.7934,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7235,
+        "recency": 0.7191,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8101,
-      "importance": 0.8101,
-      "importance_score": 0.8101,
+      "score": 0.8093,
+      "importance": 0.8093,
+      "importance_score": 0.8093,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7672,
+        "recency": 0.7626,
         "story_heat": 0.0
       },
       "category": "official",
@@ -224,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.805,
-      "importance": 0.805,
-      "importance_score": 0.805,
+      "score": 0.8041,
+      "importance": 0.8041,
+      "importance_score": 0.8041,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7831,
+        "recency": 0.7783,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,86 +249,6 @@
         "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_313e373c64c2",
-      "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
-      "url": "https://www.aibase.com/news/30537",
-      "primary_url": "https://www.aibase.com/news/30537",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e8d94ae9507348e8c1ae3d2246a48b75ab3869aa",
-          "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
-          "url": "https://www.aibase.com/news/30537",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T10:32:04.136362Z"
-        },
-        {
-          "id": "d8e4d181c299efbdfbf5195475130fa8c12914a5",
-          "title": "字节 Seed 再调整：预训练、强化学习与 Agent 研发全面重构",
-          "url": "https://www.aibase.com/zh/news/30537",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e8d94ae9507348e8c1ae3d2246a48b75ab3869aa",
-          "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
-          "url": "https://www.aibase.com/news/30537",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T10:32:04.136362Z"
-        },
-        {
-          "id": "d8e4d181c299efbdfbf5195475130fa8c12914a5",
-          "title": "字节 Seed 再调整：预训练、强化学习与 Agent 研发全面重构",
-          "url": "https://www.aibase.com/zh/news/30537",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7084,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-21T10:32:04.136362Z",
-      "latest_at": "2026-08-21T10:32:04.136362Z",
-      "primary_item": {
-        "id": "e8d94ae9507348e8c1ae3d2246a48b75ab3869aa",
-        "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
-        "url": "https://www.aibase.com/news/30537",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -366,15 +286,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7256,
-      "importance": 0.7256,
-      "importance_score": 0.7256,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7498,
+        "recency": 0.7453,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -445,15 +365,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7216,
-      "importance": 0.7216,
-      "importance_score": 0.7216,
+      "score": 0.7207,
+      "importance": 0.7207,
+      "importance_score": 0.7207,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7887,
+        "recency": 0.784,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -596,15 +516,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6412,
-      "importance": 0.6412,
-      "importance_score": 0.6412,
+      "score": 0.6404,
+      "importance": 0.6404,
+      "importance_score": 0.6404,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.7985,
+        "recency": 0.7937,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -675,15 +595,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5903,
-      "importance": 0.5903,
-      "importance_score": 0.5903,
+      "score": 0.5892,
+      "importance": 0.5892,
+      "importance_score": 0.5892,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.981,
+        "recency": 0.9751,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -791,15 +711,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5589,
-      "importance": 0.5589,
-      "importance_score": 0.5589,
+      "score": 0.5581,
+      "importance": 0.5581,
+      "importance_score": 0.5581,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7951,
+        "recency": 0.7903,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -908,15 +828,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5567,
-      "importance": 0.5567,
-      "importance_score": 0.5567,
+      "score": 0.5558,
+      "importance": 0.5558,
+      "importance_score": 0.5558,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7825,
+        "recency": 0.7778,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -987,15 +907,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5385,
-      "importance": 0.5385,
-      "importance_score": 0.5385,
+      "score": 0.5374,
+      "importance": 0.5374,
+      "importance_score": 0.5374,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9594,
+        "recency": 0.9536,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1065,15 +985,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5652,
-      "importance": 0.5652,
-      "importance_score": 0.5652,
+      "score": 0.5644,
+      "importance": 0.5644,
+      "importance_score": 0.5644,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.7492,
+        "recency": 0.7447,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1163,15 +1083,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5322,
-      "importance": 0.5322,
-      "importance_score": 0.5322,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7855,
+        "recency": 0.7807,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1242,15 +1162,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5245,
-      "importance": 0.5245,
-      "importance_score": 0.5245,
+      "score": 0.5235,
+      "importance": 0.5235,
+      "importance_score": 0.5235,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8817,
+        "recency": 0.8763,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1321,15 +1241,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5233,
-      "importance": 0.5233,
-      "importance_score": 0.5233,
+      "score": 0.5223,
+      "importance": 0.5223,
+      "importance_score": 0.5223,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8749,
+        "recency": 0.8696,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1400,15 +1320,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5139,
-      "importance": 0.5139,
-      "importance_score": 0.5139,
+      "score": 0.513,
+      "importance": 0.513,
+      "importance_score": 0.513,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8226,
+        "recency": 0.8177,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1479,15 +1399,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.512,
-      "importance": 0.512,
-      "importance_score": 0.512,
+      "score": 0.5111,
+      "importance": 0.5111,
+      "importance_score": 0.5111,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8121,
+        "recency": 0.8072,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1558,15 +1478,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5094,
-      "importance": 0.5094,
-      "importance_score": 0.5094,
+      "score": 0.5085,
+      "importance": 0.5085,
+      "importance_score": 0.5085,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7977,
+        "recency": 0.7929,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1636,15 +1556,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5073,
-      "importance": 0.5073,
-      "importance_score": 0.5073,
+      "score": 0.5065,
+      "importance": 0.5065,
+      "importance_score": 0.5065,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7863,
+        "recency": 0.7815,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1659,6 +1579,85 @@
         "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_c302d2d33537",
+      "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
+      "url": "https://news.ycombinator.com/item?id=49396590",
+      "primary_url": "https://news.ycombinator.com/item?id=49396590",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "4652cf50d0631148283dcab33b554933ca36e4da",
+          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
+          "url": "https://news.ycombinator.com/item?id=49396590",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T06:44:55.104000Z"
+        },
+        {
+          "id": "a386741b6b65c710ba3ac756f3a4d056f1e175e0",
+          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
+          "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T04:33:06Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "4652cf50d0631148283dcab33b554933ca36e4da",
+          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
+          "url": "https://news.ycombinator.com/item?id=49396590",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T06:44:55.104000Z"
+        },
+        {
+          "id": "a386741b6b65c710ba3ac756f3a4d056f1e175e0",
+          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
+          "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T04:33:06Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5355,
+      "importance": 0.5355,
+      "importance_score": 0.5355,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9428,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T04:33:06Z",
+      "latest_at": "2026-08-22T06:44:55.104000Z",
+      "primary_item": {
+        "id": "4652cf50d0631148283dcab33b554933ca36e4da",
+        "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
+        "url": "https://news.ycombinator.com/item?id=49396590",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
