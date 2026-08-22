@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T12:40:45.482796Z",
+  "generated_at": "2026-08-22T13:32:48.925181Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8058,
-      "importance": 0.8058,
-      "importance_score": 0.8058,
+      "score": 0.8041,
+      "importance": 0.8041,
+      "importance_score": 0.8041,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7431,
+        "recency": 0.7339,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
+      "score": 0.804,
+      "importance": 0.804,
+      "importance_score": 0.804,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7425,
+        "recency": 0.7332,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8004,
-      "importance": 0.8004,
-      "importance_score": 0.8004,
+      "score": 0.7987,
+      "importance": 0.7987,
+      "importance_score": 0.7987,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7578,
+        "recency": 0.7484,
         "story_heat": 0.0
       },
       "category": "official",
@@ -187,66 +187,6 @@
         "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_1908848b1e0a",
-      "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
-      "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
-      "primary_url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "005c8d0ec7d674a738e61cb654fbac11082cdba3",
-          "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
-          "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T14:28:27.351000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "005c8d0ec7d674a738e61cb654fbac11082cdba3",
-          "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
-          "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T14:28:27.351000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7212,
-      "importance": 0.7212,
-      "importance_score": 0.7212,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7257,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-21T14:28:27.351000Z",
-      "latest_at": "2026-08-21T14:28:27.351000Z",
-      "primary_item": {
-        "id": "005c8d0ec7d674a738e61cb654fbac11082cdba3",
-        "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
-        "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -303,15 +243,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.717,
-      "importance": 0.717,
-      "importance_score": 0.717,
+      "score": 0.7153,
+      "importance": 0.7153,
+      "importance_score": 0.7153,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7633,
+        "recency": 0.7538,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -454,15 +394,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6366,
-      "importance": 0.6366,
-      "importance_score": 0.6366,
+      "score": 0.6349,
+      "importance": 0.6349,
+      "importance_score": 0.6349,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.7728,
+        "recency": 0.7631,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -533,15 +473,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5846,
-      "importance": 0.5846,
-      "importance_score": 0.5846,
+      "score": 0.5825,
+      "importance": 0.5825,
+      "importance_score": 0.5825,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9494,
+        "recency": 0.9376,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -649,15 +589,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5543,
-      "importance": 0.5543,
-      "importance_score": 0.5543,
+      "score": 0.5526,
+      "importance": 0.5526,
+      "importance_score": 0.5526,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7695,
+        "recency": 0.7599,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -766,15 +706,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5521,
-      "importance": 0.5521,
-      "importance_score": 0.5521,
+      "score": 0.5504,
+      "importance": 0.5504,
+      "importance_score": 0.5504,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7573,
+        "recency": 0.7479,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -789,6 +729,85 @@
         "url": "https://canews24.online/?p=71",
         "source": "canews24.online",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b6773085f128",
+      "title": "multica-ai / andrej-karpathy-技能 / multica-ai / andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "primary_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "032027867da96a5f8b4ace0675c9358fb4750ded",
+          "title": "multica-ai / andrej-karpathy-技能 / multica-ai / andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "baeb7c3254f794bf6cc04dc0a84e08a4131b1c74",
+          "title": "multica-ai / andrej-karpathy-技能 / multica-ai /      andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T13:09:39.410000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "032027867da96a5f8b4ace0675c9358fb4750ded",
+          "title": "multica-ai / andrej-karpathy-技能 / multica-ai / andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "baeb7c3254f794bf6cc04dc0a84e08a4131b1c74",
+          "title": "multica-ai / andrej-karpathy-技能 / multica-ai /      andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T13:09:39.410000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T13:09:39.410000Z",
+      "latest_at": "2026-08-22T13:32:48.925181Z",
+      "primary_item": {
+        "id": "032027867da96a5f8b4ace0675c9358fb4750ded",
+        "title": "multica-ai / andrej-karpathy-技能 / multica-ai / andrej-karpathy-skills",
+        "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     },
     {
@@ -845,15 +864,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5329,
-      "importance": 0.5329,
-      "importance_score": 0.5329,
+      "score": 0.5308,
+      "importance": 0.5308,
+      "importance_score": 0.5308,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9285,
+        "recency": 0.9169,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -923,15 +942,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5609,
-      "importance": 0.5609,
-      "importance_score": 0.5609,
+      "score": 0.5592,
+      "importance": 0.5592,
+      "importance_score": 0.5592,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.7251,
+        "recency": 0.716,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1021,15 +1040,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5276,
-      "importance": 0.5276,
-      "importance_score": 0.5276,
+      "score": 0.5259,
+      "importance": 0.5259,
+      "importance_score": 0.5259,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7602,
+        "recency": 0.7507,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1100,15 +1119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5194,
-      "importance": 0.5194,
-      "importance_score": 0.5194,
+      "score": 0.5175,
+      "importance": 0.5175,
+      "importance_score": 0.5175,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8533,
+        "recency": 0.8426,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1179,15 +1198,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5182,
-      "importance": 0.5182,
-      "importance_score": 0.5182,
+      "score": 0.5163,
+      "importance": 0.5163,
+      "importance_score": 0.5163,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8467,
+        "recency": 0.8362,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1202,6 +1221,85 @@
         "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
         "source": "HN Algolia · AI 24h",
         "source_name": "Hacker News"
+      }
+    },
+    {
+      "story_id": "story_a53af4b5fcbb",
+      "title": "openai / 法典 / openai / codex",
+      "url": "https://github.com/openai/codex",
+      "primary_url": "https://github.com/openai/codex",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "9c1abdb52097d9201316e1990460aac36cf34826",
+          "title": "openai / 法典 / openai / codex",
+          "url": "https://github.com/openai/codex",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7b4017bfc3adcc05cd75c8c23275758e7a5ab527",
+          "title": "openai / 法典 / openai /      codex",
+          "url": "https://github.com/openai/codex",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T13:09:39.410000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "9c1abdb52097d9201316e1990460aac36cf34826",
+          "title": "openai / 法典 / openai / codex",
+          "url": "https://github.com/openai/codex",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7b4017bfc3adcc05cd75c8c23275758e7a5ab527",
+          "title": "openai / 法典 / openai /      codex",
+          "url": "https://github.com/openai/codex",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T13:09:39.410000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T13:09:39.410000Z",
+      "latest_at": "2026-08-22T13:32:48.925181Z",
+      "primary_item": {
+        "id": "9c1abdb52097d9201316e1990460aac36cf34826",
+        "title": "openai / 法典 / openai / codex",
+        "url": "https://github.com/openai/codex",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1258,15 +1356,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5091,
-      "importance": 0.5091,
-      "importance_score": 0.5091,
+      "score": 0.5073,
+      "importance": 0.5073,
+      "importance_score": 0.5073,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7961,
+        "recency": 0.7862,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1337,15 +1435,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5073,
-      "importance": 0.5073,
-      "importance_score": 0.5073,
+      "score": 0.5055,
+      "importance": 0.5055,
+      "importance_score": 0.5055,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.786,
+        "recency": 0.7762,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1416,15 +1514,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5048,
-      "importance": 0.5048,
-      "importance_score": 0.5048,
+      "score": 0.503,
+      "importance": 0.503,
+      "importance_score": 0.503,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.772,
+        "recency": 0.7624,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1494,15 +1592,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5028,
-      "importance": 0.5028,
-      "importance_score": 0.5028,
+      "score": 0.5011,
+      "importance": 0.5011,
+      "importance_score": 0.5011,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.761,
+        "recency": 0.7515,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1573,15 +1671,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.531,
-      "importance": 0.531,
-      "importance_score": 0.531,
+      "score": 0.529,
+      "importance": 0.529,
+      "importance_score": 0.529,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9179,
+        "recency": 0.9065,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1596,85 +1694,6 @@
         "url": "https://news.ycombinator.com/item?id=49396590",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_aa9981814fa8",
-      "title": "Mirendil、INT21、rekursiv.ai …… 最热门 RSI 公司都在「自我改进」什么",
-      "url": "https://www.huxiu.com/article/4885100.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4885100.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "ab8f98f5a917179bcc097a5b65d4e817f9988599",
-          "title": "Mirendil、INT21、rekursiv.ai …… 最热门 RSI 公司都在「自我改进」什么",
-          "url": "https://www.huxiu.com/article/4885100.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "b8588259dfb654afae276183843e5d3255c1112d",
-          "title": "Mirendil、INT21、rekursiv.ai ……最热门RSI 公司都在“自我改进”什么",
-          "url": "https://www.huxiu.com/article/4885100.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T03:35:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "ab8f98f5a917179bcc097a5b65d4e817f9988599",
-          "title": "Mirendil、INT21、rekursiv.ai …… 最热门 RSI 公司都在「自我改进」什么",
-          "url": "https://www.huxiu.com/article/4885100.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "b8588259dfb654afae276183843e5d3255c1112d",
-          "title": "Mirendil、INT21、rekursiv.ai ……最热门RSI 公司都在“自我改进”什么",
-          "url": "https://www.huxiu.com/article/4885100.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T03:35:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5259,
-      "importance": 0.5259,
-      "importance_score": 0.5259,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8894,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T03:35:17Z",
-      "latest_at": "2026-08-22T04:33:53.237519Z",
-      "primary_item": {
-        "id": "ab8f98f5a917179bcc097a5b65d4e817f9988599",
-        "title": "Mirendil、INT21、rekursiv.ai …… 最热门 RSI 公司都在「自我改进」什么",
-        "url": "https://www.huxiu.com/article/4885100.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
