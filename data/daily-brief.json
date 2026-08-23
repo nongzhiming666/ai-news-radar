@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T09:54:35.301859Z",
+  "generated_at": "2026-08-23T10:25:17.202009Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9191,
+        "recency": 0.9123,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -99,15 +99,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8779,
+        "recency": 0.8714,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -121,66 +121,6 @@
         "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
         "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cce47fff342d",
-      "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚\"冰丝带\"，666 支队伍竞技 51 赛项",
-      "url": "https://www.ithome.com/0/993/105.htm",
-      "primary_url": "https://www.ithome.com/0/993/105.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cf06efb34986b9d10c8d4ad2b59712ed0f1fdc9c",
-          "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚\"冰丝带\"，666 支队伍竞技 51 赛项",
-          "url": "https://www.ithome.com/0/993/105.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-22T14:13:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "cf06efb34986b9d10c8d4ad2b59712ed0f1fdc9c",
-          "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚\"冰丝带\"，666 支队伍竞技 51 赛项",
-          "url": "https://www.ithome.com/0/993/105.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-22T14:13:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7201,
-      "importance": 0.7201,
-      "importance_score": 0.7201,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7526,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-22T14:13:48Z",
-      "latest_at": "2026-08-22T14:13:48Z",
-      "primary_item": {
-        "id": "cf06efb34986b9d10c8d4ad2b59712ed0f1fdc9c",
-        "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚\"冰丝带\"，666 支队伍竞技 51 赛项",
-        "url": "https://www.ithome.com/0/993/105.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -291,15 +231,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6374,
-      "importance": 0.6374,
-      "importance_score": 0.6374,
+      "score": 0.6363,
+      "importance": 0.6363,
+      "importance_score": 0.6363,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.777,
+        "recency": 0.7712,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -396,6 +336,164 @@
       }
     },
     {
+      "story_id": "story_543f347056f8",
+      "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
+      "url": "https://www.ithome.com/0/993/242.htm",
+      "primary_url": "https://www.ithome.com/0/993/242.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "6ec5d1fe7f53c7dca3608f47369432d88ffc224c",
+          "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
+          "url": "https://www.ithome.com/0/993/242.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6059f6bed02a5480252d42ea6f7b3482256bd991",
+          "title": "微软英国超大规模 AI 数据中心项目遇阻，遭 4 万居民联署反对",
+          "url": "https://www.ithome.com/0/993/242.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T09:49:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6ec5d1fe7f53c7dca3608f47369432d88ffc224c",
+          "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
+          "url": "https://www.ithome.com/0/993/242.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6059f6bed02a5480252d42ea6f7b3482256bd991",
+          "title": "微软英国超大规模 AI 数据中心项目遇阻，遭 4 万居民联署反对",
+          "url": "https://www.ithome.com/0/993/242.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T09:49:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T09:49:59Z",
+      "latest_at": "2026-08-23T10:25:17.202009Z",
+      "primary_item": {
+        "id": "6ec5d1fe7f53c7dca3608f47369432d88ffc224c",
+        "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
+        "url": "https://www.ithome.com/0/993/242.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_3377c27b081e",
+      "title": "NanoGPT 速通前沿",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "primary_url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "source": "www.primeintellect.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7eb97b3424f169de3f9e46179d95a3fb005bb70e",
+          "title": "NanoGPT 速通前沿",
+          "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+          "source": "www.primeintellect.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T10:13:35.301000Z"
+        },
+        {
+          "id": "c7559584cb495e309e1949cd0d8ab55b86c349df",
+          "title": "NanoGPT 速通前沿 / NanoGPT Speedrun Frontier",
+          "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T22:14:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.primeintellect.ai"
+      ],
+      "items": [
+        {
+          "id": "7eb97b3424f169de3f9e46179d95a3fb005bb70e",
+          "title": "NanoGPT 速通前沿",
+          "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+          "source": "www.primeintellect.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T10:13:35.301000Z"
+        },
+        {
+          "id": "c7559584cb495e309e1949cd0d8ab55b86c349df",
+          "title": "NanoGPT 速通前沿 / NanoGPT Speedrun Frontier",
+          "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T22:14:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9972,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T22:14:27Z",
+      "latest_at": "2026-08-23T10:13:35.301000Z",
+      "primary_item": {
+        "id": "7eb97b3424f169de3f9e46179d95a3fb005bb70e",
+        "title": "NanoGPT 速通前沿",
+        "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+        "source": "www.primeintellect.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
       "story_id": "story_c0f9d10986f5",
       "title": "为什么你身边的LLM看起来比实际更“笨”",
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
@@ -468,15 +566,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5434,
-      "importance": 0.5434,
-      "importance_score": 0.5434,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.848,
+        "recency": 0.8417,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -546,15 +644,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5405,
-      "importance": 0.5405,
-      "importance_score": 0.5405,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9704,
+        "recency": 0.9632,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -569,85 +667,6 @@
         "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
         "source": "www.bloomberg.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4c7eb9e5fa90",
-      "title": "赫拉利：现在就应抵制赋予 AI 权利",
-      "url": "https://www.ithome.com/0/993/188.htm",
-      "primary_url": "https://www.ithome.com/0/993/188.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "6f774c1096593451b31dbd0ad453911cde45ce9e",
-          "title": "赫拉利：现在就应抵制赋予 AI 权利",
-          "url": "https://www.ithome.com/0/993/188.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "b50cce84f8f405f5f36844de534e0fd9b9cd655a",
-          "title": "《人类简史》作者赫拉利：现在就应抵制赋予 AI 权利",
-          "url": "https://www.ithome.com/0/993/188.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T06:54:21Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "6f774c1096593451b31dbd0ad453911cde45ce9e",
-          "title": "赫拉利：现在就应抵制赋予 AI 权利",
-          "url": "https://www.ithome.com/0/993/188.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "b50cce84f8f405f5f36844de534e0fd9b9cd655a",
-          "title": "《人类简史》作者赫拉利：现在就应抵制赋予 AI 权利",
-          "url": "https://www.ithome.com/0/993/188.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T06:54:21Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5398,
-      "importance": 0.5398,
-      "importance_score": 0.5398,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9667,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T06:54:21Z",
-      "latest_at": "2026-08-23T07:33:59.393045Z",
-      "primary_item": {
-        "id": "6f774c1096593451b31dbd0ad453911cde45ce9e",
-        "title": "赫拉利：现在就应抵制赋予 AI 权利",
-        "url": "https://www.ithome.com/0/993/188.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -723,15 +742,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5321,
-      "importance": 0.5321,
-      "importance_score": 0.5321,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7851,
+        "recency": 0.7793,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -801,15 +820,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
+      "score": 0.5288,
+      "importance": 0.5288,
+      "importance_score": 0.5288,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9121,
+        "recency": 0.9054,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -899,15 +918,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5271,
-      "importance": 0.5271,
-      "importance_score": 0.5271,
+      "score": 0.5261,
+      "importance": 0.5261,
+      "importance_score": 0.5261,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7575,
+        "recency": 0.7519,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -978,15 +997,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5245,
-      "importance": 0.5245,
-      "importance_score": 0.5245,
+      "score": 0.5233,
+      "importance": 0.5233,
+      "importance_score": 0.5233,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8814,
+        "recency": 0.8749,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1057,15 +1076,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5155,
-      "importance": 0.5155,
-      "importance_score": 0.5155,
+      "score": 0.5144,
+      "importance": 0.5144,
+      "importance_score": 0.5144,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8318,
+        "recency": 0.8257,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1136,15 +1155,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5149,
-      "importance": 0.5149,
-      "importance_score": 0.5149,
+      "score": 0.5138,
+      "importance": 0.5138,
+      "importance_score": 0.5138,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8286,
+        "recency": 0.8225,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1159,6 +1178,85 @@
         "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4c7eb9e5fa90",
+      "title": "赫拉利：现在就应抵制赋予 AI 权利",
+      "url": "https://www.ithome.com/0/993/188.htm",
+      "primary_url": "https://www.ithome.com/0/993/188.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "6f774c1096593451b31dbd0ad453911cde45ce9e",
+          "title": "赫拉利：现在就应抵制赋予 AI 权利",
+          "url": "https://www.ithome.com/0/993/188.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b50cce84f8f405f5f36844de534e0fd9b9cd655a",
+          "title": "《人类简史》作者赫拉利：现在就应抵制赋予 AI 权利",
+          "url": "https://www.ithome.com/0/993/188.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T06:54:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6f774c1096593451b31dbd0ad453911cde45ce9e",
+          "title": "赫拉利：现在就应抵制赋予 AI 权利",
+          "url": "https://www.ithome.com/0/993/188.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b50cce84f8f405f5f36844de534e0fd9b9cd655a",
+          "title": "《人类简史》作者赫拉利：现在就应抵制赋予 AI 权利",
+          "url": "https://www.ithome.com/0/993/188.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T06:54:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5385,
+      "importance": 0.5385,
+      "importance_score": 0.5385,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9596,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T06:54:21Z",
+      "latest_at": "2026-08-23T07:33:59.393045Z",
+      "primary_item": {
+        "id": "6f774c1096593451b31dbd0ad453911cde45ce9e",
+        "title": "赫拉利：现在就应抵制赋予 AI 权利",
+        "url": "https://www.ithome.com/0/993/188.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1214,15 +1312,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5069,
-      "importance": 0.5069,
-      "importance_score": 0.5069,
+      "score": 0.5058,
+      "importance": 0.5058,
+      "importance_score": 0.5058,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7837,
+        "recency": 0.778,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1293,15 +1391,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5055,
-      "importance": 0.5055,
-      "importance_score": 0.5055,
+      "score": 0.5045,
+      "importance": 0.5045,
+      "importance_score": 0.5045,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7761,
+        "recency": 0.7704,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1372,15 +1470,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4999,
-      "importance": 0.4999,
-      "importance_score": 0.4999,
+      "score": 0.499,
+      "importance": 0.499,
+      "importance_score": 0.499,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7452,
+        "recency": 0.7398,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1394,164 +1492,6 @@
         "title": "multica-ai / andrej-karpathy-技能 / multica-ai / andrej-karpathy-skills",
         "url": "https://github.com/multica-ai/andrej-karpathy-skills",
         "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_b7cb2747bb61",
-      "title": "机器马和骑手在中国会议上抢尽风头 / Robot horse and rider steal the spotlight at Chinese conference",
-      "url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "c2c6fe1f1b1066560fee1897c263b3f3b1ef0f69",
-          "title": "机器马和骑手在中国会议上抢尽风头 / Robot horse and rider steal the spotlight at Chinese conference",
-          "url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-22T12:47:28Z"
-        },
-        {
-          "id": "fd0a779d2fa6ad5dd87ae2b649275b1c619271ba",
-          "title": "中国会议上，机器人马和骑手成为全场焦点 / Robot horse and rider steal the spotlight at Chinese conference",
-          "url": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T10:01:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News",
-        "BBC News (世界新闻)"
-      ],
-      "items": [
-        {
-          "id": "c2c6fe1f1b1066560fee1897c263b3f3b1ef0f69",
-          "title": "机器马和骑手在中国会议上抢尽风头 / Robot horse and rider steal the spotlight at Chinese conference",
-          "url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-22T12:47:28Z"
-        },
-        {
-          "id": "fd0a779d2fa6ad5dd87ae2b649275b1c619271ba",
-          "title": "中国会议上，机器人马和骑手成为全场焦点 / Robot horse and rider steal the spotlight at Chinese conference",
-          "url": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T10:01:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4985,
-      "importance": 0.4985,
-      "importance_score": 0.4985,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7371,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T10:01:18Z",
-      "latest_at": "2026-08-22T12:47:28Z",
-      "primary_item": {
-        "id": "c2c6fe1f1b1066560fee1897c263b3f3b1ef0f69",
-        "title": "机器马和骑手在中国会议上抢尽风头 / Robot horse and rider steal the spotlight at Chinese conference",
-        "url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_01b6e0d9d555",
-      "title": "AI Agent 安全新趋势：Authority 概念兴起",
-      "url": "https://www.huxiu.com/article/4885226.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4885226.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "78f0ef88871a34e36c68db993353853323e1d139",
-          "title": "AI Agent 安全新趋势：Authority 概念兴起",
-          "url": "https://www.huxiu.com/article/4885226.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c643b854f05749de6a79dabeff4fa314d2f24e04",
-          "title": "AI Agent 安全正在出现一个新的词：Authority",
-          "url": "https://www.huxiu.com/article/4885226.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T02:20:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "78f0ef88871a34e36c68db993353853323e1d139",
-          "title": "AI Agent 安全新趋势：Authority 概念兴起",
-          "url": "https://www.huxiu.com/article/4885226.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c643b854f05749de6a79dabeff4fa314d2f24e04",
-          "title": "AI Agent 安全正在出现一个新的词：Authority",
-          "url": "https://www.huxiu.com/article/4885226.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T02:20:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9019,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T02:20:38Z",
-      "latest_at": "2026-08-23T02:45:31.850696Z",
-      "primary_item": {
-        "id": "78f0ef88871a34e36c68db993353853323e1d139",
-        "title": "AI Agent 安全新趋势：Authority 概念兴起",
-        "url": "https://www.huxiu.com/article/4885226.html?f=rss",
-        "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
@@ -1609,15 +1549,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5111,
-      "importance": 0.5111,
-      "importance_score": 0.5111,
+      "score": 0.5101,
+      "importance": 0.5101,
+      "importance_score": 0.5101,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8074,
+        "recency": 0.8015,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1632,6 +1572,84 @@
         "url": "https://news.ycombinator.com/item?id=49399642",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_d901a93bbcfa",
+      "title": "《用Python思考》 / Thinking in Python",
+      "url": "https://thinkinginpython.com",
+      "primary_url": "https://thinkinginpython.com",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
+          "title": "《用Python思考》 / Thinking in Python",
+          "url": "https://thinkinginpython.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-22T18:10:49Z"
+        },
+        {
+          "id": "3289df469c5b7ba3c168fe930418c735ddf2afd9",
+          "title": "《用Python思考》 / Thinking in Python by Bruce Eckel",
+          "url": "https://thinkinginpython.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-22T18:10:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
+          "title": "《用Python思考》 / Thinking in Python",
+          "url": "https://thinkinginpython.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-22T18:10:49Z"
+        },
+        {
+          "id": "3289df469c5b7ba3c168fe930418c735ddf2afd9",
+          "title": "《用Python思考》 / Thinking in Python by Bruce Eckel",
+          "url": "https://thinkinginpython.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-22T18:10:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5082,
+      "importance": 0.5082,
+      "importance_score": 0.5082,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7909,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T18:10:49Z",
+      "latest_at": "2026-08-22T18:10:49Z",
+      "primary_item": {
+        "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
+        "title": "《用Python思考》 / Thinking in Python",
+        "url": "https://thinkinginpython.com",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
