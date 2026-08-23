@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T19:22:52.838986Z",
+  "generated_at": "2026-08-23T19:45:44.143041Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7517,
-      "importance": 0.7517,
-      "importance_score": 0.7517,
+      "score": 0.7508,
+      "importance": 0.7508,
+      "importance_score": 0.7508,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9282,
+        "recency": 0.9232,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -99,15 +99,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7319,
-      "importance": 0.7319,
-      "importance_score": 0.7319,
+      "score": 0.7311,
+      "importance": 0.7311,
+      "importance_score": 0.7311,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8016,
+        "recency": 0.7972,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -159,15 +159,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
+      "score": 0.7277,
+      "importance": 0.7277,
+      "importance_score": 0.7277,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7657,
+        "recency": 0.7615,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -291,15 +291,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.667,
-      "importance": 0.667,
-      "importance_score": 0.667,
+      "score": 0.666,
+      "importance": 0.666,
+      "importance_score": 0.666,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9876,
+        "recency": 0.9822,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -370,15 +370,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6168,
-      "importance": 0.6168,
-      "importance_score": 0.6168,
+      "score": 0.6158,
+      "importance": 0.6158,
+      "importance_score": 0.6158,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.5,
         "ai_relevance": 0.74,
-        "recency": 0.9662,
+        "recency": 0.9609,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -487,15 +487,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5871,
-      "importance": 0.5871,
-      "importance_score": 0.5871,
+      "score": 0.5862,
+      "importance": 0.5862,
+      "importance_score": 0.5862,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9519,
+        "recency": 0.9467,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -510,6 +510,85 @@
         "url": "https://news.ycombinator.com/item?id=49409073",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_37ba5c34e2c1",
+      "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向",
+      "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
+      "primary_url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "25d18e7262a6bdd4bde5bcf012695843fed9967e",
+          "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向",
+          "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T19:17:22.029000Z"
+        },
+        {
+          "id": "401582ef9828db6fbbe86d614ba1bae1b6d62b32",
+          "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向 / Hugging Face has been fielding M&A interest for a deal worth at least $13 billion",
+          "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T19:01:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "25d18e7262a6bdd4bde5bcf012695843fed9967e",
+          "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向",
+          "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T19:17:22.029000Z"
+        },
+        {
+          "id": "401582ef9828db6fbbe86d614ba1bae1b6d62b32",
+          "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向 / Hugging Face has been fielding M&A interest for a deal worth at least $13 billion",
+          "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T19:01:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9932,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T19:01:36Z",
+      "latest_at": "2026-08-23T19:17:22.029000Z",
+      "primary_item": {
+        "id": "25d18e7262a6bdd4bde5bcf012695843fed9967e",
+        "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向",
+        "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -566,15 +645,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5456,
-      "importance": 0.5456,
-      "importance_score": 0.5456,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9987,
+        "recency": 0.9932,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -589,6 +668,85 @@
         "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
         "source": "surfingcomplexity.blog",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_75a73f0d5f53",
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "primary_url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "31ce89234094e9f8110d782680be22984b04cdea",
+          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T18:16:37Z"
+        },
+        {
+          "id": "b03a8dddde42de3628c4e8c28589984e09141c58",
+          "title": "随着更便宜的工具日益兴盛，Anthropic 最优秀的人工智能模型却难以吸引用户",
+          "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T08:53:13.741000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "www.ft.com"
+      ],
+      "items": [
+        {
+          "id": "31ce89234094e9f8110d782680be22984b04cdea",
+          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T18:16:37Z"
+        },
+        {
+          "id": "b03a8dddde42de3628c4e8c28589984e09141c58",
+          "title": "随着更便宜的工具日益兴盛，Anthropic 最优秀的人工智能模型却难以吸引用户",
+          "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T08:53:13.741000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.542,
+      "importance": 0.542,
+      "importance_score": 0.542,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9788,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T08:53:13.741000Z",
+      "latest_at": "2026-08-23T18:16:37Z",
+      "primary_item": {
+        "id": "31ce89234094e9f8110d782680be22984b04cdea",
+        "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+        "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
       }
     },
     {
@@ -645,15 +803,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5414,
-      "importance": 0.5414,
-      "importance_score": 0.5414,
+      "score": 0.5405,
+      "importance": 0.5405,
+      "importance_score": 0.5405,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9758,
+        "recency": 0.9705,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -724,15 +882,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
+      "score": 0.5348,
+      "importance": 0.5348,
+      "importance_score": 0.5348,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9441,
+        "recency": 0.9389,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -747,85 +905,6 @@
         "url": "https://www.huxiu.com/article/4885316.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_6f7310105200",
-      "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。",
-      "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
-      "primary_url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f73172ea7aa3069754f2187d4ebaf10cb4c60408",
-          "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。",
-          "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T12:37:23.718000Z"
-        },
-        {
-          "id": "d06a604967901d0064f9d28c567f9223cd8fb92c",
-          "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。 / I created a viral AI watermark remover. I wasn't ready for all the attention.",
-          "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T11:32:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "f73172ea7aa3069754f2187d4ebaf10cb4c60408",
-          "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。",
-          "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T12:37:23.718000Z"
-        },
-        {
-          "id": "d06a604967901d0064f9d28c567f9223cd8fb92c",
-          "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。 / I created a viral AI watermark remover. I wasn't ready for all the attention.",
-          "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T11:32:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5291,
-      "importance": 0.5291,
-      "importance_score": 0.5291,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.907,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T11:32:01Z",
-      "latest_at": "2026-08-23T12:37:23.718000Z",
-      "primary_item": {
-        "id": "f73172ea7aa3069754f2187d4ebaf10cb4c60408",
-        "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。",
-        "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -881,15 +960,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5272,
-      "importance": 0.5272,
-      "importance_score": 0.5272,
+      "score": 0.5263,
+      "importance": 0.5263,
+      "importance_score": 0.5263,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8966,
+        "recency": 0.8916,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -960,15 +1039,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5261,
-      "importance": 0.5261,
-      "importance_score": 0.5261,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8908,
+        "recency": 0.8859,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1039,15 +1118,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5235,
-      "importance": 0.5235,
-      "importance_score": 0.5235,
+      "score": 0.5226,
+      "importance": 0.5226,
+      "importance_score": 0.5226,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8762,
+        "recency": 0.8714,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1062,85 +1141,6 @@
         "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
         "source": "www.primeintellect.ai",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_75a73f0d5f53",
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "primary_url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "source": "HN Algolia · AI 24h",
-      "source_name": "Hacker News",
-      "sources": [
-        {
-          "id": "9bc9ed060f7e0217af16e1a6feff16ee75eed9f0",
-          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-          "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-23T09:21:44Z"
-        },
-        {
-          "id": "b03a8dddde42de3628c4e8c28589984e09141c58",
-          "title": "随着更便宜的工具日益兴盛，Anthropic 最优秀的人工智能模型却难以吸引用户",
-          "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T08:53:13.741000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "www.ft.com"
-      ],
-      "items": [
-        {
-          "id": "9bc9ed060f7e0217af16e1a6feff16ee75eed9f0",
-          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-          "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-23T09:21:44Z"
-        },
-        {
-          "id": "b03a8dddde42de3628c4e8c28589984e09141c58",
-          "title": "随着更便宜的工具日益兴盛，Anthropic 最优秀的人工智能模型却难以吸引用户",
-          "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T08:53:13.741000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5216,
-      "importance": 0.5216,
-      "importance_score": 0.5216,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8653,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T08:53:13.741000Z",
-      "latest_at": "2026-08-23T09:21:44Z",
-      "primary_item": {
-        "id": "9bc9ed060f7e0217af16e1a6feff16ee75eed9f0",
-        "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-        "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-        "source": "HN Algolia · AI 24h",
-        "source_name": "Hacker News"
       }
     },
     {
@@ -1196,15 +1196,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5181,
-      "importance": 0.5181,
-      "importance_score": 0.5181,
+      "score": 0.5173,
+      "importance": 0.5173,
+      "importance_score": 0.5173,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8463,
+        "recency": 0.8417,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1275,15 +1275,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5436,
-      "importance": 0.5436,
-      "importance_score": 0.5436,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9877,
+        "recency": 0.9823,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1353,15 +1353,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.509,
-      "importance": 0.509,
-      "importance_score": 0.509,
+      "score": 0.5082,
+      "importance": 0.5082,
+      "importance_score": 0.5082,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7955,
+        "recency": 0.7912,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1376,85 +1376,6 @@
         "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_5a810ab0e3ac",
-      "title": "据《彭博新闻》报道，英伟达已通知客户，与人工智能相关的产品价格将上调15%以上 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5716da9589e818a302ce94b5cf069e755f1c7918",
-          "title": "据《彭博新闻》报道，英伟达已通知客户，与人工智能相关的产品价格将上调15%以上 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T01:10:03.522000Z"
-        },
-        {
-          "id": "9c2ff5e57acea354e27a2ad8ee9581a194e7205e",
-          "title": "据《彭博新闻》报道，英伟达已通知客户，与人工智能相关的产品价格将上调15%以上",
-          "url": "https://www.reuters.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-2026-08-22",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T19:33:43.240000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "5716da9589e818a302ce94b5cf069e755f1c7918",
-          "title": "据《彭博新闻》报道，英伟达已通知客户，与人工智能相关的产品价格将上调15%以上 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T01:10:03.522000Z"
-        },
-        {
-          "id": "9c2ff5e57acea354e27a2ad8ee9581a194e7205e",
-          "title": "据《彭博新闻》报道，英伟达已通知客户，与人工智能相关的产品价格将上调15%以上",
-          "url": "https://www.reuters.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-2026-08-22",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T19:33:43.240000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5042,
-      "importance": 0.5042,
-      "importance_score": 0.5042,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7687,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T19:33:43.240000Z",
-      "latest_at": "2026-08-23T01:10:03.522000Z",
-      "primary_item": {
-        "id": "5716da9589e818a302ce94b5cf069e755f1c7918",
-        "title": "据《彭博新闻》报道，英伟达已通知客户，与人工智能相关的产品价格将上调15%以上 - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1511,15 +1432,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5333,
-      "importance": 0.5333,
-      "importance_score": 0.5333,
+      "score": 0.5324,
+      "importance": 0.5324,
+      "importance_score": 0.5324,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9307,
+        "recency": 0.9256,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1534,6 +1455,85 @@
         "url": "https://www.ithome.com/0/993/301.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_6f7310105200",
+      "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。",
+      "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+      "primary_url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f73172ea7aa3069754f2187d4ebaf10cb4c60408",
+          "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。",
+          "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T12:37:23.718000Z"
+        },
+        {
+          "id": "d06a604967901d0064f9d28c567f9223cd8fb92c",
+          "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。 / I created a viral AI watermark remover. I wasn't ready for all the attention.",
+          "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T11:32:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "f73172ea7aa3069754f2187d4ebaf10cb4c60408",
+          "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。",
+          "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T12:37:23.718000Z"
+        },
+        {
+          "id": "d06a604967901d0064f9d28c567f9223cd8fb92c",
+          "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。 / I created a viral AI watermark remover. I wasn't ready for all the attention.",
+          "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T11:32:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5282,
+      "importance": 0.5282,
+      "importance_score": 0.5282,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.902,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T11:32:01Z",
+      "latest_at": "2026-08-23T12:37:23.718000Z",
+      "primary_item": {
+        "id": "f73172ea7aa3069754f2187d4ebaf10cb4c60408",
+        "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。",
+        "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1590,15 +1590,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5261,
-      "importance": 0.5261,
-      "importance_score": 0.5261,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8908,
+        "recency": 0.8859,
         "story_heat": 0.25
       },
       "category": "watch",
