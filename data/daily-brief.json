@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T20:33:29.297191Z",
+  "generated_at": "2026-08-29T23:02:00.203531Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8198,
-      "importance": 0.8198,
-      "importance_score": 0.8198,
+      "score": 0.8151,
+      "importance": 0.8151,
+      "importance_score": 0.8151,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7431,
+        "recency": 0.717,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7446,
-      "importance": 0.7446,
-      "importance_score": 0.7446,
+      "score": 0.7394,
+      "importance": 0.7394,
+      "importance_score": 0.7394,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8223,
+        "recency": 0.7934,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -179,15 +179,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7409,
-      "importance": 0.7409,
-      "importance_score": 0.7409,
+      "score": 0.7361,
+      "importance": 0.7361,
+      "importance_score": 0.7361,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7627,
+        "recency": 0.7359,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -240,15 +240,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
+      "score": 0.7254,
+      "importance": 0.7254,
+      "importance_score": 0.7254,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7933,
+        "recency": 0.7654,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -300,15 +300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
+      "score": 0.7375,
+      "importance": 0.7375,
+      "importance_score": 0.7375,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8286,
+        "recency": 0.7995,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -433,15 +433,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6621,
-      "importance": 0.6621,
-      "importance_score": 0.6621,
+      "score": 0.6561,
+      "importance": 0.6561,
+      "importance_score": 0.6561,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9608,
+        "recency": 0.927,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -550,15 +550,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5826,
-      "importance": 0.5826,
-      "importance_score": 0.5826,
+      "score": 0.5767,
+      "importance": 0.5767,
+      "importance_score": 0.5767,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9265,
+        "recency": 0.894,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -648,15 +648,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5702,
-      "importance": 0.5702,
-      "importance_score": 0.5702,
+      "score": 0.5639,
+      "importance": 0.5639,
+      "importance_score": 0.5639,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9968,
+        "recency": 0.9618,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -727,15 +727,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9968,
+        "recency": 0.9618,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -806,15 +806,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5446,
-      "importance": 0.5446,
-      "importance_score": 0.5446,
+      "score": 0.5384,
+      "importance": 0.5384,
+      "importance_score": 0.5384,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9936,
+        "recency": 0.9587,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -885,15 +885,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5439,
-      "importance": 0.5439,
-      "importance_score": 0.5439,
+      "score": 0.5376,
+      "importance": 0.5376,
+      "importance_score": 0.5376,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9892,
+        "recency": 0.9544,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -937,18 +937,18 @@
           "published_at": "2026-08-29T01:04:16.296000Z"
         },
         {
-          "id": "4b3dc26fa9059c335845e86833449b3453c388b4",
+          "id": "b1cebf1e35b4c5fbb65bf31d62c84e57187ede67",
           "title": "我不小心把LLM内存变成了程序分析 / I accidentally turned LLM memory into program analysis",
           "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-28T23:27:45Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "pwning.systems"
       ],
@@ -972,26 +972,26 @@
           "published_at": "2026-08-29T01:04:16.296000Z"
         },
         {
-          "id": "4b3dc26fa9059c335845e86833449b3453c388b4",
+          "id": "b1cebf1e35b4c5fbb65bf31d62c84e57187ede67",
           "title": "我不小心把LLM内存变成了程序分析 / I accidentally turned LLM memory into program analysis",
           "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-28T23:27:45Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5382,
-      "importance": 0.5382,
-      "importance_score": 0.5382,
+      "score": 0.5331,
+      "importance": 0.5331,
+      "importance_score": 0.5331,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8191,
+        "recency": 0.7903,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1062,15 +1062,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
+      "score": 0.5243,
+      "importance": 0.5243,
+      "importance_score": 0.5243,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9124,
+        "recency": 0.8803,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1141,15 +1141,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5161,
-      "importance": 0.5161,
-      "importance_score": 0.5161,
+      "score": 0.5108,
+      "importance": 0.5108,
+      "importance_score": 0.5108,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.835,
+        "recency": 0.8057,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1219,15 +1219,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5152,
-      "importance": 0.5152,
-      "importance_score": 0.5152,
+      "score": 0.5099,
+      "importance": 0.5099,
+      "importance_score": 0.5099,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8298,
+        "recency": 0.8007,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1298,15 +1298,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5121,
-      "importance": 0.5121,
-      "importance_score": 0.5121,
+      "score": 0.507,
+      "importance": 0.507,
+      "importance_score": 0.507,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8128,
+        "recency": 0.7843,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1324,82 +1324,82 @@
       }
     },
     {
-      "story_id": "story_4d812cfbbce6",
-      "title": "Claude Code is going reduce limits by 25% from September 14",
-      "url": "https://news.ycombinator.com/item?id=49491631",
-      "primary_url": "https://news.ycombinator.com/item?id=49491631",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_723b7b0828b8",
+      "title": "Show HN: 一款AI工具，可让Codex和Claude的图结构相互通信",
+      "url": "https://github.com/rysh-ai/rysh-cli-code",
+      "primary_url": "https://github.com/rysh-ai/rysh-cli-code",
+      "source": "github.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "d073f67cf6f2a3eabd8bf03703a9e26c3d664d97",
-          "title": "Claude Code is going reduce limits by 25% from September 14",
-          "url": "https://news.ycombinator.com/item?id=49491631",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T17:36:29.303000Z"
+          "id": "562977a415171a9c3d0cd9fafac2e35ce425b2da",
+          "title": "Show HN: 一款AI工具，可让Codex和Claude的图结构相互通信",
+          "url": "https://github.com/rysh-ai/rysh-cli-code",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T18:44:16.882000Z"
         },
         {
-          "id": "9baf5b737e6c0bbe1153b05b0487e8f5cb21b7e3",
-          "title": "Claude Code is going reduce limits by 25% from September 14",
-          "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
+          "id": "7db57bef7c0663016c0046bf2708ca2e3bc708b2",
+          "title": "Show HN: 一款AI工具，可让Codex和Claude的图结构相互通信 / Show HN: AI Harness that lets a graph of Codex and Claude intercommunicate",
+          "url": "https://github.com/rysh-ai/rysh-cli-code",
           "source": "HN Algolia · AI 24h",
           "source_name": "Hacker News",
           "site_id": "hackernews",
-          "published_at": "2026-08-29T17:27:31Z"
+          "published_at": "2026-08-29T18:34:03Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "HN Algolia · AI 24h",
-        "hackernews"
+        "github.com"
       ],
       "items": [
         {
-          "id": "d073f67cf6f2a3eabd8bf03703a9e26c3d664d97",
-          "title": "Claude Code is going reduce limits by 25% from September 14",
-          "url": "https://news.ycombinator.com/item?id=49491631",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T17:36:29.303000Z"
+          "id": "562977a415171a9c3d0cd9fafac2e35ce425b2da",
+          "title": "Show HN: 一款AI工具，可让Codex和Claude的图结构相互通信",
+          "url": "https://github.com/rysh-ai/rysh-cli-code",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T18:44:16.882000Z"
         },
         {
-          "id": "9baf5b737e6c0bbe1153b05b0487e8f5cb21b7e3",
-          "title": "Claude Code is going reduce limits by 25% from September 14",
-          "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
+          "id": "7db57bef7c0663016c0046bf2708ca2e3bc708b2",
+          "title": "Show HN: 一款AI工具，可让Codex和Claude的图结构相互通信 / Show HN: AI Harness that lets a graph of Codex and Claude intercommunicate",
+          "url": "https://github.com/rysh-ai/rysh-cli-code",
           "source": "HN Algolia · AI 24h",
           "source_name": "Hacker News",
           "site_id": "hackernews",
-          "published_at": "2026-08-29T17:27:31Z"
+          "published_at": "2026-08-29T18:34:03Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9583,
+        "recency": 0.9399,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T17:27:31Z",
-      "latest_at": "2026-08-29T17:36:29.303000Z",
+      "earliest_at": "2026-08-29T18:34:03Z",
+      "latest_at": "2026-08-29T18:44:16.882000Z",
       "primary_item": {
-        "id": "d073f67cf6f2a3eabd8bf03703a9e26c3d664d97",
-        "title": "Claude Code is going reduce limits by 25% from September 14",
-        "url": "https://news.ycombinator.com/item?id=49491631",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "562977a415171a9c3d0cd9fafac2e35ce425b2da",
+        "title": "Show HN: 一款AI工具，可让Codex和Claude的图结构相互通信",
+        "url": "https://github.com/rysh-ai/rysh-cli-code",
+        "source": "github.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1456,15 +1456,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5074,
-      "importance": 0.5074,
-      "importance_score": 0.5074,
+      "score": 0.5025,
+      "importance": 0.5025,
+      "importance_score": 0.5025,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7868,
+        "recency": 0.7592,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1479,6 +1479,85 @@
         "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
         "source": "Business Insider",
         "source_name": "TechURLs"
+      }
+    },
+    {
+      "story_id": "story_4d812cfbbce6",
+      "title": "Claude Code is going reduce limits by 25% from September 14",
+      "url": "https://news.ycombinator.com/item?id=49491631",
+      "primary_url": "https://news.ycombinator.com/item?id=49491631",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "d073f67cf6f2a3eabd8bf03703a9e26c3d664d97",
+          "title": "Claude Code is going reduce limits by 25% from September 14",
+          "url": "https://news.ycombinator.com/item?id=49491631",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T17:36:29.303000Z"
+        },
+        {
+          "id": "9baf5b737e6c0bbe1153b05b0487e8f5cb21b7e3",
+          "title": "Claude Code is going reduce limits by 25% from September 14",
+          "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-29T17:27:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d073f67cf6f2a3eabd8bf03703a9e26c3d664d97",
+          "title": "Claude Code is going reduce limits by 25% from September 14",
+          "url": "https://news.ycombinator.com/item?id=49491631",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T17:36:29.303000Z"
+        },
+        {
+          "id": "9baf5b737e6c0bbe1153b05b0487e8f5cb21b7e3",
+          "title": "Claude Code is going reduce limits by 25% from September 14",
+          "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-29T17:27:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5322,
+      "importance": 0.5322,
+      "importance_score": 0.5322,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9246,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T17:27:31Z",
+      "latest_at": "2026-08-29T17:36:29.303000Z",
+      "primary_item": {
+        "id": "d073f67cf6f2a3eabd8bf03703a9e26c3d664d97",
+        "title": "Claude Code is going reduce limits by 25% from September 14",
+        "url": "https://news.ycombinator.com/item?id=49491631",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1499,18 +1578,18 @@
           "published_at": "2026-08-29T03:16:20.612000Z"
         },
         {
-          "id": "0018dc991022e6b1db6860f42552c3e9931199b0",
+          "id": "b34fdb3d7e7fef53933ea8761c7c4705834c246d",
           "title": "关于Cursor被SpaceX收购后的决定 / Our decision on Cursor following its acquisition by SpaceX",
           "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-29T01:47:53Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "openai.com"
       ],
       "items": [
@@ -1524,26 +1603,26 @@
           "published_at": "2026-08-29T03:16:20.612000Z"
         },
         {
-          "id": "0018dc991022e6b1db6860f42552c3e9931199b0",
+          "id": "b34fdb3d7e7fef53933ea8761c7c4705834c246d",
           "title": "关于Cursor被SpaceX收购后的决定 / Our decision on Cursor following its acquisition by SpaceX",
           "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-29T01:47:53Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.506,
-      "importance": 0.506,
-      "importance_score": 0.506,
+      "score": 0.5011,
+      "importance": 0.5011,
+      "importance_score": 0.5011,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7791,
+        "recency": 0.7517,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1557,85 +1636,6 @@
         "title": "关于Cursor被SpaceX收购后的决定",
         "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
         "source": "openai.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_10e81be27811",
-      "title": "Debian 对 LLM 的使用既不支持也不禁止",
-      "url": "https://www.debian.org/vote/2026/vote_002",
-      "primary_url": "https://www.debian.org/vote/2026/vote_002",
-      "source": "www.debian.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d854c22c80979d30d93b9e95404eb79277d8845b",
-          "title": "Debian 对 LLM 的使用既不支持也不禁止",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T03:00:24.283000Z"
-        },
-        {
-          "id": "3fb5387ae972b438063492761d49c646f619d3ae",
-          "title": "Debian 对 LLM 的使用既不支持也不禁止 / LLM usage in Debian neither endorsed nor prohibited",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T01:40:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "www.debian.org"
-      ],
-      "items": [
-        {
-          "id": "d854c22c80979d30d93b9e95404eb79277d8845b",
-          "title": "Debian 对 LLM 的使用既不支持也不禁止",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T03:00:24.283000Z"
-        },
-        {
-          "id": "3fb5387ae972b438063492761d49c646f619d3ae",
-          "title": "Debian 对 LLM 的使用既不支持也不禁止 / LLM usage in Debian neither endorsed nor prohibited",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T01:40:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5055,
-      "importance": 0.5055,
-      "importance_score": 0.5055,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7761,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T01:40:59Z",
-      "latest_at": "2026-08-29T03:00:24.283000Z",
-      "primary_item": {
-        "id": "d854c22c80979d30d93b9e95404eb79277d8845b",
-        "title": "Debian 对 LLM 的使用既不支持也不禁止",
-        "url": "https://www.debian.org/vote/2026/vote_002",
-        "source": "www.debian.org",
         "source_name": "Buzzing"
       }
     }
