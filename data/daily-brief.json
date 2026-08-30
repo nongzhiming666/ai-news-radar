@@ -1,8 +1,130 @@
 {
-  "generated_at": "2026-08-30T01:29:27.454800Z",
+  "generated_at": "2026-08-30T07:17:55.773625Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_dba8baf1aeeb",
+      "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
+      "url": "https://x.com/AYi_AInotes/status/2093864816079208512",
+      "primary_url": "https://x.com/AYi_AInotes/status/2093864816079208512",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b4cc051baae56ea92e59473009ca0d4364b0629a",
+          "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
+          "url": "https://x.com/AYi_AInotes/status/2093864816079208512",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-30T00:54:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "b4cc051baae56ea92e59473009ca0d4364b0629a",
+          "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
+          "url": "https://x.com/AYi_AInotes/status/2093864816079208512",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-30T00:54:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9118,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-30T00:54:08Z",
+      "latest_at": "2026-08-30T00:54:08Z",
+      "primary_item": {
+        "id": "b4cc051baae56ea92e59473009ca0d4364b0629a",
+        "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
+        "url": "https://x.com/AYi_AInotes/status/2093864816079208512",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c71bc92556e6",
+      "title": "何夕2077 AI 深度信号周报 (2026-W35)：智能体自治危机、稀疏激活架构与具身智能融资潮",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-30-hexi-2077-ai-weekly-2026-w35",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-30-hexi-2077-ai-weekly-2026-w35",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "7ff7bf5d7d7068f4125735362fa01a896621d53d",
+          "title": "何夕2077 AI 深度信号周报 (2026-W35)：智能体自治危机、稀疏激活架构与具身智能融资潮",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-30-hexi-2077-ai-weekly-2026-w35",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-08-30T04:21:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "7ff7bf5d7d7068f4125735362fa01a896621d53d",
+          "title": "何夕2077 AI 深度信号周报 (2026-W35)：智能体自治危机、稀疏激活架构与具身智能融资潮",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-30-hexi-2077-ai-weekly-2026-w35",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-08-30T04:21:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9583,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-30T04:21:04Z",
+      "latest_at": "2026-08-30T04:21:04Z",
+      "primary_item": {
+        "id": "7ff7bf5d7d7068f4125735362fa01a896621d53d",
+        "title": "何夕2077 AI 深度信号周报 (2026-W35)：智能体自治危机、稀疏激活架构与具身智能融资潮",
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-30-hexi-2077-ai-weekly-2026-w35",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
+      }
+    },
     {
       "story_id": "story_dab2710a3e78",
       "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
@@ -19,11 +141,21 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-08-29T22:47:53Z"
+        },
+        {
+          "id": "4d8c24c946bcdd03d855c22a3c348c052c175460",
+          "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除 / The Rise and Fall of Agent Civilizations",
+          "url": "https://www.dwarkesh.com/p/openai-huggingface",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T23:43:24Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Dwarkesh Patel：Podcast & Blog（RSS）"
+        "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
@@ -34,232 +166,43 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-08-29T22:47:53Z"
+        },
+        {
+          "id": "4d8c24c946bcdd03d855c22a3c348c052c175460",
+          "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除 / The Rise and Fall of Agent Civilizations",
+          "url": "https://www.dwarkesh.com/p/openai-huggingface",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T23:43:24Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7397,
-      "importance": 0.7397,
-      "importance_score": 0.7397,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7508,
+      "importance": 0.7508,
+      "importance_score": 0.7508,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9619,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-29T22:47:53Z",
-      "latest_at": "2026-08-29T22:47:53Z",
-      "primary_item": {
-        "id": "013f4b8574ae634dbbbd8920f79f60fc1a6e19fa",
-        "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
-        "url": "https://www.dwarkesh.com/p/openai-huggingface",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7e896a4b3791",
-      "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-      "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-      "primary_url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
-          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-          "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T07:00:22.003000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
-          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-          "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T07:00:22.003000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7344,
-      "importance": 0.7344,
-      "importance_score": 0.7344,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7657,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-29T07:00:22.003000Z",
-      "latest_at": "2026-08-29T07:00:22.003000Z",
-      "primary_item": {
-        "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
-        "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-        "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7c7e4270511d",
-      "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
-      "url": "https://x.com/thsottiaux/status/2093515916076343774",
-      "primary_url": "https://x.com/thsottiaux/status/2093515916076343774",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "24c8fd94adc5e6f2753bdcf0b50fab34b0cb29a6",
-          "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
-          "url": "https://x.com/thsottiaux/status/2093515916076343774",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T01:47:44Z"
-        },
-        {
-          "id": "7de24c53f12a0a52660f29653e167e01812b4c21",
-          "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor and are ending our partnership. It boils down to trust and we’ve asked that this takes effect on November 12 to give...",
-          "url": "https://x.com/thsottiaux/status/2093515916076343774",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-29T01:47:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Thibault Sottiaux",
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "24c8fd94adc5e6f2753bdcf0b50fab34b0cb29a6",
-          "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
-          "url": "https://x.com/thsottiaux/status/2093515916076343774",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T01:47:44Z"
-        },
-        {
-          "id": "7de24c53f12a0a52660f29653e167e01812b4c21",
-          "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor and are ending our partnership. It boils down to trust and we’ve asked that this takes effect on November 12 to give...",
-          "url": "https://x.com/thsottiaux/status/2093515916076343774",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-29T01:47:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7102,
+        "recency": 0.8845,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-29T01:47:44Z",
-      "latest_at": "2026-08-29T01:47:44Z",
+      "earliest_at": "2026-08-29T22:47:53Z",
+      "latest_at": "2026-08-29T23:43:24Z",
       "primary_item": {
-        "id": "24c8fd94adc5e6f2753bdcf0b50fab34b0cb29a6",
-        "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
-        "url": "https://x.com/thsottiaux/status/2093515916076343774",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_94a433aab9d2",
-      "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
-      "url": "https://www.ithome.com/0/995/896.htm",
-      "primary_url": "https://www.ithome.com/0/995/896.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dfac024832fa2a93b74122ecaf59a5b9f236ca9c",
-          "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
-          "url": "https://www.ithome.com/0/995/896.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T04:31:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "dfac024832fa2a93b74122ecaf59a5b9f236ca9c",
-          "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
-          "url": "https://www.ithome.com/0/995/896.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T04:31:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7206,
-      "importance": 0.7206,
-      "importance_score": 0.7206,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7387,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-29T04:31:21Z",
-      "latest_at": "2026-08-29T04:31:21Z",
-      "primary_item": {
-        "id": "dfac024832fa2a93b74122ecaf59a5b9f236ca9c",
-        "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
-        "url": "https://www.ithome.com/0/995/896.htm",
-        "source": "IT之家（RSS）",
+        "id": "013f4b8574ae634dbbbd8920f79f60fc1a6e19fa",
+        "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
+        "url": "https://www.dwarkesh.com/p/openai-huggingface",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -298,15 +241,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7213,
+      "importance": 0.7213,
+      "importance_score": 0.7213,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7716,
+        "recency": 0.7096,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -366,20 +309,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-29T17:47:08.806232Z"
-        },
-        {
-          "id": "418ca7a981297b86518360283c5ea7cd5693855f",
-          "title": "内容分发工具Blotato的开发者Sabrina用一条30秒TikTok验证需求，把第一版砍到只剩一个功能，上线10天做到1万美元月度经常性收入，不到两年把业务做到了数百万美元年收入。AI帮她压缩执行成本，但产品判断、功能取舍和责任始终在人手里。想知道“一人公司”怎么少踩坑、先跑出确定性，可以认真看看她每一步的具体做法。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-28",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-29T01:30:21.149315Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "source_names": [
-        "社区更新 · 2026-08-28",
         "社区更新 · 2026-08-29"
       ],
       "items": [
@@ -418,35 +351,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-29T17:47:08.806232Z"
-        },
-        {
-          "id": "418ca7a981297b86518360283c5ea7cd5693855f",
-          "title": "内容分发工具Blotato的开发者Sabrina用一条30秒TikTok验证需求，把第一版砍到只剩一个功能，上线10天做到1万美元月度经常性收入，不到两年把业务做到了数百万美元年收入。AI帮她压缩执行成本，但产品判断、功能取舍和责任始终在人手里。想知道“一人公司”怎么少踩坑、先跑出确定性，可以认真看看她每一步的具体做法。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-28",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-29T01:30:21.149315Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6502,
-      "importance": 0.6502,
-      "importance_score": 0.6502,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6123,
+      "importance": 0.6123,
+      "importance_score": 0.6123,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8947,
-        "story_heat": 1.0
+        "recency": 0.8227,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T01:30:21.149315Z",
+      "earliest_at": "2026-08-29T17:47:08.806232Z",
       "latest_at": "2026-08-29T17:47:08.806232Z",
       "primary_item": {
         "id": "90705a9c14223b4d0ba1ee208f18fcdc439c9dce",
@@ -454,6 +378,104 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-29",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_0620f79b66d9",
+      "title": "在 Claude Code Opus 5 自动模式下进行提示注入",
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
+      "primary_url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
+      "source": "embracethered.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "dfae4803cb8a1f0780c014ad5f9402221d66fa17",
+          "title": "在 Claude Code Opus 5 自动模式下进行提示注入",
+          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
+          "source": "embracethered.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T05:40:15.465000Z"
+        },
+        {
+          "id": "3baed8be834f5e754243c916c038a85c5a2f18ce",
+          "title": "在 Claude Code Opus 5 自动模式下进行提示注入 / Prompt Injection in Claude Code Opus 5 Auto Mode",
+          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-30T05:36:51Z"
+        },
+        {
+          "id": "045debf55648e0f2ce4f45d070d1f967dbc4c6b2",
+          "title": "在 Claude Code Opus 5 自动模式下进行提示注入 / Breaking Claude Code Opus 5 Auto Mode",
+          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-30T05:04:10Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "Lobsters (技术社区)",
+        "embracethered.com"
+      ],
+      "items": [
+        {
+          "id": "dfae4803cb8a1f0780c014ad5f9402221d66fa17",
+          "title": "在 Claude Code Opus 5 自动模式下进行提示注入",
+          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
+          "source": "embracethered.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T05:40:15.465000Z"
+        },
+        {
+          "id": "3baed8be834f5e754243c916c038a85c5a2f18ce",
+          "title": "在 Claude Code Opus 5 自动模式下进行提示注入 / Prompt Injection in Claude Code Opus 5 Auto Mode",
+          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-30T05:36:51Z"
+        },
+        {
+          "id": "045debf55648e0f2ce4f45d070d1f967dbc4c6b2",
+          "title": "在 Claude Code Opus 5 自动模式下进行提示注入 / Breaking Claude Code Opus 5 Auto Mode",
+          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-30T05:04:10Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5666,
+      "importance": 0.5666,
+      "importance_score": 0.5666,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9768,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T05:04:10Z",
+      "latest_at": "2026-08-30T05:40:15.465000Z",
+      "primary_item": {
+        "id": "dfae4803cb8a1f0780c014ad5f9402221d66fa17",
+        "title": "在 Claude Code Opus 5 自动模式下进行提示注入",
+        "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
+        "source": "embracethered.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -548,15 +570,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5711,
-      "importance": 0.5711,
-      "importance_score": 0.5711,
+      "score": 0.5586,
+      "importance": 0.5586,
+      "importance_score": 0.5586,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8628,
+        "recency": 0.7934,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -571,6 +593,85 @@
         "url": "https://lwn.net/Articles/1091231",
         "source": "lwn.net",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b5f32ccb457e",
+      "title": "报告：2026年已记录1664起AI失控事件，7月环比增93.76%",
+      "url": "https://www.ithome.com/0/996/124.htm",
+      "primary_url": "https://www.ithome.com/0/996/124.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "2874a39fd0c8438c271e4de2e5ca9af45abe2238",
+          "title": "报告：2026年已记录1664起AI失控事件，7月环比增93.76%",
+          "url": "https://www.ithome.com/0/996/124.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "847581ef9430b36a60a1c1bf6bf7200659bae367",
+          "title": "日均峰值 11.3 起：报告称 2026 年已记录 1664 起 AI 失控事件，7 月环比增 93.76%",
+          "url": "https://www.ithome.com/0/996/124.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-30T06:01:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "2874a39fd0c8438c271e4de2e5ca9af45abe2238",
+          "title": "报告：2026年已记录1664起AI失控事件，7月环比增93.76%",
+          "url": "https://www.ithome.com/0/996/124.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "847581ef9430b36a60a1c1bf6bf7200659bae367",
+          "title": "日均峰值 11.3 起：报告称 2026 年已记录 1664 起 AI 失控事件，7 月环比增 93.76%",
+          "url": "https://www.ithome.com/0/996/124.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-30T06:01:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T06:01:18Z",
+      "latest_at": "2026-08-30T07:17:55.773625Z",
+      "primary_item": {
+        "id": "2874a39fd0c8438c271e4de2e5ca9af45abe2238",
+        "title": "报告：2026年已记录1664起AI失控事件，7月环比增93.76%",
+        "url": "https://www.ithome.com/0/996/124.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -646,15 +747,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5579,
-      "importance": 0.5579,
-      "importance_score": 0.5579,
+      "score": 0.5444,
+      "importance": 0.5444,
+      "importance_score": 0.5444,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9283,
+        "recency": 0.8536,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -725,15 +826,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5329,
-      "importance": 0.5329,
-      "importance_score": 0.5329,
+      "score": 0.5194,
+      "importance": 0.5194,
+      "importance_score": 0.5194,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9283,
+        "recency": 0.8536,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -804,15 +905,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
+      "score": 0.5189,
+      "importance": 0.5189,
+      "importance_score": 0.5189,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9253,
+        "recency": 0.8508,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -883,15 +984,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5316,
-      "importance": 0.5316,
-      "importance_score": 0.5316,
+      "score": 0.5183,
+      "importance": 0.5183,
+      "importance_score": 0.5183,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9212,
+        "recency": 0.8471,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -961,15 +1062,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.531,
-      "importance": 0.531,
-      "importance_score": 0.531,
+      "score": 0.5177,
+      "importance": 0.5177,
+      "importance_score": 0.5177,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9179,
+        "recency": 0.844,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -984,85 +1085,6 @@
         "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_dbef34f02ce8",
-      "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
-      "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4887054.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "fc7a981c43f25bb4a824d29fb906c1f9a93a943d",
-          "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
-          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "3e0310552370f7ea7400a6428f3efea2ed56881e",
-          "title": "谁在给 AI 付账单：八大科技巨头的万亿投注版图",
-          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T13:17:26Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "fc7a981c43f25bb4a824d29fb906c1f9a93a943d",
-          "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
-          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "3e0310552370f7ea7400a6428f3efea2ed56881e",
-          "title": "谁在给 AI 付账单：八大科技巨头的万亿投注版图",
-          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T13:17:26Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5187,
-      "importance": 0.5187,
-      "importance_score": 0.5187,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8496,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T13:17:26Z",
-      "latest_at": "2026-08-29T14:12:26.000132Z",
-      "primary_item": {
-        "id": "fc7a981c43f25bb4a824d29fb906c1f9a93a943d",
-        "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
-        "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1119,15 +1141,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5058,
-      "importance": 0.5058,
-      "importance_score": 0.5058,
+      "score": 0.4945,
+      "importance": 0.4945,
+      "importance_score": 0.4945,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7776,
+        "recency": 0.715,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1141,85 +1163,6 @@
         "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP）",
         "url": "https://itsuki.app",
         "source": "itsuki.app",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_9928173748ab",
-      "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-      "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-      "primary_url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-      "source": "arbustoemchamas.substack.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
-          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-          "source": "arbustoemchamas.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T06:12:16.489000Z"
-        },
-        {
-          "id": "3dd425ba42382807cd49d0e7987423508963d439",
-          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊 / I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
-          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T06:11:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "arbustoemchamas.substack.com"
-      ],
-      "items": [
-        {
-          "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
-          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-          "source": "arbustoemchamas.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T06:12:16.489000Z"
-        },
-        {
-          "id": "3dd425ba42382807cd49d0e7987423508963d439",
-          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊 / I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
-          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T06:11:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.502,
-      "importance": 0.502,
-      "importance_score": 0.502,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7569,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T06:11:18Z",
-      "latest_at": "2026-08-29T06:12:16.489000Z",
-      "primary_item": {
-        "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
-        "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-        "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-        "source": "arbustoemchamas.substack.com",
         "source_name": "Buzzing"
       }
     },
@@ -1277,15 +1220,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5291,
-      "importance": 0.5291,
-      "importance_score": 0.5291,
+      "score": 0.5159,
+      "importance": 0.5159,
+      "importance_score": 0.5159,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9071,
+        "recency": 0.8341,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1299,164 +1242,6 @@
         "title": "Show HN: 一款AI工具，可让Codex和Claude的图结构相互通信",
         "url": "https://github.com/rysh-ai/rysh-cli-code",
         "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_489c77d23af1",
-      "title": "OpenAI表示，由于埃隆·马斯克旗下的公司违反合同，该公司将终止与Cursor的合作协议。 / OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts",
-      "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
-      "primary_url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
-      "source": "Business Insider",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "a4b4d8727401183ff887b0b34b2925f2ec01d3d0",
-          "title": "OpenAI表示，由于埃隆·马斯克旗下的公司违反合同，该公司将终止与Cursor的合作协议。 / OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts",
-          "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T03:57:19Z"
-        },
-        {
-          "id": "9982751a938ffbcb907f2d93882d879f4ff7f497",
-          "title": "OpenAI表示，由于埃隆·马斯克旗下的公司违反合同，该公司将终止与Cursor的合作协议。",
-          "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T03:48:21.575000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "a4b4d8727401183ff887b0b34b2925f2ec01d3d0",
-          "title": "OpenAI表示，由于埃隆·马斯克旗下的公司违反合同，该公司将终止与Cursor的合作协议。 / OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts",
-          "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T03:57:19Z"
-        },
-        {
-          "id": "9982751a938ffbcb907f2d93882d879f4ff7f497",
-          "title": "OpenAI表示，由于埃隆·马斯克旗下的公司违反合同，该公司将终止与Cursor的合作协议。",
-          "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T03:48:21.575000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4977,
-      "importance": 0.4977,
-      "importance_score": 0.4977,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7327,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T03:48:21.575000Z",
-      "latest_at": "2026-08-29T03:57:19Z",
-      "primary_item": {
-        "id": "a4b4d8727401183ff887b0b34b2925f2ec01d3d0",
-        "title": "OpenAI表示，由于埃隆·马斯克旗下的公司违反合同，该公司将终止与Cursor的合作协议。 / OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts",
-        "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
-        "source": "Business Insider",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_092c8de02e8b",
-      "title": "关于Cursor被SpaceX收购后的决定",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "primary_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "source": "openai.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5960ffda3180fdd84c52d8498531d18672e70c38",
-          "title": "关于Cursor被SpaceX收购后的决定",
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T03:16:20.612000Z"
-        },
-        {
-          "id": "b34fdb3d7e7fef53933ea8761c7c4705834c246d",
-          "title": "关于Cursor被SpaceX收购后的决定 / Our decision on Cursor following its acquisition by SpaceX",
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T01:47:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "5960ffda3180fdd84c52d8498531d18672e70c38",
-          "title": "关于Cursor被SpaceX收购后的决定",
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T03:16:20.612000Z"
-        },
-        {
-          "id": "b34fdb3d7e7fef53933ea8761c7c4705834c246d",
-          "title": "关于Cursor被SpaceX收购后的决定 / Our decision on Cursor following its acquisition by SpaceX",
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T01:47:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4964,
-      "importance": 0.4964,
-      "importance_score": 0.4964,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7255,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T01:47:53Z",
-      "latest_at": "2026-08-29T03:16:20.612000Z",
-      "primary_item": {
-        "id": "5960ffda3180fdd84c52d8498531d18672e70c38",
-        "title": "关于Cursor被SpaceX收购后的决定",
-        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-        "source": "openai.com",
         "source_name": "Buzzing"
       }
     },
@@ -1514,15 +1299,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5264,
-      "importance": 0.5264,
-      "importance_score": 0.5264,
+      "score": 0.5135,
+      "importance": 0.5135,
+      "importance_score": 0.5135,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8924,
+        "recency": 0.8206,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1540,81 +1325,317 @@
       }
     },
     {
-      "story_id": "story_10e81be27811",
-      "title": "Debian 对 LLM 的使用既不支持也不禁止",
-      "url": "https://www.debian.org/vote/2026/vote_002",
-      "primary_url": "https://www.debian.org/vote/2026/vote_002",
-      "source": "www.debian.org",
-      "source_name": "Buzzing",
+      "story_id": "story_dbef34f02ce8",
+      "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
+      "url": "https://www.huxiu.com/article/4887054.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4887054.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "d854c22c80979d30d93b9e95404eb79277d8845b",
-          "title": "Debian 对 LLM 的使用既不支持也不禁止",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T03:00:24.283000Z"
+          "id": "fc7a981c43f25bb4a824d29fb906c1f9a93a943d",
+          "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
+          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "3fb5387ae972b438063492761d49c646f619d3ae",
-          "title": "Debian 对 LLM 的使用既不支持也不禁止 / LLM usage in Debian neither endorsed nor prohibited",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Lobsters (技术社区)",
+          "id": "3e0310552370f7ea7400a6428f3efea2ed56881e",
+          "title": "谁在给 AI 付账单：八大科技巨头的万亿投注版图",
+          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-29T01:40:59Z"
+          "published_at": "2026-08-29T13:17:26Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Lobsters (技术社区)",
-        "www.debian.org"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "d854c22c80979d30d93b9e95404eb79277d8845b",
-          "title": "Debian 对 LLM 的使用既不支持也不禁止",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T03:00:24.283000Z"
+          "id": "fc7a981c43f25bb4a824d29fb906c1f9a93a943d",
+          "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
+          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "3fb5387ae972b438063492761d49c646f619d3ae",
-          "title": "Debian 对 LLM 的使用既不支持也不禁止 / LLM usage in Debian neither endorsed nor prohibited",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Lobsters (技术社区)",
+          "id": "3e0310552370f7ea7400a6428f3efea2ed56881e",
+          "title": "谁在给 AI 付账单：八大科技巨头的万亿投注版图",
+          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-29T01:40:59Z"
+          "published_at": "2026-08-29T13:17:26Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4959,
-      "importance": 0.4959,
-      "importance_score": 0.4959,
+      "score": 0.5064,
+      "importance": 0.5064,
+      "importance_score": 0.5064,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7228,
+        "recency": 0.7813,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T01:40:59Z",
-      "latest_at": "2026-08-29T03:00:24.283000Z",
+      "earliest_at": "2026-08-29T13:17:26Z",
+      "latest_at": "2026-08-29T14:12:26.000132Z",
       "primary_item": {
-        "id": "d854c22c80979d30d93b9e95404eb79277d8845b",
-        "title": "Debian 对 LLM 的使用既不支持也不禁止",
-        "url": "https://www.debian.org/vote/2026/vote_002",
-        "source": "www.debian.org",
+        "id": "fc7a981c43f25bb4a824d29fb906c1f9a93a943d",
+        "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
+        "url": "https://www.huxiu.com/article/4887054.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_29a8261d3470",
+      "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+      "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+      "primary_url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
+          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T13:24:41.103000Z"
+        },
+        {
+          "id": "a6f59e8ba9a6f4aa9497a4c778b60c876a79ef3e",
+          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。 / I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
+          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T13:05:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
+          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T13:24:41.103000Z"
+        },
+        {
+          "id": "a6f59e8ba9a6f4aa9497a4c778b60c876a79ef3e",
+          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。 / I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
+          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T13:05:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5048,
+      "importance": 0.5048,
+      "importance_score": 0.5048,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7724,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T13:05:01Z",
+      "latest_at": "2026-08-29T13:24:41.103000Z",
+      "primary_item": {
+        "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
+        "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+        "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_356cb5adee51",
+      "title": "《宣言》——我们是谁，我们想要什么（2002） / Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+      "url": "https://www.inventati.org/who/manifesto",
+      "primary_url": "https://www.inventati.org/who/manifesto",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
+          "title": "《宣言》——我们是谁，我们想要什么（2002） / Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+          "url": "https://www.inventati.org/who/manifesto",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T07:38:31Z"
+        },
+        {
+          "id": "1b4538a74c8cc494e3074f226f077d120748ebca",
+          "title": "《宣言》——我们是谁，我们想要什么（2002） / Manifesto – who we are and what do we want (2002)",
+          "url": "https://www.inventati.org/who/manifesto",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T07:38:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
+          "title": "《宣言》——我们是谁，我们想要什么（2002） / Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+          "url": "https://www.inventati.org/who/manifesto",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T07:38:31Z"
+        },
+        {
+          "id": "1b4538a74c8cc494e3074f226f077d120748ebca",
+          "title": "《宣言》——我们是谁，我们想要什么（2002） / Manifesto – who we are and what do we want (2002)",
+          "url": "https://www.inventati.org/who/manifesto",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T07:38:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4937,
+      "importance": 0.4937,
+      "importance_score": 0.4937,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7106,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T07:38:31Z",
+      "latest_at": "2026-08-29T07:38:31Z",
+      "primary_item": {
+        "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
+        "title": "《宣言》——我们是谁，我们想要什么（2002） / Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+        "url": "https://www.inventati.org/who/manifesto",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_2cce40fa1295",
+      "title": "一位CEO解决AI生成的低质量内容问题的办法：让新员工在不依赖AI的情况下熟悉工作",
+      "url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
+      "primary_url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ea0c2ddcd3f47f5375b12cc76236ca7718d9e9b3",
+          "title": "一位CEO解决AI生成的低质量内容问题的办法：让新员工在不依赖AI的情况下熟悉工作",
+          "url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T09:40:21.871000Z"
+        },
+        {
+          "id": "a7625f6dceed6c5cf6f72df3bd96d0c92c5a0b44",
+          "title": "一位CEO解决AI生成的低质量内容问题的办法：让新员工在不依赖AI的情况下熟悉工作 / New hires at this AI startup have to earn their AI privileges",
+          "url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T09:22:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "ea0c2ddcd3f47f5375b12cc76236ca7718d9e9b3",
+          "title": "一位CEO解决AI生成的低质量内容问题的办法：让新员工在不依赖AI的情况下熟悉工作",
+          "url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T09:40:21.871000Z"
+        },
+        {
+          "id": "a7625f6dceed6c5cf6f72df3bd96d0c92c5a0b44",
+          "title": "一位CEO解决AI生成的低质量内容问题的办法：让新员工在不依赖AI的情况下熟悉工作 / New hires at this AI startup have to earn their AI privileges",
+          "url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T09:22:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4975,
+      "importance": 0.4975,
+      "importance_score": 0.4975,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7318,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T09:22:01Z",
+      "latest_at": "2026-08-29T09:40:21.871000Z",
+      "primary_item": {
+        "id": "ea0c2ddcd3f47f5375b12cc76236ca7718d9e9b3",
+        "title": "一位CEO解决AI生成的低质量内容问题的办法：让新员工在不依赖AI的情况下熟悉工作",
+        "url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
