@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T17:41:33.143696Z",
+  "generated_at": "2026-08-30T20:42:33.868171Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.783,
-      "importance": 0.783,
-      "importance_score": 0.783,
+      "score": 0.7762,
+      "importance": 0.7762,
+      "importance_score": 0.7762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.88,
+        "recency": 0.8425,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7408,
-      "importance": 0.7408,
-      "importance_score": 0.7408,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7847,
+        "recency": 0.7512,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -179,15 +179,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7361,
-      "importance": 0.7361,
-      "importance_score": 0.7361,
+      "score": 0.7297,
+      "importance": 0.7297,
+      "importance_score": 0.7297,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8248,
+        "recency": 0.7896,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -258,15 +258,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7286,
-      "importance": 0.7286,
-      "importance_score": 0.7286,
+      "score": 0.7228,
+      "importance": 0.7228,
+      "importance_score": 0.7228,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7612,
+        "recency": 0.7288,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -293,6 +293,15 @@
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "5831eaaabd6497fccd838fa9a55e25e2bbd253a7",
+          "title": "在这场访谈里，OpenAI 产品负责人Tara把 AI 产品正在经历的变化分成三段：Chat → Agent → 长期在线 AI 同事。这个变化并不只属于OpenAI。它会重新划分产品经理、工程师和普通知识工作者的日常。一起来看看！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-30T20:42:33.868171Z"
+        },
+        {
           "id": "3e548f0fbf25939e98949c3b364895aae6ff9c09",
           "title": "作者整理了 66 个我认为的高频 AI 词汇，用说人话的方式解释清楚。每个词都会告诉你：它是什么、平时会在哪里遇到，以及用什么生活场景最好记。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -327,51 +336,23 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-30T17:41:33.143696Z"
-        },
-        {
-          "id": "90705a9c14223b4d0ba1ee208f18fcdc439c9dce",
-          "title": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-29",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-29T17:47:08.806232Z"
-        },
-        {
-          "id": "10c296509aca8edfb056fdd6e24ecacc20809ca1",
-          "title": "很多人自己部署大模型时，最容易只盯参数量和显卡型号，结果发现：并发排队、长上下文掉速、成本也算不清。这篇文章把TTFT、TPOT、吞吐、KV Cache、P95/P99、量化、硬件选型讲得很清晰，或许对你有帮助！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-29",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-29T17:47:08.806232Z"
-        },
-        {
-          "id": "456fc774512850c937850d4b5103183c6427d68f",
-          "title": "谷歌和微软很少达成一致。但现在它们正在构建同样的东西来修复智能体访问网页的问题，这可能是多年来网络最大的变革。一起来看看！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-29",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-29T17:47:08.806232Z"
-        },
-        {
-          "id": "4e2eeb2fe6da4544a3fe6795b2399eaa4da2cd72",
-          "title": "过去十多年，吴恩达参与创建Google Brain、联合创办Coursera，并通过机器学习课程教过约800万名学习者。这其中的很多人对AI的注意力还停留在“岗位会不会被替代”、“AGI 会不会失控”这些大问题里。而在吴恩达看来，未来职场的核心竞争力，不在于谁会调用工具，更在于谁能发现问题、构建解决方案，并对结果负责。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-29",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-29T17:47:08.806232Z"
         }
       ],
-      "source_count": 8,
+      "source_count": 5,
       "source_names": [
-        "社区更新 · 2026-08-29",
         "社区更新 · 2026-08-30"
       ],
       "items": [
         {
+          "id": "5831eaaabd6497fccd838fa9a55e25e2bbd253a7",
+          "title": "在这场访谈里，OpenAI 产品负责人Tara把 AI 产品正在经历的变化分成三段：Chat → Agent → 长期在线 AI 同事。这个变化并不只属于OpenAI。它会重新划分产品经理、工程师和普通知识工作者的日常。一起来看看！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-30",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-30T20:42:33.868171Z"
+        },
+        {
           "id": "3e548f0fbf25939e98949c3b364895aae6ff9c09",
           "title": "作者整理了 66 个我认为的高频 AI 词汇，用说人话的方式解释清楚。每个词都会告诉你：它是什么、平时会在哪里遇到，以及用什么生活场景最好记。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -406,69 +387,131 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-30T17:41:33.143696Z"
-        },
-        {
-          "id": "90705a9c14223b4d0ba1ee208f18fcdc439c9dce",
-          "title": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-29",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-29T17:47:08.806232Z"
-        },
-        {
-          "id": "10c296509aca8edfb056fdd6e24ecacc20809ca1",
-          "title": "很多人自己部署大模型时，最容易只盯参数量和显卡型号，结果发现：并发排队、长上下文掉速、成本也算不清。这篇文章把TTFT、TPOT、吞吐、KV Cache、P95/P99、量化、硬件选型讲得很清晰，或许对你有帮助！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-29",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-29T17:47:08.806232Z"
-        },
-        {
-          "id": "456fc774512850c937850d4b5103183c6427d68f",
-          "title": "谷歌和微软很少达成一致。但现在它们正在构建同样的东西来修复智能体访问网页的问题，这可能是多年来网络最大的变革。一起来看看！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-29",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-29T17:47:08.806232Z"
-        },
-        {
-          "id": "4e2eeb2fe6da4544a3fe6795b2399eaa4da2cd72",
-          "title": "过去十多年，吴恩达参与创建Google Brain、联合创办Coursera，并通过机器学习课程教过约800万名学习者。这其中的很多人对AI的注意力还停留在“岗位会不会被替代”、“AGI 会不会失控”这些大问题里。而在吴恩达看来，未来职场的核心竞争力，不在于谁会调用工具，更在于谁能发现问题、构建解决方案，并对结果负责。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-29",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-29T17:47:08.806232Z"
         }
       ],
-      "item_count": 8,
-      "duplicate_count": 8,
-      "score": 0.6817,
-      "importance": 0.6817,
-      "importance_score": 0.6817,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.674,
+      "importance": 0.674,
+      "importance_score": 0.674,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 1.0,
+        "recency": 0.9574,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T17:47:08.806232Z",
-      "latest_at": "2026-08-30T17:41:33.143696Z",
+      "earliest_at": "2026-08-30T17:41:33.143696Z",
+      "latest_at": "2026-08-30T20:42:33.868171Z",
       "primary_item": {
         "id": "8b565b51834b5b0486ac70a748213e6d083e1a36",
         "title": "最近发布的开源双足具身智能机器人Microduck ，会走路、会起身。关键是还公开了软件和强化学习训练代码。那么如果想借此做出一台自己的小型机器人，应该从哪里开始？每一步为什么要做，做到什么程度才算过关？CY这篇文章带你一起详细拆解下！",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-30",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_2929f114895f",
+      "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+      "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+      "primary_url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+      "source": "thezvi.wordpress.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ebe8a90985f6b0d5fb7d42a80e3b1d7c99bda9ea",
+          "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+          "source": "thezvi.wordpress.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T19:31:43.820000Z"
+        },
+        {
+          "id": "6f8623ae86b419d7d127d297a6bfeaa68771db9d",
+          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "url": "https://news.ycombinator.com/item?id=49498787",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T17:20:28.182000Z"
+        },
+        {
+          "id": "c2034b0c427915b5c115e8883fcee71c1884fd16",
+          "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告 / METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T14:06:54Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "thezvi.wordpress.com"
+      ],
+      "items": [
+        {
+          "id": "ebe8a90985f6b0d5fb7d42a80e3b1d7c99bda9ea",
+          "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+          "source": "thezvi.wordpress.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T19:31:43.820000Z"
+        },
+        {
+          "id": "6f8623ae86b419d7d127d297a6bfeaa68771db9d",
+          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "url": "https://news.ycombinator.com/item?id=49498787",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T17:20:28.182000Z"
+        },
+        {
+          "id": "c2034b0c427915b5c115e8883fcee71c1884fd16",
+          "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告 / METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T14:06:54Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5678,
+      "importance": 0.5678,
+      "importance_score": 0.5678,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9831,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T14:06:54Z",
+      "latest_at": "2026-08-30T19:31:43.820000Z",
+      "primary_item": {
+        "id": "ebe8a90985f6b0d5fb7d42a80e3b1d7c99bda9ea",
+        "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+        "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+        "source": "thezvi.wordpress.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -544,15 +587,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.568,
-      "importance": 0.568,
-      "importance_score": 0.568,
+      "score": 0.5604,
+      "importance": 0.5604,
+      "importance_score": 0.5604,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9843,
+        "recency": 0.9423,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -570,55 +613,55 @@
       }
     },
     {
-      "story_id": "story_2929f114895f",
-      "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-      "url": "https://news.ycombinator.com/item?id=49498787",
-      "primary_url": "https://news.ycombinator.com/item?id=49498787",
+      "story_id": "story_84fb8aa4ff88",
+      "title": "I am no longer letting Claude Code add itself as Co-author in my commits",
+      "url": "https://news.ycombinator.com/item?id=49502101",
+      "primary_url": "https://news.ycombinator.com/item?id=49502101",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "6f8623ae86b419d7d127d297a6bfeaa68771db9d",
-          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-          "url": "https://news.ycombinator.com/item?id=49498787",
+          "id": "80b7b8c01d1ecbed095d59000737ba9ef402774f",
+          "title": "I am no longer letting Claude Code add itself as Co-author in my commits",
+          "url": "https://news.ycombinator.com/item?id=49502101",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-30T17:20:28.182000Z"
+          "published_at": "2026-08-30T20:20:52.852000Z"
         },
         {
-          "id": "c2034b0c427915b5c115e8883fcee71c1884fd16",
-          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-30T14:06:54Z"
+          "id": "1c74683299168578d172d9c3c7503015c3039c47",
+          "title": "I am no longer letting Claude Code add itself as Co-author in my commits",
+          "url": "https://igupta.in/blog/why-i-am-no-longer-letting-claude-code-add-itself-as-coauthor",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-30T19:47:53Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "HN Algolia · AI 24h",
         "hackernews"
       ],
       "items": [
         {
-          "id": "6f8623ae86b419d7d127d297a6bfeaa68771db9d",
-          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-          "url": "https://news.ycombinator.com/item?id=49498787",
+          "id": "80b7b8c01d1ecbed095d59000737ba9ef402774f",
+          "title": "I am no longer letting Claude Code add itself as Co-author in my commits",
+          "url": "https://news.ycombinator.com/item?id=49502101",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-30T17:20:28.182000Z"
+          "published_at": "2026-08-30T20:20:52.852000Z"
         },
         {
-          "id": "c2034b0c427915b5c115e8883fcee71c1884fd16",
-          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-30T14:06:54Z"
+          "id": "1c74683299168578d172d9c3c7503015c3039c47",
+          "title": "I am no longer letting Claude Code add itself as Co-author in my commits",
+          "url": "https://igupta.in/blog/why-i-am-no-longer-letting-claude-code-add-itself-as-coauthor",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-30T19:47:53Z"
         }
       ],
       "item_count": 2,
@@ -631,21 +674,99 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9949,
+        "recency": 0.9948,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-30T14:06:54Z",
-      "latest_at": "2026-08-30T17:20:28.182000Z",
+      "earliest_at": "2026-08-30T19:47:53Z",
+      "latest_at": "2026-08-30T20:20:52.852000Z",
       "primary_item": {
-        "id": "6f8623ae86b419d7d127d297a6bfeaa68771db9d",
-        "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-        "url": "https://news.ycombinator.com/item?id=49498787",
+        "id": "80b7b8c01d1ecbed095d59000737ba9ef402774f",
+        "title": "I am no longer letting Claude Code add itself as Co-author in my commits",
+        "url": "https://news.ycombinator.com/item?id=49502101",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_52f14478dab8",
+      "title": "Show HN: 技能 MCP",
+      "url": "https://news.ycombinator.com/item?id=49501178",
+      "primary_url": "https://news.ycombinator.com/item?id=49501178",
+      "source": "news.ycombinator.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "11b49f6c7c21947619a00878b2d7d73425071b6f",
+          "title": "Show HN: 技能 MCP",
+          "url": "https://news.ycombinator.com/item?id=49501178",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T18:27:28.718000Z"
+        },
+        {
+          "id": "900e685fd5601e429bbbfbb2825e7b77df3ffb05",
+          "title": "技能 MCP",
+          "url": "https://news.ycombinator.com/item?id=49501178",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T18:11:14.552000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.ycombinator.com"
+      ],
+      "items": [
+        {
+          "id": "11b49f6c7c21947619a00878b2d7d73425071b6f",
+          "title": "Show HN: 技能 MCP",
+          "url": "https://news.ycombinator.com/item?id=49501178",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T18:27:28.718000Z"
+        },
+        {
+          "id": "900e685fd5601e429bbbfbb2825e7b77df3ffb05",
+          "title": "技能 MCP",
+          "url": "https://news.ycombinator.com/item?id=49501178",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T18:11:14.552000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.968,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T18:11:14.552000Z",
+      "latest_at": "2026-08-30T18:27:28.718000Z",
+      "primary_item": {
+        "id": "11b49f6c7c21947619a00878b2d7d73425071b6f",
+        "title": "Show HN: 技能 MCP",
+        "url": "https://news.ycombinator.com/item?id=49501178",
+        "source": "news.ycombinator.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -721,15 +842,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5421,
-      "importance": 0.5421,
-      "importance_score": 0.5421,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8406,
+        "recency": 0.8048,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -800,15 +921,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.5322,
+      "importance": 0.5322,
+      "importance_score": 0.5322,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9654,
+        "recency": 0.9243,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -822,85 +943,6 @@
         "title": "“无AI星期五”",
         "url": "https://noaifridays.com",
         "source": "noaifridays.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_1d4294770cc1",
-      "title": "Ask HN: 如何确保ChatGPT/Claude/Gemini忘记所有之前的对话？",
-      "url": "https://news.ycombinator.com/item?id=49498450",
-      "primary_url": "https://news.ycombinator.com/item?id=49498450",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1e0775fbac923f9ed39e841c9f90d88c5006a877",
-          "title": "Ask HN: 如何确保ChatGPT/Claude/Gemini忘记所有之前的对话？",
-          "url": "https://news.ycombinator.com/item?id=49498450",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-30T13:40:28.751000Z"
-        },
-        {
-          "id": "c531a80b572a5919ed03d6958346f043950d7034",
-          "title": "Ask HN: 如何确保ChatGPT/Claude/Gemini忘记所有之前的对话？ / Ask HN: How do I make sure ChatGPT/Claude/Gemini forget all prior conversations?",
-          "url": "https://news.ycombinator.com/item?id=49498450",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-30T13:25:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "1e0775fbac923f9ed39e841c9f90d88c5006a877",
-          "title": "Ask HN: 如何确保ChatGPT/Claude/Gemini忘记所有之前的对话？",
-          "url": "https://news.ycombinator.com/item?id=49498450",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-30T13:40:28.751000Z"
-        },
-        {
-          "id": "c531a80b572a5919ed03d6958346f043950d7034",
-          "title": "Ask HN: 如何确保ChatGPT/Claude/Gemini忘记所有之前的对话？ / Ask HN: How do I make sure ChatGPT/Claude/Gemini forget all prior conversations?",
-          "url": "https://news.ycombinator.com/item?id=49498450",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-30T13:25:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9436,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-30T13:25:22Z",
-      "latest_at": "2026-08-30T13:40:28.751000Z",
-      "primary_item": {
-        "id": "1e0775fbac923f9ed39e841c9f90d88c5006a877",
-        "title": "Ask HN: 如何确保ChatGPT/Claude/Gemini忘记所有之前的对话？",
-        "url": "https://news.ycombinator.com/item?id=49498450",
-        "source": "news.ycombinator.com",
         "source_name": "Buzzing"
       }
     },
@@ -958,15 +1000,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
+      "score": 0.5272,
+      "importance": 0.5272,
+      "importance_score": 0.5272,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9367,
+        "recency": 0.8968,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1037,15 +1079,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
+      "score": 0.5272,
+      "importance": 0.5272,
+      "importance_score": 0.5272,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9366,
+        "recency": 0.8967,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1116,15 +1158,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
+      "score": 0.5272,
+      "importance": 0.5272,
+      "importance_score": 0.5272,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9366,
+        "recency": 0.8967,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1194,15 +1236,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5266,
-      "importance": 0.5266,
-      "importance_score": 0.5266,
+      "score": 0.5197,
+      "importance": 0.5197,
+      "importance_score": 0.5197,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8932,
+        "recency": 0.8551,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1217,6 +1259,85 @@
         "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_1d4294770cc1",
+      "title": "Ask HN: 如何确保ChatGPT/Claude/Gemini忘记所有之前的对话？",
+      "url": "https://news.ycombinator.com/item?id=49498450",
+      "primary_url": "https://news.ycombinator.com/item?id=49498450",
+      "source": "news.ycombinator.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1e0775fbac923f9ed39e841c9f90d88c5006a877",
+          "title": "Ask HN: 如何确保ChatGPT/Claude/Gemini忘记所有之前的对话？",
+          "url": "https://news.ycombinator.com/item?id=49498450",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T13:40:28.751000Z"
+        },
+        {
+          "id": "c531a80b572a5919ed03d6958346f043950d7034",
+          "title": "Ask HN: 如何确保ChatGPT/Claude/Gemini忘记所有之前的对话？ / Ask HN: How do I make sure ChatGPT/Claude/Gemini forget all prior conversations?",
+          "url": "https://news.ycombinator.com/item?id=49498450",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-30T13:25:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "news.ycombinator.com"
+      ],
+      "items": [
+        {
+          "id": "1e0775fbac923f9ed39e841c9f90d88c5006a877",
+          "title": "Ask HN: 如何确保ChatGPT/Claude/Gemini忘记所有之前的对话？",
+          "url": "https://news.ycombinator.com/item?id=49498450",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T13:40:28.751000Z"
+        },
+        {
+          "id": "c531a80b572a5919ed03d6958346f043950d7034",
+          "title": "Ask HN: 如何确保ChatGPT/Claude/Gemini忘记所有之前的对话？ / Ask HN: How do I make sure ChatGPT/Claude/Gemini forget all prior conversations?",
+          "url": "https://news.ycombinator.com/item?id=49498450",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-30T13:25:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5284,
+      "importance": 0.5284,
+      "importance_score": 0.5284,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9034,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T13:25:22Z",
+      "latest_at": "2026-08-30T13:40:28.751000Z",
+      "primary_item": {
+        "id": "1e0775fbac923f9ed39e841c9f90d88c5006a877",
+        "title": "Ask HN: 如何确保ChatGPT/Claude/Gemini忘记所有之前的对话？",
+        "url": "https://news.ycombinator.com/item?id=49498450",
+        "source": "news.ycombinator.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1237,18 +1358,18 @@
           "published_at": "2026-08-30T13:10:01.034000Z"
         },
         {
-          "id": "6ea3712a57180478af38e676b2674ccbb84d049f",
+          "id": "ffba76ec49a63645449b4de927bd23f04107e052",
           "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
           "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-30T10:20:11Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1262,26 +1383,26 @@
           "published_at": "2026-08-30T13:10:01.034000Z"
         },
         {
-          "id": "6ea3712a57180478af38e676b2674ccbb84d049f",
+          "id": "ffba76ec49a63645449b4de927bd23f04107e052",
           "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
           "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-30T10:20:11Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
+      "score": 0.5272,
+      "importance": 0.5272,
+      "importance_score": 0.5272,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9367,
+        "recency": 0.8968,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1352,15 +1473,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
+      "score": 0.5272,
+      "importance": 0.5272,
+      "importance_score": 0.5272,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9367,
+        "recency": 0.8968,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1375,85 +1496,6 @@
         "url": "https://github.com/punkpeye/awesome-mcp-servers",
         "source": "github",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_dde286af26fd",
-      "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
-      "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
-      "primary_url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5d41e15b37efeb8b8327abd281114d883ad507b8",
-          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
-          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T19:48:15.596000Z"
-        },
-        {
-          "id": "8928caf5a976c4a96c9847b7e24b9a06abf29446",
-          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元 / Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song",
-          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T19:05:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "5d41e15b37efeb8b8327abd281114d883ad507b8",
-          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
-          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T19:48:15.596000Z"
-        },
-        {
-          "id": "8928caf5a976c4a96c9847b7e24b9a06abf29446",
-          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元 / Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song",
-          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T19:05:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.497,
-      "importance": 0.497,
-      "importance_score": 0.497,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.729,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T19:05:05Z",
-      "latest_at": "2026-08-29T19:48:15.596000Z",
-      "primary_item": {
-        "id": "5d41e15b37efeb8b8327abd281114d883ad507b8",
-        "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
-        "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1510,15 +1552,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5207,
-      "importance": 0.5207,
-      "importance_score": 0.5207,
+      "score": 0.5141,
+      "importance": 0.5141,
+      "importance_score": 0.5141,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8606,
+        "recency": 0.8239,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1589,15 +1631,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
+      "score": 0.5272,
+      "importance": 0.5272,
+      "importance_score": 0.5272,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9367,
+        "recency": 0.8968,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1612,85 +1654,6 @@
         "url": "https://news.ycombinator.com/item?id=49497803",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_73be14de88e6",
-      "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
-      "url": "https://github.com/todotge/canonical-basis",
-      "primary_url": "https://github.com/todotge/canonical-basis",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b95d6628369ed6cabde344594c534bf36f77a990",
-          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
-          "url": "https://github.com/todotge/canonical-basis",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T20:20:15.547000Z"
-        },
-        {
-          "id": "bc8897185dc88e1ac83639dee8d810dfd5d8e775",
-          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制 / Canonical-basis realignment for Transformer LLMs: every hidden axis becomes independently measurable and controllable",
-          "url": "https://github.com/todotge/canonical-basis",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T20:16:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "b95d6628369ed6cabde344594c534bf36f77a990",
-          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
-          "url": "https://github.com/todotge/canonical-basis",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T20:20:15.547000Z"
-        },
-        {
-          "id": "bc8897185dc88e1ac83639dee8d810dfd5d8e775",
-          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制 / Canonical-basis realignment for Transformer LLMs: every hidden axis becomes independently measurable and controllable",
-          "url": "https://github.com/todotge/canonical-basis",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T20:16:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.498,
-      "importance": 0.498,
-      "importance_score": 0.498,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7346,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T20:16:54Z",
-      "latest_at": "2026-08-29T20:20:15.547000Z",
-      "primary_item": {
-        "id": "b95d6628369ed6cabde344594c534bf36f77a990",
-        "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
-        "url": "https://github.com/todotge/canonical-basis",
-        "source": "github.com",
-        "source_name": "Buzzing"
       }
     }
   ]
