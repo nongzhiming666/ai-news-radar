@@ -1,68 +1,66 @@
 {
-  "generated_at": "2026-08-29T23:02:00.203531Z",
+  "generated_at": "2026-08-30T01:29:27.454800Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_91992ed9f82d",
-      "title": "Codex CLI 0.151.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_dab2710a3e78",
+      "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
+      "url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "primary_url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f98e6d3f28314f72c32272040c8ebf3ac854f556",
-          "title": "Codex CLI 0.151.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-29T00:00:00Z"
+          "id": "013f4b8574ae634dbbbd8920f79f60fc1a6e19fa",
+          "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
+          "url": "https://www.dwarkesh.com/p/openai-huggingface",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T22:47:53Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "Dwarkesh Patel：Podcast & Blog（RSS）"
       ],
       "items": [
         {
-          "id": "f98e6d3f28314f72c32272040c8ebf3ac854f556",
-          "title": "Codex CLI 0.151.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-29T00:00:00Z"
+          "id": "013f4b8574ae634dbbbd8920f79f60fc1a6e19fa",
+          "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
+          "url": "https://www.dwarkesh.com/p/openai-huggingface",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T22:47:53Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8151,
-      "importance": 0.8151,
-      "importance_score": 0.8151,
-      "importance_label": "官方更新",
+      "score": 0.7397,
+      "importance": 0.7397,
+      "importance_score": 0.7397,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.717,
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9619,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-29T00:00:00Z",
-      "latest_at": "2026-08-29T00:00:00Z",
+      "earliest_at": "2026-08-29T22:47:53Z",
+      "latest_at": "2026-08-29T22:47:53Z",
       "primary_item": {
-        "id": "f98e6d3f28314f72c32272040c8ebf3ac854f556",
-        "title": "Codex CLI 0.151.0",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
+        "id": "013f4b8574ae634dbbbd8920f79f60fc1a6e19fa",
+        "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
+        "url": "https://www.dwarkesh.com/p/openai-huggingface",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -100,15 +98,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7394,
-      "importance": 0.7394,
-      "importance_score": 0.7394,
+      "score": 0.7344,
+      "importance": 0.7344,
+      "importance_score": 0.7344,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7934,
+        "recency": 0.7657,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -179,15 +177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7361,
-      "importance": 0.7361,
-      "importance_score": 0.7361,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7359,
+        "recency": 0.7102,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -240,15 +238,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7254,
-      "importance": 0.7254,
-      "importance_score": 0.7254,
+      "score": 0.7206,
+      "importance": 0.7206,
+      "importance_score": 0.7206,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7654,
+        "recency": 0.7387,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -300,15 +298,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7995,
+        "recency": 0.7716,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -433,15 +431,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6561,
-      "importance": 0.6561,
-      "importance_score": 0.6561,
+      "score": 0.6502,
+      "importance": 0.6502,
+      "importance_score": 0.6502,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.927,
+        "recency": 0.8947,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -476,12 +474,12 @@
           "published_at": "2026-08-29T15:16:20.593000Z"
         },
         {
-          "id": "2a5b872c692789f050919e55f7152de4f368099b",
+          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
           "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
           "url": "https://lwn.net/Articles/1091231",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-29T14:02:10Z"
         },
         {
@@ -505,7 +503,7 @@
       ],
       "source_count": 4,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "Lobsters (技术社区)",
         "lwn.net",
         "www.phoronix.com"
@@ -521,12 +519,12 @@
           "published_at": "2026-08-29T15:16:20.593000Z"
         },
         {
-          "id": "2a5b872c692789f050919e55f7152de4f368099b",
+          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
           "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
           "url": "https://lwn.net/Articles/1091231",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-29T14:02:10Z"
         },
         {
@@ -550,15 +548,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5767,
-      "importance": 0.5767,
-      "importance_score": 0.5767,
+      "score": 0.5711,
+      "importance": 0.5711,
+      "importance_score": 0.5711,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.894,
+        "recency": 0.8628,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -648,15 +646,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5639,
-      "importance": 0.5639,
-      "importance_score": 0.5639,
+      "score": 0.5579,
+      "importance": 0.5579,
+      "importance_score": 0.5579,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9618,
+        "recency": 0.9283,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -727,15 +725,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5389,
-      "importance": 0.5389,
-      "importance_score": 0.5389,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9618,
+        "recency": 0.9283,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -806,15 +804,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5384,
-      "importance": 0.5384,
-      "importance_score": 0.5384,
+      "score": 0.5323,
+      "importance": 0.5323,
+      "importance_score": 0.5323,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9587,
+        "recency": 0.9253,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -885,15 +883,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5376,
-      "importance": 0.5376,
-      "importance_score": 0.5376,
+      "score": 0.5316,
+      "importance": 0.5316,
+      "importance_score": 0.5316,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9544,
+        "recency": 0.9212,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -911,101 +909,81 @@
       }
     },
     {
-      "story_id": "story_6f0715608976",
-      "title": "我不小心把LLM内存变成了程序分析",
-      "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-      "primary_url": "https://pwning.systems/posts/llm-memory-program-analysis",
-      "source": "pwning.systems",
-      "source_name": "Buzzing",
+      "story_id": "story_dc0363ce3679",
+      "title": "腾讯发布并开源了 Tencent Hy4 Preview / Hy4 preview",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
+      "primary_url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "f53cc7718c916a82ba7d2a5ffe22cee80d301975",
-          "title": "我不小心把LLM内存变成了程序分析",
-          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-          "source": "pwning.systems",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T06:44:16.846000Z"
-        },
-        {
-          "id": "36d6f35c8e5d0357dc5d24415a7121610c8f8d41",
-          "title": "I accidentally turned LLM memory into program analysis",
-          "url": "https://news.ycombinator.com/item?id=49485416",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T01:04:16.296000Z"
-        },
-        {
-          "id": "b1cebf1e35b4c5fbb65bf31d62c84e57187ede67",
-          "title": "我不小心把LLM内存变成了程序分析 / I accidentally turned LLM memory into program analysis",
-          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
+          "id": "b096e66246435ff13e0333f093a2328ca5fba132",
+          "title": "腾讯发布并开源了 Tencent Hy4 Preview / Hy4 preview",
+          "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-28T23:27:45Z"
+          "published_at": "2026-08-29T19:33:23Z"
+        },
+        {
+          "id": "4148ce2fd2d6dd8d6cf3c582d9fd2f8621fb0e84",
+          "title": "腾讯发布并开源了 Tencent Hy4 Preview / Tencent Releases and Open-Sources Tencent Hy4 Preview",
+          "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T19:33:23Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "pwning.systems"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "f53cc7718c916a82ba7d2a5ffe22cee80d301975",
-          "title": "我不小心把LLM内存变成了程序分析",
-          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-          "source": "pwning.systems",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T06:44:16.846000Z"
-        },
-        {
-          "id": "36d6f35c8e5d0357dc5d24415a7121610c8f8d41",
-          "title": "I accidentally turned LLM memory into program analysis",
-          "url": "https://news.ycombinator.com/item?id=49485416",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T01:04:16.296000Z"
-        },
-        {
-          "id": "b1cebf1e35b4c5fbb65bf31d62c84e57187ede67",
-          "title": "我不小心把LLM内存变成了程序分析 / I accidentally turned LLM memory into program analysis",
-          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
+          "id": "b096e66246435ff13e0333f093a2328ca5fba132",
+          "title": "腾讯发布并开源了 Tencent Hy4 Preview / Hy4 preview",
+          "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-28T23:27:45Z"
+          "published_at": "2026-08-29T19:33:23Z"
+        },
+        {
+          "id": "4148ce2fd2d6dd8d6cf3c582d9fd2f8621fb0e84",
+          "title": "腾讯发布并开源了 Tencent Hy4 Preview / Tencent Releases and Open-Sources Tencent Hy4 Preview",
+          "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T19:33:23Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5331,
-      "importance": 0.5331,
-      "importance_score": 0.5331,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.531,
+      "importance": 0.531,
+      "importance_score": 0.531,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7903,
-        "story_heat": 0.5
+        "recency": 0.9179,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-28T23:27:45Z",
-      "latest_at": "2026-08-29T06:44:16.846000Z",
+      "earliest_at": "2026-08-29T19:33:23Z",
+      "latest_at": "2026-08-29T19:33:23Z",
       "primary_item": {
-        "id": "f53cc7718c916a82ba7d2a5ffe22cee80d301975",
-        "title": "我不小心把LLM内存变成了程序分析",
-        "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-        "source": "pwning.systems",
-        "source_name": "Buzzing"
+        "id": "b096e66246435ff13e0333f093a2328ca5fba132",
+        "title": "腾讯发布并开源了 Tencent Hy4 Preview / Hy4 preview",
+        "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1062,15 +1040,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5243,
-      "importance": 0.5243,
-      "importance_score": 0.5243,
+      "score": 0.5187,
+      "importance": 0.5187,
+      "importance_score": 0.5187,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8803,
+        "recency": 0.8496,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1141,15 +1119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5108,
-      "importance": 0.5108,
-      "importance_score": 0.5108,
+      "score": 0.5058,
+      "importance": 0.5058,
+      "importance_score": 0.5058,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8057,
+        "recency": 0.7776,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1164,84 +1142,6 @@
         "url": "https://itsuki.app",
         "source": "itsuki.app",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_356cb5adee51",
-      "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
-      "url": "https://www.inventati.org/who/manifesto",
-      "primary_url": "https://www.inventati.org/who/manifesto",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
-          "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
-          "url": "https://www.inventati.org/who/manifesto",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T07:38:31Z"
-        },
-        {
-          "id": "1b4538a74c8cc494e3074f226f077d120748ebca",
-          "title": "Manifesto – who we are and what do we want (2002)",
-          "url": "https://www.inventati.org/who/manifesto",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T07:38:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
-          "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
-          "url": "https://www.inventati.org/who/manifesto",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T07:38:31Z"
-        },
-        {
-          "id": "1b4538a74c8cc494e3074f226f077d120748ebca",
-          "title": "Manifesto – who we are and what do we want (2002)",
-          "url": "https://www.inventati.org/who/manifesto",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T07:38:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5099,
-      "importance": 0.5099,
-      "importance_score": 0.5099,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8007,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T07:38:31Z",
-      "latest_at": "2026-08-29T07:38:31Z",
-      "primary_item": {
-        "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
-        "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
-        "url": "https://www.inventati.org/who/manifesto",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1298,15 +1198,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.507,
-      "importance": 0.507,
-      "importance_score": 0.507,
+      "score": 0.502,
+      "importance": 0.502,
+      "importance_score": 0.502,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7843,
+        "recency": 0.7569,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1377,15 +1277,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
+      "score": 0.5291,
+      "importance": 0.5291,
+      "importance_score": 0.5291,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9399,
+        "recency": 0.9071,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1456,15 +1356,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5025,
-      "importance": 0.5025,
-      "importance_score": 0.5025,
+      "score": 0.4977,
+      "importance": 0.4977,
+      "importance_score": 0.4977,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7592,
+        "recency": 0.7327,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1479,85 +1379,6 @@
         "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
         "source": "Business Insider",
         "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_4d812cfbbce6",
-      "title": "Claude Code is going reduce limits by 25% from September 14",
-      "url": "https://news.ycombinator.com/item?id=49491631",
-      "primary_url": "https://news.ycombinator.com/item?id=49491631",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "d073f67cf6f2a3eabd8bf03703a9e26c3d664d97",
-          "title": "Claude Code is going reduce limits by 25% from September 14",
-          "url": "https://news.ycombinator.com/item?id=49491631",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T17:36:29.303000Z"
-        },
-        {
-          "id": "9baf5b737e6c0bbe1153b05b0487e8f5cb21b7e3",
-          "title": "Claude Code is going reduce limits by 25% from September 14",
-          "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-29T17:27:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d073f67cf6f2a3eabd8bf03703a9e26c3d664d97",
-          "title": "Claude Code is going reduce limits by 25% from September 14",
-          "url": "https://news.ycombinator.com/item?id=49491631",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T17:36:29.303000Z"
-        },
-        {
-          "id": "9baf5b737e6c0bbe1153b05b0487e8f5cb21b7e3",
-          "title": "Claude Code is going reduce limits by 25% from September 14",
-          "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-29T17:27:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5322,
-      "importance": 0.5322,
-      "importance_score": 0.5322,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9246,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T17:27:31Z",
-      "latest_at": "2026-08-29T17:36:29.303000Z",
-      "primary_item": {
-        "id": "d073f67cf6f2a3eabd8bf03703a9e26c3d664d97",
-        "title": "Claude Code is going reduce limits by 25% from September 14",
-        "url": "https://news.ycombinator.com/item?id=49491631",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1614,15 +1435,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5011,
-      "importance": 0.5011,
-      "importance_score": 0.5011,
+      "score": 0.4964,
+      "importance": 0.4964,
+      "importance_score": 0.4964,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7517,
+        "recency": 0.7255,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1636,6 +1457,164 @@
         "title": "关于Cursor被SpaceX收购后的决定",
         "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
         "source": "openai.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4d812cfbbce6",
+      "title": "Claude Code is going reduce limits by 25% from September 14",
+      "url": "https://news.ycombinator.com/item?id=49491631",
+      "primary_url": "https://news.ycombinator.com/item?id=49491631",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "d073f67cf6f2a3eabd8bf03703a9e26c3d664d97",
+          "title": "Claude Code is going reduce limits by 25% from September 14",
+          "url": "https://news.ycombinator.com/item?id=49491631",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T17:36:29.303000Z"
+        },
+        {
+          "id": "9baf5b737e6c0bbe1153b05b0487e8f5cb21b7e3",
+          "title": "Claude Code is going reduce limits by 25% from September 14",
+          "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-29T17:27:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d073f67cf6f2a3eabd8bf03703a9e26c3d664d97",
+          "title": "Claude Code is going reduce limits by 25% from September 14",
+          "url": "https://news.ycombinator.com/item?id=49491631",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T17:36:29.303000Z"
+        },
+        {
+          "id": "9baf5b737e6c0bbe1153b05b0487e8f5cb21b7e3",
+          "title": "Claude Code is going reduce limits by 25% from September 14",
+          "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-29T17:27:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5264,
+      "importance": 0.5264,
+      "importance_score": 0.5264,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8924,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T17:27:31Z",
+      "latest_at": "2026-08-29T17:36:29.303000Z",
+      "primary_item": {
+        "id": "d073f67cf6f2a3eabd8bf03703a9e26c3d664d97",
+        "title": "Claude Code is going reduce limits by 25% from September 14",
+        "url": "https://news.ycombinator.com/item?id=49491631",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_10e81be27811",
+      "title": "Debian 对 LLM 的使用既不支持也不禁止",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "primary_url": "https://www.debian.org/vote/2026/vote_002",
+      "source": "www.debian.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d854c22c80979d30d93b9e95404eb79277d8845b",
+          "title": "Debian 对 LLM 的使用既不支持也不禁止",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "www.debian.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T03:00:24.283000Z"
+        },
+        {
+          "id": "3fb5387ae972b438063492761d49c646f619d3ae",
+          "title": "Debian 对 LLM 的使用既不支持也不禁止 / LLM usage in Debian neither endorsed nor prohibited",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T01:40:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "www.debian.org"
+      ],
+      "items": [
+        {
+          "id": "d854c22c80979d30d93b9e95404eb79277d8845b",
+          "title": "Debian 对 LLM 的使用既不支持也不禁止",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "www.debian.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T03:00:24.283000Z"
+        },
+        {
+          "id": "3fb5387ae972b438063492761d49c646f619d3ae",
+          "title": "Debian 对 LLM 的使用既不支持也不禁止 / LLM usage in Debian neither endorsed nor prohibited",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T01:40:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4959,
+      "importance": 0.4959,
+      "importance_score": 0.4959,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7228,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T01:40:59Z",
+      "latest_at": "2026-08-29T03:00:24.283000Z",
+      "primary_item": {
+        "id": "d854c22c80979d30d93b9e95404eb79277d8845b",
+        "title": "Debian 对 LLM 的使用既不支持也不禁止",
+        "url": "https://www.debian.org/vote/2026/vote_002",
+        "source": "www.debian.org",
         "source_name": "Buzzing"
       }
     }
