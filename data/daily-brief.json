@@ -1,8 +1,152 @@
 {
-  "generated_at": "2026-09-01T11:55:09.082616Z",
+  "generated_at": "2026-09-01T16:13:13.142041Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_85562dc16345",
+      "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理 / Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "primary_url": "https://huggingface.co/blog/webgpu-kernels",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ac426f93cc4d633d75a0422dd833bfa0477f111d",
+          "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理 / Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+          "url": "https://huggingface.co/blog/webgpu-kernels",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T00:00:00Z"
+        },
+        {
+          "id": "42ac8f40a72438975c76721d9af4324ae9b281f9",
+          "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理",
+          "url": "https://huggingface.co/blog/webgpu-kernels",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T00:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ac426f93cc4d633d75a0422dd833bfa0477f111d",
+          "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理 / Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+          "url": "https://huggingface.co/blog/webgpu-kernels",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T00:00:00Z"
+        },
+        {
+          "id": "42ac8f40a72438975c76721d9af4324ae9b281f9",
+          "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理",
+          "url": "https://huggingface.co/blog/webgpu-kernels",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T00:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8534,
+      "importance": 0.8534,
+      "importance_score": 0.8534,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7912,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T00:00:00Z",
+      "latest_at": "2026-09-01T00:00:00Z",
+      "primary_item": {
+        "id": "ac426f93cc4d633d75a0422dd833bfa0477f111d",
+        "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理 / Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+        "url": "https://huggingface.co/blog/webgpu-kernels",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ab183206da80",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics",
+      "primary_url": "https://blog.google/products-and-platforms/products/workspace/google-pics",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9487318cd0d300b1e4d0b70c73f8d5514b32b82c",
+          "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+          "url": "https://blog.google/products-and-platforms/products/workspace/google-pics",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "9487318cd0d300b1e4d0b70c73f8d5514b32b82c",
+          "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+          "url": "https://blog.google/products-and-platforms/products/workspace/google-pics",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8434,
+      "importance": 0.8434,
+      "importance_score": 0.8434,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9968,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T16:00:00Z",
+      "latest_at": "2026-09-01T16:00:00Z",
+      "primary_item": {
+        "id": "9487318cd0d300b1e4d0b70c73f8d5514b32b82c",
+        "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+        "url": "https://blog.google/products-and-platforms/products/workspace/google-pics",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_91992ed9f82d",
       "title": "Codex CLI 0.152.0",
@@ -38,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8375,
-      "importance": 0.8375,
-      "importance_score": 0.8375,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8419,
+        "recency": 0.7912,
         "story_heat": 0.0
       },
       "category": "official",
@@ -63,6 +207,149 @@
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_23f6eecf9075",
+      "title": "Copilot model access update for GitHub Team plans",
+      "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+      "primary_url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6c4ff36c398f09b31b0fa23a93199c0b0069a9c6",
+          "title": "Copilot model access update for GitHub Team plans",
+          "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T21:58:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6c4ff36c398f09b31b0fa23a93199c0b0069a9c6",
+          "title": "Copilot model access update for GitHub Team plans",
+          "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T21:58:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8103,
+      "importance": 0.8103,
+      "importance_score": 0.8103,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7684,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T21:58:46Z",
+      "latest_at": "2026-08-31T21:58:46Z",
+      "primary_item": {
+        "id": "6c4ff36c398f09b31b0fa23a93199c0b0069a9c6",
+        "title": "Copilot model access update for GitHub Team plans",
+        "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_863f41b4805d",
+      "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
+      "url": "https://www.ithome.com/0/997/147.htm",
+      "primary_url": "https://www.ithome.com/0/997/147.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5185e25016efc4497b35a35d691c0680728e6658",
+          "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
+          "url": "https://www.ithome.com/0/997/147.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T12:40:19Z"
+        },
+        {
+          "id": "7d77df56468582a12c16f118a1cb9a147d61870a",
+          "title": "美国 AI 数据中心现大量“幽灵用电需求”，多州出手整治",
+          "url": "https://www.ithome.com/0/997/147.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-01T12:40:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5185e25016efc4497b35a35d691c0680728e6658",
+          "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
+          "url": "https://www.ithome.com/0/997/147.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T12:40:19Z"
+        },
+        {
+          "id": "7d77df56468582a12c16f118a1cb9a147d61870a",
+          "title": "美国 AI 数据中心现大量“幽灵用电需求”，多州出手整治",
+          "url": "https://www.ithome.com/0/997/147.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-01T12:40:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7956,
+      "importance": 0.7956,
+      "importance_score": 0.7956,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9501,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T12:40:19Z",
+      "latest_at": "2026-09-01T12:40:19Z",
+      "primary_item": {
+        "id": "5185e25016efc4497b35a35d691c0680728e6658",
+        "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
+        "url": "https://www.ithome.com/0/997/147.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -119,15 +406,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
+      "score": 0.7681,
+      "importance": 0.7681,
+      "importance_score": 0.7681,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9192,
+        "recency": 0.8638,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -144,6 +431,87 @@
         "url": "https://www.aibase.com/news/30731",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_132d7e04179f",
+      "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
+      "url": "https://www.ithome.com/0/996/711.htm",
+      "primary_url": "https://www.ithome.com/0/996/711.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4c5cdf39349bc7582b05c1e3831d5f655af024d7",
+          "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
+          "url": "https://www.ithome.com/0/996/711.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T23:55:44Z"
+        },
+        {
+          "id": "226da31ef6701c9a3a2ddfdb882873962e71023c",
+          "title": "Anthropic 详解 7・30 安全事件：配置错误致 Claude「入侵」真实企业，已加强沙箱隔离与实时监控",
+          "url": "https://www.ithome.com/0/996/711.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家（RSS）",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "4c5cdf39349bc7582b05c1e3831d5f655af024d7",
+          "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
+          "url": "https://www.ithome.com/0/996/711.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T23:55:44Z"
+        },
+        {
+          "id": "226da31ef6701c9a3a2ddfdb882873962e71023c",
+          "title": "Anthropic 详解 7・30 安全事件：配置错误致 Claude「入侵」真实企业，已加强沙箱隔离与实时监控",
+          "url": "https://www.ithome.com/0/996/711.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7909,
+      "importance": 0.7909,
+      "importance_score": 0.7909,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7904,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T23:55:44Z",
+      "latest_at": "2026-09-01T00:43:41.697921Z",
+      "primary_item": {
+        "id": "4c5cdf39349bc7582b05c1e3831d5f655af024d7",
+        "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
+        "url": "https://www.ithome.com/0/996/711.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -181,15 +549,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
+      "score": 0.752,
+      "importance": 0.752,
+      "importance_score": 0.752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8298,
+        "recency": 0.7799,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -261,15 +629,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
+      "score": 0.7681,
+      "importance": 0.7681,
+      "importance_score": 0.7681,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9192,
+        "recency": 0.8638,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -323,15 +691,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
+      "score": 0.7333,
+      "importance": 0.7333,
+      "importance_score": 0.7333,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8435,
+        "recency": 0.7927,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -346,6 +714,308 @@
         "url": "https://x.com/AnthropicAI/status/2094577944056430865",
         "source": "X：Anthropic (@AnthropicAI)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_df3573aaae0e",
+      "title": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
+      "url": "https://www.aibase.com/news/30760",
+      "primary_url": "https://www.aibase.com/news/30760",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b4d352b739db619879d97925606394587b8ce728",
+          "title": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
+          "url": "https://www.aibase.com/news/30760",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T16:13:13.142041Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "b4d352b739db619879d97925606394587b8ce728",
+          "title": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
+          "url": "https://www.aibase.com/news/30760",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T16:13:13.142041Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T16:13:13.142041Z",
+      "latest_at": "2026-09-01T16:13:13.142041Z",
+      "primary_item": {
+        "id": "b4d352b739db619879d97925606394587b8ce728",
+        "title": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
+        "url": "https://www.aibase.com/news/30760",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "作者整理了关于Agent Skill的100个问题，从技能加载机制、触发排查、描述写法、脚本/参考文件拆分，讲到跨 Claude/Codex/Gemini 迁移、安全审查和未来趋势。建议可以当工具书时常翻一翻。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-09-01",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "0b29585f281baf37d45713493b2a25b9aa73ec89",
+          "title": "作者整理了关于Agent Skill的100个问题，从技能加载机制、触发排查、描述写法、脚本/参考文件拆分，讲到跨 Claude/Codex/Gemini 迁移、安全审查和未来趋势。建议可以当工具书时常翻一翻。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T16:13:13.142041Z"
+        },
+        {
+          "id": "cbf38a8a609a15677616ea0b3c8989c7e8a1c773",
+          "title": "很多人准备做模型微调，第一反应是找教程、配环境、堆显卡，真上手才发现，很多基础概念还没搞明白：Base、SFT、LoRA、QLoRA、adapter、loss，这些名字都见过，但不知道各自解决什么问题。这篇文章可以作为“微调入门词典”收藏，会少走很多弯路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T16:13:13.142041Z"
+        },
+        {
+          "id": "ada5b337d8ad57226895d816bd314bac1e8a872a",
+          "title": "很多人找开源模型都会刷到Hugging Face，但第一次打开很容易被各种英文、模型名劝退：资源很多，却不知道哪个能直接用、哪个要下载。这篇文章适合想试试开源AI工具、下载本地模型、找数据集和论文的小白。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T16:13:13.142041Z"
+        },
+        {
+          "id": "ee2a54cc3dc72b3a72bcde2fe9fd064a9527d81b",
+          "title": "豆包工作接上飞书后怎么用？小歪整理了10个办公场景：周报、项目排期、客户方案PPT、渠道分析、客服FAQ、经营会准备，再到商品素材、日历、朋友圈去AI味、用户访谈提纲。快来看看有没有你能用得到的？",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T16:13:13.142041Z"
+        },
+        {
+          "id": "51e37949b8467bf208fe80c676daaad141bca5a6",
+          "title": "这篇文章把大语言模型中的静态、动态、连续批处理讲得很清楚：静态适合分类/Embedding 这类固定输出，动态用于等待窗口减少排队，连续批处理则更适合输出长度不稳定的实时流量。或许可以帮你理解为何你的 GPU 在负载下闲置，以及哪种批处理策略能解决此问题。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T16:13:13.142041Z"
+        },
+        {
+          "id": "e58a46decc18b7f8b22b7cd0dede756d2b5ef005",
+          "title": "AI 音乐行业正迎来版权风暴与产品创新的激烈碰撞。多起高额版权诉讼搅动行业根基，合规已经成为所有从业者绕不开的命题。Stability AI 获得巨头加持完成融资，多款工具落地分段编辑、对话修歌、实时音频生成等实用能力，还有多篇前沿音频论文发布。一起来看看AI音乐赛道的最新变化。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T00:43:41.697921Z"
+        },
+        {
+          "id": "95732a8b21b870532a55f3f388406b8303c4998a",
+          "title": "MiniMax H3 Max凭借超快的音视频生成速度，跨过实时AI直播的技术门槛。海外开发者借此打造出24 小时AI直播网站，观众发布弹幕指令即可实时改写剧情走向。虽然实时直播仍存在并发、画面一致性等等问题，但它把AI视频从一次性制作工具变成持续响应的动态内容系统，给创作者们也打开了全新交互的想象空间！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T00:43:41.697921Z"
+        },
+        {
+          "id": "e76cc291762bce3356e39ba5df9092606794425a",
+          "title": "做海报、封面、PPT、网页时，想让 AI 画得更准，或者和设计同事沟通得更清楚，都缺一套能直接指认的版式宝典。作者把原来整理的100种排版扩展到350种，按构图逻辑、视觉原则、网页UI、影视画面、中国传统构图、演示文稿等8类整理，还提供高清图、缩略图和CSV/JSON数据。找灵感、学构图、写提示词，都可以直接收藏这套开源图鉴。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T00:43:41.697921Z"
+        },
+        {
+          "id": "8aeec69765ef03d34b4828d767541208a2bf9a80",
+          "title": "很多人学AI、编程、写作时收藏教程、刷视频、记笔记，真要动手还是卡住。问题往往不在学得少，而是没有把知识变成可用能力。作者这篇文章把如何快速学习拆成7个原则：先动手做，尽快拿反馈；遇到问题先挣扎几分钟，再去问 AI；在真实问题里即时学习；用复述和教学检查自己是否真的懂了。快来从今天开始实操起来！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T00:43:41.697921Z"
+        },
+        {
+          "id": "af71c35f94490695cf27af6f1d202851943a0e97",
+          "title": "很多团队一用上Coding Agent，最先感受到的不是“效率飞升”，而是 token 成本、工具上下文、模型选择和会话失控一起冒出来。Uber 则是把AI 编程真正当成一座“软件工厂”来运营。这篇博客将介绍他们如何思考软件工厂：智能体会话运行的四个层次、他们用于分解支出的成本公式、他们如何衡量每一项，以及如何在每一层优化这些项。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T00:43:41.697921Z"
+        },
+        {
+          "id": "38f7cf9cdf793872bd4302a4ad5e01d47ff0bdb0",
+          "title": "这篇文章非常适合AI视频新手、短剧创作者看。作者用《大话西游》《盗梦空间》《闪灵》等经典片段做拉片，拆解了正反打、交叉剪辑、跳切、空镜、匹配剪辑、闪回这些常用手法，再落回到在AI漫剧里到底怎么用。快来一起探索下！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T00:43:41.697921Z"
+        }
+      ],
+      "source_count": 11,
+      "source_names": [
+        "社区更新 · 2026-08-31",
+        "社区更新 · 2026-09-01"
+      ],
+      "items": [
+        {
+          "id": "0b29585f281baf37d45713493b2a25b9aa73ec89",
+          "title": "作者整理了关于Agent Skill的100个问题，从技能加载机制、触发排查、描述写法、脚本/参考文件拆分，讲到跨 Claude/Codex/Gemini 迁移、安全审查和未来趋势。建议可以当工具书时常翻一翻。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T16:13:13.142041Z"
+        },
+        {
+          "id": "cbf38a8a609a15677616ea0b3c8989c7e8a1c773",
+          "title": "很多人准备做模型微调，第一反应是找教程、配环境、堆显卡，真上手才发现，很多基础概念还没搞明白：Base、SFT、LoRA、QLoRA、adapter、loss，这些名字都见过，但不知道各自解决什么问题。这篇文章可以作为“微调入门词典”收藏，会少走很多弯路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T16:13:13.142041Z"
+        },
+        {
+          "id": "ada5b337d8ad57226895d816bd314bac1e8a872a",
+          "title": "很多人找开源模型都会刷到Hugging Face，但第一次打开很容易被各种英文、模型名劝退：资源很多，却不知道哪个能直接用、哪个要下载。这篇文章适合想试试开源AI工具、下载本地模型、找数据集和论文的小白。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T16:13:13.142041Z"
+        },
+        {
+          "id": "ee2a54cc3dc72b3a72bcde2fe9fd064a9527d81b",
+          "title": "豆包工作接上飞书后怎么用？小歪整理了10个办公场景：周报、项目排期、客户方案PPT、渠道分析、客服FAQ、经营会准备，再到商品素材、日历、朋友圈去AI味、用户访谈提纲。快来看看有没有你能用得到的？",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T16:13:13.142041Z"
+        },
+        {
+          "id": "51e37949b8467bf208fe80c676daaad141bca5a6",
+          "title": "这篇文章把大语言模型中的静态、动态、连续批处理讲得很清楚：静态适合分类/Embedding 这类固定输出，动态用于等待窗口减少排队，连续批处理则更适合输出长度不稳定的实时流量。或许可以帮你理解为何你的 GPU 在负载下闲置，以及哪种批处理策略能解决此问题。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T16:13:13.142041Z"
+        },
+        {
+          "id": "e58a46decc18b7f8b22b7cd0dede756d2b5ef005",
+          "title": "AI 音乐行业正迎来版权风暴与产品创新的激烈碰撞。多起高额版权诉讼搅动行业根基，合规已经成为所有从业者绕不开的命题。Stability AI 获得巨头加持完成融资，多款工具落地分段编辑、对话修歌、实时音频生成等实用能力，还有多篇前沿音频论文发布。一起来看看AI音乐赛道的最新变化。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T00:43:41.697921Z"
+        },
+        {
+          "id": "95732a8b21b870532a55f3f388406b8303c4998a",
+          "title": "MiniMax H3 Max凭借超快的音视频生成速度，跨过实时AI直播的技术门槛。海外开发者借此打造出24 小时AI直播网站，观众发布弹幕指令即可实时改写剧情走向。虽然实时直播仍存在并发、画面一致性等等问题，但它把AI视频从一次性制作工具变成持续响应的动态内容系统，给创作者们也打开了全新交互的想象空间！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T00:43:41.697921Z"
+        },
+        {
+          "id": "e76cc291762bce3356e39ba5df9092606794425a",
+          "title": "做海报、封面、PPT、网页时，想让 AI 画得更准，或者和设计同事沟通得更清楚，都缺一套能直接指认的版式宝典。作者把原来整理的100种排版扩展到350种，按构图逻辑、视觉原则、网页UI、影视画面、中国传统构图、演示文稿等8类整理，还提供高清图、缩略图和CSV/JSON数据。找灵感、学构图、写提示词，都可以直接收藏这套开源图鉴。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T00:43:41.697921Z"
+        },
+        {
+          "id": "8aeec69765ef03d34b4828d767541208a2bf9a80",
+          "title": "很多人学AI、编程、写作时收藏教程、刷视频、记笔记，真要动手还是卡住。问题往往不在学得少，而是没有把知识变成可用能力。作者这篇文章把如何快速学习拆成7个原则：先动手做，尽快拿反馈；遇到问题先挣扎几分钟，再去问 AI；在真实问题里即时学习；用复述和教学检查自己是否真的懂了。快来从今天开始实操起来！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T00:43:41.697921Z"
+        },
+        {
+          "id": "af71c35f94490695cf27af6f1d202851943a0e97",
+          "title": "很多团队一用上Coding Agent，最先感受到的不是“效率飞升”，而是 token 成本、工具上下文、模型选择和会话失控一起冒出来。Uber 则是把AI 编程真正当成一座“软件工厂”来运营。这篇博客将介绍他们如何思考软件工厂：智能体会话运行的四个层次、他们用于分解支出的成本公式、他们如何衡量每一项，以及如何在每一层优化这些项。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T00:43:41.697921Z"
+        },
+        {
+          "id": "38f7cf9cdf793872bd4302a4ad5e01d47ff0bdb0",
+          "title": "这篇文章非常适合AI视频新手、短剧创作者看。作者用《大话西游》《盗梦空间》《闪灵》等经典片段做拉片，拆解了正反打、交叉剪辑、跳切、空镜、匹配剪辑、闪回这些常用手法，再落回到在AI漫剧里到底怎么用。快来一起探索下！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T00:43:41.697921Z"
+        }
+      ],
+      "item_count": 11,
+      "duplicate_count": 11,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-01T00:43:41.697921Z",
+      "latest_at": "2026-09-01T16:13:13.142041Z",
+      "primary_item": {
+        "id": "0b29585f281baf37d45713493b2a25b9aa73ec89",
+        "title": "作者整理了关于Agent Skill的100个问题，从技能加载机制、触发排查、描述写法、脚本/参考文件拆分，讲到跨 Claude/Codex/Gemini 迁移、安全审查和未来趋势。建议可以当工具书时常翻一翻。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-09-01",
+        "source_name": "WaytoAGI"
       }
     },
     {
@@ -383,15 +1053,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9398,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -444,15 +1114,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9398,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -505,15 +1175,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9398,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -529,156 +1199,6 @@
         "url": "https://www.aibase.com/news/30753",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "AI 音乐行业正迎来版权风暴与产品创新的激烈碰撞。多起高额版权诉讼搅动行业根基，合规已经成为所有从业者绕不开的命题。Stability AI 获得巨头加持完成融资，多款工具落地分段编辑、对话修歌、实时音频生成等实用能力，还有多篇前沿音频论文发布。一起来看看AI音乐赛道的最新变化。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-08-31",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "e58a46decc18b7f8b22b7cd0dede756d2b5ef005",
-          "title": "AI 音乐行业正迎来版权风暴与产品创新的激烈碰撞。多起高额版权诉讼搅动行业根基，合规已经成为所有从业者绕不开的命题。Stability AI 获得巨头加持完成融资，多款工具落地分段编辑、对话修歌、实时音频生成等实用能力，还有多篇前沿音频论文发布。一起来看看AI音乐赛道的最新变化。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-31",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-01T00:43:41.697921Z"
-        },
-        {
-          "id": "95732a8b21b870532a55f3f388406b8303c4998a",
-          "title": "MiniMax H3 Max凭借超快的音视频生成速度，跨过实时AI直播的技术门槛。海外开发者借此打造出24 小时AI直播网站，观众发布弹幕指令即可实时改写剧情走向。虽然实时直播仍存在并发、画面一致性等等问题，但它把AI视频从一次性制作工具变成持续响应的动态内容系统，给创作者们也打开了全新交互的想象空间！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-31",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-01T00:43:41.697921Z"
-        },
-        {
-          "id": "e76cc291762bce3356e39ba5df9092606794425a",
-          "title": "做海报、封面、PPT、网页时，想让 AI 画得更准，或者和设计同事沟通得更清楚，都缺一套能直接指认的版式宝典。作者把原来整理的100种排版扩展到350种，按构图逻辑、视觉原则、网页UI、影视画面、中国传统构图、演示文稿等8类整理，还提供高清图、缩略图和CSV/JSON数据。找灵感、学构图、写提示词，都可以直接收藏这套开源图鉴。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-31",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-01T00:43:41.697921Z"
-        },
-        {
-          "id": "8aeec69765ef03d34b4828d767541208a2bf9a80",
-          "title": "很多人学AI、编程、写作时收藏教程、刷视频、记笔记，真要动手还是卡住。问题往往不在学得少，而是没有把知识变成可用能力。作者这篇文章把如何快速学习拆成7个原则：先动手做，尽快拿反馈；遇到问题先挣扎几分钟，再去问 AI；在真实问题里即时学习；用复述和教学检查自己是否真的懂了。快来从今天开始实操起来！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-31",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-01T00:43:41.697921Z"
-        },
-        {
-          "id": "af71c35f94490695cf27af6f1d202851943a0e97",
-          "title": "很多团队一用上Coding Agent，最先感受到的不是“效率飞升”，而是 token 成本、工具上下文、模型选择和会话失控一起冒出来。Uber 则是把AI 编程真正当成一座“软件工厂”来运营。这篇博客将介绍他们如何思考软件工厂：智能体会话运行的四个层次、他们用于分解支出的成本公式、他们如何衡量每一项，以及如何在每一层优化这些项。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-31",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-01T00:43:41.697921Z"
-        },
-        {
-          "id": "38f7cf9cdf793872bd4302a4ad5e01d47ff0bdb0",
-          "title": "这篇文章非常适合AI视频新手、短剧创作者看。作者用《大话西游》《盗梦空间》《闪灵》等经典片段做拉片，拆解了正反打、交叉剪辑、跳切、空镜、匹配剪辑、闪回这些常用手法，再落回到在AI漫剧里到底怎么用。快来一起探索下！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-31",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-01T00:43:41.697921Z"
-        }
-      ],
-      "source_count": 6,
-      "source_names": [
-        "社区更新 · 2026-08-31"
-      ],
-      "items": [
-        {
-          "id": "e58a46decc18b7f8b22b7cd0dede756d2b5ef005",
-          "title": "AI 音乐行业正迎来版权风暴与产品创新的激烈碰撞。多起高额版权诉讼搅动行业根基，合规已经成为所有从业者绕不开的命题。Stability AI 获得巨头加持完成融资，多款工具落地分段编辑、对话修歌、实时音频生成等实用能力，还有多篇前沿音频论文发布。一起来看看AI音乐赛道的最新变化。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-31",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-01T00:43:41.697921Z"
-        },
-        {
-          "id": "95732a8b21b870532a55f3f388406b8303c4998a",
-          "title": "MiniMax H3 Max凭借超快的音视频生成速度，跨过实时AI直播的技术门槛。海外开发者借此打造出24 小时AI直播网站，观众发布弹幕指令即可实时改写剧情走向。虽然实时直播仍存在并发、画面一致性等等问题，但它把AI视频从一次性制作工具变成持续响应的动态内容系统，给创作者们也打开了全新交互的想象空间！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-31",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-01T00:43:41.697921Z"
-        },
-        {
-          "id": "e76cc291762bce3356e39ba5df9092606794425a",
-          "title": "做海报、封面、PPT、网页时，想让 AI 画得更准，或者和设计同事沟通得更清楚，都缺一套能直接指认的版式宝典。作者把原来整理的100种排版扩展到350种，按构图逻辑、视觉原则、网页UI、影视画面、中国传统构图、演示文稿等8类整理，还提供高清图、缩略图和CSV/JSON数据。找灵感、学构图、写提示词，都可以直接收藏这套开源图鉴。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-31",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-01T00:43:41.697921Z"
-        },
-        {
-          "id": "8aeec69765ef03d34b4828d767541208a2bf9a80",
-          "title": "很多人学AI、编程、写作时收藏教程、刷视频、记笔记，真要动手还是卡住。问题往往不在学得少，而是没有把知识变成可用能力。作者这篇文章把如何快速学习拆成7个原则：先动手做，尽快拿反馈；遇到问题先挣扎几分钟，再去问 AI；在真实问题里即时学习；用复述和教学检查自己是否真的懂了。快来从今天开始实操起来！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-31",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-01T00:43:41.697921Z"
-        },
-        {
-          "id": "af71c35f94490695cf27af6f1d202851943a0e97",
-          "title": "很多团队一用上Coding Agent，最先感受到的不是“效率飞升”，而是 token 成本、工具上下文、模型选择和会话失控一起冒出来。Uber 则是把AI 编程真正当成一座“软件工厂”来运营。这篇博客将介绍他们如何思考软件工厂：智能体会话运行的四个层次、他们用于分解支出的成本公式、他们如何衡量每一项，以及如何在每一层优化这些项。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-31",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-01T00:43:41.697921Z"
-        },
-        {
-          "id": "38f7cf9cdf793872bd4302a4ad5e01d47ff0bdb0",
-          "title": "这篇文章非常适合AI视频新手、短剧创作者看。作者用《大话西游》《盗梦空间》《闪灵》等经典片段做拉片，拆解了正反打、交叉剪辑、跳切、空镜、匹配剪辑、闪回这些常用手法，再落回到在AI漫剧里到底怎么用。快来一起探索下！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-31",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-01T00:43:41.697921Z"
-        }
-      ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6423,
-      "importance": 0.6423,
-      "importance_score": 0.6423,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.8508,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-01T00:43:41.697921Z",
-      "latest_at": "2026-09-01T00:43:41.697921Z",
-      "primary_item": {
-        "id": "e58a46decc18b7f8b22b7cd0dede756d2b5ef005",
-        "title": "AI 音乐行业正迎来版权风暴与产品创新的激烈碰撞。多起高额版权诉讼搅动行业根基，合规已经成为所有从业者绕不开的命题。Stability AI 获得巨头加持完成融资，多款工具落地分段编辑、对话修歌、实时音频生成等实用能力，还有多篇前沿音频论文发布。一起来看看AI音乐赛道的最新变化。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-08-31",
-        "source_name": "WaytoAGI"
       }
     },
     {
@@ -716,15 +1236,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9398,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -777,15 +1297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9398,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -804,546 +1324,109 @@
       }
     },
     {
-      "story_id": "story_662ad6a9f4e0",
-      "title": "Debian 不会禁止其 Linux 发行版中的人工智能代码 / Debian won&#8217;t ban AI code from its Linux distribution",
-      "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-      "primary_url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "c31cbc534aeee356d5e6e09febb9ce1bd7582231",
-          "title": "Debian 不会禁止其 Linux 发行版中的人工智能代码 / Debian won&#8217;t ban AI code from its Linux distribution",
-          "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-31T15:34:58Z"
-        },
-        {
-          "id": "af4e926d239e04b788a903a3bcf33f3bb3867157",
-          "title": "Debian 不会禁止其 Linux 发行版中的人工智能代码 / Debian won’t ban AI code from its Linux distribution",
-          "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T15:34:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "c31cbc534aeee356d5e6e09febb9ce1bd7582231",
-          "title": "Debian 不会禁止其 Linux 发行版中的人工智能代码 / Debian won&#8217;t ban AI code from its Linux distribution",
-          "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-31T15:34:58Z"
-        },
-        {
-          "id": "af4e926d239e04b788a903a3bcf33f3bb3867157",
-          "title": "Debian 不会禁止其 Linux 发行版中的人工智能代码 / Debian won’t ban AI code from its Linux distribution",
-          "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T15:34:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5697,
-      "importance": 0.5697,
-      "importance_score": 0.5697,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.7455,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-31T15:34:58Z",
-      "latest_at": "2026-08-31T15:34:58Z",
-      "primary_item": {
-        "id": "c31cbc534aeee356d5e6e09febb9ce1bd7582231",
-        "title": "Debian 不会禁止其 Linux 发行版中的人工智能代码 / Debian won&#8217;t ban AI code from its Linux distribution",
-        "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_428cdc8cfef3",
-      "title": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
-      "url": "https://www.aibase.com/news/30756",
-      "primary_url": "https://www.aibase.com/news/30756",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "993b62ebd3b045f88455749478a3a8a0eb01d374",
-          "title": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
-          "url": "https://www.aibase.com/news/30756",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T11:55:09.082616Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "993b62ebd3b045f88455749478a3a8a0eb01d374",
-          "title": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
-          "url": "https://www.aibase.com/news/30756",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T11:55:09.082616Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T11:55:09.082616Z",
-      "latest_at": "2026-09-01T11:55:09.082616Z",
-      "primary_item": {
-        "id": "993b62ebd3b045f88455749478a3a8a0eb01d374",
-        "title": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
-        "url": "https://www.aibase.com/news/30756",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a11bf9f85c50",
-      "title": "Gitlawb /      openclaude",
-      "url": "https://github.com/Gitlawb/openclaude",
-      "primary_url": "https://github.com/Gitlawb/openclaude",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "c64c74bf6b057751a7f4e798c2d8c5ec5ab09b94",
-          "title": "Gitlawb /      openclaude",
-          "url": "https://github.com/Gitlawb/openclaude",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-01T11:55:45.942000Z"
-        },
-        {
-          "id": "cb87ac141b7901ad2a0d848d04b180ec6ff1b15a",
-          "title": "Gitlawb / openclaude",
-          "url": "https://github.com/Gitlawb/openclaude",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "c64c74bf6b057751a7f4e798c2d8c5ec5ab09b94",
-          "title": "Gitlawb /      openclaude",
-          "url": "https://github.com/Gitlawb/openclaude",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-01T11:55:45.942000Z"
-        },
-        {
-          "id": "cb87ac141b7901ad2a0d848d04b180ec6ff1b15a",
-          "title": "Gitlawb / openclaude",
-          "url": "https://github.com/Gitlawb/openclaude",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-01T11:55:09.082616Z",
-      "latest_at": "2026-09-01T11:55:45.942000Z",
-      "primary_item": {
-        "id": "c64c74bf6b057751a7f4e798c2d8c5ec5ab09b94",
-        "title": "Gitlawb /      openclaude",
-        "url": "https://github.com/Gitlawb/openclaude",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_06fc64092c57",
-      "title": "人工智能也能让你更快变差",
-      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-      "primary_url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-      "source": "www.hermit-tech.com",
+      "story_id": "story_507d9d771647",
+      "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
+      "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+      "primary_url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+      "source": "www.eff.org",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "2d8bdd448a3b068f4bd6b026675e1d279287f26a",
-          "title": "人工智能也能让你更快变差",
-          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-          "source": "www.hermit-tech.com",
+          "id": "2f891399b124d83d293d2152de6d981224719664",
+          "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
+          "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+          "source": "www.eff.org",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-01T11:45:30.411000Z"
+          "published_at": "2026-09-01T14:41:25.376000Z"
         },
         {
-          "id": "cb9073795c3eb91b0d8819872e8dd39a1a8db66e",
-          "title": "人工智能也能让你更快变差 / AI Can Make You Suck Faster Too",
-          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+          "id": "1e103f3140fdd2b48b23170ea85c03917f2f41dd",
+          "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法 / EFF to Courts: Don't Rewrite Copyright over AI Hype",
+          "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-01T05:32:56Z"
+          "published_at": "2026-09-01T12:53:51Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News",
-        "www.hermit-tech.com"
+        "www.eff.org"
       ],
       "items": [
         {
-          "id": "2d8bdd448a3b068f4bd6b026675e1d279287f26a",
-          "title": "人工智能也能让你更快变差",
-          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-          "source": "www.hermit-tech.com",
+          "id": "2f891399b124d83d293d2152de6d981224719664",
+          "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
+          "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+          "source": "www.eff.org",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-01T11:45:30.411000Z"
+          "published_at": "2026-09-01T14:41:25.376000Z"
         },
         {
-          "id": "cb9073795c3eb91b0d8819872e8dd39a1a8db66e",
-          "title": "人工智能也能让你更快变差 / AI Can Make You Suck Faster Too",
-          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+          "id": "1e103f3140fdd2b48b23170ea85c03917f2f41dd",
+          "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法 / EFF to Courts: Don't Rewrite Copyright over AI Hype",
+          "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-01T05:32:56Z"
+          "published_at": "2026-09-01T12:53:51Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5454,
-      "importance": 0.5454,
-      "importance_score": 0.5454,
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9977,
+        "recency": 0.9781,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-01T05:32:56Z",
-      "latest_at": "2026-09-01T11:45:30.411000Z",
+      "earliest_at": "2026-09-01T12:53:51Z",
+      "latest_at": "2026-09-01T14:41:25.376000Z",
       "primary_item": {
-        "id": "2d8bdd448a3b068f4bd6b026675e1d279287f26a",
-        "title": "人工智能也能让你更快变差",
-        "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-        "source": "www.hermit-tech.com",
+        "id": "2f891399b124d83d293d2152de6d981224719664",
+        "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
+        "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+        "source": "www.eff.org",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_8aa666e4205d",
-      "title": "Robot Framework 语言",
-      "url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
-      "primary_url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
-      "source": "docs.robotframework.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "507c5ae4e5801b67a46700dadac0a1c920b8c22d",
-          "title": "Robot Framework 语言",
-          "url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
-          "source": "docs.robotframework.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-01T07:29:16.653000Z"
-        },
-        {
-          "id": "cbff148f2a701d369af27442cc89c86aea2d9f10",
-          "title": "Robot Framework 语言 / The Robot Framework language",
-          "url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-01T07:22:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "docs.robotframework.org"
-      ],
-      "items": [
-        {
-          "id": "507c5ae4e5801b67a46700dadac0a1c920b8c22d",
-          "title": "Robot Framework 语言",
-          "url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
-          "source": "docs.robotframework.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-01T07:29:16.653000Z"
-        },
-        {
-          "id": "cbff148f2a701d369af27442cc89c86aea2d9f10",
-          "title": "Robot Framework 语言 / The Robot Framework language",
-          "url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-01T07:22:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5346,
-      "importance": 0.5346,
-      "importance_score": 0.5346,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.938,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-01T07:22:01Z",
-      "latest_at": "2026-09-01T07:29:16.653000Z",
-      "primary_item": {
-        "id": "507c5ae4e5801b67a46700dadac0a1c920b8c22d",
-        "title": "Robot Framework 语言",
-        "url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
-        "source": "docs.robotframework.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d404617e2b7d",
-      "title": "Flock 快速扩张的人工智能监控网络在美国面临日益强烈的反对声浪",
-      "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.co.uk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "05e90e56c05e170d4da18c36f18aac7856b7845b",
-          "title": "Flock 快速扩张的人工智能监控网络在美国面临日益强烈的反对声浪",
-          "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-01T05:21:18.396000Z"
-        },
-        {
-          "id": "907551e717f01c192616b9228ac56c7fa4e59b79",
-          "title": "Flock 快速扩张的人工智能监控网络在美国面临日益强烈的反对声浪 / Flock's rapidly expanding AI surveillance network facing growing backlash in US",
-          "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-01T05:11:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News (世界新闻)",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "05e90e56c05e170d4da18c36f18aac7856b7845b",
-          "title": "Flock 快速扩张的人工智能监控网络在美国面临日益强烈的反对声浪",
-          "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-01T05:21:18.396000Z"
-        },
-        {
-          "id": "907551e717f01c192616b9228ac56c7fa4e59b79",
-          "title": "Flock 快速扩张的人工智能监控网络在美国面临日益强烈的反对声浪 / Flock's rapidly expanding AI surveillance network facing growing backlash in US",
-          "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-01T05:11:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5295,
-      "importance": 0.5295,
-      "importance_score": 0.5295,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9096,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-01T05:11:23Z",
-      "latest_at": "2026-09-01T05:21:18.396000Z",
-      "primary_item": {
-        "id": "05e90e56c05e170d4da18c36f18aac7856b7845b",
-        "title": "Flock 快速扩张的人工智能监控网络在美国面临日益强烈的反对声浪",
-        "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
-        "source": "www.bbc.co.uk",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b378600caff1",
-      "title": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
-      "url": "https://www.aibase.com/news/30750",
-      "primary_url": "https://www.aibase.com/news/30750",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f80b3cfa1eda766b953a027c15bafca0965bcf32",
-          "title": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
-          "url": "https://www.aibase.com/news/30750",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T11:55:09.082616Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f80b3cfa1eda766b953a027c15bafca0965bcf32",
-          "title": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
-          "url": "https://www.aibase.com/news/30750",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T11:55:09.082616Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T11:55:09.082616Z",
-      "latest_at": "2026-09-01T11:55:09.082616Z",
-      "primary_item": {
-        "id": "f80b3cfa1eda766b953a027c15bafca0965bcf32",
-        "title": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
-        "url": "https://www.aibase.com/news/30750",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8599784c193b",
-      "title": "在Claude智能代理三次失控后，Anthropic加强了其训练环境的安全措施",
-      "url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
-      "primary_url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
+      "story_id": "story_7094b9a59608",
+      "title": "汤姆·布洛姆菲尔德盛赞Anthropic的企业文化，称员工是一群“极其认真的超级极客”",
+      "url": "https://www.businessinsider.com/tom-blomfield-anthropic-culture-hyper-earnest-meganerds-monzo-2026-9",
+      "primary_url": "https://www.businessinsider.com/tom-blomfield-anthropic-culture-hyper-earnest-meganerds-monzo-2026-9",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "70496949b4abcac872fc69b1e16c1d44afb40ccb",
-          "title": "在Claude智能代理三次失控后，Anthropic加强了其训练环境的安全措施",
-          "url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
+          "id": "20912b3b743cd5121a957179772efd0655f4d034",
+          "title": "汤姆·布洛姆菲尔德盛赞Anthropic的企业文化，称员工是一群“极其认真的超级极客”",
+          "url": "https://www.businessinsider.com/tom-blomfield-anthropic-culture-hyper-earnest-meganerds-monzo-2026-9",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-01T03:13:10.438000Z"
+          "published_at": "2026-09-01T13:53:35.558000Z"
         },
         {
-          "id": "31f9ceb93030aa140897ebfefc7502c8e5045455",
-          "title": "在Claude智能代理三次失控后，Anthropic加强了其训练环境的安全措施 / Anthropic tightens security on its training environment after Claude agents went rogue 3 times",
-          "url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
+          "id": "e4f61629e9de4a2b45a882e5f879dedaae8a337b",
+          "title": "汤姆·布洛姆菲尔德盛赞Anthropic的企业文化，称员工是一群“极其认真的超级极客” / Anthropic's Tom Blomfield says his new coworkers are a 'hyper-earnest group of meganerds' with a 'lack of ego'",
+          "url": "https://www.businessinsider.com/tom-blomfield-anthropic-culture-hyper-earnest-meganerds-monzo-2026-9",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-01T02:05:31Z"
+          "published_at": "2026-09-01T13:33:47Z"
         }
       ],
       "source_count": 2,
@@ -1353,127 +1436,127 @@
       ],
       "items": [
         {
-          "id": "70496949b4abcac872fc69b1e16c1d44afb40ccb",
-          "title": "在Claude智能代理三次失控后，Anthropic加强了其训练环境的安全措施",
-          "url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
+          "id": "20912b3b743cd5121a957179772efd0655f4d034",
+          "title": "汤姆·布洛姆菲尔德盛赞Anthropic的企业文化，称员工是一群“极其认真的超级极客”",
+          "url": "https://www.businessinsider.com/tom-blomfield-anthropic-culture-hyper-earnest-meganerds-monzo-2026-9",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-01T03:13:10.438000Z"
+          "published_at": "2026-09-01T13:53:35.558000Z"
         },
         {
-          "id": "31f9ceb93030aa140897ebfefc7502c8e5045455",
-          "title": "在Claude智能代理三次失控后，Anthropic加强了其训练环境的安全措施 / Anthropic tightens security on its training environment after Claude agents went rogue 3 times",
-          "url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
+          "id": "e4f61629e9de4a2b45a882e5f879dedaae8a337b",
+          "title": "汤姆·布洛姆菲尔德盛赞Anthropic的企业文化，称员工是一群“极其认真的超级极客” / Anthropic's Tom Blomfield says his new coworkers are a 'hyper-earnest group of meganerds' with a 'lack of ego'",
+          "url": "https://www.businessinsider.com/tom-blomfield-anthropic-culture-hyper-earnest-meganerds-monzo-2026-9",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-01T02:05:31Z"
+          "published_at": "2026-09-01T13:33:47Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5245,
-      "importance": 0.5245,
-      "importance_score": 0.5245,
+      "score": 0.5399,
+      "importance": 0.5399,
+      "importance_score": 0.5399,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8819,
+        "recency": 0.967,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-01T02:05:31Z",
-      "latest_at": "2026-09-01T03:13:10.438000Z",
+      "earliest_at": "2026-09-01T13:33:47Z",
+      "latest_at": "2026-09-01T13:53:35.558000Z",
       "primary_item": {
-        "id": "70496949b4abcac872fc69b1e16c1d44afb40ccb",
-        "title": "在Claude智能代理三次失控后，Anthropic加强了其训练环境的安全措施",
-        "url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
+        "id": "20912b3b743cd5121a957179772efd0655f4d034",
+        "title": "汤姆·布洛姆菲尔德盛赞Anthropic的企业文化，称员工是一群“极其认真的超级极客”",
+        "url": "https://www.businessinsider.com/tom-blomfield-anthropic-culture-hyper-earnest-meganerds-monzo-2026-9",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_f467f95d0953",
-      "title": "在人工智能时代，最安全的职业可能是写作",
-      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-      "primary_url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-      "source": "muratbuffalo.blogspot.com",
+      "story_id": "story_affb749f0bed",
+      "title": "“Zuzai”是一个新词，表示没有人工智能",
+      "url": "https://zuzai.org",
+      "primary_url": "https://zuzai.org",
+      "source": "zuzai.org",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "ac2d76d1406dbaad825833a4d479f240c6ee8bfe",
-          "title": "在人工智能时代，最安全的职业可能是写作",
-          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-          "source": "muratbuffalo.blogspot.com",
+          "id": "6175a6710a833c8b67808ed27fd7ba892e443097",
+          "title": "“Zuzai”是一个新词，表示没有人工智能",
+          "url": "https://zuzai.org",
+          "source": "zuzai.org",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-01T01:21:40.999000Z"
+          "published_at": "2026-09-01T13:37:18.901000Z"
         },
         {
-          "id": "c3460ccd49af4559b8c7d2502d5d0badb5cb400c",
-          "title": "在人工智能时代，最安全的职业可能是写作 / The safest job from AI may be writing",
-          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T18:12:20Z"
+          "id": "2e1ba4d47826765d4add63ba37534dd4d17103c4",
+          "title": "“Zuzai”是一个新词，表示没有人工智能 / Zuzai, a new word, indicates the absence of AI",
+          "url": "https://zuzai.org",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-01T13:26:12Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "muratbuffalo.blogspot.com"
+        "Lobsters (技术社区)",
+        "zuzai.org"
       ],
       "items": [
         {
-          "id": "ac2d76d1406dbaad825833a4d479f240c6ee8bfe",
-          "title": "在人工智能时代，最安全的职业可能是写作",
-          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-          "source": "muratbuffalo.blogspot.com",
+          "id": "6175a6710a833c8b67808ed27fd7ba892e443097",
+          "title": "“Zuzai”是一个新词，表示没有人工智能",
+          "url": "https://zuzai.org",
+          "source": "zuzai.org",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-01T01:21:40.999000Z"
+          "published_at": "2026-09-01T13:37:18.901000Z"
         },
         {
-          "id": "c3460ccd49af4559b8c7d2502d5d0badb5cb400c",
-          "title": "在人工智能时代，最安全的职业可能是写作 / The safest job from AI may be writing",
-          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T18:12:20Z"
+          "id": "2e1ba4d47826765d4add63ba37534dd4d17103c4",
+          "title": "“Zuzai”是一个新词，表示没有人工智能 / Zuzai, a new word, indicates the absence of AI",
+          "url": "https://zuzai.org",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-01T13:26:12Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5203,
-      "importance": 0.5203,
-      "importance_score": 0.5203,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8586,
+        "recency": 0.9632,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-31T18:12:20Z",
-      "latest_at": "2026-09-01T01:21:40.999000Z",
+      "earliest_at": "2026-09-01T13:26:12Z",
+      "latest_at": "2026-09-01T13:37:18.901000Z",
       "primary_item": {
-        "id": "ac2d76d1406dbaad825833a4d479f240c6ee8bfe",
-        "title": "在人工智能时代，最安全的职业可能是写作",
-        "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-        "source": "muratbuffalo.blogspot.com",
+        "id": "6175a6710a833c8b67808ed27fd7ba892e443097",
+        "title": "“Zuzai”是一个新词，表示没有人工智能",
+        "url": "https://zuzai.org",
+        "source": "zuzai.org",
         "source_name": "Buzzing"
       }
     }
