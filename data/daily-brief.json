@@ -1,87 +1,67 @@
 {
-  "generated_at": "2026-09-01T00:43:41.697921Z",
+  "generated_at": "2026-09-01T06:04:52.022210Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_44f61163770f",
-      "title": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展 / A milestone in expanding access to AI",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "primary_url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "source": "OpenAI News",
+      "story_id": "story_91992ed9f82d",
+      "title": "Codex CLI 0.152.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "88e48842cea729ff8d2bde26ed7cb4667f3f9a5c",
-          "title": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展 / A milestone in expanding access to AI",
-          "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-          "source": "OpenAI News",
+          "id": "cc6461cd095bbff5eb1ec161feb53ac7bd933172",
+          "title": "Codex CLI 0.152.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-31T04:00:00Z"
-        },
-        {
-          "id": "98ef984215f783da4c5144309c54d295fb6797e2",
-          "title": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展",
-          "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T04:00:00Z"
+          "published_at": "2026-09-01T00:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "OpenAI Codex Changelog"
       ],
       "items": [
         {
-          "id": "88e48842cea729ff8d2bde26ed7cb4667f3f9a5c",
-          "title": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展 / A milestone in expanding access to AI",
-          "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-          "source": "OpenAI News",
+          "id": "cc6461cd095bbff5eb1ec161feb53ac7bd933172",
+          "title": "Codex CLI 0.152.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-31T04:00:00Z"
-        },
-        {
-          "id": "98ef984215f783da4c5144309c54d295fb6797e2",
-          "title": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展",
-          "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T04:00:00Z"
+          "published_at": "2026-09-01T00:00:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8304,
-      "importance": 0.8304,
-      "importance_score": 0.8304,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8509,
+      "importance": 0.8509,
+      "importance_score": 0.8509,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7413,
-        "story_heat": 0.25
+        "ai_relevance": 0.98,
+        "recency": 0.9159,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-31T04:00:00Z",
-      "latest_at": "2026-08-31T04:00:00Z",
+      "earliest_at": "2026-09-01T00:00:00Z",
+      "latest_at": "2026-09-01T00:00:00Z",
       "primary_item": {
-        "id": "88e48842cea729ff8d2bde26ed7cb4667f3f9a5c",
-        "title": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展 / A milestone in expanding access to AI",
-        "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-        "source": "OpenAI News",
+        "id": "cc6461cd095bbff5eb1ec161feb53ac7bd933172",
+        "title": "Codex CLI 0.152.0",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -120,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8147,
-      "importance": 0.8147,
-      "importance_score": 0.8147,
+      "score": 0.8041,
+      "importance": 0.8041,
+      "importance_score": 0.8041,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.793,
+        "recency": 0.734,
         "story_heat": 0.0
       },
       "category": "official",
@@ -145,6 +125,149 @@
         "url": "https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0703988e3a33",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "primary_url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0a3dd40e84f8dc0f373ecec40652c9aa2efa1294",
+          "title": "OpenAI supports California’s bill to advance youth AI safety",
+          "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "0a3dd40e84f8dc0f373ecec40652c9aa2efa1294",
+          "title": "OpenAI supports California’s bill to advance youth AI safety",
+          "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7166,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T07:00:00Z",
+      "latest_at": "2026-08-31T07:00:00Z",
+      "primary_item": {
+        "id": "0a3dd40e84f8dc0f373ecec40652c9aa2efa1294",
+        "title": "OpenAI supports California’s bill to advance youth AI safety",
+        "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_7c78371bfe8c",
+      "title": "Anthropic豪掷350亿美元联手Lambda加码云端算力",
+      "url": "https://www.aibase.com/news/30731",
+      "primary_url": "https://www.aibase.com/news/30731",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b1ef7988e81fc8e3accf84dec6fcace25548e4f8",
+          "title": "Anthropic豪掷350亿美元联手Lambda加码云端算力",
+          "url": "https://www.aibase.com/news/30731",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T06:04:52.022210Z"
+        },
+        {
+          "id": "f669322279fbded679eb5b576c82ebb4eb475534",
+          "title": "Anthropic 豪掷 350 亿美元联手 Lambda 加码云端算力",
+          "url": "https://www.aibase.com/zh/news/30731",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b1ef7988e81fc8e3accf84dec6fcace25548e4f8",
+          "title": "Anthropic豪掷350亿美元联手Lambda加码云端算力",
+          "url": "https://www.aibase.com/news/30731",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T06:04:52.022210Z"
+        },
+        {
+          "id": "f669322279fbded679eb5b576c82ebb4eb475534",
+          "title": "Anthropic 豪掷 350 亿美元联手 Lambda 加码云端算力",
+          "url": "https://www.aibase.com/zh/news/30731",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T06:04:52.022210Z",
+      "latest_at": "2026-09-01T06:04:52.022210Z",
+      "primary_item": {
+        "id": "b1ef7988e81fc8e3accf84dec6fcace25548e4f8",
+        "title": "Anthropic豪掷350亿美元联手Lambda加码云端算力",
+        "url": "https://www.aibase.com/news/30731",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -182,15 +305,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7872,
-      "importance": 0.7872,
-      "importance_score": 0.7872,
+      "score": 0.7741,
+      "importance": 0.7741,
+      "importance_score": 0.7741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9754,
+        "recency": 0.9028,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -243,15 +366,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8113,
-      "importance": 0.8113,
-      "importance_score": 0.8113,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7741,
+        "recency": 0.7166,
         "story_heat": 0.0
       },
       "category": "official",
@@ -268,6 +391,87 @@
         "url": "https://openai.com/index/polimill",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f5e5f9cf7444",
+      "title": "​35 亿美元押注联发科：英伟达联手打造覆盖 AI 工厂到 PC 的下一代计算平台",
+      "url": "https://www.aibase.com/news/30747",
+      "primary_url": "https://www.aibase.com/news/30747",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "96d288338f75e896213c1b6a05f8585077b74913",
+          "title": "​35 亿美元押注联发科：英伟达联手打造覆盖 AI 工厂到 PC 的下一代计算平台",
+          "url": "https://www.aibase.com/news/30747",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T06:04:52.022210Z"
+        },
+        {
+          "id": "f31983cc3199adccd4379e5bb8caf2269e42026b",
+          "title": "35亿美元押注联发科：英伟达联手打造覆盖AI工厂到PC的下一代计算平台",
+          "url": "https://www.aibase.com/zh/news/30747",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "96d288338f75e896213c1b6a05f8585077b74913",
+          "title": "​35 亿美元押注联发科：英伟达联手打造覆盖 AI 工厂到 PC 的下一代计算平台",
+          "url": "https://www.aibase.com/news/30747",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T06:04:52.022210Z"
+        },
+        {
+          "id": "f31983cc3199adccd4379e5bb8caf2269e42026b",
+          "title": "35亿美元押注联发科：英伟达联手打造覆盖AI工厂到PC的下一代计算平台",
+          "url": "https://www.aibase.com/zh/news/30747",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T06:04:52.022210Z",
+      "latest_at": "2026-09-01T06:04:52.022210Z",
+      "primary_item": {
+        "id": "96d288338f75e896213c1b6a05f8585077b74913",
+        "title": "​35 亿美元押注联发科：英伟达联手打造覆盖 AI 工厂到 PC 的下一代计算平台",
+        "url": "https://www.aibase.com/news/30747",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -305,15 +509,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7691,
-      "importance": 0.7691,
-      "importance_score": 0.7691,
+      "score": 0.7558,
+      "importance": 0.7558,
+      "importance_score": 0.7558,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9914,
+        "recency": 0.9177,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -329,87 +533,6 @@
         "url": "https://x.com/AnthropicAI/status/2094577944056430865",
         "source": "X：Anthropic (@AnthropicAI)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1a6ed0db4046",
-      "title": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
-      "url": "https://www.aibase.com/news/30720",
-      "primary_url": "https://www.aibase.com/news/30720",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4002cb2839ec1f2fd066b48899cde68d2aa06615",
-          "title": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
-          "url": "https://www.aibase.com/news/30720",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T07:33:12.222994Z"
-        },
-        {
-          "id": "8a0cb531fe775b59cea9b6fc638f14c3baa9dbdf",
-          "title": "OpenClaw2.0 正式发布：重构底层架构，支持多人共享云端会话",
-          "url": "https://www.aibase.com/zh/news/30720",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "4002cb2839ec1f2fd066b48899cde68d2aa06615",
-          "title": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
-          "url": "https://www.aibase.com/news/30720",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T07:33:12.222994Z"
-        },
-        {
-          "id": "8a0cb531fe775b59cea9b6fc638f14c3baa9dbdf",
-          "title": "OpenClaw2.0 正式发布：重构底层架构，支持多人共享云端会话",
-          "url": "https://www.aibase.com/zh/news/30720",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7803,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-31T07:33:12.222994Z",
-      "latest_at": "2026-08-31T07:33:12.222994Z",
-      "primary_item": {
-        "id": "4002cb2839ec1f2fd066b48899cde68d2aa06615",
-        "title": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
-        "url": "https://www.aibase.com/news/30720",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -447,15 +570,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8272,
+        "recency": 0.7657,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -473,223 +596,123 @@
       }
     },
     {
-      "story_id": "story_f92eed3be72e",
-      "title": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
-      "url": "https://www.aibase.com/news/30714",
-      "primary_url": "https://www.aibase.com/news/30714",
+      "story_id": "story_767c1a774aab",
+      "title": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
+      "url": "https://www.aibase.com/news/30745",
+      "primary_url": "https://www.aibase.com/news/30745",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5b2f31ad71724412d63e5465425b9ab32a3dccc7",
-          "title": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
-          "url": "https://www.aibase.com/news/30714",
+          "id": "ebd7891564d0d58bc3bfd0ced77676324c194b26",
+          "title": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
+          "url": "https://www.aibase.com/news/30745",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T07:33:12.222994Z"
-        },
-        {
-          "id": "69b4ca1646320da67f7a3a7787da78c4216d79c5",
-          "title": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
-          "url": "https://www.aibase.com/zh/news/30714",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-01T06:04:52.022210Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "5b2f31ad71724412d63e5465425b9ab32a3dccc7",
-          "title": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
-          "url": "https://www.aibase.com/news/30714",
+          "id": "ebd7891564d0d58bc3bfd0ced77676324c194b26",
+          "title": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
+          "url": "https://www.aibase.com/news/30745",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T07:33:12.222994Z"
-        },
-        {
-          "id": "69b4ca1646320da67f7a3a7787da78c4216d79c5",
-          "title": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
-          "url": "https://www.aibase.com/zh/news/30714",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-01T06:04:52.022210Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7803,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-31T07:33:12.222994Z",
-      "latest_at": "2026-08-31T07:33:12.222994Z",
+      "earliest_at": "2026-09-01T06:04:52.022210Z",
+      "latest_at": "2026-09-01T06:04:52.022210Z",
       "primary_item": {
-        "id": "5b2f31ad71724412d63e5465425b9ab32a3dccc7",
-        "title": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
-        "url": "https://www.aibase.com/news/30714",
+        "id": "ebd7891564d0d58bc3bfd0ced77676324c194b26",
+        "title": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
+        "url": "https://www.aibase.com/news/30745",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_aba7c585f4da",
-      "title": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面",
-      "url": "https://runwayml.com/news/research/introducing-solaris",
-      "primary_url": "https://runwayml.com/news/research/introducing-solaris",
-      "source": "Runway：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "79a3911397e1bb59a4732194be300a67c1486761",
-          "title": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面",
-          "url": "https://runwayml.com/news/research/introducing-solaris",
-          "source": "Runway：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T17:03:47.031000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Runway：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "79a3911397e1bb59a4732194be300a67c1486761",
-          "title": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面",
-          "url": "https://runwayml.com/news/research/introducing-solaris",
-          "source": "Runway：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T17:03:47.031000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7217,
-      "importance": 0.7217,
-      "importance_score": 0.7217,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8952,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-31T17:03:47.031000Z",
-      "latest_at": "2026-08-31T17:03:47.031000Z",
-      "primary_item": {
-        "id": "79a3911397e1bb59a4732194be300a67c1486761",
-        "title": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面",
-        "url": "https://runwayml.com/news/research/introducing-solaris",
-        "source": "Runway：News（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_353a5f0cda51",
-      "title": "消息称字节加大AI核心团队激励力度，豆包股提价14.6%加码大模型战略",
-      "url": "https://www.aibase.com/news/30717",
-      "primary_url": "https://www.aibase.com/news/30717",
+      "story_id": "story_b06e34e2f4f6",
+      "title": "DeepSeek首个视觉实验模型正式开源，3050亿参数对标顶尖水平",
+      "url": "https://www.aibase.com/news/30735",
+      "primary_url": "https://www.aibase.com/news/30735",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3d1e4f8f263e6c9726738bbc7e549c4ce16f8c8a",
-          "title": "消息称字节加大AI核心团队激励力度，豆包股提价14.6%加码大模型战略",
-          "url": "https://www.aibase.com/news/30717",
+          "id": "bdb4b03081d3a9650092f36ad911c26482f26ac3",
+          "title": "DeepSeek首个视觉实验模型正式开源，3050亿参数对标顶尖水平",
+          "url": "https://www.aibase.com/news/30735",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T07:33:12.222994Z"
-        },
-        {
-          "id": "d6aed377f187b89f7ba8ab0a836cf6b806a8b3dd",
-          "title": "消息称字节加大AI核心团队激励力度，豆包股提价14.6%加码大模型战略",
-          "url": "https://www.aibase.com/zh/news/30717",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-01T06:04:52.022210Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "3d1e4f8f263e6c9726738bbc7e549c4ce16f8c8a",
-          "title": "消息称字节加大AI核心团队激励力度，豆包股提价14.6%加码大模型战略",
-          "url": "https://www.aibase.com/news/30717",
+          "id": "bdb4b03081d3a9650092f36ad911c26482f26ac3",
+          "title": "DeepSeek首个视觉实验模型正式开源，3050亿参数对标顶尖水平",
+          "url": "https://www.aibase.com/news/30735",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T07:33:12.222994Z"
-        },
-        {
-          "id": "d6aed377f187b89f7ba8ab0a836cf6b806a8b3dd",
-          "title": "消息称字节加大AI核心团队激励力度，豆包股提价14.6%加码大模型战略",
-          "url": "https://www.aibase.com/zh/news/30717",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-01T06:04:52.022210Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7803,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-31T07:33:12.222994Z",
-      "latest_at": "2026-08-31T07:33:12.222994Z",
+      "earliest_at": "2026-09-01T06:04:52.022210Z",
+      "latest_at": "2026-09-01T06:04:52.022210Z",
       "primary_item": {
-        "id": "3d1e4f8f263e6c9726738bbc7e549c4ce16f8c8a",
-        "title": "消息称字节加大AI核心团队激励力度，豆包股提价14.6%加码大模型战略",
-        "url": "https://www.aibase.com/news/30717",
+        "id": "bdb4b03081d3a9650092f36ad911c26482f26ac3",
+        "title": "DeepSeek首个视觉实验模型正式开源，3050亿参数对标顶尖水平",
+        "url": "https://www.aibase.com/news/30735",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -819,15 +842,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.6558,
+      "importance": 0.6558,
+      "importance_score": 0.6558,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9256,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -845,183 +868,21 @@
       }
     },
     {
-      "story_id": "story_1551b6469abf",
-      "title": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
-      "url": "https://www.aibase.com/news/30715",
-      "primary_url": "https://www.aibase.com/news/30715",
+      "story_id": "story_aa18387e0178",
+      "title": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
+      "url": "https://www.aibase.com/news/30733",
+      "primary_url": "https://www.aibase.com/news/30733",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7e0120dbc2d2ebc39144d33d26b5acd367f2a65f",
-          "title": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
-          "url": "https://www.aibase.com/news/30715",
+          "id": "841e769a59c4dbe64086aa689d16066676394d25",
+          "title": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
+          "url": "https://www.aibase.com/news/30733",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T07:33:12.222994Z"
-        },
-        {
-          "id": "2e3e02162ef23fd7dd2c4463f945d40b213e5023",
-          "title": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
-          "url": "https://www.aibase.com/zh/news/30715",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "7e0120dbc2d2ebc39144d33d26b5acd367f2a65f",
-          "title": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
-          "url": "https://www.aibase.com/news/30715",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T07:33:12.222994Z"
-        },
-        {
-          "id": "2e3e02162ef23fd7dd2c4463f945d40b213e5023",
-          "title": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
-          "url": "https://www.aibase.com/zh/news/30715",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7803,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-31T07:33:12.222994Z",
-      "latest_at": "2026-08-31T07:33:12.222994Z",
-      "primary_item": {
-        "id": "7e0120dbc2d2ebc39144d33d26b5acd367f2a65f",
-        "title": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
-        "url": "https://www.aibase.com/news/30715",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3a3c95898183",
-      "title": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
-      "url": "https://www.aibase.com/news/30723",
-      "primary_url": "https://www.aibase.com/news/30723",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f22770972f94af11c5f0185dcc9b5198c38ff536",
-          "title": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
-          "url": "https://www.aibase.com/news/30723",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T07:33:12.222994Z"
-        },
-        {
-          "id": "6eab14033b15e79fe9b9dc6f095d3222181f97a6",
-          "title": "马斯克提出新计划：靠 AI 卫星让地球在未来大约 10 亿年内保持宜居",
-          "url": "https://www.ithome.com/0/996/490.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-31T07:13:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "IT之家 (ITHome)"
-      ],
-      "items": [
-        {
-          "id": "f22770972f94af11c5f0185dcc9b5198c38ff536",
-          "title": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
-          "url": "https://www.aibase.com/news/30723",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T07:33:12.222994Z"
-        },
-        {
-          "id": "6eab14033b15e79fe9b9dc6f095d3222181f97a6",
-          "title": "马斯克提出新计划：靠 AI 卫星让地球在未来大约 10 亿年内保持宜居",
-          "url": "https://www.ithome.com/0/996/490.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-31T07:13:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7803,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-31T07:13:13Z",
-      "latest_at": "2026-08-31T07:33:12.222994Z",
-      "primary_item": {
-        "id": "f22770972f94af11c5f0185dcc9b5198c38ff536",
-        "title": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
-        "url": "https://www.aibase.com/news/30723",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_46f5917a5ac0",
-      "title": "Anthropic 发安全警报：信息窃取木马盗走部分用户 Claude 登录会话",
-      "url": "https://www.aibase.com/news/30730",
-      "primary_url": "https://www.aibase.com/news/30730",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2d84a1a39345577f8c5bdba4f81c293fa5f4539a",
-          "title": "Anthropic 发安全警报：信息窃取木马盗走部分用户 Claude 登录会话",
-          "url": "https://www.aibase.com/news/30730",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T17:43:41.697921Z"
+          "published_at": "2026-09-01T06:04:52.022210Z"
         }
       ],
       "source_count": 1,
@@ -1030,26 +891,26 @@
       ],
       "items": [
         {
-          "id": "2d84a1a39345577f8c5bdba4f81c293fa5f4539a",
-          "title": "Anthropic 发安全警报：信息窃取木马盗走部分用户 Claude 登录会话",
-          "url": "https://www.aibase.com/news/30730",
+          "id": "841e769a59c4dbe64086aa689d16066676394d25",
+          "title": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
+          "url": "https://www.aibase.com/news/30733",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T17:43:41.697921Z"
+          "published_at": "2026-09-01T06:04:52.022210Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1057,12 +918,134 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-31T17:43:41.697921Z",
-      "latest_at": "2026-08-31T17:43:41.697921Z",
+      "earliest_at": "2026-09-01T06:04:52.022210Z",
+      "latest_at": "2026-09-01T06:04:52.022210Z",
       "primary_item": {
-        "id": "2d84a1a39345577f8c5bdba4f81c293fa5f4539a",
-        "title": "Anthropic 发安全警报：信息窃取木马盗走部分用户 Claude 登录会话",
-        "url": "https://www.aibase.com/news/30730",
+        "id": "841e769a59c4dbe64086aa689d16066676394d25",
+        "title": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
+        "url": "https://www.aibase.com/news/30733",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_941a67cc2046",
+      "title": "​AI 造剧也能拿收视第一：国内首部 AIGC 长剧《后西游记》开播即飘红",
+      "url": "https://www.aibase.com/news/30743",
+      "primary_url": "https://www.aibase.com/news/30743",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b115e881d08f3a343ecfe685f6aab741eba8a727",
+          "title": "​AI 造剧也能拿收视第一：国内首部 AIGC 长剧《后西游记》开播即飘红",
+          "url": "https://www.aibase.com/news/30743",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T06:04:52.022210Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "b115e881d08f3a343ecfe685f6aab741eba8a727",
+          "title": "​AI 造剧也能拿收视第一：国内首部 AIGC 长剧《后西游记》开播即飘红",
+          "url": "https://www.aibase.com/news/30743",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T06:04:52.022210Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T06:04:52.022210Z",
+      "latest_at": "2026-09-01T06:04:52.022210Z",
+      "primary_item": {
+        "id": "b115e881d08f3a343ecfe685f6aab741eba8a727",
+        "title": "​AI 造剧也能拿收视第一：国内首部 AIGC 长剧《后西游记》开播即飘红",
+        "url": "https://www.aibase.com/news/30743",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0b2a21276266",
+      "title": "​手握算力当“房东”：英伟达转手出租数据中心，Anthropic 350 亿美元买单",
+      "url": "https://www.aibase.com/news/30732",
+      "primary_url": "https://www.aibase.com/news/30732",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "744a23b8900ad27df849c9b116dac016ed262b2d",
+          "title": "​手握算力当“房东”：英伟达转手出租数据中心，Anthropic 350 亿美元买单",
+          "url": "https://www.aibase.com/news/30732",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T06:04:52.022210Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "744a23b8900ad27df849c9b116dac016ed262b2d",
+          "title": "​手握算力当“房东”：英伟达转手出租数据中心，Anthropic 350 亿美元买单",
+          "url": "https://www.aibase.com/news/30732",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T06:04:52.022210Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T06:04:52.022210Z",
+      "latest_at": "2026-09-01T06:04:52.022210Z",
+      "primary_item": {
+        "id": "744a23b8900ad27df849c9b116dac016ed262b2d",
+        "title": "​手握算力当“房东”：英伟达转手出租数据中心，Anthropic 350 亿美元买单",
+        "url": "https://www.aibase.com/news/30732",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1120,15 +1103,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5932,
-      "importance": 0.5932,
-      "importance_score": 0.5932,
+      "score": 0.5815,
+      "importance": 0.5815,
+      "importance_score": 0.5815,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8763,
+        "recency": 0.8111,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1146,21 +1129,21 @@
       }
     },
     {
-      "story_id": "story_4c6d7019ef5d",
-      "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-      "url": "https://www.aibase.com/news/30726",
-      "primary_url": "https://www.aibase.com/news/30726",
+      "story_id": "story_8720a085742c",
+      "title": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
+      "url": "https://www.aibase.com/news/30749",
+      "primary_url": "https://www.aibase.com/news/30749",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5aa0f0e804692ccf6580c4db292df4f4f7cd1b36",
-          "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-          "url": "https://www.aibase.com/news/30726",
+          "id": "aafe723be9b968f91776e8c7d2d73bfdf9f013b1",
+          "title": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
+          "url": "https://www.aibase.com/news/30749",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T16:43:41.697921Z"
+          "published_at": "2026-09-01T06:04:52.022210Z"
         }
       ],
       "source_count": 1,
@@ -1169,40 +1152,199 @@
       ],
       "items": [
         {
-          "id": "5aa0f0e804692ccf6580c4db292df4f4f7cd1b36",
-          "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-          "url": "https://www.aibase.com/news/30726",
+          "id": "aafe723be9b968f91776e8c7d2d73bfdf9f013b1",
+          "title": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
+          "url": "https://www.aibase.com/news/30749",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T16:43:41.697921Z"
+          "published_at": "2026-09-01T06:04:52.022210Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-31T16:43:41.697921Z",
-      "latest_at": "2026-08-31T16:43:41.697921Z",
+      "earliest_at": "2026-09-01T06:04:52.022210Z",
+      "latest_at": "2026-09-01T06:04:52.022210Z",
       "primary_item": {
-        "id": "5aa0f0e804692ccf6580c4db292df4f4f7cd1b36",
-        "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-        "url": "https://www.aibase.com/news/30726",
+        "id": "aafe723be9b968f91776e8c7d2d73bfdf9f013b1",
+        "title": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
+        "url": "https://www.aibase.com/news/30749",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_8599784c193b",
+      "title": "在Claude智能代理三次失控后，Anthropic加强了其训练环境的安全措施",
+      "url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
+      "primary_url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "70496949b4abcac872fc69b1e16c1d44afb40ccb",
+          "title": "在Claude智能代理三次失控后，Anthropic加强了其训练环境的安全措施",
+          "url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-01T03:13:10.438000Z"
+        },
+        {
+          "id": "31f9ceb93030aa140897ebfefc7502c8e5045455",
+          "title": "在Claude智能代理三次失控后，Anthropic加强了其训练环境的安全措施 / Anthropic tightens security on its training environment after Claude agents went rogue 3 times",
+          "url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T02:05:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "70496949b4abcac872fc69b1e16c1d44afb40ccb",
+          "title": "在Claude智能代理三次失控后，Anthropic加强了其训练环境的安全措施",
+          "url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-01T03:13:10.438000Z"
+        },
+        {
+          "id": "31f9ceb93030aa140897ebfefc7502c8e5045455",
+          "title": "在Claude智能代理三次失控后，Anthropic加强了其训练环境的安全措施 / Anthropic tightens security on its training environment after Claude agents went rogue 3 times",
+          "url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T02:05:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5385,
+      "importance": 0.5385,
+      "importance_score": 0.5385,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9595,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-01T02:05:31Z",
+      "latest_at": "2026-09-01T03:13:10.438000Z",
+      "primary_item": {
+        "id": "70496949b4abcac872fc69b1e16c1d44afb40ccb",
+        "title": "在Claude智能代理三次失控后，Anthropic加强了其训练环境的安全措施",
+        "url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_f467f95d0953",
+      "title": "在人工智能时代，最安全的职业可能是写作",
+      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+      "primary_url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+      "source": "muratbuffalo.blogspot.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ac2d76d1406dbaad825833a4d479f240c6ee8bfe",
+          "title": "在人工智能时代，最安全的职业可能是写作",
+          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+          "source": "muratbuffalo.blogspot.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-01T01:21:40.999000Z"
+        },
+        {
+          "id": "c45cfede35d4f0e41adbad9e87fee4519d537b22",
+          "title": "在人工智能时代，最安全的职业可能是写作 / The safest job from AI may be writing",
+          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T18:12:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "muratbuffalo.blogspot.com"
+      ],
+      "items": [
+        {
+          "id": "ac2d76d1406dbaad825833a4d479f240c6ee8bfe",
+          "title": "在人工智能时代，最安全的职业可能是写作",
+          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+          "source": "muratbuffalo.blogspot.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-01T01:21:40.999000Z"
+        },
+        {
+          "id": "c45cfede35d4f0e41adbad9e87fee4519d537b22",
+          "title": "在人工智能时代，最安全的职业可能是写作 / The safest job from AI may be writing",
+          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T18:12:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5339,
+      "importance": 0.5339,
+      "importance_score": 0.5339,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9341,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-31T18:12:20Z",
+      "latest_at": "2026-09-01T01:21:40.999000Z",
+      "primary_item": {
+        "id": "ac2d76d1406dbaad825833a4d479f240c6ee8bfe",
+        "title": "在人工智能时代，最安全的职业可能是写作",
+        "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+        "source": "muratbuffalo.blogspot.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1259,15 +1401,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5325,
+      "importance": 0.5325,
+      "importance_score": 0.5325,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9264,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1282,224 +1424,6 @@
         "url": "https://news.ycombinator.com/item?id=49508982",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_b7f87ab1c827",
-      "title": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
-      "url": "https://www.aibase.com/news/30725",
-      "primary_url": "https://www.aibase.com/news/30725",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "863d10f0ba8275b8fad96979cfc32b7c01e1ebe2",
-          "title": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
-          "url": "https://www.aibase.com/news/30725",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T16:43:41.697921Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "863d10f0ba8275b8fad96979cfc32b7c01e1ebe2",
-          "title": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
-          "url": "https://www.aibase.com/news/30725",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T16:43:41.697921Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8909,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-31T16:43:41.697921Z",
-      "latest_at": "2026-08-31T16:43:41.697921Z",
-      "primary_item": {
-        "id": "863d10f0ba8275b8fad96979cfc32b7c01e1ebe2",
-        "title": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
-        "url": "https://www.aibase.com/news/30725",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_fc94637995a4",
-      "title": "“Zlibrary，我最爱的”：索尼诉讼中援引的Anthropic员工聊天记录中盛赞盗版",
-      "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5131b21ad0ccbe175057d38c75ff04f52c13f6cd",
-          "title": "“Zlibrary，我最爱的”：索尼诉讼中援引的Anthropic员工聊天记录中盛赞盗版",
-          "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T20:33:21.285000Z"
-        },
-        {
-          "id": "c4f81af88268df7b13e415550ff2aa2b4541e130",
-          "title": "“Zlibrary，我最爱的”：索尼诉讼中援引的Anthropic员工聊天记录中盛赞盗版 / “Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-          "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T18:10:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "5131b21ad0ccbe175057d38c75ff04f52c13f6cd",
-          "title": "“Zlibrary，我最爱的”：索尼诉讼中援引的Anthropic员工聊天记录中盛赞盗版",
-          "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T20:33:21.285000Z"
-        },
-        {
-          "id": "c4f81af88268df7b13e415550ff2aa2b4541e130",
-          "title": "“Zlibrary，我最爱的”：索尼诉讼中援引的Anthropic员工聊天记录中盛赞盗版 / “Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-          "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T18:10:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5353,
-      "importance": 0.5353,
-      "importance_score": 0.5353,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9415,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-31T18:10:45Z",
-      "latest_at": "2026-08-31T20:33:21.285000Z",
-      "primary_item": {
-        "id": "5131b21ad0ccbe175057d38c75ff04f52c13f6cd",
-        "title": "“Zlibrary，我最爱的”：索尼诉讼中援引的Anthropic员工聊天记录中盛赞盗版",
-        "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
-        "source": "arstechnica.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_a3c88233164a",
-      "title": "Instagram正在严厉打击那些未主动表明自己是AI的AI网红",
-      "url": "https://www.businessinsider.com/instagram-ai-generated-slop-creator-accounts-profile-label-2026-8",
-      "primary_url": "https://www.businessinsider.com/instagram-ai-generated-slop-creator-accounts-profile-label-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "8cad0c76c291de7ca2c47465f50357e16712c910",
-          "title": "Instagram正在严厉打击那些未主动表明自己是AI的AI网红",
-          "url": "https://www.businessinsider.com/instagram-ai-generated-slop-creator-accounts-profile-label-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T18:57:21.123000Z"
-        },
-        {
-          "id": "bba4e9d30459214dcc2a91b2ae3e431b49365361",
-          "title": "Instagram正在严厉打击那些未主动表明自己是AI的AI网红 / Instagram is cracking down on AI influencers who don't self-identify as AI",
-          "url": "https://www.businessinsider.com/instagram-ai-generated-slop-creator-accounts-profile-label-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T18:30:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "8cad0c76c291de7ca2c47465f50357e16712c910",
-          "title": "Instagram正在严厉打击那些未主动表明自己是AI的AI网红",
-          "url": "https://www.businessinsider.com/instagram-ai-generated-slop-creator-accounts-profile-label-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T18:57:21.123000Z"
-        },
-        {
-          "id": "bba4e9d30459214dcc2a91b2ae3e431b49365361",
-          "title": "Instagram正在严厉打击那些未主动表明自己是AI的AI网红 / Instagram is cracking down on AI influencers who don't self-identify as AI",
-          "url": "https://www.businessinsider.com/instagram-ai-generated-slop-creator-accounts-profile-label-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T18:30:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5314,
-      "importance": 0.5314,
-      "importance_score": 0.5314,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.92,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-31T18:30:17Z",
-      "latest_at": "2026-08-31T18:57:21.123000Z",
-      "primary_item": {
-        "id": "8cad0c76c291de7ca2c47465f50357e16712c910",
-        "title": "Instagram正在严厉打击那些未主动表明自己是AI的AI网红",
-        "url": "https://www.businessinsider.com/instagram-ai-generated-slop-creator-accounts-profile-label-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
