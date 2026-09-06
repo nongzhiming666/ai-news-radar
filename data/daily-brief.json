@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T21:07:20.639984Z",
+  "generated_at": "2026-09-06T22:59:36.971757Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8731,
-      "importance": 0.8731,
-      "importance_score": 0.8731,
+      "score": 0.8691,
+      "importance": 0.8691,
+      "importance_score": 0.8691,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8394,
+        "recency": 0.817,
         "story_heat": 0.5
       },
       "category": "official",
@@ -158,15 +158,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8459,
-      "importance": 0.8459,
-      "importance_score": 0.8459,
+      "score": 0.842,
+      "importance": 0.842,
+      "importance_score": 0.842,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8274,
+        "recency": 0.8053,
         "story_heat": 0.25
       },
       "category": "official",
@@ -221,15 +221,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7876,
-      "importance": 0.7876,
-      "importance_score": 0.7876,
+      "score": 0.783,
+      "importance": 0.783,
+      "importance_score": 0.783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9613,
+        "recency": 0.9356,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -301,15 +301,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7739,
-      "importance": 0.7739,
-      "importance_score": 0.7739,
+      "score": 0.77,
+      "importance": 0.77,
+      "importance_score": 0.77,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8128,
+        "recency": 0.7912,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -325,66 +325,6 @@
         "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
         "url": "https://www.ithome.com/0/998/927.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e46c6749700e",
-      "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
-      "url": "https://x.com/testingcatalog/status/2096350628054176240",
-      "primary_url": "https://x.com/testingcatalog/status/2096350628054176240",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "39063cb094fc0954bba38154036ab86e9dc2220a",
-          "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
-          "url": "https://x.com/testingcatalog/status/2096350628054176240",
-          "source": "X：Testing Catalog (@testingcatalog)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T21:31:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Testing Catalog (@testingcatalog)"
-      ],
-      "items": [
-        {
-          "id": "39063cb094fc0954bba38154036ab86e9dc2220a",
-          "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
-          "url": "https://x.com/testingcatalog/status/2096350628054176240",
-          "source": "X：Testing Catalog (@testingcatalog)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T21:31:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7276,
-      "importance": 0.7276,
-      "importance_score": 0.7276,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7113,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-05T21:31:52Z",
-      "latest_at": "2026-09-05T21:31:52Z",
-      "primary_item": {
-        "id": "39063cb094fc0954bba38154036ab86e9dc2220a",
-        "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
-        "url": "https://x.com/testingcatalog/status/2096350628054176240",
-        "source": "X：Testing Catalog (@testingcatalog)",
         "source_name": "AI HOT"
       }
     },
@@ -513,15 +453,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6636,
-      "importance": 0.6636,
-      "importance_score": 0.6636,
+      "score": 0.6589,
+      "importance": 0.6589,
+      "importance_score": 0.6589,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9686,
+        "recency": 0.9428,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -536,6 +476,84 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-09-06",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_c552c9e7d810",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
+      "primary_url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "9156bccd37bbb6f4cc3c4cf4c5fa1013555cc5e1",
+          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+          "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-06T20:47:37Z"
+        },
+        {
+          "id": "2bec63158bcad43639c716bcc34f9a875b309235",
+          "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
+          "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-06T20:47:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "9156bccd37bbb6f4cc3c4cf4c5fa1013555cc5e1",
+          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+          "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-06T20:47:37Z"
+        },
+        {
+          "id": "2bec63158bcad43639c716bcc34f9a875b309235",
+          "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
+          "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-06T20:47:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6556,
+      "importance": 0.6556,
+      "importance_score": 0.6556,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5688,
+        "source_tier": 0.58,
+        "ai_relevance": 0.79,
+        "recency": 0.9687,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T20:47:37Z",
+      "latest_at": "2026-09-06T20:47:37Z",
+      "primary_item": {
+        "id": "9156bccd37bbb6f4cc3c4cf4c5fa1013555cc5e1",
+        "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+        "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -611,15 +629,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5708,
-      "importance": 0.5708,
-      "importance_score": 0.5708,
+      "score": 0.566,
+      "importance": 0.566,
+      "importance_score": 0.566,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9733,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -709,15 +727,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5585,
-      "importance": 0.5585,
-      "importance_score": 0.5585,
+      "score": 0.554,
+      "importance": 0.554,
+      "importance_score": 0.554,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9314,
+        "recency": 0.9066,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -788,15 +806,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5405,
+      "importance": 0.5405,
+      "importance_score": 0.5405,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9973,
+        "recency": 0.9707,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -867,15 +885,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.5378,
+      "importance": 0.5378,
+      "importance_score": 0.5378,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.982,
+        "recency": 0.9558,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -945,15 +963,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9536,
+        "recency": 0.9281,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -968,243 +986,6 @@
         "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_4aff7db928cd",
-      "title": "开放/技能 / openai / skills",
-      "url": "https://github.com/openai/skills",
-      "primary_url": "https://github.com/openai/skills",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "4e04c5e6eab294891ee4a6e2e96b1820e643b2b6",
-          "title": "开放/技能 / openai / skills",
-          "url": "https://github.com/openai/skills",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "9d44d96a47ea6070cdaf29b7b6da257b5f256161",
-          "title": "开放/技能 / openai /      skills",
-          "url": "https://github.com/openai/skills",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-06T16:30:55.958000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "4e04c5e6eab294891ee4a6e2e96b1820e643b2b6",
-          "title": "开放/技能 / openai / skills",
-          "url": "https://github.com/openai/skills",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "9d44d96a47ea6070cdaf29b7b6da257b5f256161",
-          "title": "开放/技能 / openai /      skills",
-          "url": "https://github.com/openai/skills",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-06T16:30:55.958000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5348,
-      "importance": 0.5348,
-      "importance_score": 0.5348,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9387,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T16:30:55.958000Z",
-      "latest_at": "2026-09-06T16:44:38.772094Z",
-      "primary_item": {
-        "id": "4e04c5e6eab294891ee4a6e2e96b1820e643b2b6",
-        "title": "开放/技能 / openai / skills",
-        "url": "https://github.com/openai/skills",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_38b7289f705e",
-      "title": "果蝇版黑客帝国来了：谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞",
-      "url": "https://www.36kr.com/p/3971642393686535",
-      "primary_url": "https://www.36kr.com/p/3971642393686535",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "715fcca80c272c064e8713c84bd8e356f4384384",
-          "title": "果蝇版黑客帝国来了：谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞",
-          "url": "https://www.36kr.com/p/3971642393686535",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1f93016347757797b3ef2e08bd1cf296d13e020e",
-          "title": "谷歌十年画出果蝇大脑，硕士生用 GPT-6 两天让果蝇在沙盒中起飞",
-          "url": "https://www.36kr.com/p/3971642393686535",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 · 24小时热榜",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "715fcca80c272c064e8713c84bd8e356f4384384",
-          "title": "果蝇版黑客帝国来了：谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞",
-          "url": "https://www.36kr.com/p/3971642393686535",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1f93016347757797b3ef2e08bd1cf296d13e020e",
-          "title": "谷歌十年画出果蝇大脑，硕士生用 GPT-6 两天让果蝇在沙盒中起飞",
-          "url": "https://www.36kr.com/p/3971642393686535",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5348,
-      "importance": 0.5348,
-      "importance_score": 0.5348,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9387,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T10:28:15.877687Z",
-      "latest_at": "2026-09-06T16:44:38.772094Z",
-      "primary_item": {
-        "id": "715fcca80c272c064e8713c84bd8e356f4384384",
-        "title": "果蝇版黑客帝国来了：谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞",
-        "url": "https://www.36kr.com/p/3971642393686535",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_0c2a0b5dc5ee",
-      "title": "利用代码审查推动可持续的AI编码开发",
-      "url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development",
-      "primary_url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development",
-      "source": "cacm.acm.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "a5da563db0db4e435dbebb5e29c8a5204ad3572d",
-          "title": "利用代码审查推动可持续的AI编码开发",
-          "url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development",
-          "source": "cacm.acm.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T16:43:06.097000Z"
-        },
-        {
-          "id": "3229d72075b36622f24128425c5a6723c068524e",
-          "title": "利用代码审查推动可持续的AI编码开发 / Leverage Code Review for Sustainable AI Coding Development",
-          "url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T16:41:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "cacm.acm.org"
-      ],
-      "items": [
-        {
-          "id": "a5da563db0db4e435dbebb5e29c8a5204ad3572d",
-          "title": "利用代码审查推动可持续的AI编码开发",
-          "url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development",
-          "source": "cacm.acm.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T16:43:06.097000Z"
-        },
-        {
-          "id": "3229d72075b36622f24128425c5a6723c068524e",
-          "title": "利用代码审查推动可持续的AI编码开发 / Leverage Code Review for Sustainable AI Coding Development",
-          "url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T16:41:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9384,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T16:41:01Z",
-      "latest_at": "2026-09-06T16:43:06.097000Z",
-      "primary_item": {
-        "id": "a5da563db0db4e435dbebb5e29c8a5204ad3572d",
-        "title": "利用代码审查推动可持续的AI编码开发",
-        "url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development",
-        "source": "cacm.acm.org",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1280,15 +1061,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5343,
-      "importance": 0.5343,
-      "importance_score": 0.5343,
+      "score": 0.5304,
+      "importance": 0.5304,
+      "importance_score": 0.5304,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.797,
+        "recency": 0.7758,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1303,6 +1084,243 @@
         "url": "https://news.ycombinator.com/item?id=49582582",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_4aff7db928cd",
+      "title": "开放/技能 / openai / skills",
+      "url": "https://github.com/openai/skills",
+      "primary_url": "https://github.com/openai/skills",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "4e04c5e6eab294891ee4a6e2e96b1820e643b2b6",
+          "title": "开放/技能 / openai / skills",
+          "url": "https://github.com/openai/skills",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "9d44d96a47ea6070cdaf29b7b6da257b5f256161",
+          "title": "开放/技能 / openai /      skills",
+          "url": "https://github.com/openai/skills",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T16:30:55.958000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "4e04c5e6eab294891ee4a6e2e96b1820e643b2b6",
+          "title": "开放/技能 / openai / skills",
+          "url": "https://github.com/openai/skills",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "9d44d96a47ea6070cdaf29b7b6da257b5f256161",
+          "title": "开放/技能 / openai /      skills",
+          "url": "https://github.com/openai/skills",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T16:30:55.958000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5303,
+      "importance": 0.5303,
+      "importance_score": 0.5303,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9137,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T16:30:55.958000Z",
+      "latest_at": "2026-09-06T16:44:38.772094Z",
+      "primary_item": {
+        "id": "4e04c5e6eab294891ee4a6e2e96b1820e643b2b6",
+        "title": "开放/技能 / openai / skills",
+        "url": "https://github.com/openai/skills",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_38b7289f705e",
+      "title": "果蝇版黑客帝国来了：谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞",
+      "url": "https://www.36kr.com/p/3971642393686535",
+      "primary_url": "https://www.36kr.com/p/3971642393686535",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "715fcca80c272c064e8713c84bd8e356f4384384",
+          "title": "果蝇版黑客帝国来了：谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞",
+          "url": "https://www.36kr.com/p/3971642393686535",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "1f93016347757797b3ef2e08bd1cf296d13e020e",
+          "title": "谷歌十年画出果蝇大脑，硕士生用 GPT-6 两天让果蝇在沙盒中起飞",
+          "url": "https://www.36kr.com/p/3971642393686535",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 · 24小时热榜",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "715fcca80c272c064e8713c84bd8e356f4384384",
+          "title": "果蝇版黑客帝国来了：谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞",
+          "url": "https://www.36kr.com/p/3971642393686535",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "1f93016347757797b3ef2e08bd1cf296d13e020e",
+          "title": "谷歌十年画出果蝇大脑，硕士生用 GPT-6 两天让果蝇在沙盒中起飞",
+          "url": "https://www.36kr.com/p/3971642393686535",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5303,
+      "importance": 0.5303,
+      "importance_score": 0.5303,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9137,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T10:28:15.877687Z",
+      "latest_at": "2026-09-06T16:44:38.772094Z",
+      "primary_item": {
+        "id": "715fcca80c272c064e8713c84bd8e356f4384384",
+        "title": "果蝇版黑客帝国来了：谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞",
+        "url": "https://www.36kr.com/p/3971642393686535",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_0c2a0b5dc5ee",
+      "title": "利用代码审查推动可持续的AI编码开发",
+      "url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development",
+      "primary_url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development",
+      "source": "cacm.acm.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a5da563db0db4e435dbebb5e29c8a5204ad3572d",
+          "title": "利用代码审查推动可持续的AI编码开发",
+          "url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development",
+          "source": "cacm.acm.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T16:43:06.097000Z"
+        },
+        {
+          "id": "3229d72075b36622f24128425c5a6723c068524e",
+          "title": "利用代码审查推动可持续的AI编码开发 / Leverage Code Review for Sustainable AI Coding Development",
+          "url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T16:41:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "cacm.acm.org"
+      ],
+      "items": [
+        {
+          "id": "a5da563db0db4e435dbebb5e29c8a5204ad3572d",
+          "title": "利用代码审查推动可持续的AI编码开发",
+          "url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development",
+          "source": "cacm.acm.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T16:43:06.097000Z"
+        },
+        {
+          "id": "3229d72075b36622f24128425c5a6723c068524e",
+          "title": "利用代码审查推动可持续的AI编码开发 / Leverage Code Review for Sustainable AI Coding Development",
+          "url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T16:41:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5302,
+      "importance": 0.5302,
+      "importance_score": 0.5302,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9134,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T16:41:01Z",
+      "latest_at": "2026-09-06T16:43:06.097000Z",
+      "primary_item": {
+        "id": "a5da563db0db4e435dbebb5e29c8a5204ad3572d",
+        "title": "利用代码审查推动可持续的AI编码开发",
+        "url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development",
+        "source": "cacm.acm.org",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1323,18 +1341,18 @@
           "published_at": "2026-09-06T15:26:17.429000Z"
         },
         {
-          "id": "278cc6afca0b99a712745da288303508181ee01f",
+          "id": "be8a04075f10c8afce894d3548d9bafd8fb4cf66",
           "title": "人工智能关机——保持人性 / A/I shuts down – Stay human",
           "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-06T14:34:34Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "keepitfree.ai"
       ],
       "items": [
@@ -1348,26 +1366,26 @@
           "published_at": "2026-09-06T15:26:17.429000Z"
         },
         {
-          "id": "278cc6afca0b99a712745da288303508181ee01f",
+          "id": "be8a04075f10c8afce894d3548d9bafd8fb4cf66",
           "title": "人工智能关机——保持人性 / A/I shuts down – Stay human",
           "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-06T14:34:34Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5316,
-      "importance": 0.5316,
-      "importance_score": 0.5316,
+      "score": 0.5272,
+      "importance": 0.5272,
+      "importance_score": 0.5272,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9212,
+        "recency": 0.8966,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1438,15 +1456,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5291,
-      "importance": 0.5291,
-      "importance_score": 0.5291,
+      "score": 0.5247,
+      "importance": 0.5247,
+      "importance_score": 0.5247,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9071,
+        "recency": 0.8829,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1517,15 +1535,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5277,
-      "importance": 0.5277,
-      "importance_score": 0.5277,
+      "score": 0.5234,
+      "importance": 0.5234,
+      "importance_score": 0.5234,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8993,
+        "recency": 0.8754,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1539,6 +1557,85 @@
         "title": "别再让员工偷偷用 ChatGPT 了：用一台内网网关，把大模型变成\"自来水\"",
         "url": "https://www.oschina.net/news/502302",
         "source": "开源中国 · 热门资讯",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_c7d885b8775d",
+      "title": "Anthropic 15 亿美元 AI 版权和解金开始发放，分配争议持续",
+      "url": "https://www.ithome.com/0/999/049.htm",
+      "primary_url": "https://www.ithome.com/0/999/049.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "3482c0118349cce072e850b8c1a162a310115434",
+          "title": "Anthropic 15 亿美元 AI 版权和解金开始发放，分配争议持续",
+          "url": "https://www.ithome.com/0/999/049.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "4d886298410d831a31b0f3a6fe9b75c01731474e",
+          "title": "Anthropic 15 亿美元 AI 版权和解金开始陆续发放，但出版社和作者分配补偿争议不断",
+          "url": "https://www.ithome.com/0/999/049.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T22:43:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3482c0118349cce072e850b8c1a162a310115434",
+          "title": "Anthropic 15 亿美元 AI 版权和解金开始发放，分配争议持续",
+          "url": "https://www.ithome.com/0/999/049.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "4d886298410d831a31b0f3a6fe9b75c01731474e",
+          "title": "Anthropic 15 亿美元 AI 版权和解金开始陆续发放，但出版社和作者分配补偿争议不断",
+          "url": "https://www.ithome.com/0/999/049.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T22:43:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T22:43:34Z",
+      "latest_at": "2026-09-06T22:59:36.971757Z",
+      "primary_item": {
+        "id": "3482c0118349cce072e850b8c1a162a310115434",
+        "title": "Anthropic 15 亿美元 AI 版权和解金开始发放，分配争议持续",
+        "url": "https://www.ithome.com/0/999/049.htm",
+        "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
@@ -1596,15 +1693,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5143,
-      "importance": 0.5143,
-      "importance_score": 0.5143,
+      "score": 0.5104,
+      "importance": 0.5104,
+      "importance_score": 0.5104,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8252,
+        "recency": 0.8032,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1618,85 +1715,6 @@
         "title": "陶哲轩谈仅凭纯人工智能方法过早解决[一个数学]问题",
         "url": "https://mathstodon.xyz/@tao/117207856734787448",
         "source": "mathstodon.xyz",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_f2769b9ac609",
-      "title": "人工智能代理总能找到钻空子的办法。以下是一些最离谱的例子。",
-      "url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
-      "primary_url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3eab50b1fb974c108b072876b8b676fd1ddd60cc",
-          "title": "人工智能代理总能找到钻空子的办法。以下是一些最离谱的例子。",
-          "url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T17:30:50.842000Z"
-        },
-        {
-          "id": "75d0ddc47e7e05a7db91b65c1ec7ce4908aed738",
-          "title": "人工智能代理总能找到钻空子的办法。以下是一些最离谱的例子。 / AI agents keep finding ways to bend the rules. Here are some of the wildest.",
-          "url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T17:05:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "3eab50b1fb974c108b072876b8b676fd1ddd60cc",
-          "title": "人工智能代理总能找到钻空子的办法。以下是一些最离谱的例子。",
-          "url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T17:30:50.842000Z"
-        },
-        {
-          "id": "75d0ddc47e7e05a7db91b65c1ec7ce4908aed738",
-          "title": "人工智能代理总能找到钻空子的办法。以下是一些最离谱的例子。 / AI agents keep finding ways to bend the rules. Here are some of the wildest.",
-          "url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T17:05:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5367,
-      "importance": 0.5367,
-      "importance_score": 0.5367,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9492,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T17:05:25Z",
-      "latest_at": "2026-09-06T17:30:50.842000Z",
-      "primary_item": {
-        "id": "3eab50b1fb974c108b072876b8b676fd1ddd60cc",
-        "title": "人工智能代理总能找到钻空子的办法。以下是一些最离谱的例子。",
-        "url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
