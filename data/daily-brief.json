@@ -1,287 +1,127 @@
 {
-  "generated_at": "2026-09-07T05:46:34.034290Z",
+  "generated_at": "2026-09-07T17:27:03.717611Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_a8e8f9dc895a",
-      "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind",
-      "primary_url": "https://openai.com/index/an-alien-mind",
+      "story_id": "story_e02ae19def6b",
+      "title": "Supporting independent journalism in Ukraine",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "primary_url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "07df97fa324316a3761be85953d935f46ac91560",
-          "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
-          "url": "https://openai.com/index/an-alien-mind",
+          "id": "6302cd534c94b9343d8c6428096c99f57e4984ac",
+          "title": "Supporting independent journalism in Ukraine",
+          "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-06T09:00:00Z"
-        },
-        {
-          "id": "f94f7b5e1736ec0dee7ec7e9760600d5018ad8f1",
-          "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T09:00:00Z"
-        },
-        {
-          "id": "11c74011454eeca9fdf1dda05e8f4996f0f8c862",
-          "title": "《外星人的思维》",
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T18:33:46.745000Z"
+          "published_at": "2026-09-07T00:00:00Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "07df97fa324316a3761be85953d935f46ac91560",
-          "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
-          "url": "https://openai.com/index/an-alien-mind",
+          "id": "6302cd534c94b9343d8c6428096c99f57e4984ac",
+          "title": "Supporting independent journalism in Ukraine",
+          "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-06T09:00:00Z"
-        },
-        {
-          "id": "f94f7b5e1736ec0dee7ec7e9760600d5018ad8f1",
-          "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T09:00:00Z"
-        },
-        {
-          "id": "11c74011454eeca9fdf1dda05e8f4996f0f8c862",
-          "title": "《外星人的思维》",
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T18:33:46.745000Z"
+          "published_at": "2026-09-07T00:00:00Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8553,
-      "importance": 0.8553,
-      "importance_score": 0.8553,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8119,
+      "importance": 0.8119,
+      "importance_score": 0.8119,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7408,
-        "story_heat": 0.5
+        "recency": 0.7772,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-06T09:00:00Z",
-      "latest_at": "2026-09-06T18:33:46.745000Z",
+      "earliest_at": "2026-09-07T00:00:00Z",
+      "latest_at": "2026-09-07T00:00:00Z",
       "primary_item": {
-        "id": "07df97fa324316a3761be85953d935f46ac91560",
-        "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
-        "url": "https://openai.com/index/an-alien-mind",
+        "id": "6302cd534c94b9343d8c6428096c99f57e4984ac",
+        "title": "Supporting independent journalism in Ukraine",
+        "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_19672c4832d4",
-      "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "primary_url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e711677302e79fe09b249f41566da77e02ec6e8d",
-          "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration: The view inside OpenAI",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-06T08:00:00Z"
-        },
-        {
-          "id": "f5a8de608c35a9e40fd19ca0e5310a1a10493dae",
-          "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T08:00:00Z"
-        },
-        {
-          "id": "b09e7b2e17b9cc5b075504ab9a74aef5f86d7f42",
-          "title": "研究加速：OpenAI内部视角",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T00:17:54.906000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "e711677302e79fe09b249f41566da77e02ec6e8d",
-          "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration: The view inside OpenAI",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-06T08:00:00Z"
-        },
-        {
-          "id": "f5a8de608c35a9e40fd19ca0e5310a1a10493dae",
-          "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T08:00:00Z"
-        },
-        {
-          "id": "b09e7b2e17b9cc5b075504ab9a74aef5f86d7f42",
-          "title": "研究加速：OpenAI内部视角",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T00:17:54.906000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8534,
-      "importance": 0.8534,
-      "importance_score": 0.8534,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7302,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-06T08:00:00Z",
-      "latest_at": "2026-09-07T00:17:54.906000Z",
-      "primary_item": {
-        "id": "e711677302e79fe09b249f41566da77e02ec6e8d",
-        "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration: The view inside OpenAI",
-        "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_21d43493cdd1",
-      "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容",
-      "url": "https://www.aibase.com/news/30863",
-      "primary_url": "https://www.aibase.com/news/30863",
+      "story_id": "story_e984e0578aa3",
+      "title": "李飞飞团队推出世界模型 Atlas，或成通往 AGI 的核心原语",
+      "url": "https://www.aibase.com/news/30883",
+      "primary_url": "https://www.aibase.com/news/30883",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5cdc5c20823f86dee9823f7e709e0d8cf36a6c97",
-          "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容",
-          "url": "https://www.aibase.com/news/30863",
+          "id": "075e270fa2368e00db90f91a931e9a32fb1b37d2",
+          "title": "李飞飞团队推出世界模型 Atlas，或成通往 AGI 的核心原语",
+          "url": "https://www.aibase.com/news/30883",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T05:46:34.034290Z"
-        },
-        {
-          "id": "219f6d38c256f339acd846b77eae1a38d7bedb6a",
-          "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 元跌至几百元，行业转向拼内容",
-          "url": "https://www.aibase.com/zh/news/30863",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-07T17:27:03.717611Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "5cdc5c20823f86dee9823f7e709e0d8cf36a6c97",
-          "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容",
-          "url": "https://www.aibase.com/news/30863",
+          "id": "075e270fa2368e00db90f91a931e9a32fb1b37d2",
+          "title": "李飞飞团队推出世界模型 Atlas，或成通往 AGI 的核心原语",
+          "url": "https://www.aibase.com/news/30883",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T05:46:34.034290Z"
-        },
-        {
-          "id": "219f6d38c256f339acd846b77eae1a38d7bedb6a",
-          "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 元跌至几百元，行业转向拼内容",
-          "url": "https://www.aibase.com/zh/news/30863",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-07T17:27:03.717611Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-07T05:46:34.034290Z",
-      "latest_at": "2026-09-07T05:46:34.034290Z",
+      "earliest_at": "2026-09-07T17:27:03.717611Z",
+      "latest_at": "2026-09-07T17:27:03.717611Z",
       "primary_item": {
-        "id": "5cdc5c20823f86dee9823f7e709e0d8cf36a6c97",
-        "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容",
-        "url": "https://www.aibase.com/news/30863",
+        "id": "075e270fa2368e00db90f91a931e9a32fb1b37d2",
+        "title": "李飞飞团队推出世界模型 Atlas，或成通往 AGI 的核心原语",
+        "url": "https://www.aibase.com/news/30883",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -321,21 +161,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7673,
-      "importance": 0.7673,
-      "importance_score": 0.7673,
+      "score": 0.7436,
+      "importance": 0.7436,
+      "importance_score": 0.7436,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8483,
+        "recency": 0.7167,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-06T18:23:14Z",
       "latest_at": "2026-09-06T18:23:14Z",
@@ -348,82 +187,62 @@
       }
     },
     {
-      "story_id": "story_e6f1caa1692b",
-      "title": "Anthropic 15 亿美元版权和解金开始发放，作者与出版社分配争议不断",
-      "url": "https://www.aibase.com/news/30858",
-      "primary_url": "https://www.aibase.com/news/30858",
+      "story_id": "story_052fd9878162",
+      "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
+      "url": "https://www.aibase.com/news/30882",
+      "primary_url": "https://www.aibase.com/news/30882",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "acdc9b7d83ecd60e8bfd58d1cf85cd8e11041cb7",
-          "title": "Anthropic 15 亿美元版权和解金开始发放，作者与出版社分配争议不断",
-          "url": "https://www.aibase.com/news/30858",
+          "id": "a010f69c76ecf055f1f978bd518750a01712274a",
+          "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
+          "url": "https://www.aibase.com/news/30882",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T05:46:34.034290Z"
-        },
-        {
-          "id": "96b3caaefdefc54f563449cda3d5aa254dc90ced",
-          "title": "Anthropic 15 亿美元版权和解金开始发放，作者与出版社分配争议不断",
-          "url": "https://www.aibase.com/zh/news/30858",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-07T17:27:03.717611Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "acdc9b7d83ecd60e8bfd58d1cf85cd8e11041cb7",
-          "title": "Anthropic 15 亿美元版权和解金开始发放，作者与出版社分配争议不断",
-          "url": "https://www.aibase.com/news/30858",
+          "id": "a010f69c76ecf055f1f978bd518750a01712274a",
+          "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
+          "url": "https://www.aibase.com/news/30882",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T05:46:34.034290Z"
-        },
-        {
-          "id": "96b3caaefdefc54f563449cda3d5aa254dc90ced",
-          "title": "Anthropic 15 亿美元版权和解金开始发放，作者与出版社分配争议不断",
-          "url": "https://www.aibase.com/zh/news/30858",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-07T17:27:03.717611Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-07T05:46:34.034290Z",
-      "latest_at": "2026-09-07T05:46:34.034290Z",
+      "earliest_at": "2026-09-07T17:27:03.717611Z",
+      "latest_at": "2026-09-07T17:27:03.717611Z",
       "primary_item": {
-        "id": "acdc9b7d83ecd60e8bfd58d1cf85cd8e11041cb7",
-        "title": "Anthropic 15 亿美元版权和解金开始发放，作者与出版社分配争议不断",
-        "url": "https://www.aibase.com/news/30858",
+        "id": "a010f69c76ecf055f1f978bd518750a01712274a",
+        "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
+        "url": "https://www.aibase.com/news/30882",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -463,21 +282,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7616,
-      "importance": 0.7616,
-      "importance_score": 0.7616,
+      "score": 0.7346,
+      "importance": 0.7346,
+      "importance_score": 0.7346,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9669,
+        "recency": 0.8169,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-07T03:26:50Z",
       "latest_at": "2026-09-07T03:26:50Z",
@@ -487,87 +305,6 @@
         "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
         "source": "Daily Digest",
         "source_name": "AI HubToday"
-      }
-    },
-    {
-      "story_id": "story_ec06a66103fb",
-      "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-      "url": "https://www.ithome.com/0/998/927.htm",
-      "primary_url": "https://www.ithome.com/0/998/927.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
-          "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-          "url": "https://www.ithome.com/0/998/927.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T06:46:16Z"
-        },
-        {
-          "id": "78ccc313f78c15d5f9130b5e1513e0673e4eaf7c",
-          "title": "OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩一度大幅变化",
-          "url": "https://www.ithome.com/0/998/927.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T06:46:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
-          "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-          "url": "https://www.ithome.com/0/998/927.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T06:46:16Z"
-        },
-        {
-          "id": "78ccc313f78c15d5f9130b5e1513e0673e4eaf7c",
-          "title": "OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩一度大幅变化",
-          "url": "https://www.ithome.com/0/998/927.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T06:46:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7567,
-      "importance": 0.7567,
-      "importance_score": 0.7567,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7173,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-06T06:46:16Z",
-      "latest_at": "2026-09-06T06:46:16Z",
-      "primary_item": {
-        "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
-        "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-        "url": "https://www.ithome.com/0/998/927.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -605,21 +342,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7505,
-      "importance": 0.7505,
-      "importance_score": 0.7505,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9217,
+        "recency": 0.7787,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-07T00:08:00Z",
       "latest_at": "2026-09-07T00:08:00Z",
@@ -632,257 +368,145 @@
       }
     },
     {
-      "story_id": "story_a8f23d61db73",
-      "title": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
-      "url": "https://www.aibase.com/news/30861",
-      "primary_url": "https://www.aibase.com/news/30861",
+      "story_id": "story_92eddaa379a0",
+      "title": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
+      "url": "https://www.aibase.com/news/30881",
+      "primary_url": "https://www.aibase.com/news/30881",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ad4904e56c60902647d39aa587dbfbad9136973e",
-          "title": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
-          "url": "https://www.aibase.com/news/30861",
+          "id": "3c40c29706fb30323afddb56caa52e9582732a54",
+          "title": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
+          "url": "https://www.aibase.com/news/30881",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T05:46:34.034290Z"
-        },
-        {
-          "id": "e896806147c7e9210a8502971ab7396d7c2a4e94",
-          "title": "努比亚 NaviX Ultra 定档 9 月 16 日发布，搭载豆包手机助手",
-          "url": "https://www.aibase.com/zh/news/30861",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-07T17:25:03.717611Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "ad4904e56c60902647d39aa587dbfbad9136973e",
-          "title": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
-          "url": "https://www.aibase.com/news/30861",
+          "id": "3c40c29706fb30323afddb56caa52e9582732a54",
+          "title": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
+          "url": "https://www.aibase.com/news/30881",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T05:46:34.034290Z"
-        },
-        {
-          "id": "e896806147c7e9210a8502971ab7396d7c2a4e94",
-          "title": "努比亚 NaviX Ultra 定档 9 月 16 日发布，搭载豆包手机助手",
-          "url": "https://www.aibase.com/zh/news/30861",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-07T17:25:03.717611Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "recency": 0.9995,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-07T05:46:34.034290Z",
-      "latest_at": "2026-09-07T05:46:34.034290Z",
+      "earliest_at": "2026-09-07T17:25:03.717611Z",
+      "latest_at": "2026-09-07T17:25:03.717611Z",
       "primary_item": {
-        "id": "ad4904e56c60902647d39aa587dbfbad9136973e",
-        "title": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
-        "url": "https://www.aibase.com/news/30861",
+        "id": "3c40c29706fb30323afddb56caa52e9582732a54",
+        "title": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
+        "url": "https://www.aibase.com/news/30881",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_e7fc2c23cd20",
-      "title": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
-      "url": "https://www.aibase.com/news/30864",
-      "primary_url": "https://www.aibase.com/news/30864",
+      "story_id": "story_872b6b4bd10d",
+      "title": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
+      "url": "https://www.aibase.com/news/30880",
+      "primary_url": "https://www.aibase.com/news/30880",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "476df4c2f4de29dc392a9f9b62a380cd73548322",
-          "title": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
-          "url": "https://www.aibase.com/news/30864",
+          "id": "61ff407de8bb0648f7e1868fafb80761e0e1fc06",
+          "title": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
+          "url": "https://www.aibase.com/news/30880",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T05:46:34.034290Z"
-        },
-        {
-          "id": "7e5b2fcce2ce53792145dee33071d4457944619a",
-          "title": "千亿算力大战背后：OpenAI Astra 暴烧百亿美元，国产大模型与美企差距在哪",
-          "url": "https://www.aibase.com/zh/news/30864",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-07T16:27:03.717611Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "476df4c2f4de29dc392a9f9b62a380cd73548322",
-          "title": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
-          "url": "https://www.aibase.com/news/30864",
+          "id": "61ff407de8bb0648f7e1868fafb80761e0e1fc06",
+          "title": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
+          "url": "https://www.aibase.com/news/30880",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T05:46:34.034290Z"
-        },
-        {
-          "id": "7e5b2fcce2ce53792145dee33071d4457944619a",
-          "title": "千亿算力大战背后：OpenAI Astra 暴烧百亿美元，国产大模型与美企差距在哪",
-          "url": "https://www.aibase.com/zh/news/30864",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-07T16:27:03.717611Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "recency": 0.9857,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-07T05:46:34.034290Z",
-      "latest_at": "2026-09-07T05:46:34.034290Z",
+      "earliest_at": "2026-09-07T16:27:03.717611Z",
+      "latest_at": "2026-09-07T16:27:03.717611Z",
       "primary_item": {
-        "id": "476df4c2f4de29dc392a9f9b62a380cd73548322",
-        "title": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
-        "url": "https://www.aibase.com/news/30864",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_02b2f9c3fb90",
-      "title": "告别全屏交互，谷歌Gemini升级悬浮气泡推动AI助手轻量化演进",
-      "url": "https://www.aibase.com/news/30857",
-      "primary_url": "https://www.aibase.com/news/30857",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "606f256c98c054194ea97ac39e1a4ec8f820c2b3",
-          "title": "告别全屏交互，谷歌Gemini升级悬浮气泡推动AI助手轻量化演进",
-          "url": "https://www.aibase.com/news/30857",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T05:46:34.034290Z"
-        },
-        {
-          "id": "e8e86b947fe8c8ac03fa5fb1bc835ec0f87434f2",
-          "title": "告别全屏交互，谷歌 Gemini 升级悬浮气泡推动 AI 助手轻量化演进",
-          "url": "https://www.aibase.com/zh/news/30857",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "606f256c98c054194ea97ac39e1a4ec8f820c2b3",
-          "title": "告别全屏交互，谷歌Gemini升级悬浮气泡推动AI助手轻量化演进",
-          "url": "https://www.aibase.com/news/30857",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T05:46:34.034290Z"
-        },
-        {
-          "id": "e8e86b947fe8c8ac03fa5fb1bc835ec0f87434f2",
-          "title": "告别全屏交互，谷歌 Gemini 升级悬浮气泡推动 AI 助手轻量化演进",
-          "url": "https://www.aibase.com/zh/news/30857",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-07T05:46:34.034290Z",
-      "latest_at": "2026-09-07T05:46:34.034290Z",
-      "primary_item": {
-        "id": "606f256c98c054194ea97ac39e1a4ec8f820c2b3",
-        "title": "告别全屏交互，谷歌Gemini升级悬浮气泡推动AI助手轻量化演进",
-        "url": "https://www.aibase.com/news/30857",
+        "id": "61ff407de8bb0648f7e1868fafb80761e0e1fc06",
+        "title": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
+        "url": "https://www.aibase.com/news/30880",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "卡尔用 GPT-6 Astra 连续实测了外设快捷键配置、罗技鼠标工作流、Blender建模与运动镜头、3D 游戏、真人口播剪辑、PPT二次美化多个实战案例。快来看看效果如何！",
+      "title": "最近GPT-6 Astra + 3D的玩法疯狂刷屏。如果你还不太清楚怎么玩儿，作者这篇文章可以带你入门GPT-6 Astra：怎么交代要求，怎么给材料，怎么看截图，答案不对时怎么改，最后拿到什么结果才算做完。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-09-06",
+      "source": "社区更新 · 2026-09-07",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "af8905b972ce6a5dcfe90ba9bd77bc452102d7eb",
+          "title": "最近GPT-6 Astra + 3D的玩法疯狂刷屏。如果你还不太清楚怎么玩儿，作者这篇文章可以带你入门GPT-6 Astra：怎么交代要求，怎么给材料，怎么看截图，答案不对时怎么改，最后拿到什么结果才算做完。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-07T17:27:03.717611Z"
+        },
+        {
           "id": "df13d1932d93ad12aba35de7799680da25269a3f",
           "title": "卡尔用 GPT-6 Astra 连续实测了外设快捷键配置、罗技鼠标工作流、Blender建模与运动镜头、3D 游戏、真人口播剪辑、PPT二次美化多个实战案例。快来看看效果如何！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -937,12 +561,22 @@
           "published_at": "2026-09-06T18:54:54.473257Z"
         }
       ],
-      "source_count": 6,
+      "source_count": 7,
       "source_names": [
-        "社区更新 · 2026-09-06"
+        "社区更新 · 2026-09-06",
+        "社区更新 · 2026-09-07"
       ],
       "items": [
         {
+          "id": "af8905b972ce6a5dcfe90ba9bd77bc452102d7eb",
+          "title": "最近GPT-6 Astra + 3D的玩法疯狂刷屏。如果你还不太清楚怎么玩儿，作者这篇文章可以带你入门GPT-6 Astra：怎么交代要求，怎么给材料，怎么看截图，答案不对时怎么改，最后拿到什么结果才算做完。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-07T17:27:03.717611Z"
+        },
+        {
           "id": "df13d1932d93ad12aba35de7799680da25269a3f",
           "title": "卡尔用 GPT-6 Astra 连续实测了外设快捷键配置、罗技鼠标工作流、Blender建模与运动镜头、3D 游戏、真人口播剪辑、PPT二次美化多个实战案例。快来看看效果如何！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -997,17 +631,17 @@
           "published_at": "2026-09-06T18:54:54.473257Z"
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6431,
-      "importance": 0.6431,
-      "importance_score": 0.6431,
+      "item_count": 7,
+      "duplicate_count": 7,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8548,
+        "recency": 1.0,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1015,92 +649,133 @@
         "multi_source"
       ],
       "earliest_at": "2026-09-06T18:54:54.473257Z",
-      "latest_at": "2026-09-06T18:54:54.473257Z",
+      "latest_at": "2026-09-07T17:27:03.717611Z",
       "primary_item": {
-        "id": "df13d1932d93ad12aba35de7799680da25269a3f",
-        "title": "卡尔用 GPT-6 Astra 连续实测了外设快捷键配置、罗技鼠标工作流、Blender建模与运动镜头、3D 游戏、真人口播剪辑、PPT二次美化多个实战案例。快来看看效果如何！",
+        "id": "af8905b972ce6a5dcfe90ba9bd77bc452102d7eb",
+        "title": "最近GPT-6 Astra + 3D的玩法疯狂刷屏。如果你还不太清楚怎么玩儿，作者这篇文章可以带你入门GPT-6 Astra：怎么交代要求，怎么给材料，怎么看截图，答案不对时怎么改，最后拿到什么结果才算做完。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-09-06",
+        "source": "社区更新 · 2026-09-07",
         "source_name": "WaytoAGI"
       }
     },
     {
-      "story_id": "story_a21ca5497d73",
-      "title": "微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级",
-      "url": "https://www.aibase.com/news/30866",
-      "primary_url": "https://www.aibase.com/news/30866",
+      "story_id": "story_1900e6dc564d",
+      "title": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
+      "url": "https://www.aibase.com/news/30879",
+      "primary_url": "https://www.aibase.com/news/30879",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e0ff566020e35871055507058e039095e3752046",
-          "title": "微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级",
-          "url": "https://www.aibase.com/news/30866",
+          "id": "4628b72a0217fd85d4017d14fab02075d8e98869",
+          "title": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
+          "url": "https://www.aibase.com/news/30879",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T05:46:34.034290Z"
-        },
-        {
-          "id": "ec51d35b9035e63c894698b97ebc9b2fecdfca1b",
-          "title": "微信视觉团队开源通用多模态嵌入模型 WeMM-Embedding，日调用量突破十亿量级",
-          "url": "https://www.aibase.com/zh/news/30866",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-07T16:27:03.717611Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "e0ff566020e35871055507058e039095e3752046",
-          "title": "微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级",
-          "url": "https://www.aibase.com/news/30866",
+          "id": "4628b72a0217fd85d4017d14fab02075d8e98869",
+          "title": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
+          "url": "https://www.aibase.com/news/30879",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T05:46:34.034290Z"
-        },
-        {
-          "id": "ec51d35b9035e63c894698b97ebc9b2fecdfca1b",
-          "title": "微信视觉团队开源通用多模态嵌入模型 WeMM-Embedding，日调用量突破十亿量级",
-          "url": "https://www.aibase.com/zh/news/30866",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-07T16:27:03.717611Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "recency": 0.9857,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-07T05:46:34.034290Z",
-      "latest_at": "2026-09-07T05:46:34.034290Z",
+      "earliest_at": "2026-09-07T16:27:03.717611Z",
+      "latest_at": "2026-09-07T16:27:03.717611Z",
       "primary_item": {
-        "id": "e0ff566020e35871055507058e039095e3752046",
-        "title": "微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级",
-        "url": "https://www.aibase.com/news/30866",
+        "id": "4628b72a0217fd85d4017d14fab02075d8e98869",
+        "title": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
+        "url": "https://www.aibase.com/news/30879",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_bdd5aa421d3d",
+      "title": "快看漫画AI产品Livo开启内测 构建多角色自运转“仿生世界”",
+      "url": "https://www.aibase.com/news/30877",
+      "primary_url": "https://www.aibase.com/news/30877",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7ab8965512c5797f4cf40cce893bd7f8339cf197",
+          "title": "快看漫画AI产品Livo开启内测 构建多角色自运转“仿生世界”",
+          "url": "https://www.aibase.com/news/30877",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T16:27:03.717611Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7ab8965512c5797f4cf40cce893bd7f8339cf197",
+          "title": "快看漫画AI产品Livo开启内测 构建多角色自运转“仿生世界”",
+          "url": "https://www.aibase.com/news/30877",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T16:27:03.717611Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9857,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-07T16:27:03.717611Z",
+      "latest_at": "2026-09-07T16:27:03.717611Z",
+      "primary_item": {
+        "id": "7ab8965512c5797f4cf40cce893bd7f8339cf197",
+        "title": "快看漫画AI产品Livo开启内测 构建多角色自运转“仿生世界”",
+        "url": "https://www.aibase.com/news/30877",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1158,15 +833,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6393,
-      "importance": 0.6393,
-      "importance_score": 0.6393,
+      "score": 0.6148,
+      "importance": 0.6148,
+      "importance_score": 0.6148,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.8783,
+        "recency": 0.7421,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1184,26 +859,26 @@
       }
     },
     {
-      "story_id": "story_60e85370b99d",
-      "title": "微软发布 MAI-Image-2.6-Flash:图像生成速度提升2.8倍，成本降低逾50%",
-      "url": "https://www.aibase.com/news/30853",
-      "primary_url": "https://www.aibase.com/news/30853",
+      "story_id": "story_21d43493cdd1",
+      "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容",
+      "url": "https://www.aibase.com/news/30863",
+      "primary_url": "https://www.aibase.com/news/30863",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "54c0098ec076fae6dd785ba33b8ee6215398952e",
-          "title": "微软发布 MAI-Image-2.6-Flash:图像生成速度提升2.8倍，成本降低逾50%",
-          "url": "https://www.aibase.com/news/30853",
+          "id": "5cdc5c20823f86dee9823f7e709e0d8cf36a6c97",
+          "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容",
+          "url": "https://www.aibase.com/news/30863",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-07T05:46:34.034290Z"
         },
         {
-          "id": "ee739cdf42096205f19867e5528999535f5c1b76",
-          "title": "微软发布 MAI-Image-2.6-Flash：图像生成速度提升 2.8 倍，成本降低逾 50%",
-          "url": "https://www.aibase.com/zh/news/30853",
+          "id": "219f6d38c256f339acd846b77eae1a38d7bedb6a",
+          "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 元跌至几百元，行业转向拼内容",
+          "url": "https://www.aibase.com/zh/news/30863",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1217,18 +892,18 @@
       ],
       "items": [
         {
-          "id": "54c0098ec076fae6dd785ba33b8ee6215398952e",
-          "title": "微软发布 MAI-Image-2.6-Flash:图像生成速度提升2.8倍，成本降低逾50%",
-          "url": "https://www.aibase.com/news/30853",
+          "id": "5cdc5c20823f86dee9823f7e709e0d8cf36a6c97",
+          "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容",
+          "url": "https://www.aibase.com/news/30863",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-07T05:46:34.034290Z"
         },
         {
-          "id": "ee739cdf42096205f19867e5528999535f5c1b76",
-          "title": "微软发布 MAI-Image-2.6-Flash：图像生成速度提升 2.8 倍，成本降低逾 50%",
-          "url": "https://www.aibase.com/zh/news/30853",
+          "id": "219f6d38c256f339acd846b77eae1a38d7bedb6a",
+          "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 元跌至几百元，行业转向拼内容",
+          "url": "https://www.aibase.com/zh/news/30863",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1237,15 +912,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8449,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1257,9 +932,9 @@
       "earliest_at": "2026-09-07T05:46:34.034290Z",
       "latest_at": "2026-09-07T05:46:34.034290Z",
       "primary_item": {
-        "id": "54c0098ec076fae6dd785ba33b8ee6215398952e",
-        "title": "微软发布 MAI-Image-2.6-Flash:图像生成速度提升2.8倍，成本降低逾50%",
-        "url": "https://www.aibase.com/news/30853",
+        "id": "5cdc5c20823f86dee9823f7e709e0d8cf36a6c97",
+        "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容",
+        "url": "https://www.aibase.com/news/30863",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1318,15 +993,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5959,
-      "importance": 0.5959,
-      "importance_score": 0.5959,
+      "score": 0.5702,
+      "importance": 0.5702,
+      "importance_score": 0.5702,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9195,
+        "recency": 0.7768,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1344,241 +1019,402 @@
       }
     },
     {
-      "story_id": "story_52c6d6fd1bbb",
-      "title": "AI 食物图攻占餐厅菜单：肉像皮带、面包像爬行动物皮，食客直呼倒胃口",
-      "url": "https://www.aibase.com/news/30859",
-      "primary_url": "https://www.aibase.com/news/30859",
+      "story_id": "story_e6f1caa1692b",
+      "title": "Anthropic 15 亿美元版权和解金开始发放，作者与出版社分配争议不断",
+      "url": "https://www.aibase.com/news/30858",
+      "primary_url": "https://www.aibase.com/news/30858",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "970241c1c6ec9c77457258fc6f654bf5617f5bf5",
-          "title": "AI 食物图攻占餐厅菜单：肉像皮带、面包像爬行动物皮，食客直呼倒胃口",
-          "url": "https://www.aibase.com/news/30859",
+          "id": "acdc9b7d83ecd60e8bfd58d1cf85cd8e11041cb7",
+          "title": "Anthropic 15 亿美元版权和解金开始发放，作者与出版社分配争议不断",
+          "url": "https://www.aibase.com/news/30858",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-07T05:46:34.034290Z"
+        },
+        {
+          "id": "96b3caaefdefc54f563449cda3d5aa254dc90ced",
+          "title": "Anthropic 15 亿美元版权和解金开始发放，作者与出版社分配争议不断",
+          "url": "https://www.aibase.com/zh/news/30858",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "970241c1c6ec9c77457258fc6f654bf5617f5bf5",
-          "title": "AI 食物图攻占餐厅菜单：肉像皮带、面包像爬行动物皮，食客直呼倒胃口",
-          "url": "https://www.aibase.com/news/30859",
+          "id": "acdc9b7d83ecd60e8bfd58d1cf85cd8e11041cb7",
+          "title": "Anthropic 15 亿美元版权和解金开始发放，作者与出版社分配争议不断",
+          "url": "https://www.aibase.com/news/30858",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-07T05:46:34.034290Z"
+        },
+        {
+          "id": "96b3caaefdefc54f563449cda3d5aa254dc90ced",
+          "title": "Anthropic 15 亿美元版权和解金开始发放，作者与出版社分配争议不断",
+          "url": "https://www.aibase.com/zh/news/30858",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.8449,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-09-07T05:46:34.034290Z",
       "latest_at": "2026-09-07T05:46:34.034290Z",
       "primary_item": {
-        "id": "970241c1c6ec9c77457258fc6f654bf5617f5bf5",
-        "title": "AI 食物图攻占餐厅菜单：肉像皮带、面包像爬行动物皮，食客直呼倒胃口",
-        "url": "https://www.aibase.com/news/30859",
+        "id": "acdc9b7d83ecd60e8bfd58d1cf85cd8e11041cb7",
+        "title": "Anthropic 15 亿美元版权和解金开始发放，作者与出版社分配争议不断",
+        "url": "https://www.aibase.com/news/30858",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_fd3208099b40",
-      "title": "How we monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "primary_url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "413c9317217041fa663f33a43e44569aa925f114",
-          "title": "How we monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
-          "title": "OpenAI: We monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T16:37:55Z"
-        },
-        {
-          "id": "0a941a1961d8acb99621a69a466de79a90802697",
-          "title": "We monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T16:37:55Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "413c9317217041fa663f33a43e44569aa925f114",
-          "title": "How we monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
-          "title": "OpenAI: We monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T16:37:55Z"
-        },
-        {
-          "id": "0a941a1961d8acb99621a69a466de79a90802697",
-          "title": "We monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T16:37:55Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5497,
-      "importance": 0.5497,
-      "importance_score": 0.5497,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8825,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T16:37:55Z",
-      "latest_at": "2026-09-06T21:07:20.639984Z",
-      "primary_item": {
-        "id": "413c9317217041fa663f33a43e44569aa925f114",
-        "title": "How we monitor internal coding agents for misalignment",
-        "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_8bb7f24fe47b",
-      "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-      "url": "https://news.ycombinator.com/item?id=49592366",
-      "primary_url": "https://news.ycombinator.com/item?id=49592366",
+      "story_id": "story_3e2a3cc93cad",
+      "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制 / Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+      "url": "https://news.ycombinator.com/item?id=49600233",
+      "primary_url": "https://news.ycombinator.com/item?id=49600233",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
-          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "url": "https://news.ycombinator.com/item?id=49592366",
+          "id": "0b672d8f831c07be6a9d87b6f492d1fdf8a2335b",
+          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制 / Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+          "url": "https://news.ycombinator.com/item?id=49600233",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-07T05:30:49.784000Z"
+          "published_at": "2026-09-07T17:13:56.279000Z"
         },
         {
-          "id": "c22177f87262abed8a9ed95e89aab8b83d840fbe",
-          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "url": "https://github.com/Staatsgeheim/MathKernel",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T00:21:01Z"
+          "id": "cb9c787070b7baa0c02b7b923d1b553f350b9b9a",
+          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
+          "url": "https://news.ycombinator.com/item?id=49600233",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T16:52:53.640000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "hackernews"
+        "hackernews",
+        "news.ycombinator.com"
       ],
       "items": [
         {
-          "id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
-          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "url": "https://news.ycombinator.com/item?id=49592366",
+          "id": "0b672d8f831c07be6a9d87b6f492d1fdf8a2335b",
+          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制 / Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+          "url": "https://news.ycombinator.com/item?id=49600233",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-07T05:30:49.784000Z"
+          "published_at": "2026-09-07T17:13:56.279000Z"
         },
         {
-          "id": "c22177f87262abed8a9ed95e89aab8b83d840fbe",
-          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "url": "https://github.com/Staatsgeheim/MathKernel",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T00:21:01Z"
+          "id": "cb9c787070b7baa0c02b7b923d1b553f350b9b9a",
+          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
+          "url": "https://news.ycombinator.com/item?id=49600233",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T16:52:53.640000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5452,
+      "importance": 0.5452,
+      "importance_score": 0.5452,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9962,
+        "recency": 0.9968,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-07T00:21:01Z",
-      "latest_at": "2026-09-07T05:30:49.784000Z",
+      "earliest_at": "2026-09-07T16:52:53.640000Z",
+      "latest_at": "2026-09-07T17:13:56.279000Z",
       "primary_item": {
-        "id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
-        "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-        "url": "https://news.ycombinator.com/item?id=49592366",
+        "id": "0b672d8f831c07be6a9d87b6f492d1fdf8a2335b",
+        "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制 / Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+        "url": "https://news.ycombinator.com/item?id=49600233",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_56e608b540ff",
+      "title": "OpenAI 是否正在悄悄地将 GPT‑6 的请求重定向到 GPT‑4o？",
+      "url": "https://news.ycombinator.com/item?id=49598441",
+      "primary_url": "https://news.ycombinator.com/item?id=49598441",
+      "source": "news.ycombinator.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "edc0eadfe478e4799081115df691094d17673972",
+          "title": "OpenAI 是否正在悄悄地将 GPT‑6 的请求重定向到 GPT‑4o？",
+          "url": "https://news.ycombinator.com/item?id=49598441",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T13:59:27.293000Z"
+        },
+        {
+          "id": "e68a33ed00c5a8f4b63f8d442b67054b806fd3f5",
+          "title": "OpenAI 是否正在悄悄地将 GPT‑6 的请求重定向到 GPT‑4o？ / Is OpenAI silently routing GPT‑6 requests to GPT‑4o?",
+          "url": "https://news.ycombinator.com/item?id=49598441",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-09-07T13:49:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "news.ycombinator.com"
+      ],
+      "items": [
+        {
+          "id": "edc0eadfe478e4799081115df691094d17673972",
+          "title": "OpenAI 是否正在悄悄地将 GPT‑6 的请求重定向到 GPT‑4o？",
+          "url": "https://news.ycombinator.com/item?id=49598441",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T13:59:27.293000Z"
+        },
+        {
+          "id": "e68a33ed00c5a8f4b63f8d442b67054b806fd3f5",
+          "title": "OpenAI 是否正在悄悄地将 GPT‑6 的请求重定向到 GPT‑4o？ / Is OpenAI silently routing GPT‑6 requests to GPT‑4o?",
+          "url": "https://news.ycombinator.com/item?id=49598441",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-09-07T13:49:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.537,
+      "importance": 0.537,
+      "importance_score": 0.537,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9513,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T13:49:22Z",
+      "latest_at": "2026-09-07T13:59:27.293000Z",
+      "primary_item": {
+        "id": "edc0eadfe478e4799081115df691094d17673972",
+        "title": "OpenAI 是否正在悄悄地将 GPT‑6 的请求重定向到 GPT‑4o？",
+        "url": "https://news.ycombinator.com/item?id=49598441",
+        "source": "news.ycombinator.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d8552f3c7c0d",
+      "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵",
+      "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+      "primary_url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c8405f58b3b6999e0a5f06a7ed7e9b888bba387c",
+          "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵",
+          "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T13:59:38.134000Z"
+        },
+        {
+          "id": "10c04c69ec59b2037efdc757e6baff48366c1478",
+          "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵 / Ukrainian and US teams are building AI tools for wounded troops with no medic nearby",
+          "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T13:30:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "c8405f58b3b6999e0a5f06a7ed7e9b888bba387c",
+          "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵",
+          "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T13:59:38.134000Z"
+        },
+        {
+          "id": "10c04c69ec59b2037efdc757e6baff48366c1478",
+          "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵 / Ukrainian and US teams are building AI tools for wounded troops with no medic nearby",
+          "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T13:30:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.537,
+      "importance": 0.537,
+      "importance_score": 0.537,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9513,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T13:30:01Z",
+      "latest_at": "2026-09-07T13:59:38.134000Z",
+      "primary_item": {
+        "id": "c8405f58b3b6999e0a5f06a7ed7e9b888bba387c",
+        "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵",
+        "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a8f23d61db73",
+      "title": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
+      "url": "https://www.aibase.com/news/30861",
+      "primary_url": "https://www.aibase.com/news/30861",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ad4904e56c60902647d39aa587dbfbad9136973e",
+          "title": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
+          "url": "https://www.aibase.com/news/30861",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T05:46:34.034290Z"
+        },
+        {
+          "id": "e896806147c7e9210a8502971ab7396d7c2a4e94",
+          "title": "努比亚 NaviX Ultra 定档 9 月 16 日发布，搭载豆包手机助手",
+          "url": "https://www.aibase.com/zh/news/30861",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ad4904e56c60902647d39aa587dbfbad9136973e",
+          "title": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
+          "url": "https://www.aibase.com/news/30861",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T05:46:34.034290Z"
+        },
+        {
+          "id": "e896806147c7e9210a8502971ab7396d7c2a4e94",
+          "title": "努比亚 NaviX Ultra 定档 9 月 16 日发布，搭载豆包手机助手",
+          "url": "https://www.aibase.com/zh/news/30861",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8449,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-07T05:46:34.034290Z",
+      "latest_at": "2026-09-07T05:46:34.034290Z",
+      "primary_item": {
+        "id": "ad4904e56c60902647d39aa587dbfbad9136973e",
+        "title": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
+        "url": "https://www.aibase.com/news/30861",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1635,15 +1471,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
+      "score": 0.517,
+      "importance": 0.517,
+      "importance_score": 0.517,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9945,
+        "recency": 0.8402,
         "story_heat": 0.25
       },
       "category": "watch",
