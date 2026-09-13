@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T16:52:16.645640Z",
+  "generated_at": "2026-09-13T19:12:56.603091Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8249,
-      "importance": 0.8249,
-      "importance_score": 0.8249,
+      "score": 0.8192,
+      "importance": 0.8192,
+      "importance_score": 0.8192,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.963,
+        "recency": 0.931,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -181,15 +181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8539,
+        "recency": 0.8255,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -261,15 +261,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
+      "score": 0.7379,
+      "importance": 0.7379,
+      "importance_score": 0.7379,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7375,
+        "recency": 0.7129,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -288,134 +288,110 @@
       }
     },
     {
-      "story_id": "story_4eb0f95713f7",
-      "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
-      "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
-      "primary_url": "https://x.com/OpenAIDevs/status/2098827327832822014",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "story_id": "story_9d39bd39e651",
+      "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
+      "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
+      "primary_url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
-          "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
-          "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "id": "26cddc9feefad5509b15deb9c8ffc3e537f37a0a",
+          "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
+          "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-12T17:33:23Z"
+          "published_at": "2026-09-13T18:34:31Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：OpenAI Developers (@OpenAIDevs)"
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
       ],
       "items": [
         {
-          "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
-          "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
-          "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "id": "26cddc9feefad5509b15deb9c8ffc3e537f37a0a",
+          "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
+          "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-12T17:33:23Z"
+          "published_at": "2026-09-13T18:34:31Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.8,
+        "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7141,
+        "recency": 0.9908,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-12T17:33:23Z",
-      "latest_at": "2026-09-12T17:33:23Z",
+      "earliest_at": "2026-09-13T18:34:31Z",
+      "latest_at": "2026-09-13T18:34:31Z",
       "primary_item": {
-        "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
-        "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
-        "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_907498d8ada4",
-      "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
-      "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
-      "primary_url": "https://x.com/OpenAIDevs/status/2098913661993603215",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "23601fca23fa8ec5df7c7426cb61458c2d8f4b0a",
-          "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
-          "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T23:16:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI Developers (@OpenAIDevs)"
-      ],
-      "items": [
-        {
-          "id": "23601fca23fa8ec5df7c7426cb61458c2d8f4b0a",
-          "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
-          "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T23:16:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7212,
-      "importance": 0.7212,
-      "importance_score": 0.7212,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7756,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-12T23:16:27Z",
-      "latest_at": "2026-09-12T23:16:27Z",
-      "primary_item": {
-        "id": "23601fca23fa8ec5df7c7426cb61458c2d8f4b0a",
-        "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
-        "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "id": "26cddc9feefad5509b15deb9c8ffc3e537f37a0a",
+        "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
+        "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "最近 OpenAI 和 Anthropic 相继把上下文窗口干到了1M，但上下文窗口是不是越大越好？作者这篇文章就从底层原理出发，以 Claude Code 为例，彻底揭开大模型的上下文管理的神秘面纱。",
+      "title": "AI 能快速生成网页，但常常会忽略信息层级，导致用户难以抓取重点、找不到操作路径。作者基于自身的前端实践，整理出了一套页面信息组织指南，还配套开源了覆盖 19 种页面形态的Demo。这份指南还可以直接交给 AI，用来评审、迭代前端页面，帮你产出逻辑清晰、贴合业务的后台界面。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-09-12",
+      "source": "社区更新 · 2026-09-13",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "17836e027d343f1805d62755db6f94cf3bdfa6b1",
+          "title": "AI 能快速生成网页，但常常会忽略信息层级，导致用户难以抓取重点、找不到操作路径。作者基于自身的前端实践，整理出了一套页面信息组织指南，还配套开源了覆盖 19 种页面形态的Demo。这份指南还可以直接交给 AI，用来评审、迭代前端页面，帮你产出逻辑清晰、贴合业务的后台界面。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-13",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-13T19:12:56.603091Z"
+        },
+        {
+          "id": "8943d9f5e44d6200bcdc419eb1d4bd80b9971950",
+          "title": "Agent 做长任务容易跑偏，读长文漏掉关键证据，多开几个助手又越来越费钱——本周精选的10篇 AI 论文，集中回应了这些实际难题。用程序图帮助 Agent 安排步骤，利用文档目录提高检索准确率，通过并行阅读和精简协作方式提升效率；还有只改设计文档、让 AI 重新生成代码的尝试，以及智能体群体作弊的案例。在做Agent、知识库或 AI 产品的，可以从自己遇到的问题切入，找找下一步值得尝试的方法。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-13",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-13T19:12:56.603091Z"
+        },
+        {
+          "id": "23ba9bd3190f85ba309165c467fa1f2712e90e01",
+          "title": "DeepSeek V1 到 V4.1-Flash，单 token 的 global KV 如何从 389,000 B 压缩到 890 B的？这篇文章对于 Agent 的使用者、本地模型部署者、模型开发者都有一定帮助。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-13",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-13T19:12:56.603091Z"
+        },
+        {
+          "id": "9c8e0964bbe9e466b9d4db15bf57b23acad54874",
+          "title": "这篇文章是作者关于 Harness Coding 的现场分享文稿，拆解了 AI 编码落地的四大核心难题，并给出了完整的工程闭环方案。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-13",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-13T19:12:56.603091Z"
+        },
+        {
           "id": "a483ba9de53e01a1f4e8a3c5c3b75603e09c188c",
           "title": "AI 让软件开发发生了根本性变化，但在充满炒作和噪音的环境中，开发者很难判断哪些技能真正值得投入学习，团队同样难以判断该招聘什么样的人。吴恩达这套技能地图很适合想补齐 AI 工程能力的开发者，也适合带团队的人做学习和招聘参考。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -461,12 +437,49 @@
           "published_at": "2026-09-12T21:16:25.377015Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 9,
       "source_names": [
-        "社区更新 · 2026-09-12"
+        "社区更新 · 2026-09-12",
+        "社区更新 · 2026-09-13"
       ],
       "items": [
         {
+          "id": "17836e027d343f1805d62755db6f94cf3bdfa6b1",
+          "title": "AI 能快速生成网页，但常常会忽略信息层级，导致用户难以抓取重点、找不到操作路径。作者基于自身的前端实践，整理出了一套页面信息组织指南，还配套开源了覆盖 19 种页面形态的Demo。这份指南还可以直接交给 AI，用来评审、迭代前端页面，帮你产出逻辑清晰、贴合业务的后台界面。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-13",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-13T19:12:56.603091Z"
+        },
+        {
+          "id": "8943d9f5e44d6200bcdc419eb1d4bd80b9971950",
+          "title": "Agent 做长任务容易跑偏，读长文漏掉关键证据，多开几个助手又越来越费钱——本周精选的10篇 AI 论文，集中回应了这些实际难题。用程序图帮助 Agent 安排步骤，利用文档目录提高检索准确率，通过并行阅读和精简协作方式提升效率；还有只改设计文档、让 AI 重新生成代码的尝试，以及智能体群体作弊的案例。在做Agent、知识库或 AI 产品的，可以从自己遇到的问题切入，找找下一步值得尝试的方法。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-13",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-13T19:12:56.603091Z"
+        },
+        {
+          "id": "23ba9bd3190f85ba309165c467fa1f2712e90e01",
+          "title": "DeepSeek V1 到 V4.1-Flash，单 token 的 global KV 如何从 389,000 B 压缩到 890 B的？这篇文章对于 Agent 的使用者、本地模型部署者、模型开发者都有一定帮助。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-13",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-13T19:12:56.603091Z"
+        },
+        {
+          "id": "9c8e0964bbe9e466b9d4db15bf57b23acad54874",
+          "title": "这篇文章是作者关于 Harness Coding 的现场分享文稿，拆解了 AI 编码落地的四大核心难题，并给出了完整的工程闭环方案。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-13",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-13T19:12:56.603091Z"
+        },
+        {
           "id": "a483ba9de53e01a1f4e8a3c5c3b75603e09c188c",
           "title": "AI 让软件开发发生了根本性变化，但在充满炒作和噪音的环境中，开发者很难判断哪些技能真正值得投入学习，团队同样难以判断该招聘什么样的人。吴恩达这套技能地图很适合想补齐 AI 工程能力的开发者，也适合带团队的人做学习和招聘参考。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -512,17 +525,17 @@
           "published_at": "2026-09-12T21:16:25.377015Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6498,
-      "importance": 0.6498,
-      "importance_score": 0.6498,
+      "item_count": 9,
+      "duplicate_count": 9,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.5112,
+        "editorial": 0.468,
         "source_tier": 0.54,
-        "ai_relevance": 0.71,
-        "recency": 0.7535,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -530,13 +543,146 @@
         "multi_source"
       ],
       "earliest_at": "2026-09-12T21:16:25.377015Z",
-      "latest_at": "2026-09-12T21:16:25.377015Z",
+      "latest_at": "2026-09-13T19:12:56.603091Z",
       "primary_item": {
-        "id": "eec8691dc962cdd80b024fc42f7fbb92c3070660",
-        "title": "最近 OpenAI 和 Anthropic 相继把上下文窗口干到了1M，但上下文窗口是不是越大越好？作者这篇文章就从底层原理出发，以 Claude Code 为例，彻底揭开大模型的上下文管理的神秘面纱。",
+        "id": "17836e027d343f1805d62755db6f94cf3bdfa6b1",
+        "title": "AI 能快速生成网页，但常常会忽略信息层级，导致用户难以抓取重点、找不到操作路径。作者基于自身的前端实践，整理出了一套页面信息组织指南，还配套开源了覆盖 19 种页面形态的Demo。这份指南还可以直接交给 AI，用来评审、迭代前端页面，帮你产出逻辑清晰、贴合业务的后台界面。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-09-12",
+        "source": "社区更新 · 2026-09-13",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "Flock cameras used to arrest a child for playing on a swing",
+      "url": "https://www.youtube.com/watch?v=koclOnlde0E",
+      "primary_url": "https://www.youtube.com/watch?v=koclOnlde0E",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "0cc20a09ceec7d85ebf595da2ec3e5f2b5c0f592",
+          "title": "Flock cameras used to arrest a child for playing on a swing",
+          "url": "https://www.youtube.com/watch?v=koclOnlde0E",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T18:47:26Z"
+        },
+        {
+          "id": "52fb3ea4635895cc9a4e289589f4f496fbf8541e",
+          "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
+          "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T13:54:25Z"
+        },
+        {
+          "id": "e6886b0b3c45e66d43ce002b0683a1aa1aea93aa",
+          "title": "Show HN: 3dbae 上的实时 AI 渲染",
+          "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T04:41:15.291000Z"
+        },
+        {
+          "id": "bfadcb88e87ad0b722983f6b1be1b33d7f349d71",
+          "title": "LG称我们发布假新闻 [视频] / LG Says We're Fake News [video]",
+          "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T19:35:36Z"
+        },
+        {
+          "id": "329a1ab880c276331f5758b54e6875309f8814f6",
+          "title": "吉米·金梅尔采访詹姆斯·塔拉里科 / Jimmy Kimmel Interviews James Talarico",
+          "url": "https://www.youtube.com/watch?v=WLDE9LrGpNk",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T19:28:24Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.youtube.com"
+      ],
+      "items": [
+        {
+          "id": "0cc20a09ceec7d85ebf595da2ec3e5f2b5c0f592",
+          "title": "Flock cameras used to arrest a child for playing on a swing",
+          "url": "https://www.youtube.com/watch?v=koclOnlde0E",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T18:47:26Z"
+        },
+        {
+          "id": "52fb3ea4635895cc9a4e289589f4f496fbf8541e",
+          "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
+          "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T13:54:25Z"
+        },
+        {
+          "id": "e6886b0b3c45e66d43ce002b0683a1aa1aea93aa",
+          "title": "Show HN: 3dbae 上的实时 AI 渲染",
+          "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T04:41:15.291000Z"
+        },
+        {
+          "id": "bfadcb88e87ad0b722983f6b1be1b33d7f349d71",
+          "title": "LG称我们发布假新闻 [视频] / LG Says We're Fake News [video]",
+          "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T19:35:36Z"
+        },
+        {
+          "id": "329a1ab880c276331f5758b54e6875309f8814f6",
+          "title": "吉米·金梅尔采访詹姆斯·塔拉里科 / Jimmy Kimmel Interviews James Talarico",
+          "url": "https://www.youtube.com/watch?v=WLDE9LrGpNk",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T19:28:24Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6197,
+      "importance": 0.6197,
+      "importance_score": 0.6197,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9939,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T19:28:24Z",
+      "latest_at": "2026-09-13T18:47:26Z",
+      "primary_item": {
+        "id": "0cc20a09ceec7d85ebf595da2ec3e5f2b5c0f592",
+        "title": "Flock cameras used to arrest a child for playing on a swing",
+        "url": "https://www.youtube.com/watch?v=koclOnlde0E",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -593,15 +739,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.615,
-      "importance": 0.615,
-      "importance_score": 0.615,
+      "score": 0.6106,
+      "importance": 0.6106,
+      "importance_score": 0.6106,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.7432,
+        "recency": 0.7185,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -619,118 +765,101 @@
       }
     },
     {
-      "story_id": "story_774f7412d1a3",
-      "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
-      "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
-      "primary_url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_85bf9f141842",
+      "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险 / Trump downplays warnings of AI risks, citing rivalry with China",
+      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News (世界新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "52fb3ea4635895cc9a4e289589f4f496fbf8541e",
-          "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
-          "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T13:54:25Z"
+          "id": "7f61c8f744a8238ea68b360e8a27b778ece89c16",
+          "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险 / Trump downplays warnings of AI risks, citing rivalry with China",
+          "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T18:49:37Z"
         },
         {
-          "id": "e6886b0b3c45e66d43ce002b0683a1aa1aea93aa",
-          "title": "Show HN: 3dbae 上的实时 AI 渲染",
-          "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
-          "source": "www.youtube.com",
+          "id": "9906357a88d58c48bc40d091137125c5838ebc37",
+          "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险",
+          "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-13T04:41:15.291000Z"
+          "published_at": "2026-09-13T16:40:21.025000Z"
         },
         {
-          "id": "bfadcb88e87ad0b722983f6b1be1b33d7f349d71",
-          "title": "LG称我们发布假新闻 [视频] / LG Says We're Fake News [video]",
-          "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T19:35:36Z"
-        },
-        {
-          "id": "329a1ab880c276331f5758b54e6875309f8814f6",
-          "title": "吉米·金梅尔采访詹姆斯·塔拉里科 / Jimmy Kimmel Interviews James Talarico",
-          "url": "https://www.youtube.com/watch?v=WLDE9LrGpNk",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T19:28:24Z"
+          "id": "50bb1cbdb2831407affe726db24e3e5940f6d810",
+          "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险 / Trump downplays AI risks after dire expert warnings and calls to slow development down",
+          "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T16:29:27Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
-        "Hacker News · 24h最热",
-        "www.youtube.com"
+        "BBC News",
+        "BBC News (世界新闻)",
+        "www.bbc.co.uk"
       ],
       "items": [
         {
-          "id": "52fb3ea4635895cc9a4e289589f4f496fbf8541e",
-          "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
-          "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T13:54:25Z"
+          "id": "7f61c8f744a8238ea68b360e8a27b778ece89c16",
+          "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险 / Trump downplays warnings of AI risks, citing rivalry with China",
+          "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T18:49:37Z"
         },
         {
-          "id": "e6886b0b3c45e66d43ce002b0683a1aa1aea93aa",
-          "title": "Show HN: 3dbae 上的实时 AI 渲染",
-          "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
-          "source": "www.youtube.com",
+          "id": "9906357a88d58c48bc40d091137125c5838ebc37",
+          "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险",
+          "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-13T04:41:15.291000Z"
+          "published_at": "2026-09-13T16:40:21.025000Z"
         },
         {
-          "id": "bfadcb88e87ad0b722983f6b1be1b33d7f349d71",
-          "title": "LG称我们发布假新闻 [视频] / LG Says We're Fake News [video]",
-          "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T19:35:36Z"
-        },
-        {
-          "id": "329a1ab880c276331f5758b54e6875309f8814f6",
-          "title": "吉米·金梅尔采访詹姆斯·塔拉里科 / Jimmy Kimmel Interviews James Talarico",
-          "url": "https://www.youtube.com/watch?v=WLDE9LrGpNk",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T19:28:24Z"
+          "id": "50bb1cbdb2831407affe726db24e3e5940f6d810",
+          "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险 / Trump downplays AI risks after dire expert warnings and calls to slow development down",
+          "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T16:29:27Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5883,
-      "importance": 0.5883,
-      "importance_score": 0.5883,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5698,
+      "importance": 0.5698,
+      "importance_score": 0.5698,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9581,
-        "story_heat": 0.75
+        "recency": 0.9944,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-12T19:28:24Z",
-      "latest_at": "2026-09-13T13:54:25Z",
+      "earliest_at": "2026-09-13T16:29:27Z",
+      "latest_at": "2026-09-13T18:49:37Z",
       "primary_item": {
-        "id": "52fb3ea4635895cc9a4e289589f4f496fbf8541e",
-        "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
-        "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "id": "7f61c8f744a8238ea68b360e8a27b778ece89c16",
+        "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险 / Trump downplays warnings of AI risks, citing rivalry with China",
+        "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News (世界新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -760,19 +889,19 @@
           "published_at": "2026-09-13T09:05:10Z"
         },
         {
-          "id": "92298ac9ef2fc3c5afbe757f37c0fc31f3713000",
+          "id": "c3ea68f5e63ee7809315874db485f829bedc38bf",
           "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
           "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-13T08:07:36Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "BBC News (世界新闻)",
-        "Hacker News",
+        "Hacker News · 24h最热",
         "www.bbc.co.uk"
       ],
       "items": [
@@ -795,26 +924,26 @@
           "published_at": "2026-09-13T09:05:10Z"
         },
         {
-          "id": "92298ac9ef2fc3c5afbe757f37c0fc31f3713000",
+          "id": "c3ea68f5e63ee7809315874db485f829bedc38bf",
           "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
           "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-13T08:07:36Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.565,
-      "importance": 0.565,
-      "importance_score": 0.565,
+      "score": 0.5592,
+      "importance": 0.5592,
+      "importance_score": 0.5592,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9678,
+        "recency": 0.9356,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -828,6 +957,164 @@
         "title": "关于人工智能的惊人内部警告在硅谷部分人士中未引起重视",
         "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
         "source": "www.bbc.co.uk",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4e3f293e3094",
+      "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "primary_url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "source": "twitter.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d15c638a4dc2915bc10d14b9449bd4da7f1fbfee",
+          "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T18:45:18.039000Z"
+        },
+        {
+          "id": "b9f13952ff731bc38c11c9cdf065b2837419445b",
+          "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐 / David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T16:52:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "twitter.com"
+      ],
+      "items": [
+        {
+          "id": "d15c638a4dc2915bc10d14b9449bd4da7f1fbfee",
+          "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T18:45:18.039000Z"
+        },
+        {
+          "id": "b9f13952ff731bc38c11c9cdf065b2837419445b",
+          "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐 / David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T16:52:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9934,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T16:52:33Z",
+      "latest_at": "2026-09-13T18:45:18.039000Z",
+      "primary_item": {
+        "id": "d15c638a4dc2915bc10d14b9449bd4da7f1fbfee",
+        "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+        "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+        "source": "twitter.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_543492d80546",
+      "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+      "primary_url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+      "source": "techcrunch.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "00225e52d1622a3cddffe59233fb8639878609ec",
+          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T17:42:38.853000Z"
+        },
+        {
+          "id": "42c229cea98ed373d88b8ec4bd481d8d0b083ae2",
+          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型 / Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T15:44:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "techcrunch.com"
+      ],
+      "items": [
+        {
+          "id": "00225e52d1622a3cddffe59233fb8639878609ec",
+          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T17:42:38.853000Z"
+        },
+        {
+          "id": "42c229cea98ed373d88b8ec4bd481d8d0b083ae2",
+          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型 / Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T15:44:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9785,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T15:44:38Z",
+      "latest_at": "2026-09-13T17:42:38.853000Z",
+      "primary_item": {
+        "id": "00225e52d1622a3cddffe59233fb8639878609ec",
+        "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+        "source": "techcrunch.com",
         "source_name": "Buzzing"
       }
     },
@@ -885,15 +1172,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.544,
-      "importance": 0.544,
-      "importance_score": 0.544,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.99,
+        "recency": 0.957,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -982,15 +1269,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5362,
-      "importance": 0.5362,
-      "importance_score": 0.5362,
+      "score": 0.5314,
+      "importance": 0.5314,
+      "importance_score": 0.5314,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8077,
+        "recency": 0.7808,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1061,15 +1348,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
+      "score": 0.5294,
+      "importance": 0.5294,
+      "importance_score": 0.5294,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.94,
+        "recency": 0.9087,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1140,15 +1427,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
+      "score": 0.5294,
+      "importance": 0.5294,
+      "importance_score": 0.5294,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.94,
+        "recency": 0.9087,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1219,15 +1506,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5225,
-      "importance": 0.5225,
-      "importance_score": 0.5225,
+      "score": 0.5173,
+      "importance": 0.5173,
+      "importance_score": 0.5173,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8708,
+        "recency": 0.8418,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1245,30 +1532,30 @@
       }
     },
     {
-      "story_id": "story_85bf9f141842",
-      "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险",
-      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "story_id": "story_40ae80140ac4",
+      "title": "关于人工智能“放缓”会呈现何种态势，质疑声日益增多",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
       "source": "www.bbc.co.uk",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "9906357a88d58c48bc40d091137125c5838ebc37",
-          "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险",
-          "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+          "id": "6d059054254586bf2c7d58896e14bdd69705ed04",
+          "title": "关于人工智能“放缓”会呈现何种态势，质疑声日益增多",
+          "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
           "source": "www.bbc.co.uk",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-13T16:40:21.025000Z"
+          "published_at": "2026-09-13T18:45:18.270000Z"
         },
         {
-          "id": "50bb1cbdb2831407affe726db24e3e5940f6d810",
-          "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险 / Trump downplays AI risks after dire expert warnings and calls to slow development down",
-          "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+          "id": "8468a66c224628957c68fc7ca80007d445a8d6a2",
+          "title": "关于人工智能“放缓”会呈现何种态势，质疑声日益增多 / Questions mount over what an AI 'slowdown' would look like",
+          "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-13T16:29:27Z"
+          "published_at": "2026-09-13T18:20:22Z"
         }
       ],
       "source_count": 2,
@@ -1278,47 +1565,47 @@
       ],
       "items": [
         {
-          "id": "9906357a88d58c48bc40d091137125c5838ebc37",
-          "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险",
-          "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+          "id": "6d059054254586bf2c7d58896e14bdd69705ed04",
+          "title": "关于人工智能“放缓”会呈现何种态势，质疑声日益增多",
+          "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
           "source": "www.bbc.co.uk",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-13T16:40:21.025000Z"
+          "published_at": "2026-09-13T18:45:18.270000Z"
         },
         {
-          "id": "50bb1cbdb2831407affe726db24e3e5940f6d810",
-          "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险 / Trump downplays AI risks after dire expert warnings and calls to slow development down",
-          "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+          "id": "8468a66c224628957c68fc7ca80007d445a8d6a2",
+          "title": "关于人工智能“放缓”会呈现何种态势，质疑声日益增多 / Questions mount over what an AI 'slowdown' would look like",
+          "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-13T16:29:27Z"
+          "published_at": "2026-09-13T18:20:22Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9971,
+        "recency": 0.9934,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-13T16:29:27Z",
-      "latest_at": "2026-09-13T16:40:21.025000Z",
+      "earliest_at": "2026-09-13T18:20:22Z",
+      "latest_at": "2026-09-13T18:45:18.270000Z",
       "primary_item": {
-        "id": "9906357a88d58c48bc40d091137125c5838ebc37",
-        "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险",
-        "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+        "id": "6d059054254586bf2c7d58896e14bdd69705ed04",
+        "title": "关于人工智能“放缓”会呈现何种态势，质疑声日益增多",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
         "source": "www.bbc.co.uk",
         "source_name": "Buzzing"
       }
@@ -1377,15 +1664,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5096,
-      "importance": 0.5096,
-      "importance_score": 0.5096,
+      "score": 0.5048,
+      "importance": 0.5048,
+      "importance_score": 0.5048,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7988,
+        "recency": 0.7722,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1456,15 +1743,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5096,
-      "importance": 0.5096,
-      "importance_score": 0.5096,
+      "score": 0.5048,
+      "importance": 0.5048,
+      "importance_score": 0.5048,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7989,
+        "recency": 0.7723,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1479,164 +1766,6 @@
         "url": "https://www.ithome.com/1/001/685.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_b409dc7b8493",
-      "title": "Shubhamsaboo /      awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "primary_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "6153eeafb6d34ceb564138764eae9b11425555a7",
-          "title": "Shubhamsaboo /      awesome-llm-apps",
-          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-12T21:17:05.961000Z"
-        },
-        {
-          "id": "647202ea62c1a029dd5459b2bd6f6d557dd393d6",
-          "title": "Shubhamsaboo / awesome-llm-apps",
-          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "6153eeafb6d34ceb564138764eae9b11425555a7",
-          "title": "Shubhamsaboo /      awesome-llm-apps",
-          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-12T21:17:05.961000Z"
-        },
-        {
-          "id": "647202ea62c1a029dd5459b2bd6f6d557dd393d6",
-          "title": "Shubhamsaboo / awesome-llm-apps",
-          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5015,
-      "importance": 0.5015,
-      "importance_score": 0.5015,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7536,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T21:16:25.377015Z",
-      "latest_at": "2026-09-12T21:17:05.961000Z",
-      "primary_item": {
-        "id": "6153eeafb6d34ceb564138764eae9b11425555a7",
-        "title": "Shubhamsaboo /      awesome-llm-apps",
-        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_2c5c7e800d9a",
-      "title": "为什么人工智能研究人员总是在开发他们认为会杀死人类的东西",
-      "url": "https://www.businessinsider.com/ai-researchers-warn-doom-keep-building-kill-humans-doomers-2026-9",
-      "primary_url": "https://www.businessinsider.com/ai-researchers-warn-doom-keep-building-kill-humans-doomers-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c82b37f9b2273abe0fcbff9efc0acb8e3475a3f4",
-          "title": "为什么人工智能研究人员总是在开发他们认为会杀死人类的东西",
-          "url": "https://www.businessinsider.com/ai-researchers-warn-doom-keep-building-kill-humans-doomers-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T09:37:37.025000Z"
-        },
-        {
-          "id": "0a4479b9c7d411818847b377dc675e8caf0e192a",
-          "title": "为什么人工智能研究人员总是在开发他们认为会杀死人类的东西 / Why AI researchers keep building something they think will kill humans",
-          "url": "https://www.businessinsider.com/ai-researchers-warn-doom-keep-building-kill-humans-doomers-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T09:30:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "c82b37f9b2273abe0fcbff9efc0acb8e3475a3f4",
-          "title": "为什么人工智能研究人员总是在开发他们认为会杀死人类的东西",
-          "url": "https://www.businessinsider.com/ai-researchers-warn-doom-keep-building-kill-humans-doomers-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T09:37:37.025000Z"
-        },
-        {
-          "id": "0a4479b9c7d411818847b377dc675e8caf0e192a",
-          "title": "为什么人工智能研究人员总是在开发他们认为会杀死人类的东西 / Why AI researchers keep building something they think will kill humans",
-          "url": "https://www.businessinsider.com/ai-researchers-warn-doom-keep-building-kill-humans-doomers-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T09:30:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5279,
-      "importance": 0.5279,
-      "importance_score": 0.5279,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9007,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T09:30:02Z",
-      "latest_at": "2026-09-13T09:37:37.025000Z",
-      "primary_item": {
-        "id": "c82b37f9b2273abe0fcbff9efc0acb8e3475a3f4",
-        "title": "为什么人工智能研究人员总是在开发他们认为会杀死人类的东西",
-        "url": "https://www.businessinsider.com/ai-researchers-warn-doom-keep-building-kill-humans-doomers-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
