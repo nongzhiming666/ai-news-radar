@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T03:58:39.471493Z",
+  "generated_at": "2026-09-14T09:46:19.067926Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.85,
-      "importance": 0.85,
-      "importance_score": 0.85,
+      "score": 0.8363,
+      "importance": 0.8363,
+      "importance_score": 0.8363,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9442,
+        "recency": 0.8684,
         "story_heat": 0.0
       },
       "category": "official",
@@ -63,6 +63,87 @@
         "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d295fbd3183c",
+      "title": "DeepSeek-V4.1-Flash上线千问AI平台，API与Token Plan同步开放",
+      "url": "https://www.aibase.com/news/31028",
+      "primary_url": "https://www.aibase.com/news/31028",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "63a3eba161e8b41d100b7dbd995ea94a93d9195f",
+          "title": "DeepSeek-V4.1-Flash上线千问AI平台，API与Token Plan同步开放",
+          "url": "https://www.aibase.com/news/31028",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T09:46:19.067926Z"
+        },
+        {
+          "id": "d8a882866eb742f64a76d9a9341aff46738828c9",
+          "title": "DeepSeek-V4.1-Flash 上线千问 AI 平台，API 与 Token Plan 同步开放",
+          "url": "https://www.aibase.com/zh/news/31028",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "63a3eba161e8b41d100b7dbd995ea94a93d9195f",
+          "title": "DeepSeek-V4.1-Flash上线千问AI平台，API与Token Plan同步开放",
+          "url": "https://www.aibase.com/news/31028",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T09:46:19.067926Z"
+        },
+        {
+          "id": "d8a882866eb742f64a76d9a9341aff46738828c9",
+          "title": "DeepSeek-V4.1-Flash 上线千问 AI 平台，API 与 Token Plan 同步开放",
+          "url": "https://www.aibase.com/zh/news/31028",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T09:46:19.067926Z",
+      "latest_at": "2026-09-14T09:46:19.067926Z",
+      "primary_item": {
+        "id": "63a3eba161e8b41d100b7dbd995ea94a93d9195f",
+        "title": "DeepSeek-V4.1-Flash上线千问AI平台，API与Token Plan同步开放",
+        "url": "https://www.aibase.com/news/31028",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -119,15 +200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7993,
-      "importance": 0.7993,
-      "importance_score": 0.7993,
+      "score": 0.7874,
+      "importance": 0.7874,
+      "importance_score": 0.7874,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8203,
+        "recency": 0.7545,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -144,6 +225,330 @@
         "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
         "source": "Hacker News：AI 热帖",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e2ee9e8e7f77",
+      "title": "ElevenLabs发布Music v2.5音频模型，同步开放APP与API访问",
+      "url": "https://www.aibase.com/news/31030",
+      "primary_url": "https://www.aibase.com/news/31030",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0b4f54f1df503cbe04ae20532fa4fc857c9c089f",
+          "title": "ElevenLabs发布Music v2.5音频模型，同步开放APP与API访问",
+          "url": "https://www.aibase.com/news/31030",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T09:46:19.067926Z"
+        },
+        {
+          "id": "e7a54c4e8a3bc5a6883c666753067c782fdda1f6",
+          "title": "ElevenLabs 发布 Music v2.5 音频模型，同步开放 APP 与 API 访问",
+          "url": "https://www.aibase.com/zh/news/31030",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0b4f54f1df503cbe04ae20532fa4fc857c9c089f",
+          "title": "ElevenLabs发布Music v2.5音频模型，同步开放APP与API访问",
+          "url": "https://www.aibase.com/news/31030",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T09:46:19.067926Z"
+        },
+        {
+          "id": "e7a54c4e8a3bc5a6883c666753067c782fdda1f6",
+          "title": "ElevenLabs 发布 Music v2.5 音频模型，同步开放 APP 与 API 访问",
+          "url": "https://www.aibase.com/zh/news/31030",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T09:46:19.067926Z",
+      "latest_at": "2026-09-14T09:46:19.067926Z",
+      "primary_item": {
+        "id": "0b4f54f1df503cbe04ae20532fa4fc857c9c089f",
+        "title": "ElevenLabs发布Music v2.5音频模型，同步开放APP与API访问",
+        "url": "https://www.aibase.com/news/31030",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_74fa49b8c331",
+      "title": "OpenAI 推出 Agents API：把 Codex 拆成云端服务，\"造 Agent\" 变成一次 API 调用",
+      "url": "https://www.aibase.com/news/31025",
+      "primary_url": "https://www.aibase.com/news/31025",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8811fabcaec4719137fe03427f39243b127ec160",
+          "title": "OpenAI 推出 Agents API：把 Codex 拆成云端服务，\"造 Agent\" 变成一次 API 调用",
+          "url": "https://www.aibase.com/news/31025",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T09:46:19.067926Z"
+        },
+        {
+          "id": "95cd2e36e88a78c51eeef4b227d69623edb25e31",
+          "title": "OpenAI 推出 Agents API：把 Codex 拆成云端服务，「造 Agent」变成一次 API 调用",
+          "url": "https://www.aibase.com/zh/news/31025",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "8811fabcaec4719137fe03427f39243b127ec160",
+          "title": "OpenAI 推出 Agents API：把 Codex 拆成云端服务，\"造 Agent\" 变成一次 API 调用",
+          "url": "https://www.aibase.com/news/31025",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T09:46:19.067926Z"
+        },
+        {
+          "id": "95cd2e36e88a78c51eeef4b227d69623edb25e31",
+          "title": "OpenAI 推出 Agents API：把 Codex 拆成云端服务，「造 Agent」变成一次 API 调用",
+          "url": "https://www.aibase.com/zh/news/31025",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T09:46:19.067926Z",
+      "latest_at": "2026-09-14T09:46:19.067926Z",
+      "primary_item": {
+        "id": "8811fabcaec4719137fe03427f39243b127ec160",
+        "title": "OpenAI 推出 Agents API：把 Codex 拆成云端服务，\"造 Agent\" 变成一次 API 调用",
+        "url": "https://www.aibase.com/news/31025",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_41a3428d74f5",
+      "title": "Suno发布v6音乐模型：联合华纳、BMG 共创，自然语言就能改歌、混音、采样",
+      "url": "https://www.aibase.com/news/31033",
+      "primary_url": "https://www.aibase.com/news/31033",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e8f08078b8e71f8fa3fa222dc446dc661877bec9",
+          "title": "Suno发布v6音乐模型：联合华纳、BMG 共创，自然语言就能改歌、混音、采样",
+          "url": "https://www.aibase.com/news/31033",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T09:46:19.067926Z"
+        },
+        {
+          "id": "ca8f50fd50c288bb944b60f36a60afca99dd6117",
+          "title": "Suno 发布 v6 音乐模型：联合华纳、BMG 共创，自然语言就能改歌、混音、采样",
+          "url": "https://www.aibase.com/zh/news/31033",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e8f08078b8e71f8fa3fa222dc446dc661877bec9",
+          "title": "Suno发布v6音乐模型：联合华纳、BMG 共创，自然语言就能改歌、混音、采样",
+          "url": "https://www.aibase.com/news/31033",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T09:46:19.067926Z"
+        },
+        {
+          "id": "ca8f50fd50c288bb944b60f36a60afca99dd6117",
+          "title": "Suno 发布 v6 音乐模型：联合华纳、BMG 共创，自然语言就能改歌、混音、采样",
+          "url": "https://www.aibase.com/zh/news/31033",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T09:46:19.067926Z",
+      "latest_at": "2026-09-14T09:46:19.067926Z",
+      "primary_item": {
+        "id": "e8f08078b8e71f8fa3fa222dc446dc661877bec9",
+        "title": "Suno发布v6音乐模型：联合华纳、BMG 共创，自然语言就能改歌、混音、采样",
+        "url": "https://www.aibase.com/news/31033",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_29cc0eae04c6",
+      "title": "宇树人形机器人G1+发布:电机、视觉、交互与续航全面增强 标准版售价9.5万元",
+      "url": "https://www.aibase.com/news/31032",
+      "primary_url": "https://www.aibase.com/news/31032",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b6a2cbb5ccebd54ad3152895f4163f9701ead5c8",
+          "title": "宇树人形机器人G1+发布:电机、视觉、交互与续航全面增强 标准版售价9.5万元",
+          "url": "https://www.aibase.com/news/31032",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T09:46:19.067926Z"
+        },
+        {
+          "id": "a8bc136d86a96e7eedd7cb5ae2286e8815874168",
+          "title": "宇树人形机器人 G1+ 发布：电机、视觉、交互与续航全面增强，标准版售价 9.5 万元",
+          "url": "https://www.aibase.com/zh/news/31032",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b6a2cbb5ccebd54ad3152895f4163f9701ead5c8",
+          "title": "宇树人形机器人G1+发布:电机、视觉、交互与续航全面增强 标准版售价9.5万元",
+          "url": "https://www.aibase.com/news/31032",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T09:46:19.067926Z"
+        },
+        {
+          "id": "a8bc136d86a96e7eedd7cb5ae2286e8815874168",
+          "title": "宇树人形机器人 G1+ 发布：电机、视觉、交互与续航全面增强，标准版售价 9.5 万元",
+          "url": "https://www.aibase.com/zh/news/31032",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T09:46:19.067926Z",
+      "latest_at": "2026-09-14T09:46:19.067926Z",
+      "primary_item": {
+        "id": "b6a2cbb5ccebd54ad3152895f4163f9701ead5c8",
+        "title": "宇树人形机器人G1+发布:电机、视觉、交互与续航全面增强 标准版售价9.5万元",
+        "url": "https://www.aibase.com/news/31032",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -200,15 +605,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9197,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -223,471 +628,6 @@
         "id": "2e769589ebb3788ee3726b9f491cea69da47c04b",
         "title": "全新 Apple TV 或今秋低调发布：换上更强芯片，Siri 成核心升级",
         "url": "https://www.aibase.com/news/31011",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_05eea6af7f84",
-      "title": "微软扩展 Copilot 模型库:SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
-      "url": "https://www.aibase.com/news/31013",
-      "primary_url": "https://www.aibase.com/news/31013",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c806e3884099760dcb6a3a15dcf2dc2e85515c6b",
-          "title": "微软扩展 Copilot 模型库:SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
-          "url": "https://www.aibase.com/news/31013",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T03:58:39.471493Z"
-        },
-        {
-          "id": "44ae67cbe92a8e99b499fff245522b841af5a145",
-          "title": "微软扩展 Copilot 模型库：SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
-          "url": "https://www.aibase.com/zh/news/31013",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c806e3884099760dcb6a3a15dcf2dc2e85515c6b",
-          "title": "微软扩展 Copilot 模型库:SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
-          "url": "https://www.aibase.com/news/31013",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T03:58:39.471493Z"
-        },
-        {
-          "id": "44ae67cbe92a8e99b499fff245522b841af5a145",
-          "title": "微软扩展 Copilot 模型库：SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
-          "url": "https://www.aibase.com/zh/news/31013",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T03:58:39.471493Z",
-      "latest_at": "2026-09-14T03:58:39.471493Z",
-      "primary_item": {
-        "id": "c806e3884099760dcb6a3a15dcf2dc2e85515c6b",
-        "title": "微软扩展 Copilot 模型库:SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
-        "url": "https://www.aibase.com/news/31013",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c5db4791b13f",
-      "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
-      "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
-      "primary_url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4b8e45d73d6f9168d6f30f8fa97f8c8e80e018f0",
-          "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
-          "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-13T05:56:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4b8e45d73d6f9168d6f30f8fa97f8c8e80e018f0",
-          "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
-          "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-13T05:56:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7365,
-      "importance": 0.7365,
-      "importance_score": 0.7365,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7274,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-13T05:56:03Z",
-      "latest_at": "2026-09-13T05:56:03Z",
-      "primary_item": {
-        "id": "4b8e45d73d6f9168d6f30f8fa97f8c8e80e018f0",
-        "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
-        "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2858a717ecf6",
-      "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
-      "url": "https://www.aibase.com/news/31007",
-      "primary_url": "https://www.aibase.com/news/31007",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
-          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
-          "url": "https://www.aibase.com/news/31007",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T03:58:39.471493Z"
-        },
-        {
-          "id": "41f5e984d75194a3e846cfb6bab5fc8532381529",
-          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
-          "url": "https://www.aibase.com/zh/news/31007",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
-          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
-          "url": "https://www.aibase.com/news/31007",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T03:58:39.471493Z"
-        },
-        {
-          "id": "41f5e984d75194a3e846cfb6bab5fc8532381529",
-          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
-          "url": "https://www.aibase.com/zh/news/31007",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T03:58:39.471493Z",
-      "latest_at": "2026-09-14T03:58:39.471493Z",
-      "primary_item": {
-        "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
-        "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
-        "url": "https://www.aibase.com/news/31007",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e0331a2756bb",
-      "title": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
-      "url": "https://www.aibase.com/news/31020",
-      "primary_url": "https://www.aibase.com/news/31020",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "76af0c7d656443bc8aca74060926a032258e5938",
-          "title": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
-          "url": "https://www.aibase.com/news/31020",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T03:58:39.471493Z"
-        },
-        {
-          "id": "1b28c15b172cf4924dd842bbb8cefc1be4e5bb0f",
-          "title": "智能体跑长任务为何「失忆跑题」：AWS、Claude Code、Manus 们用四套框架机制给出答案",
-          "url": "https://www.aibase.com/zh/news/31020",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "76af0c7d656443bc8aca74060926a032258e5938",
-          "title": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
-          "url": "https://www.aibase.com/news/31020",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T03:58:39.471493Z"
-        },
-        {
-          "id": "1b28c15b172cf4924dd842bbb8cefc1be4e5bb0f",
-          "title": "智能体跑长任务为何「失忆跑题」：AWS、Claude Code、Manus 们用四套框架机制给出答案",
-          "url": "https://www.aibase.com/zh/news/31020",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T03:58:39.471493Z",
-      "latest_at": "2026-09-14T03:58:39.471493Z",
-      "primary_item": {
-        "id": "76af0c7d656443bc8aca74060926a032258e5938",
-        "title": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
-        "url": "https://www.aibase.com/news/31020",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4ddd241d8278",
-      "title": "月费10美元!开源AI编码工具 OpenCode Go 宣布实现收支平衡",
-      "url": "https://www.aibase.com/news/31022",
-      "primary_url": "https://www.aibase.com/news/31022",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "68bea4b5d4df51e758b5c7dc8d521fb3144dec96",
-          "title": "月费10美元!开源AI编码工具 OpenCode Go 宣布实现收支平衡",
-          "url": "https://www.aibase.com/news/31022",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T03:58:39.471493Z"
-        },
-        {
-          "id": "223768472b131fe90bd286ffcd99dd29f9b08a4d",
-          "title": "月费 10 美元！开源 AI 编码工具 OpenCode Go 宣布实现收支平衡",
-          "url": "https://www.aibase.com/zh/news/31022",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "68bea4b5d4df51e758b5c7dc8d521fb3144dec96",
-          "title": "月费10美元!开源AI编码工具 OpenCode Go 宣布实现收支平衡",
-          "url": "https://www.aibase.com/news/31022",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T03:58:39.471493Z"
-        },
-        {
-          "id": "223768472b131fe90bd286ffcd99dd29f9b08a4d",
-          "title": "月费 10 美元！开源 AI 编码工具 OpenCode Go 宣布实现收支平衡",
-          "url": "https://www.aibase.com/zh/news/31022",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T03:58:39.471493Z",
-      "latest_at": "2026-09-14T03:58:39.471493Z",
-      "primary_item": {
-        "id": "68bea4b5d4df51e758b5c7dc8d521fb3144dec96",
-        "title": "月费10美元!开源AI编码工具 OpenCode Go 宣布实现收支平衡",
-        "url": "https://www.aibase.com/news/31022",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b35030784059",
-      "title": "英国试点 AI 训练营：用 AI 破解青年失业，70 名尼特族青年先学起来",
-      "url": "https://www.aibase.com/news/31015",
-      "primary_url": "https://www.aibase.com/news/31015",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cf3bde4d6b0ca507c55af60aea16e6c4af5b6129",
-          "title": "英国试点 AI 训练营：用 AI 破解青年失业，70 名尼特族青年先学起来",
-          "url": "https://www.aibase.com/news/31015",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T03:58:39.471493Z"
-        },
-        {
-          "id": "b756273825a7a568f523c22593b420833ca9928b",
-          "title": "英国试点 AI 训练营：用 AI 破解青年失业，70 名尼特族青年先学起来",
-          "url": "https://www.aibase.com/zh/news/31015",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "cf3bde4d6b0ca507c55af60aea16e6c4af5b6129",
-          "title": "英国试点 AI 训练营：用 AI 破解青年失业，70 名尼特族青年先学起来",
-          "url": "https://www.aibase.com/news/31015",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T03:58:39.471493Z"
-        },
-        {
-          "id": "b756273825a7a568f523c22593b420833ca9928b",
-          "title": "英国试点 AI 训练营：用 AI 破解青年失业，70 名尼特族青年先学起来",
-          "url": "https://www.aibase.com/zh/news/31015",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T03:58:39.471493Z",
-      "latest_at": "2026-09-14T03:58:39.471493Z",
-      "primary_item": {
-        "id": "cf3bde4d6b0ca507c55af60aea16e6c4af5b6129",
-        "title": "英国试点 AI 训练营：用 AI 破解青年失业，70 名尼特族青年先学起来",
-        "url": "https://www.aibase.com/news/31015",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -781,15 +721,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6228,
-      "importance": 0.6228,
-      "importance_score": 0.6228,
+      "score": 0.6101,
+      "importance": 0.6101,
+      "importance_score": 0.6101,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8812,
+        "recency": 0.8104,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -807,107 +747,26 @@
       }
     },
     {
-      "story_id": "story_f6ba130b7a70",
-      "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
-      "url": "https://www.aibase.com/news/31006",
-      "primary_url": "https://www.aibase.com/news/31006",
+      "story_id": "story_05eea6af7f84",
+      "title": "微软扩展 Copilot 模型库:SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
+      "url": "https://www.aibase.com/news/31013",
+      "primary_url": "https://www.aibase.com/news/31013",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7060d51fc7b9b40326efbae7897f69515cd76db8",
-          "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
-          "url": "https://www.aibase.com/news/31006",
+          "id": "c806e3884099760dcb6a3a15dcf2dc2e85515c6b",
+          "title": "微软扩展 Copilot 模型库:SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
+          "url": "https://www.aibase.com/news/31013",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-14T03:58:39.471493Z"
         },
         {
-          "id": "69e01ddd16073e68b006cd8197175a09829f6d69",
-          "title": "苹果新 CEO 特努斯谈 Meta“变态眼镜”风波：AI 智能设备需要让旁人安心",
-          "url": "https://www.ithome.com/1/001/906.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-14T00:36:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "IT之家 (ITHome)"
-      ],
-      "items": [
-        {
-          "id": "7060d51fc7b9b40326efbae7897f69515cd76db8",
-          "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
-          "url": "https://www.aibase.com/news/31006",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T03:58:39.471493Z"
-        },
-        {
-          "id": "69e01ddd16073e68b006cd8197175a09829f6d69",
-          "title": "苹果新 CEO 特努斯谈 Meta“变态眼镜”风波：AI 智能设备需要让旁人安心",
-          "url": "https://www.ithome.com/1/001/906.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-14T00:36:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T00:36:02Z",
-      "latest_at": "2026-09-14T03:58:39.471493Z",
-      "primary_item": {
-        "id": "7060d51fc7b9b40326efbae7897f69515cd76db8",
-        "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
-        "url": "https://www.aibase.com/news/31006",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1d9ed0bfb41e",
-      "title": "谷歌 DeepMind 安全研究员离职：AI 五年内造成巨大危害的概率“高得吓人”",
-      "url": "https://www.aibase.com/news/31012",
-      "primary_url": "https://www.aibase.com/news/31012",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c6dddd63a58ead2eca8cc9d6e1379ca86d429ab0",
-          "title": "谷歌 DeepMind 安全研究员离职：AI 五年内造成巨大危害的概率“高得吓人”",
-          "url": "https://www.aibase.com/news/31012",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T03:58:39.471493Z"
-        },
-        {
-          "id": "a8b4c427a04f7abf7fcec88f5a4424c68e11eaad",
-          "title": "谷歌 DeepMind 安全研究员离职：AI 五年内造成巨大危害的概率「高得吓人」",
-          "url": "https://www.aibase.com/zh/news/31012",
+          "id": "44ae67cbe92a8e99b499fff245522b841af5a145",
+          "title": "微软扩展 Copilot 模型库：SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
+          "url": "https://www.aibase.com/zh/news/31013",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -921,18 +780,18 @@
       ],
       "items": [
         {
-          "id": "c6dddd63a58ead2eca8cc9d6e1379ca86d429ab0",
-          "title": "谷歌 DeepMind 安全研究员离职：AI 五年内造成巨大危害的概率“高得吓人”",
-          "url": "https://www.aibase.com/news/31012",
+          "id": "c806e3884099760dcb6a3a15dcf2dc2e85515c6b",
+          "title": "微软扩展 Copilot 模型库:SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
+          "url": "https://www.aibase.com/news/31013",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-14T03:58:39.471493Z"
         },
         {
-          "id": "a8b4c427a04f7abf7fcec88f5a4424c68e11eaad",
-          "title": "谷歌 DeepMind 安全研究员离职：AI 五年内造成巨大危害的概率「高得吓人」",
-          "url": "https://www.aibase.com/zh/news/31012",
+          "id": "44ae67cbe92a8e99b499fff245522b841af5a145",
+          "title": "微软扩展 Copilot 模型库：SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
+          "url": "https://www.aibase.com/zh/news/31013",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -941,15 +800,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9197,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -961,21 +820,30 @@
       "earliest_at": "2026-09-14T03:58:39.471493Z",
       "latest_at": "2026-09-14T03:58:39.471493Z",
       "primary_item": {
-        "id": "c6dddd63a58ead2eca8cc9d6e1379ca86d429ab0",
-        "title": "谷歌 DeepMind 安全研究员离职：AI 五年内造成巨大危害的概率“高得吓人”",
-        "url": "https://www.aibase.com/news/31012",
+        "id": "c806e3884099760dcb6a3a15dcf2dc2e85515c6b",
+        "title": "微软扩展 Copilot 模型库:SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
+        "url": "https://www.aibase.com/news/31013",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
       "story_id": "story_0fa77dcd1de2",
-      "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+      "title": "《Fable 5.1》破解了“Cyphral Distich”（一项已有370年历史的密码）",
       "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
       "primary_url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
       "source": "www.vals.ai",
       "source_name": "Buzzing",
       "sources": [
+        {
+          "id": "0533fafa970879a7ac50ed1e76814513c1238415",
+          "title": "《Fable 5.1》破解了“Cyphral Distich”（一项已有370年历史的密码）",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "www.vals.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T05:48:18.200000Z"
+        },
         {
           "id": "24b3c4d96adbe1f504c0ab36c7cde117fa8aa6bf",
           "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
@@ -1004,7 +872,7 @@
           "published_at": "2026-09-13T21:06:13Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "Hacker News",
         "Hacker News (黑客新闻)",
@@ -1012,6 +880,15 @@
       ],
       "items": [
         {
+          "id": "0533fafa970879a7ac50ed1e76814513c1238415",
+          "title": "《Fable 5.1》破解了“Cyphral Distich”（一项已有370年历史的密码）",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "www.vals.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T05:48:18.200000Z"
+        },
+        {
           "id": "24b3c4d96adbe1f504c0ab36c7cde117fa8aa6bf",
           "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
           "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
@@ -1039,54 +916,54 @@
           "published_at": "2026-09-13T21:06:13Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5569,
-      "importance": 0.5569,
-      "importance_score": 0.5569,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5858,
+      "importance": 0.5858,
+      "importance_score": 0.5858,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9229,
-        "story_heat": 0.5
+        "recency": 0.9443,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-09-13T21:06:13Z",
-      "latest_at": "2026-09-13T22:25:23.276000Z",
+      "latest_at": "2026-09-14T05:48:18.200000Z",
       "primary_item": {
-        "id": "24b3c4d96adbe1f504c0ab36c7cde117fa8aa6bf",
-        "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+        "id": "0533fafa970879a7ac50ed1e76814513c1238415",
+        "title": "《Fable 5.1》破解了“Cyphral Distich”（一项已有370年历史的密码）",
         "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
         "source": "www.vals.ai",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_a4b1a5fc3cda",
-      "title": "豆包手机助手消费者版发布:AI键指纹直唤，跨应用Agent再升级",
-      "url": "https://www.aibase.com/news/31017",
-      "primary_url": "https://www.aibase.com/news/31017",
+      "story_id": "story_2858a717ecf6",
+      "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+      "url": "https://www.aibase.com/news/31007",
+      "primary_url": "https://www.aibase.com/news/31007",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f1ae19880284b32309a4618c916e4375e272c860",
-          "title": "豆包手机助手消费者版发布:AI键指纹直唤，跨应用Agent再升级",
-          "url": "https://www.aibase.com/news/31017",
+          "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
+          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "url": "https://www.aibase.com/news/31007",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-14T03:58:39.471493Z"
         },
         {
-          "id": "c6afb7a2118834d7686d0939aee4fae669c5f9ea",
-          "title": "豆包手机助手消费者版发布：AI 键指纹直唤，跨应用 Agent 再升级",
-          "url": "https://www.aibase.com/zh/news/31017",
+          "id": "41f5e984d75194a3e846cfb6bab5fc8532381529",
+          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "url": "https://www.aibase.com/zh/news/31007",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1100,18 +977,18 @@
       ],
       "items": [
         {
-          "id": "f1ae19880284b32309a4618c916e4375e272c860",
-          "title": "豆包手机助手消费者版发布:AI键指纹直唤，跨应用Agent再升级",
-          "url": "https://www.aibase.com/news/31017",
+          "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
+          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "url": "https://www.aibase.com/news/31007",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-14T03:58:39.471493Z"
         },
         {
-          "id": "c6afb7a2118834d7686d0939aee4fae669c5f9ea",
-          "title": "豆包手机助手消费者版发布：AI 键指纹直唤，跨应用 Agent 再升级",
-          "url": "https://www.aibase.com/zh/news/31017",
+          "id": "41f5e984d75194a3e846cfb6bab5fc8532381529",
+          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "url": "https://www.aibase.com/zh/news/31007",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1120,15 +997,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9197,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1140,11 +1017,329 @@
       "earliest_at": "2026-09-14T03:58:39.471493Z",
       "latest_at": "2026-09-14T03:58:39.471493Z",
       "primary_item": {
-        "id": "f1ae19880284b32309a4618c916e4375e272c860",
-        "title": "豆包手机助手消费者版发布:AI键指纹直唤，跨应用Agent再升级",
-        "url": "https://www.aibase.com/news/31017",
+        "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
+        "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+        "url": "https://www.aibase.com/news/31007",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ea4e0ef977c9",
+      "title": "谁来制定人工智能的规则？",
+      "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+      "primary_url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+      "source": "cohere.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7911a2271f08266e201e1e9cbeb42dd81d7ba09a",
+          "title": "谁来制定人工智能的规则？",
+          "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+          "source": "cohere.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T09:12:16.798000Z"
+        },
+        {
+          "id": "58002a101e7cf4c4109a5cc78e053659271b91cb",
+          "title": "谁来制定人工智能的规则？ / Who Gets to Define the Rules for AI?",
+          "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-14T04:49:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "cohere.com"
+      ],
+      "items": [
+        {
+          "id": "7911a2271f08266e201e1e9cbeb42dd81d7ba09a",
+          "title": "谁来制定人工智能的规则？",
+          "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+          "source": "cohere.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T09:12:16.798000Z"
+        },
+        {
+          "id": "58002a101e7cf4c4109a5cc78e053659271b91cb",
+          "title": "谁来制定人工智能的规则？ / Who Gets to Define the Rules for AI?",
+          "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-14T04:49:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5443,
+      "importance": 0.5443,
+      "importance_score": 0.5443,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9918,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-14T04:49:51Z",
+      "latest_at": "2026-09-14T09:12:16.798000Z",
+      "primary_item": {
+        "id": "7911a2271f08266e201e1e9cbeb42dd81d7ba09a",
+        "title": "谁来制定人工智能的规则？",
+        "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+        "source": "cohere.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_3149e64f7f8b",
+      "title": "开源人工智能与开放模型推荐书单",
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "primary_url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "source": "www.interconnects.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "67b4175957bca8a2deecf552a44ee79eb0c43ded",
+          "title": "开源人工智能与开放模型推荐书单",
+          "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+          "source": "www.interconnects.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T08:25:17.847000Z"
+        },
+        {
+          "id": "b8404eaa070943cf34c1baf8dd1e89c2d5da104b",
+          "title": "开源人工智能与开放模型推荐书单 / Open-Source AI and Open Models Reading List",
+          "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-14T00:22:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "www.interconnects.ai"
+      ],
+      "items": [
+        {
+          "id": "67b4175957bca8a2deecf552a44ee79eb0c43ded",
+          "title": "开源人工智能与开放模型推荐书单",
+          "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+          "source": "www.interconnects.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T08:25:17.847000Z"
+        },
+        {
+          "id": "b8404eaa070943cf34c1baf8dd1e89c2d5da104b",
+          "title": "开源人工智能与开放模型推荐书单 / Open-Source AI and Open Models Reading List",
+          "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-14T00:22:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9807,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-14T00:22:51Z",
+      "latest_at": "2026-09-14T08:25:17.847000Z",
+      "primary_item": {
+        "id": "67b4175957bca8a2deecf552a44ee79eb0c43ded",
+        "title": "开源人工智能与开放模型推荐书单",
+        "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+        "source": "www.interconnects.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e0331a2756bb",
+      "title": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
+      "url": "https://www.aibase.com/news/31020",
+      "primary_url": "https://www.aibase.com/news/31020",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "76af0c7d656443bc8aca74060926a032258e5938",
+          "title": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
+          "url": "https://www.aibase.com/news/31020",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T03:58:39.471493Z"
+        },
+        {
+          "id": "1b28c15b172cf4924dd842bbb8cefc1be4e5bb0f",
+          "title": "智能体跑长任务为何「失忆跑题」：AWS、Claude Code、Manus 们用四套框架机制给出答案",
+          "url": "https://www.aibase.com/zh/news/31020",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "76af0c7d656443bc8aca74060926a032258e5938",
+          "title": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
+          "url": "https://www.aibase.com/news/31020",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T03:58:39.471493Z"
+        },
+        {
+          "id": "1b28c15b172cf4924dd842bbb8cefc1be4e5bb0f",
+          "title": "智能体跑长任务为何「失忆跑题」：AWS、Claude Code、Manus 们用四套框架机制给出答案",
+          "url": "https://www.aibase.com/zh/news/31020",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9197,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T03:58:39.471493Z",
+      "latest_at": "2026-09-14T03:58:39.471493Z",
+      "primary_item": {
+        "id": "76af0c7d656443bc8aca74060926a032258e5938",
+        "title": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
+        "url": "https://www.aibase.com/news/31020",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_7d24eccd50a8",
+      "title": "在关于人工智能将带来灾难的严峻警告声中，所有人的目光都聚焦于特朗普和习近平接下来将采取什么行动",
+      "url": "https://www.businessinsider.com/trump-xi-ai-apocalypse-warning-anthropic-openai-2026-9",
+      "primary_url": "https://www.businessinsider.com/trump-xi-ai-apocalypse-warning-anthropic-openai-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "50a22653859d27e1cb6316e580ca406437a9f43b",
+          "title": "在关于人工智能将带来灾难的严峻警告声中，所有人的目光都聚焦于特朗普和习近平接下来将采取什么行动",
+          "url": "https://www.businessinsider.com/trump-xi-ai-apocalypse-warning-anthropic-openai-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T06:03:16.441000Z"
+        },
+        {
+          "id": "b4f1b89c62455a20188303c18186461e6ad2e1fe",
+          "title": "在关于人工智能将带来灾难的严峻警告声中，所有人的目光都聚焦于特朗普和习近平接下来将采取什么行动 / All eyes are on what Trump and Xi will do amid grim warnings of an AI apocalypse. Here’s what they’ve said.",
+          "url": "https://www.businessinsider.com/trump-xi-ai-apocalypse-warning-anthropic-openai-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-14T05:37:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "50a22653859d27e1cb6316e580ca406437a9f43b",
+          "title": "在关于人工智能将带来灾难的严峻警告声中，所有人的目光都聚焦于特朗普和习近平接下来将采取什么行动",
+          "url": "https://www.businessinsider.com/trump-xi-ai-apocalypse-warning-anthropic-openai-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T06:03:16.441000Z"
+        },
+        {
+          "id": "b4f1b89c62455a20188303c18186461e6ad2e1fe",
+          "title": "在关于人工智能将带来灾难的严峻警告声中，所有人的目光都聚焦于特朗普和习近平接下来将采取什么行动 / All eyes are on what Trump and Xi will do amid grim warnings of an AI apocalypse. Here’s what they’ve said.",
+          "url": "https://www.businessinsider.com/trump-xi-ai-apocalypse-warning-anthropic-openai-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-14T05:37:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5364,
+      "importance": 0.5364,
+      "importance_score": 0.5364,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9477,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-14T05:37:02Z",
+      "latest_at": "2026-09-14T06:03:16.441000Z",
+      "primary_item": {
+        "id": "50a22653859d27e1cb6316e580ca406437a9f43b",
+        "title": "在关于人工智能将带来灾难的严峻警告声中，所有人的目光都聚焦于特朗普和习近平接下来将采取什么行动",
+        "url": "https://www.businessinsider.com/trump-xi-ai-apocalypse-warning-anthropic-openai-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1220,15 +1415,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5485,
-      "importance": 0.5485,
-      "importance_score": 0.5485,
+      "score": 0.5359,
+      "importance": 0.5359,
+      "importance_score": 0.5359,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8762,
+        "recency": 0.8059,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1243,103 +1438,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News (世界新闻)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "利用“Flock”摄像头逮捕了一名在秋千上玩耍的儿童 / Flock cameras used to arrest a child for playing on a swing",
-      "url": "https://www.youtube.com/watch?v=koclOnlde0E",
-      "primary_url": "https://www.youtube.com/watch?v=koclOnlde0E",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "0cc20a09ceec7d85ebf595da2ec3e5f2b5c0f592",
-          "title": "利用“Flock”摄像头逮捕了一名在秋千上玩耍的儿童 / Flock cameras used to arrest a child for playing on a swing",
-          "url": "https://www.youtube.com/watch?v=koclOnlde0E",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T18:47:26Z"
-        },
-        {
-          "id": "52fb3ea4635895cc9a4e289589f4f496fbf8541e",
-          "title": "保罗·A·M·狄拉克 (Paul A. M. Dirac)，弗里德里希·洪德 (Friedrich Hund) 访谈 (1982) [视频] / Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
-          "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T13:54:25Z"
-        },
-        {
-          "id": "e6886b0b3c45e66d43ce002b0683a1aa1aea93aa",
-          "title": "Show HN: 3dbae 上的实时 AI 渲染",
-          "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T04:41:15.291000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.youtube.com"
-      ],
-      "items": [
-        {
-          "id": "0cc20a09ceec7d85ebf595da2ec3e5f2b5c0f592",
-          "title": "利用“Flock”摄像头逮捕了一名在秋千上玩耍的儿童 / Flock cameras used to arrest a child for playing on a swing",
-          "url": "https://www.youtube.com/watch?v=koclOnlde0E",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T18:47:26Z"
-        },
-        {
-          "id": "52fb3ea4635895cc9a4e289589f4f496fbf8541e",
-          "title": "保罗·A·M·狄拉克 (Paul A. M. Dirac)，弗里德里希·洪德 (Friedrich Hund) 访谈 (1982) [视频] / Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
-          "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T13:54:25Z"
-        },
-        {
-          "id": "e6886b0b3c45e66d43ce002b0683a1aa1aea93aa",
-          "title": "Show HN: 3dbae 上的实时 AI 渲染",
-          "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T04:41:15.291000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5484,
-      "importance": 0.5484,
-      "importance_score": 0.5484,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8758,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T04:41:15.291000Z",
-      "latest_at": "2026-09-13T18:47:26Z",
-      "primary_item": {
-        "id": "0cc20a09ceec7d85ebf595da2ec3e5f2b5c0f592",
-        "title": "利用“Flock”摄像头逮捕了一名在秋千上玩耍的儿童 / Flock cameras used to arrest a child for playing on a swing",
-        "url": "https://www.youtube.com/watch?v=koclOnlde0E",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1396,15 +1494,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.543,
-      "importance": 0.543,
-      "importance_score": 0.543,
+      "score": 0.5288,
+      "importance": 0.5288,
+      "importance_score": 0.5288,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9846,
+        "recency": 0.9056,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1474,15 +1572,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.541,
-      "importance": 0.541,
-      "importance_score": 0.541,
+      "score": 0.527,
+      "importance": 0.527,
+      "importance_score": 0.527,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9735,
+        "recency": 0.8954,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1496,104 +1594,6 @@
         "title": "受人工智能放缓担忧影响，股市下跌，油价上涨：市场综述",
         "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
         "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_701d87d89551",
-      "title": "关于人工智能的惊人内部警告在硅谷部分人士中未引起重视",
-      "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.co.uk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "99cc1d251859e4c90254f7a9df31eb3a707fa00c",
-          "title": "关于人工智能的惊人内部警告在硅谷部分人士中未引起重视",
-          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T14:36:22.392000Z"
-        },
-        {
-          "id": "f1a0e7ce169720625236281a2425d3f3018ea14b",
-          "title": "关于人工智能的惊人内部警告在硅谷部分人士中未引起重视 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-13T09:05:10Z"
-        },
-        {
-          "id": "c3ea68f5e63ee7809315874db485f829bedc38bf",
-          "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T08:07:36Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "BBC News (世界新闻)",
-        "Hacker News · 24h最热",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "99cc1d251859e4c90254f7a9df31eb3a707fa00c",
-          "title": "关于人工智能的惊人内部警告在硅谷部分人士中未引起重视",
-          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T14:36:22.392000Z"
-        },
-        {
-          "id": "f1a0e7ce169720625236281a2425d3f3018ea14b",
-          "title": "关于人工智能的惊人内部警告在硅谷部分人士中未引起重视 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-13T09:05:10Z"
-        },
-        {
-          "id": "c3ea68f5e63ee7809315874db485f829bedc38bf",
-          "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T08:07:36Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8244,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T08:07:36Z",
-      "latest_at": "2026-09-13T14:36:22.392000Z",
-      "primary_item": {
-        "id": "99cc1d251859e4c90254f7a9df31eb3a707fa00c",
-        "title": "关于人工智能的惊人内部警告在硅谷部分人士中未引起重视",
-        "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-        "source": "www.bbc.co.uk",
         "source_name": "Buzzing"
       }
     },
@@ -1650,15 +1650,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5384,
-      "importance": 0.5384,
-      "importance_score": 0.5384,
+      "score": 0.5245,
+      "importance": 0.5245,
+      "importance_score": 0.5245,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9587,
+        "recency": 0.8818,
         "story_heat": 0.25
       },
       "category": "watch",
