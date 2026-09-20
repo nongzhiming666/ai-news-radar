@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T20:27:51.035382Z",
+  "generated_at": "2026-09-20T22:39:30.280544Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8485,
-      "importance": 0.8485,
-      "importance_score": 0.8485,
+      "score": 0.8431,
+      "importance": 0.8431,
+      "importance_score": 0.8431,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9664,
+        "recency": 0.9362,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -213,15 +213,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8219,
-      "importance": 0.8219,
-      "importance_score": 0.8219,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8849,
+        "recency": 0.8573,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -237,6 +237,67 @@
         "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
         "url": "https://qwen.ai/blog?id=qwen-image-2.1",
         "source": "Qwen：Blog Retrieval（API）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fcca394b788e",
+      "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+      "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+      "primary_url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T20:20:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T20:20:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7797,
+      "importance": 0.7797,
+      "importance_score": 0.7797,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9672,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T20:20:56Z",
+      "latest_at": "2026-09-20T20:20:56Z",
+      "primary_item": {
+        "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+        "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+        "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -294,15 +355,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7673,
-      "importance": 0.7673,
-      "importance_score": 0.7673,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8597,
+        "recency": 0.8328,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -356,15 +417,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
+      "score": 0.7372,
+      "importance": 0.7372,
+      "importance_score": 0.7372,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9092,
+        "recency": 0.8809,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -435,15 +496,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7673,
-      "importance": 0.7673,
-      "importance_score": 0.7673,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8597,
+        "recency": 0.8328,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -516,15 +577,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7438,
+        "recency": 0.7206,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -597,15 +658,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7673,
-      "importance": 0.7673,
-      "importance_score": 0.7673,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8597,
+        "recency": 0.8328,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -678,15 +739,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8025,
+        "recency": 0.7774,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -703,6 +764,84 @@
         "url": "https://www.aibase.com/news/31184",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_410fb4adc82c",
+      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
+      "primary_url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "ad4ad93a18b7efa456d3b1d3c24e4f443110f8d3",
+          "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-20T21:41:08Z"
+        },
+        {
+          "id": "147592a8d4261159974ab1de17457b25f9a87a14",
+          "title": "距离 TechCrunch Disrupt 2026 取得成功还剩 6 天 / 6 days left to get ahead at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-20T14:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "ad4ad93a18b7efa456d3b1d3c24e4f443110f8d3",
+          "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-20T21:41:08Z"
+        },
+        {
+          "id": "147592a8d4261159974ab1de17457b25f9a87a14",
+          "title": "距离 TechCrunch Disrupt 2026 取得成功还剩 6 天 / 6 days left to get ahead at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-20T14:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6462,
+      "importance": 0.6462,
+      "importance_score": 0.6462,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.986,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T14:00:00Z",
+      "latest_at": "2026-09-20T21:41:08Z",
+      "primary_item": {
+        "id": "ad4ad93a18b7efa456d3b1d3c24e4f443110f8d3",
+        "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -794,15 +933,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6442,
-      "importance": 0.6442,
-      "importance_score": 0.6442,
+      "score": 0.6386,
+      "importance": 0.6386,
+      "importance_score": 0.6386,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9688,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -873,15 +1012,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8025,
+        "recency": 0.7774,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -953,15 +1092,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6113,
-      "importance": 0.6113,
-      "importance_score": 0.6113,
+      "score": 0.6058,
+      "importance": 0.6058,
+      "importance_score": 0.6058,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9768,
+        "recency": 0.9463,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1032,15 +1171,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8025,
+        "recency": 0.7774,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1113,15 +1252,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8025,
+        "recency": 0.7774,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1158,12 +1297,12 @@
           "published_at": "2026-09-20T17:03:10.347000Z"
         },
         {
-          "id": "6f3200acfd3b87e98eca1ed6348370841f6346d4",
+          "id": "9522a76c98197316c216bac9e8c541d79e2b3ced",
           "title": "“海盗脸”拯救了大语言模型免遭删除 / Pirate Face Rescues LLM Models from Deletion",
           "url": "https://pirateface.co",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-20T15:16:07Z"
         },
         {
@@ -1178,7 +1317,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews",
         "pirateface.co"
       ],
@@ -1193,12 +1332,12 @@
           "published_at": "2026-09-20T17:03:10.347000Z"
         },
         {
-          "id": "6f3200acfd3b87e98eca1ed6348370841f6346d4",
+          "id": "9522a76c98197316c216bac9e8c541d79e2b3ced",
           "title": "“海盗脸”拯救了大语言模型免遭删除 / Pirate Face Rescues LLM Models from Deletion",
           "url": "https://pirateface.co",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-20T15:16:07Z"
         },
         {
@@ -1213,15 +1352,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5621,
-      "importance": 0.5621,
-      "importance_score": 0.5621,
+      "score": 0.5568,
+      "importance": 0.5568,
+      "importance_score": 0.5568,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9519,
+        "recency": 0.9222,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1311,15 +1450,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5589,
-      "importance": 0.5589,
-      "importance_score": 0.5589,
+      "score": 0.5537,
+      "importance": 0.5537,
+      "importance_score": 0.5537,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.934,
+        "recency": 0.9049,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1409,15 +1548,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.552,
-      "importance": 0.552,
-      "importance_score": 0.552,
+      "score": 0.547,
+      "importance": 0.547,
+      "importance_score": 0.547,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8957,
+        "recency": 0.8678,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1488,15 +1627,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8025,
+        "recency": 0.7774,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1516,239 +1655,82 @@
       }
     },
     {
-      "story_id": "story_ef6362531a2e",
-      "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
-      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-      "primary_url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+      "story_id": "story_2da09961cf12",
+      "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报 / OpenAI's Sam Altman to Brief UN Security Council Next Week",
+      "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+      "primary_url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
       "source": "Hacker News",
       "source_name": "TechURLs",
       "sources": [
         {
-          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-          "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "id": "372ac4a7ae9fe28bbb4e3231f951d4cb6a0a9f35",
+          "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报 / OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-20T19:44:40Z"
+          "published_at": "2026-09-20T20:32:43Z"
         },
         {
-          "id": "2149610d8f15e4ea172f60188b1af67746f92c92",
-          "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
-          "url": "https://news.ycombinator.com/item?id=49779329",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T19:44:40Z"
+          "id": "c558f647f87148c7e2c88675443ab7db36998518",
+          "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报",
+          "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T16:00:21.385000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News",
-        "hackernews"
+        "www.reuters.com"
       ],
       "items": [
         {
-          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-          "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "id": "372ac4a7ae9fe28bbb4e3231f951d4cb6a0a9f35",
+          "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报 / OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-20T19:44:40Z"
+          "published_at": "2026-09-20T20:32:43Z"
         },
         {
-          "id": "2149610d8f15e4ea172f60188b1af67746f92c92",
-          "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
-          "url": "https://news.ycombinator.com/item?id=49779329",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T19:44:40Z"
+          "id": "c558f647f87148c7e2c88675443ab7db36998518",
+          "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报",
+          "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T16:00:21.385000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5439,
-      "importance": 0.5439,
-      "importance_score": 0.5439,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9897,
+        "recency": 0.9699,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-20T19:44:40Z",
-      "latest_at": "2026-09-20T19:44:40Z",
+      "earliest_at": "2026-09-20T16:00:21.385000Z",
+      "latest_at": "2026-09-20T20:32:43Z",
       "primary_item": {
-        "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-        "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
-        "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+        "id": "372ac4a7ae9fe28bbb4e3231f951d4cb6a0a9f35",
+        "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报 / OpenAI's Sam Altman to Brief UN Security Council Next Week",
+        "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
         "source": "Hacker News",
         "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_bb4fbf2e9746",
-      "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心”",
-      "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
-      "primary_url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ca6e4df44e87e07f1311885613987efb2205a158",
-          "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心”",
-          "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T19:38:16.749000Z"
-        },
-        {
-          "id": "243d66521b28cc5a360de1439b511103c2b3e91a",
-          "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心” / Nvidia's Jensen Huang says AI CEOs have 'ulterior reasons' for warning about doomsday",
-          "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T19:17:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "ca6e4df44e87e07f1311885613987efb2205a158",
-          "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心”",
-          "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T19:38:16.749000Z"
-        },
-        {
-          "id": "243d66521b28cc5a360de1439b511103c2b3e91a",
-          "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心” / Nvidia's Jensen Huang says AI CEOs have 'ulterior reasons' for warning about doomsday",
-          "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T19:17:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5437,
-      "importance": 0.5437,
-      "importance_score": 0.5437,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9881,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T19:17:13Z",
-      "latest_at": "2026-09-20T19:38:16.749000Z",
-      "primary_item": {
-        "id": "ca6e4df44e87e07f1311885613987efb2205a158",
-        "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心”",
-        "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5c8c6b0b3b07",
-      "title": "提示不真实 / Prompts Aren't Real",
-      "url": "https://news.ycombinator.com/item?id=49777111",
-      "primary_url": "https://news.ycombinator.com/item?id=49777111",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "f7298785b732c26cf78359ba15c79c02b7896e2b",
-          "title": "提示不真实 / Prompts Aren't Real",
-          "url": "https://news.ycombinator.com/item?id=49777111",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:59:25Z"
-        },
-        {
-          "id": "2e211c410fb3993b66e21663d8c152cfa1076e3b",
-          "title": "提示不真实 / Prompts aren’t Real",
-          "url": "https://news.ycombinator.com/item?id=49777111",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:59:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f7298785b732c26cf78359ba15c79c02b7896e2b",
-          "title": "提示不真实 / Prompts Aren't Real",
-          "url": "https://news.ycombinator.com/item?id=49777111",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:59:25Z"
-        },
-        {
-          "id": "2e211c410fb3993b66e21663d8c152cfa1076e3b",
-          "title": "提示不真实 / Prompts aren’t Real",
-          "url": "https://news.ycombinator.com/item?id=49777111",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:59:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5345,
-      "importance": 0.5345,
-      "importance_score": 0.5345,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9374,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T15:59:25Z",
-      "latest_at": "2026-09-20T15:59:25Z",
-      "primary_item": {
-        "id": "f7298785b732c26cf78359ba15c79c02b7896e2b",
-        "title": "提示不真实 / Prompts Aren't Real",
-        "url": "https://news.ycombinator.com/item?id=49777111",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
