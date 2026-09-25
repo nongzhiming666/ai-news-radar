@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T19:53:15.592673Z",
+  "generated_at": "2026-09-25T23:09:09.856375Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8722,
-      "importance": 0.8722,
-      "importance_score": 0.8722,
+      "score": 0.8641,
+      "importance": 0.8641,
+      "importance_score": 0.8641,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9731,
+        "recency": 0.9283,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8577,
-      "importance": 0.8577,
-      "importance_score": 0.8577,
+      "score": 0.8495,
+      "importance": 0.8495,
+      "importance_score": 0.8495,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9873,
+        "recency": 0.9418,
         "story_heat": 0.0
       },
       "category": "official",
@@ -148,21 +148,21 @@
       }
     },
     {
-      "story_id": "story_925b830b81ef",
-      "title": "Agentic autofix now uses Copilot Memory",
-      "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
-      "primary_url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+      "story_id": "story_0447a6245098",
+      "title": "Usage metrics API adds pull request review stages",
+      "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
+      "primary_url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "8ee32335c685465498d95a79a418cfcd20e01eaa",
-          "title": "Agentic autofix now uses Copilot Memory",
-          "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+          "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
+          "title": "Usage metrics API adds pull request review stages",
+          "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-25T17:25:50Z"
+          "published_at": "2026-09-25T21:09:40Z"
         }
       ],
       "source_count": 1,
@@ -171,26 +171,26 @@
       ],
       "items": [
         {
-          "id": "8ee32335c685465498d95a79a418cfcd20e01eaa",
-          "title": "Agentic autofix now uses Copilot Memory",
-          "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+          "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
+          "title": "Usage metrics API adds pull request review stages",
+          "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-25T17:25:50Z"
+          "published_at": "2026-09-25T21:09:40Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8457,
-      "importance": 0.8457,
-      "importance_score": 0.8457,
+      "score": 0.8389,
+      "importance": 0.8389,
+      "importance_score": 0.8389,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9651,
+        "ai_relevance": 0.87,
+        "recency": 0.9716,
         "story_heat": 0.0
       },
       "category": "official",
@@ -199,12 +199,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-25T17:25:50Z",
-      "latest_at": "2026-09-25T17:25:50Z",
+      "earliest_at": "2026-09-25T21:09:40Z",
+      "latest_at": "2026-09-25T21:09:40Z",
       "primary_item": {
-        "id": "8ee32335c685465498d95a79a418cfcd20e01eaa",
-        "title": "Agentic autofix now uses Copilot Memory",
-        "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+        "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
+        "title": "Usage metrics API adds pull request review stages",
+        "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -282,15 +282,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8379,
-      "importance": 0.8379,
-      "importance_score": 0.8379,
+      "score": 0.8306,
+      "importance": 0.8306,
+      "importance_score": 0.8306,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8797,
+        "recency": 0.8391,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -382,15 +382,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8275,
-      "importance": 0.8275,
-      "importance_score": 0.8275,
+      "score": 0.8197,
+      "importance": 0.8197,
+      "importance_score": 0.8197,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9385,
+        "recency": 0.8953,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -444,15 +444,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8211,
-      "importance": 0.8211,
-      "importance_score": 0.8211,
+      "score": 0.8148,
+      "importance": 0.8148,
+      "importance_score": 0.8148,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7504,
+        "recency": 0.7158,
         "story_heat": 0.0
       },
       "category": "official",
@@ -472,21 +472,121 @@
       }
     },
     {
-      "story_id": "story_6edfaac73238",
-      "title": "GitHub Copilot weekly releases — September 21",
-      "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
-      "primary_url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+      "story_id": "story_cd57170eb38e",
+      "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+      "primary_url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "18ad5d1949272a639d0b3e28920046d68ba92876",
+          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T17:59:19.824000Z"
+        },
+        {
+          "id": "9f19f11198d79d4dec4b75491349d342c5484f15",
+          "title": "是的，克劳德可以完成“九环”",
+          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T20:17:37.059000Z"
+        },
+        {
+          "id": "7d1e35fd27641c02f9cca86cf6bdda9e1a187666",
+          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes, Claude can do Nine Loops",
+          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-25T18:11:48Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）",
+        "Hacker News",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "18ad5d1949272a639d0b3e28920046d68ba92876",
+          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T17:59:19.824000Z"
+        },
+        {
+          "id": "9f19f11198d79d4dec4b75491349d342c5484f15",
+          "title": "是的，克劳德可以完成“九环”",
+          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T20:17:37.059000Z"
+        },
+        {
+          "id": "7d1e35fd27641c02f9cca86cf6bdda9e1a187666",
+          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes, Claude can do Nine Loops",
+          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-25T18:11:48Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8107,
+      "importance": 0.8107,
+      "importance_score": 0.8107,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9281,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T17:59:19.824000Z",
+      "latest_at": "2026-09-25T20:17:37.059000Z",
+      "primary_item": {
+        "id": "18ad5d1949272a639d0b3e28920046d68ba92876",
+        "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+        "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_925b830b81ef",
+      "title": "Agentic autofix now uses Copilot Memory",
+      "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+      "primary_url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
-          "title": "GitHub Copilot weekly releases — September 21",
-          "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+          "id": "8ee32335c685465498d95a79a418cfcd20e01eaa",
+          "title": "Agentic autofix now uses Copilot Memory",
+          "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-25T16:42:48Z"
+          "published_at": "2026-09-25T17:25:50Z"
         }
       ],
       "source_count": 1,
@@ -495,26 +595,26 @@
       ],
       "items": [
         {
-          "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
-          "title": "GitHub Copilot weekly releases — September 21",
-          "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+          "id": "8ee32335c685465498d95a79a418cfcd20e01eaa",
+          "title": "Agentic autofix now uses Copilot Memory",
+          "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-25T16:42:48Z"
+          "published_at": "2026-09-25T17:25:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8439,
-      "importance": 0.8439,
-      "importance_score": 0.8439,
+      "score": 0.8377,
+      "importance": 0.8377,
+      "importance_score": 0.8377,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9552,
+        "recency": 0.9207,
         "story_heat": 0.0
       },
       "category": "official",
@@ -523,12 +623,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-25T16:42:48Z",
-      "latest_at": "2026-09-25T16:42:48Z",
+      "earliest_at": "2026-09-25T17:25:50Z",
+      "latest_at": "2026-09-25T17:25:50Z",
       "primary_item": {
-        "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
-        "title": "GitHub Copilot weekly releases — September 21",
-        "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+        "id": "8ee32335c685465498d95a79a418cfcd20e01eaa",
+        "title": "Agentic autofix now uses Copilot Memory",
+        "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -587,15 +687,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
+      "score": 0.8015,
+      "importance": 0.8015,
+      "importance_score": 0.8015,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9427,
+        "recency": 0.8993,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -611,6 +711,67 @@
         "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
         "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
         "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e24b2ed6e53f",
+      "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
+      "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+      "primary_url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+      "source": "X：Yuchen Jin (@Yuchenj_UW)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b2755019347db8d310898ae0261ef557c5468804",
+          "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
+          "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+          "source": "X：Yuchen Jin (@Yuchenj_UW)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T20:55:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Yuchen Jin (@Yuchenj_UW)"
+      ],
+      "items": [
+        {
+          "id": "b2755019347db8d310898ae0261ef557c5468804",
+          "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
+          "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+          "source": "X：Yuchen Jin (@Yuchenj_UW)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T20:55:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7949,
+      "importance": 0.7949,
+      "importance_score": 0.7949,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9683,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T20:55:22Z",
+      "latest_at": "2026-09-25T20:55:22Z",
+      "primary_item": {
+        "id": "b2755019347db8d310898ae0261ef557c5468804",
+        "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
+        "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+        "source": "X：Yuchen Jin (@Yuchenj_UW)",
         "source_name": "AI HOT"
       }
     },
@@ -649,15 +810,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7943,
-      "importance": 0.7943,
-      "importance_score": 0.7943,
+      "score": 0.786,
+      "importance": 0.786,
+      "importance_score": 0.786,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9981,
+        "recency": 0.9521,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -673,149 +834,6 @@
         "url": "https://x.com/arena/status/2103571568467288451",
         "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cd57170eb38e",
-      "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
-      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-      "primary_url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "18ad5d1949272a639d0b3e28920046d68ba92876",
-          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
-          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T17:59:19.824000Z"
-        },
-        {
-          "id": "7d1e35fd27641c02f9cca86cf6bdda9e1a187666",
-          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes, Claude can do Nine Loops",
-          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-25T18:11:48Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Anthropic：Research（发表成果 · 网页）",
-        "Hacker News"
-      ],
-      "items": [
-        {
-          "id": "18ad5d1949272a639d0b3e28920046d68ba92876",
-          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
-          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T17:59:19.824000Z"
-        },
-        {
-          "id": "7d1e35fd27641c02f9cca86cf6bdda9e1a187666",
-          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes, Claude can do Nine Loops",
-          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-25T18:11:48Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.973,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T17:59:19.824000Z",
-      "latest_at": "2026-09-25T18:11:48Z",
-      "primary_item": {
-        "id": "18ad5d1949272a639d0b3e28920046d68ba92876",
-        "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
-        "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e15c9f988be2",
-      "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
-      "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
-      "primary_url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
-          "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
-          "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T16:33:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
-          "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
-          "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T16:33:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8436,
-      "importance": 0.8436,
-      "importance_score": 0.8436,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9531,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T16:33:42Z",
-      "latest_at": "2026-09-25T16:33:42Z",
-      "primary_item": {
-        "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
-        "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
-        "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -872,15 +890,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7831,
-      "importance": 0.7831,
-      "importance_score": 0.7831,
+      "score": 0.7762,
+      "importance": 0.7762,
+      "importance_score": 0.7762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8306,
+        "recency": 0.7923,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -896,6 +914,129 @@
         "title": "OpenAI 智能体被曝今年至少 4 次未经指示闯入政府和学校网站",
         "url": "https://www.ithome.com/1/007/144.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6edfaac73238",
+      "title": "GitHub Copilot weekly releases — September 21",
+      "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+      "primary_url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
+          "title": "GitHub Copilot weekly releases — September 21",
+          "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T16:42:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
+          "title": "GitHub Copilot weekly releases — September 21",
+          "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T16:42:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.836,
+      "importance": 0.836,
+      "importance_score": 0.836,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9112,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T16:42:48Z",
+      "latest_at": "2026-09-25T16:42:48Z",
+      "primary_item": {
+        "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
+        "title": "GitHub Copilot weekly releases — September 21",
+        "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2fc3d3bc581f",
+      "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据",
+      "url": "https://x.com/OpenAI/status/2103587050347995581",
+      "primary_url": "https://x.com/OpenAI/status/2103587050347995581",
+      "source": "X：OpenAI (@OpenAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7cf51c955c04e9bc99e3d591af9d572e07bbd2c8",
+          "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据",
+          "url": "https://x.com/OpenAI/status/2103587050347995581",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T20:46:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI (@OpenAI)"
+      ],
+      "items": [
+        {
+          "id": "7cf51c955c04e9bc99e3d591af9d572e07bbd2c8",
+          "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据",
+          "url": "https://x.com/OpenAI/status/2103587050347995581",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T20:46:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7585,
+      "importance": 0.7585,
+      "importance_score": 0.7585,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9663,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T20:46:50Z",
+      "latest_at": "2026-09-25T20:46:50Z",
+      "primary_item": {
+        "id": "7cf51c955c04e9bc99e3d591af9d572e07bbd2c8",
+        "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据",
+        "url": "https://x.com/OpenAI/status/2103587050347995581",
+        "source": "X：OpenAI (@OpenAI)",
         "source_name": "AI HOT"
       }
     },
@@ -953,15 +1094,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.794,
-      "importance": 0.794,
-      "importance_score": 0.794,
+      "score": 0.7862,
+      "importance": 0.7862,
+      "importance_score": 0.7862,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9409,
+        "recency": 0.8975,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -978,68 +1119,6 @@
         "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_07953dd296df",
-      "title": "当聊天是错误的 UI 时 / When chat is the wrong UI",
-      "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "837cc6784160556ad3c690a5cae13513a9f4066f",
-          "title": "当聊天是错误的 UI 时 / When chat is the wrong UI",
-          "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T20:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "837cc6784160556ad3c690a5cae13513a9f4066f",
-          "title": "当聊天是错误的 UI 时 / When chat is the wrong UI",
-          "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T20:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7915,
-      "importance": 0.7915,
-      "importance_score": 0.7915,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7083,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-24T20:00:00Z",
-      "latest_at": "2026-09-24T20:00:00Z",
-      "primary_item": {
-        "id": "837cc6784160556ad3c690a5cae13513a9f4066f",
-        "title": "当聊天是错误的 UI 时 / When chat is the wrong UI",
-        "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1077,21 +1156,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9939,
+        "recency": 0.9482,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-25T19:27:57Z",
       "latest_at": "2026-09-25T19:27:57Z",
@@ -1138,21 +1216,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9414,
+        "recency": 0.898,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-25T15:42:15.643000Z",
       "latest_at": "2026-09-25T15:42:15.643000Z",
@@ -1165,21 +1242,21 @@
       }
     },
     {
-      "story_id": "story_e3b548de0eee",
-      "title": "Changes to query results in the GitHub Actions API and UI",
-      "url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
-      "primary_url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
+      "story_id": "story_e15c9f988be2",
+      "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+      "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+      "primary_url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "77b432d22ebadd6ef41512adf700ca06057e4c84",
-          "title": "Changes to query results in the GitHub Actions API and UI",
-          "url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
+          "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
+          "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-25T18:17:06Z"
+          "published_at": "2026-09-25T16:33:42Z"
         }
       ],
       "source_count": 1,
@@ -1188,26 +1265,26 @@
       ],
       "items": [
         {
-          "id": "77b432d22ebadd6ef41512adf700ca06057e4c84",
-          "title": "Changes to query results in the GitHub Actions API and UI",
-          "url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
+          "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
+          "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-25T18:17:06Z"
+          "published_at": "2026-09-25T16:33:42Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8399,
-      "importance": 0.8399,
-      "importance_score": 0.8399,
+      "score": 0.8357,
+      "importance": 0.8357,
+      "importance_score": 0.8357,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9771,
+        "ai_relevance": 0.91,
+        "recency": 0.9092,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1216,12 +1293,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-25T18:17:06Z",
-      "latest_at": "2026-09-25T18:17:06Z",
+      "earliest_at": "2026-09-25T16:33:42Z",
+      "latest_at": "2026-09-25T16:33:42Z",
       "primary_item": {
-        "id": "77b432d22ebadd6ef41512adf700ca06057e4c84",
-        "title": "Changes to query results in the GitHub Actions API and UI",
-        "url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
+        "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
+        "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+        "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -1261,15 +1338,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9699,
+        "recency": 0.9252,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1321,15 +1398,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7372,
+      "importance": 0.7372,
+      "importance_score": 0.7372,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9763,
+        "recency": 0.9313,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1343,66 +1420,6 @@
         "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
         "url": "https://x.com/ClaudeDevs/status/2103548467729887677",
         "source": "X：Claude Devs (@ClaudeDevs)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_bc2324148dc1",
-      "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
-      "url": "https://x.com/satyanadella/status/2103455884366188544",
-      "primary_url": "https://x.com/satyanadella/status/2103455884366188544",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "aaaa5a0af320fe8603a96f2c2297d2315b39b9df",
-          "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
-          "url": "https://x.com/satyanadella/status/2103455884366188544",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T12:05:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Satya Nadella (@satyanadella)"
-      ],
-      "items": [
-        {
-          "id": "aaaa5a0af320fe8603a96f2c2297d2315b39b9df",
-          "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
-          "url": "https://x.com/satyanadella/status/2103455884366188544",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T12:05:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7334,
-      "importance": 0.7334,
-      "importance_score": 0.7334,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8936,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T12:05:37Z",
-      "latest_at": "2026-09-25T12:05:37Z",
-      "primary_item": {
-        "id": "aaaa5a0af320fe8603a96f2c2297d2315b39b9df",
-        "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
-        "url": "https://x.com/satyanadella/status/2103455884366188544",
-        "source": "X：Satya Nadella (@satyanadella)",
         "source_name": "AI HOT"
       }
     }
