@@ -1,68 +1,67 @@
 {
-  "generated_at": "2026-10-03T19:04:02.231240Z",
+  "generated_at": "2026-10-03T22:20:06.754324Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_c50f0986cd4e",
-      "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-      "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-      "primary_url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_d4b8ef577950",
+      "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
+      "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T19:13:50Z"
+          "id": "d5abfd5d5a8afd2db726965d3615e1816a540332",
+          "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
+          "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-03T21:52:11Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
       "items": [
         {
-          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T19:13:50Z"
+          "id": "d5abfd5d5a8afd2db726965d3615e1816a540332",
+          "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
+          "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-03T21:52:11Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
-      "importance_label": "官方更新",
+      "score": 0.7814,
+      "importance": 0.7814,
+      "importance_score": 0.7814,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7088,
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9933,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-02T19:13:50Z",
-      "latest_at": "2026-10-02T19:13:50Z",
+      "earliest_at": "2026-10-03T21:52:11Z",
+      "latest_at": "2026-10-03T21:52:11Z",
       "primary_item": {
-        "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-        "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-        "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "d5abfd5d5a8afd2db726965d3615e1816a540332",
+        "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
+        "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -100,15 +99,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7805,
-      "importance": 0.7805,
-      "importance_score": 0.7805,
+      "score": 0.7726,
+      "importance": 0.7726,
+      "importance_score": 0.7726,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.955,
+        "recency": 0.911,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -124,68 +123,6 @@
         "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
         "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_33bc6bdb49c8",
-      "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
-      "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-      "primary_url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
-          "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
-          "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T22:18:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
-          "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
-          "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T22:18:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7974,
-      "importance": 0.7974,
-      "importance_score": 0.7974,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.741,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T22:18:23Z",
-      "latest_at": "2026-10-02T22:18:23Z",
-      "primary_item": {
-        "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
-        "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
-        "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -223,15 +160,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7583,
-      "importance": 0.7583,
-      "importance_score": 0.7583,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8318,
+        "recency": 0.7934,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -268,7 +205,7 @@
         },
         {
           "id": "67d9f2e6da15bbae20d6199ac01d20dfed978e39",
-          "title": "格雷格·克罗赫-哈特曼——大语言模型时代的安全问题 [视频] / Greg Kroah-Hartman - Security in the LLM Age",
+          "title": "格雷格·克罗-哈特曼——大语言模型时代的安全问题 / Greg Kroah-Hartman - Security in the LLM Age",
           "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
           "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
@@ -277,7 +214,7 @@
         },
         {
           "id": "efa811acee85d986a3216d5a3a5bc8fcade11612",
-          "title": "格雷格·克罗赫-哈特曼——大语言模型时代的安全问题 [视频] / Security in the LLM Age",
+          "title": "格雷格·克罗-哈特曼——大语言模型时代的安全问题 / Security in the LLM Age",
           "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
           "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
@@ -301,18 +238,9 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-02T23:22:04.817000Z"
-        },
-        {
-          "id": "7765596d8f47d66f90f51363cc0e505cdf4529ec",
-          "title": "格雷格·克罗赫-哈特曼——大语言模型时代的安全问题 [视频]",
-          "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-02T20:59:54.195000Z"
         }
       ],
-      "source_count": 6,
+      "source_count": 5,
       "source_names": [
         "Hacker News · 24h最热",
         "Lobsters (技术社区)",
@@ -330,7 +258,7 @@
         },
         {
           "id": "67d9f2e6da15bbae20d6199ac01d20dfed978e39",
-          "title": "格雷格·克罗赫-哈特曼——大语言模型时代的安全问题 [视频] / Greg Kroah-Hartman - Security in the LLM Age",
+          "title": "格雷格·克罗-哈特曼——大语言模型时代的安全问题 / Greg Kroah-Hartman - Security in the LLM Age",
           "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
           "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
@@ -339,7 +267,7 @@
         },
         {
           "id": "efa811acee85d986a3216d5a3a5bc8fcade11612",
-          "title": "格雷格·克罗赫-哈特曼——大语言模型时代的安全问题 [视频] / Security in the LLM Age",
+          "title": "格雷格·克罗-哈特曼——大语言模型时代的安全问题 / Security in the LLM Age",
           "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
           "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
@@ -363,35 +291,26 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-02T23:22:04.817000Z"
-        },
-        {
-          "id": "7765596d8f47d66f90f51363cc0e505cdf4529ec",
-          "title": "格雷格·克罗赫-哈特曼——大语言模型时代的安全问题 [视频]",
-          "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-02T20:59:54.195000Z"
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6036,
-      "importance": 0.6036,
-      "importance_score": 0.6036,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.5961,
+      "importance": 0.5961,
+      "importance_score": 0.5961,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9047,
+        "recency": 0.863,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-02T20:59:54.195000Z",
+      "earliest_at": "2026-10-02T23:22:04.817000Z",
       "latest_at": "2026-10-03T12:07:54.478000Z",
       "primary_item": {
         "id": "8d41b8355bfdc36961629fb295df569095fa08a3",
@@ -474,15 +393,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5599,
-      "importance": 0.5599,
-      "importance_score": 0.5599,
+      "score": 0.5521,
+      "importance": 0.5521,
+      "importance_score": 0.5521,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9393,
+        "recency": 0.896,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -500,101 +419,161 @@
       }
     },
     {
-      "story_id": "story_e35138269f8b",
-      "title": "Show HN: 开发了一个开源的乐高AI生成器",
-      "url": "https://github.com/anteloc/ldraw-nova",
-      "primary_url": "https://github.com/anteloc/ldraw-nova",
-      "source": "github.com",
+      "story_id": "story_67bbbdba8c47",
+      "title": "斯科特·贝森特将那些警告灾难即将降临的人工智能公司首席执行官们比作汉尼拔·莱克特：“在我再次杀人之前阻止我”",
+      "url": "https://www.businessinsider.com/scott-bessent-compares-ai-ceos-seeking-regulation-to-hannibal-lecter-2026-10",
+      "primary_url": "https://www.businessinsider.com/scott-bessent-compares-ai-ceos-seeking-regulation-to-hannibal-lecter-2026-10",
+      "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "f1db89ef77edc52c279f0048fcbda72012a75d9d",
-          "title": "Show HN: 开发了一个开源的乐高AI生成器",
-          "url": "https://github.com/anteloc/ldraw-nova",
-          "source": "github.com",
+          "id": "e544228951d7306c2ab339ae8fcb27a5532aeda4",
+          "title": "斯科特·贝森特将那些警告灾难即将降临的人工智能公司首席执行官们比作汉尼拔·莱克特：“在我再次杀人之前阻止我”",
+          "url": "https://www.businessinsider.com/scott-bessent-compares-ai-ceos-seeking-regulation-to-hannibal-lecter-2026-10",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-03T06:39:44.372000Z"
+          "published_at": "2026-10-03T21:45:54.705000Z"
         },
         {
-          "id": "c24639a6187c2d76a863de1d12cb2ae83dbdf20e",
-          "title": "Show HN: 开发了一个开源的乐高AI生成器 / Show HN: Made an open-source Lego AI generator",
-          "url": "https://github.com/anteloc/ldraw-nova",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T20:00:15Z"
-        },
-        {
-          "id": "a666c1a00df38beccd91fc3b866760e75714ab81",
-          "title": "Show HN：制作了一个开源乐高人工智能生成器 / Show HN: Made an open-source Lego AI generator",
-          "url": "https://news.ycombinator.com/item?id=49937916",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T20:00:15Z"
+          "id": "534fd97ba9217b62e522df16275226c15048cbd6",
+          "title": "斯科特·贝森特将那些警告灾难即将降临的人工智能公司首席执行官们比作汉尼拔·莱克特：“在我再次杀人之前阻止我” / Scott Bessent compares AI CEOs who warn of catastrophe to Hannibal Lecter: 'Stop me before I kill again'",
+          "url": "https://www.businessinsider.com/scott-bessent-compares-ai-ceos-seeking-regulation-to-hannibal-lecter-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-03T20:35:02Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "github.com",
-        "hackernews"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "f1db89ef77edc52c279f0048fcbda72012a75d9d",
-          "title": "Show HN: 开发了一个开源的乐高AI生成器",
-          "url": "https://github.com/anteloc/ldraw-nova",
-          "source": "github.com",
+          "id": "e544228951d7306c2ab339ae8fcb27a5532aeda4",
+          "title": "斯科特·贝森特将那些警告灾难即将降临的人工智能公司首席执行官们比作汉尼拔·莱克特：“在我再次杀人之前阻止我”",
+          "url": "https://www.businessinsider.com/scott-bessent-compares-ai-ceos-seeking-regulation-to-hannibal-lecter-2026-10",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-03T06:39:44.372000Z"
+          "published_at": "2026-10-03T21:45:54.705000Z"
         },
         {
-          "id": "c24639a6187c2d76a863de1d12cb2ae83dbdf20e",
-          "title": "Show HN: 开发了一个开源的乐高AI生成器 / Show HN: Made an open-source Lego AI generator",
-          "url": "https://github.com/anteloc/ldraw-nova",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T20:00:15Z"
-        },
-        {
-          "id": "a666c1a00df38beccd91fc3b866760e75714ab81",
-          "title": "Show HN：制作了一个开源乐高人工智能生成器 / Show HN: Made an open-source Lego AI generator",
-          "url": "https://news.ycombinator.com/item?id=49937916",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T20:00:15Z"
+          "id": "534fd97ba9217b62e522df16275226c15048cbd6",
+          "title": "斯科特·贝森特将那些警告灾难即将降临的人工智能公司首席执行官们比作汉尼拔·莱克特：“在我再次杀人之前阻止我” / Scott Bessent compares AI CEOs who warn of catastrophe to Hannibal Lecter: 'Stop me before I kill again'",
+          "url": "https://www.businessinsider.com/scott-bessent-compares-ai-ceos-seeking-regulation-to-hannibal-lecter-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-03T20:35:02Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5413,
-      "importance": 0.5413,
-      "importance_score": 0.5413,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5443,
+      "importance": 0.5443,
+      "importance_score": 0.5443,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.836,
-        "story_heat": 0.5
+        "recency": 0.9918,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-02T20:00:15Z",
-      "latest_at": "2026-10-03T06:39:44.372000Z",
+      "earliest_at": "2026-10-03T20:35:02Z",
+      "latest_at": "2026-10-03T21:45:54.705000Z",
       "primary_item": {
-        "id": "f1db89ef77edc52c279f0048fcbda72012a75d9d",
-        "title": "Show HN: 开发了一个开源的乐高AI生成器",
-        "url": "https://github.com/anteloc/ldraw-nova",
-        "source": "github.com",
+        "id": "e544228951d7306c2ab339ae8fcb27a5532aeda4",
+        "title": "斯科特·贝森特将那些警告灾难即将降临的人工智能公司首席执行官们比作汉尼拔·莱克特：“在我再次杀人之前阻止我”",
+        "url": "https://www.businessinsider.com/scott-bessent-compares-ai-ceos-seeking-regulation-to-hannibal-lecter-2026-10",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_fc994d69ad09",
+      "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+      "primary_url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "7270c12f6d002393fc0dbb64f3bd2eb6fd9b9920",
+          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T18:29:30Z"
+        },
+        {
+          "id": "20c153e603b0ac06a60db406515ee3a8f5000370",
+          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "url": "https://news.ycombinator.com/item?id=49946567",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T18:29:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7270c12f6d002393fc0dbb64f3bd2eb6fd9b9920",
+          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T18:29:30Z"
+        },
+        {
+          "id": "20c153e603b0ac06a60db406515ee3a8f5000370",
+          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "url": "https://news.ycombinator.com/item?id=49946567",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T18:29:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.946,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T18:29:30Z",
+      "latest_at": "2026-10-03T18:29:30Z",
+      "primary_item": {
+        "id": "7270c12f6d002393fc0dbb64f3bd2eb6fd9b9920",
+        "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+        "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -650,15 +629,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.538,
-      "importance": 0.538,
-      "importance_score": 0.538,
+      "score": 0.5301,
+      "importance": 0.5301,
+      "importance_score": 0.5301,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9569,
+        "recency": 0.9128,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -729,15 +708,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5377,
-      "importance": 0.5377,
-      "importance_score": 0.5377,
+      "score": 0.5298,
+      "importance": 0.5298,
+      "importance_score": 0.5298,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.955,
+        "recency": 0.911,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -808,15 +787,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5377,
-      "importance": 0.5377,
-      "importance_score": 0.5377,
+      "score": 0.5298,
+      "importance": 0.5298,
+      "importance_score": 0.5298,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.955,
+        "recency": 0.911,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -887,15 +866,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5326,
-      "importance": 0.5326,
-      "importance_score": 0.5326,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9264,
+        "recency": 0.8837,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -913,82 +892,82 @@
       }
     },
     {
-      "story_id": "story_dd8383f6829c",
-      "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
-      "url": "https://www.echohive.ai/one-million-tokens-per-second",
-      "primary_url": "https://www.echohive.ai/one-million-tokens-per-second",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_cbd89f0cd7d2",
+      "title": "萨姆·奥尔特曼：不要把人工智能当作一种“宗教力量”",
+      "url": "https://www.businessinsider.com/sam-altman-dont-treat-ai-like-a-religious-force-2026-10",
+      "primary_url": "https://www.businessinsider.com/sam-altman-dont-treat-ai-like-a-religious-force-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "fef24cc6ce4b46f9321a2d981b4066ed231ed891",
-          "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
-          "url": "https://www.echohive.ai/one-million-tokens-per-second",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T04:22:21Z"
+          "id": "068d2373753897e47e7fdac69f9fbcfbc7bbd4df",
+          "title": "萨姆·奥尔特曼：不要把人工智能当作一种“宗教力量”",
+          "url": "https://www.businessinsider.com/sam-altman-dont-treat-ai-like-a-religious-force-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T20:12:51.241000Z"
         },
         {
-          "id": "06b21514413a4e9eed0ff91f76a0d91769cf83da",
-          "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
-          "url": "https://news.ycombinator.com/item?id=49941327",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T04:22:21Z"
+          "id": "3dfeccecd9e62f18f8814d58216f176fbcfde0e7",
+          "title": "萨姆·奥尔特曼：不要把人工智能当作一种“宗教力量” / Sam Altman: Don't treat AI like a 'religious force'",
+          "url": "https://www.businessinsider.com/sam-altman-dont-treat-ai-like-a-religious-force-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-03T19:45:23Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "fef24cc6ce4b46f9321a2d981b4066ed231ed891",
-          "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
-          "url": "https://www.echohive.ai/one-million-tokens-per-second",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T04:22:21Z"
+          "id": "068d2373753897e47e7fdac69f9fbcfbc7bbd4df",
+          "title": "萨姆·奥尔特曼：不要把人工智能当作一种“宗教力量”",
+          "url": "https://www.businessinsider.com/sam-altman-dont-treat-ai-like-a-religious-force-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T20:12:51.241000Z"
         },
         {
-          "id": "06b21514413a4e9eed0ff91f76a0d91769cf83da",
-          "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
-          "url": "https://news.ycombinator.com/item?id=49941327",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T04:22:21Z"
+          "id": "3dfeccecd9e62f18f8814d58216f176fbcfde0e7",
+          "title": "萨姆·奥尔特曼：不要把人工智能当作一种“宗教力量” / Sam Altman: Don't treat AI like a 'religious force'",
+          "url": "https://www.businessinsider.com/sam-altman-dont-treat-ai-like-a-religious-force-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-03T19:45:23Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5114,
-      "importance": 0.5114,
-      "importance_score": 0.5114,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8088,
+        "recency": 0.9698,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-03T04:22:21Z",
-      "latest_at": "2026-10-03T04:22:21Z",
+      "earliest_at": "2026-10-03T19:45:23Z",
+      "latest_at": "2026-10-03T20:12:51.241000Z",
       "primary_item": {
-        "id": "fef24cc6ce4b46f9321a2d981b4066ed231ed891",
-        "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
-        "url": "https://www.echohive.ai/one-million-tokens-per-second",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "id": "068d2373753897e47e7fdac69f9fbcfbc7bbd4df",
+        "title": "萨姆·奥尔特曼：不要把人工智能当作一种“宗教力量”",
+        "url": "https://www.businessinsider.com/sam-altman-dont-treat-ai-like-a-religious-force-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1045,15 +1024,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.508,
-      "importance": 0.508,
-      "importance_score": 0.508,
+      "score": 0.5015,
+      "importance": 0.5015,
+      "importance_score": 0.5015,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7901,
+        "recency": 0.7537,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1124,15 +1103,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5033,
-      "importance": 0.5033,
-      "importance_score": 0.5033,
+      "score": 0.497,
+      "importance": 0.497,
+      "importance_score": 0.497,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7639,
+        "recency": 0.7287,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1146,164 +1125,6 @@
         "title": "美国一名路怒杀人犯的判决被撤销，原因是法庭上播放了受害者的AI合成视频",
         "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
         "source": "www.bbc.co.uk",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_001fe0e44261",
-      "title": "Muse 智能设备",
-      "url": "https://gadgets.muse.ai",
-      "primary_url": "https://gadgets.muse.ai",
-      "source": "gadgets.muse.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7afa1f7d417940bf1407bb69f3099a9f6eeaca20",
-          "title": "Muse 智能设备",
-          "url": "https://gadgets.muse.ai",
-          "source": "gadgets.muse.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T00:08:54.342000Z"
-        },
-        {
-          "id": "e8a89ab4d1a15956ae6cd8ebec199c03918775fc",
-          "title": "Muse 智能设备 / Muse Gadgets",
-          "url": "https://gadgets.muse.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-02T19:26:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "gadgets.muse.ai"
-      ],
-      "items": [
-        {
-          "id": "7afa1f7d417940bf1407bb69f3099a9f6eeaca20",
-          "title": "Muse 智能设备",
-          "url": "https://gadgets.muse.ai",
-          "source": "gadgets.muse.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T00:08:54.342000Z"
-        },
-        {
-          "id": "e8a89ab4d1a15956ae6cd8ebec199c03918775fc",
-          "title": "Muse 智能设备 / Muse Gadgets",
-          "url": "https://gadgets.muse.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-02T19:26:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5028,
-      "importance": 0.5028,
-      "importance_score": 0.5028,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7609,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-02T19:26:54Z",
-      "latest_at": "2026-10-03T00:08:54.342000Z",
-      "primary_item": {
-        "id": "7afa1f7d417940bf1407bb69f3099a9f6eeaca20",
-        "title": "Muse 智能设备",
-        "url": "https://gadgets.muse.ai",
-        "source": "gadgets.muse.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4750dadd29cc",
-      "title": "随着团队动荡加剧，OpenAI安全负责人大卫·罗宾逊辞职",
-      "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
-      "primary_url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "8d48e06f9b73c3afe927902326af5e5dcbfa164a",
-          "title": "随着团队动荡加剧，OpenAI安全负责人大卫·罗宾逊辞职",
-          "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-02T23:38:06.078000Z"
-        },
-        {
-          "id": "ff78092928749e40c5a4cd45006d55531d5c390b",
-          "title": "随着团队动荡加剧，OpenAI安全负责人大卫·罗宾逊辞职 / OpenAI safety leader David Robinson resigns as the team's upheaval mounts",
-          "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T23:15:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "8d48e06f9b73c3afe927902326af5e5dcbfa164a",
-          "title": "随着团队动荡加剧，OpenAI安全负责人大卫·罗宾逊辞职",
-          "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-02T23:38:06.078000Z"
-        },
-        {
-          "id": "ff78092928749e40c5a4cd45006d55531d5c390b",
-          "title": "随着团队动荡加剧，OpenAI安全负责人大卫·罗宾逊辞职 / OpenAI safety leader David Robinson resigns as the team's upheaval mounts",
-          "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T23:15:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5018,
-      "importance": 0.5018,
-      "importance_score": 0.5018,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7553,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-02T23:15:09Z",
-      "latest_at": "2026-10-02T23:38:06.078000Z",
-      "primary_item": {
-        "id": "8d48e06f9b73c3afe927902326af5e5dcbfa164a",
-        "title": "随着团队动荡加剧，OpenAI安全负责人大卫·罗宾逊辞职",
-        "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1360,15 +1181,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5228,
-      "importance": 0.5228,
-      "importance_score": 0.5228,
+      "score": 0.5156,
+      "importance": 0.5156,
+      "importance_score": 0.5156,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8722,
+        "recency": 0.832,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1383,6 +1204,85 @@
         "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_5f57051b63cd",
+      "title": "离职的OpenAI高管表示，在公司外部他能为安全工作做出更多贡献",
+      "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
+      "primary_url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2080d936c1819f46fd25670f1c25124c49b75be8",
+          "title": "离职的OpenAI高管表示，在公司外部他能为安全工作做出更多贡献",
+          "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T19:57:53.515000Z"
+        },
+        {
+          "id": "8221a55e5df868c8dfa529edede0a880d2d6db7a",
+          "title": "离职的OpenAI高管表示，在公司外部他能为安全工作做出更多贡献 / OpenAI leader who quit says he can do more for safety from outside the company",
+          "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-03T19:01:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "2080d936c1819f46fd25670f1c25124c49b75be8",
+          "title": "离职的OpenAI高管表示，在公司外部他能为安全工作做出更多贡献",
+          "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T19:57:53.515000Z"
+        },
+        {
+          "id": "8221a55e5df868c8dfa529edede0a880d2d6db7a",
+          "title": "离职的OpenAI高管表示，在公司外部他能为安全工作做出更多贡献 / OpenAI leader who quit says he can do more for safety from outside the company",
+          "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-03T19:01:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5397,
+      "importance": 0.5397,
+      "importance_score": 0.5397,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9664,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T19:01:53Z",
+      "latest_at": "2026-10-03T19:57:53.515000Z",
+      "primary_item": {
+        "id": "2080d936c1819f46fd25670f1c25124c49b75be8",
+        "title": "离职的OpenAI高管表示，在公司外部他能为安全工作做出更多贡献",
+        "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1439,15 +1339,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5151,
-      "importance": 0.5151,
-      "importance_score": 0.5151,
+      "score": 0.5082,
+      "importance": 0.5082,
+      "importance_score": 0.5082,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8296,
+        "recency": 0.7913,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1465,109 +1365,30 @@
       }
     },
     {
-      "story_id": "story_e0621817f640",
-      "title": "随着部分零售商将Meta AI眼镜下架，荷兰正考虑禁止该产品",
-      "url": "https://www.businessinsider.com/hans-anders-wehkamp-pause-meta-glasses-ray-ban-sales-netherlands-2026-10",
-      "primary_url": "https://www.businessinsider.com/hans-anders-wehkamp-pause-meta-glasses-ray-ban-sales-netherlands-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "34e78eb564b02577b02dae09cac21efd5a04a5f5",
-          "title": "随着部分零售商将Meta AI眼镜下架，荷兰正考虑禁止该产品",
-          "url": "https://www.businessinsider.com/hans-anders-wehkamp-pause-meta-glasses-ray-ban-sales-netherlands-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-02T22:34:45.976000Z"
-        },
-        {
-          "id": "c18dd6c420dc909427cb30ee1a6b27132ae142c5",
-          "title": "随着部分零售商将Meta AI眼镜下架，荷兰正考虑禁止该产品 / The Netherlands considers banning Meta AI glasses as some retailers pull them from shelves",
-          "url": "https://www.businessinsider.com/hans-anders-wehkamp-pause-meta-glasses-ray-ban-sales-netherlands-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T22:17:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "34e78eb564b02577b02dae09cac21efd5a04a5f5",
-          "title": "随着部分零售商将Meta AI眼镜下架，荷兰正考虑禁止该产品",
-          "url": "https://www.businessinsider.com/hans-anders-wehkamp-pause-meta-glasses-ray-ban-sales-netherlands-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-02T22:34:45.976000Z"
-        },
-        {
-          "id": "c18dd6c420dc909427cb30ee1a6b27132ae142c5",
-          "title": "随着部分零售商将Meta AI眼镜下架，荷兰正考虑禁止该产品 / The Netherlands considers banning Meta AI glasses as some retailers pull them from shelves",
-          "url": "https://www.businessinsider.com/hans-anders-wehkamp-pause-meta-glasses-ray-ban-sales-netherlands-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T22:17:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4997,
-      "importance": 0.4997,
-      "importance_score": 0.4997,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7439,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-02T22:17:12Z",
-      "latest_at": "2026-10-02T22:34:45.976000Z",
-      "primary_item": {
-        "id": "34e78eb564b02577b02dae09cac21efd5a04a5f5",
-        "title": "随着部分零售商将Meta AI眼镜下架，荷兰正考虑禁止该产品",
-        "url": "https://www.businessinsider.com/hans-anders-wehkamp-pause-meta-glasses-ray-ban-sales-netherlands-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_16e387cce67a",
-      "title": "Show HN：Pi pod – 在您自己的服务器上的沙箱中运行您的 pi 编码代理 / Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-      "url": "https://pipod.dev",
-      "primary_url": "https://pipod.dev",
+      "story_id": "story_dd8383f6829c",
+      "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
+      "url": "https://www.echohive.ai/one-million-tokens-per-second",
+      "primary_url": "https://www.echohive.ai/one-million-tokens-per-second",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "71e8f75c057eb3cc7940a72f177112e4c6c98d66",
-          "title": "Show HN：Pi pod – 在您自己的服务器上的沙箱中运行您的 pi 编码代理 / Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-          "url": "https://pipod.dev",
+          "id": "fef24cc6ce4b46f9321a2d981b4066ed231ed891",
+          "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
+          "url": "https://www.echohive.ai/one-million-tokens-per-second",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-02T19:10:38Z"
+          "published_at": "2026-10-03T04:22:21Z"
         },
         {
-          "id": "aa4135c79c7fa4833d31c9fdf087abcc0d3aebb3",
-          "title": "Show HN：Pi pod – 在您自己的服务器上的沙箱中运行您的 pi 编码代理 / Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-          "url": "https://news.ycombinator.com/item?id=49937304",
+          "id": "06b21514413a4e9eed0ff91f76a0d91769cf83da",
+          "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
+          "url": "https://news.ycombinator.com/item?id=49941327",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-02T19:10:38Z"
+          "published_at": "2026-10-03T04:22:21Z"
         }
       ],
       "source_count": 2,
@@ -1577,49 +1398,207 @@
       ],
       "items": [
         {
-          "id": "71e8f75c057eb3cc7940a72f177112e4c6c98d66",
-          "title": "Show HN：Pi pod – 在您自己的服务器上的沙箱中运行您的 pi 编码代理 / Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-          "url": "https://pipod.dev",
+          "id": "fef24cc6ce4b46f9321a2d981b4066ed231ed891",
+          "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
+          "url": "https://www.echohive.ai/one-million-tokens-per-second",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-02T19:10:38Z"
+          "published_at": "2026-10-03T04:22:21Z"
         },
         {
-          "id": "aa4135c79c7fa4833d31c9fdf087abcc0d3aebb3",
-          "title": "Show HN：Pi pod – 在您自己的服务器上的沙箱中运行您的 pi 编码代理 / Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-          "url": "https://news.ycombinator.com/item?id=49937304",
+          "id": "06b21514413a4e9eed0ff91f76a0d91769cf83da",
+          "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
+          "url": "https://news.ycombinator.com/item?id=49941327",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-02T19:10:38Z"
+          "published_at": "2026-10-03T04:22:21Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4933,
-      "importance": 0.4933,
-      "importance_score": 0.4933,
+      "score": 0.5047,
+      "importance": 0.5047,
+      "importance_score": 0.5047,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7082,
+        "recency": 0.7715,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-02T19:10:38Z",
-      "latest_at": "2026-10-02T19:10:38Z",
+      "earliest_at": "2026-10-03T04:22:21Z",
+      "latest_at": "2026-10-03T04:22:21Z",
       "primary_item": {
-        "id": "71e8f75c057eb3cc7940a72f177112e4c6c98d66",
-        "title": "Show HN：Pi pod – 在您自己的服务器上的沙箱中运行您的 pi 编码代理 / Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-        "url": "https://pipod.dev",
+        "id": "fef24cc6ce4b46f9321a2d981b4066ed231ed891",
+        "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
+        "url": "https://www.echohive.ai/one-million-tokens-per-second",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_54a7d29e5903",
+      "title": "刚刚，AI 击穿了「视频图灵测试」，1700 万网友在线围观",
+      "url": "https://www.36kr.com/p/4009475424063619",
+      "primary_url": "https://www.36kr.com/p/4009475424063619",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "3f8925ae3dd542d7099e9b1eb23ad0ad851e9136",
+          "title": "刚刚，AI 击穿了「视频图灵测试」，1700 万网友在线围观",
+          "url": "https://www.36kr.com/p/4009475424063619",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": "2026-10-03T06:07:37.650203Z"
+        },
+        {
+          "id": "75a3bbe3db6b62bfa5177e66d5054766569c218b",
+          "title": "刚刚，AI 击穿了“视频图灵测试”，1700万网友在线围观",
+          "url": "https://www.huxiu.com/article/4895240.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T03:27:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "3f8925ae3dd542d7099e9b1eb23ad0ad851e9136",
+          "title": "刚刚，AI 击穿了「视频图灵测试」，1700 万网友在线围观",
+          "url": "https://www.36kr.com/p/4009475424063619",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": "2026-10-03T06:07:37.650203Z"
+        },
+        {
+          "id": "75a3bbe3db6b62bfa5177e66d5054766569c218b",
+          "title": "刚刚，AI 击穿了“视频图灵测试”，1700万网友在线围观",
+          "url": "https://www.huxiu.com/article/4895240.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T03:27:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5082,
+      "importance": 0.5082,
+      "importance_score": 0.5082,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7913,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T03:27:52Z",
+      "latest_at": "2026-10-03T06:07:37.650203Z",
+      "primary_item": {
+        "id": "3f8925ae3dd542d7099e9b1eb23ad0ad851e9136",
+        "title": "刚刚，AI 击穿了「视频图灵测试」，1700 万网友在线围观",
+        "url": "https://www.36kr.com/p/4009475424063619",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_4750dadd29cc",
+      "title": "随着团队动荡加剧，OpenAI安全负责人大卫·罗宾逊辞职",
+      "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
+      "primary_url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8d48e06f9b73c3afe927902326af5e5dcbfa164a",
+          "title": "随着团队动荡加剧，OpenAI安全负责人大卫·罗宾逊辞职",
+          "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T23:38:06.078000Z"
+        },
+        {
+          "id": "ff78092928749e40c5a4cd45006d55531d5c390b",
+          "title": "随着团队动荡加剧，OpenAI安全负责人大卫·罗宾逊辞职 / OpenAI safety leader David Robinson resigns as the team's upheaval mounts",
+          "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-02T23:15:09Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "8d48e06f9b73c3afe927902326af5e5dcbfa164a",
+          "title": "随着团队动荡加剧，OpenAI安全负责人大卫·罗宾逊辞职",
+          "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T23:38:06.078000Z"
+        },
+        {
+          "id": "ff78092928749e40c5a4cd45006d55531d5c390b",
+          "title": "随着团队动荡加剧，OpenAI安全负责人大卫·罗宾逊辞职 / OpenAI safety leader David Robinson resigns as the team's upheaval mounts",
+          "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-02T23:15:09Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4955,
+      "importance": 0.4955,
+      "importance_score": 0.4955,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7205,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-02T23:15:09Z",
+      "latest_at": "2026-10-02T23:38:06.078000Z",
+      "primary_item": {
+        "id": "8d48e06f9b73c3afe927902326af5e5dcbfa164a",
+        "title": "随着团队动荡加剧，OpenAI安全负责人大卫·罗宾逊辞职",
+        "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     }
   ]
