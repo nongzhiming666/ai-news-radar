@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T22:20:46.742922Z",
+  "generated_at": "2026-10-06T02:25:01.936896Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8839,
-      "importance": 0.8839,
-      "importance_score": 0.8839,
+      "score": 0.8746,
+      "importance": 0.8746,
+      "importance_score": 0.8746,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8993,
+        "recency": 0.848,
         "story_heat": 0.5
       },
       "category": "official",
@@ -101,6 +101,68 @@
         "title": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印 / Our approach to EU text provenance rules",
         "url": "https://openai.com/index/eu-text-provenance",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_33658ec816ee",
+      "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "primary_url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T22:42:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T22:42:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8346,
+      "importance": 0.8346,
+      "importance_score": 0.8346,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9478,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T22:42:14Z",
+      "latest_at": "2026-10-05T22:42:14Z",
+      "primary_item": {
+        "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+        "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+        "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -177,15 +239,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8726,
-      "importance": 0.8726,
-      "importance_score": 0.8726,
+      "score": 0.864,
+      "importance": 0.864,
+      "importance_score": 0.864,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8367,
+        "recency": 0.7889,
         "story_heat": 0.5
       },
       "category": "official",
@@ -240,15 +302,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8342,
-      "importance": 0.8342,
-      "importance_score": 0.8342,
+      "score": 0.8248,
+      "importance": 0.8248,
+      "importance_score": 0.8248,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.9124,
+        "recency": 0.8603,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,15 +402,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8244,
-      "importance": 0.8244,
-      "importance_score": 0.8244,
+      "score": 0.8148,
+      "importance": 0.8148,
+      "importance_score": 0.8148,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9377,
+        "recency": 0.8842,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -383,10 +445,20 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-10-05T20:01:09Z"
+        },
+        {
+          "id": "539723ae370c4e3ff112321bee8d539ee4a84d52",
+          "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-05T20:06:53Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
+        "HN Algolia · AI 24h",
         "SemiAnalysis 长文 RSS（RSS）"
       ],
       "items": [
@@ -398,19 +470,90 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-10-05T20:01:09Z"
+        },
+        {
+          "id": "539723ae370c4e3ff112321bee8d539ee4a84d52",
+          "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-05T20:06:53Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7737,
+      "importance": 0.7737,
+      "importance_score": 0.7737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.967,
+        "recency": 0.9117,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T20:01:09Z",
+      "latest_at": "2026-10-05T20:06:53Z",
+      "primary_item": {
+        "id": "b906c87e1be812fa3e77f08e9b3992962674d815",
+        "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
+        "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+        "source": "SemiAnalysis 长文 RSS（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0c59abf680fe79a36ddbefdc88193c9be8071cdf",
+          "title": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T00:18:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "0c59abf680fe79a36ddbefdc88193c9be8071cdf",
+          "title": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T00:18:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9699,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -418,13 +561,94 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-05T20:01:09Z",
-      "latest_at": "2026-10-05T20:01:09Z",
+      "earliest_at": "2026-10-06T00:18:00Z",
+      "latest_at": "2026-10-06T00:18:00Z",
       "primary_item": {
-        "id": "b906c87e1be812fa3e77f08e9b3992962674d815",
-        "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
-        "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
-        "source": "SemiAnalysis 长文 RSS（RSS）",
+        "id": "0c59abf680fe79a36ddbefdc88193c9be8071cdf",
+        "title": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cbee4f834379",
+      "title": "Anthropic Cowork 改为云端运行模型推理与 VM",
+      "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
+      "primary_url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
+      "source": "Simon Willison 博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cb0cddb76e30c17e18f4721998588c248f390c4c",
+          "title": "Anthropic Cowork 改为云端运行模型推理与 VM",
+          "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T23:56:47Z"
+        },
+        {
+          "id": "139eb77327be22d68c04f780ffc14a2db773bd67",
+          "title": "Anthropic Cowork 改为云端运行模型推理与 VM / Quoting Felix Rieseberg",
+          "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "Simon Willison 博客"
+      ],
+      "items": [
+        {
+          "id": "cb0cddb76e30c17e18f4721998588c248f390c4c",
+          "title": "Anthropic Cowork 改为云端运行模型推理与 VM",
+          "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T23:56:47Z"
+        },
+        {
+          "id": "139eb77327be22d68c04f780ffc14a2db773bd67",
+          "title": "Anthropic Cowork 改为云端运行模型推理与 VM / Quoting Felix Rieseberg",
+          "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.61,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9649,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T23:56:47Z",
+      "latest_at": "2026-10-06T02:25:01.936896Z",
+      "primary_item": {
+        "id": "cb0cddb76e30c17e18f4721998588c248f390c4c",
+        "title": "Anthropic Cowork 改为云端运行模型推理与 VM",
+        "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
+        "source": "Simon Willison 博客",
         "source_name": "AI HOT"
       }
     },
@@ -482,15 +706,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6321,
-      "importance": 0.6321,
-      "importance_score": 0.6321,
+      "score": 0.6232,
+      "importance": 0.6232,
+      "importance_score": 0.6232,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.8612,
+        "recency": 0.8121,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -504,6 +728,84 @@
         "title": "Safeworld 能否让人们相信 GenAI 机器人不会伤害他们？ / Can Safeworld convince people that GenAI robots won’t hurt them?",
         "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
         "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_fb1f3dca95af",
+      "title": "双子座打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you&#8217;re running late",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "9f50ea291113227861db0a922f6ccf9a1d899eae",
+          "title": "双子座打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you&#8217;re running late",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-05T23:09:55Z"
+        },
+        {
+          "id": "afc87f46d15bdc51d47afd10a55a7d6d683340fd",
+          "title": "双子座打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you’re running late",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T23:09:55Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "9f50ea291113227861db0a922f6ccf9a1d899eae",
+          "title": "双子座打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you&#8217;re running late",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-05T23:09:55Z"
+        },
+        {
+          "id": "afc87f46d15bdc51d47afd10a55a7d6d683340fd",
+          "title": "双子座打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you’re running late",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T23:09:55Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6197,
+      "importance": 0.6197,
+      "importance_score": 0.6197,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.58,
+        "ai_relevance": 0.71,
+        "recency": 0.9541,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T23:09:55Z",
+      "latest_at": "2026-10-05T23:09:55Z",
+      "primary_item": {
+        "id": "9f50ea291113227861db0a922f6ccf9a1d899eae",
+        "title": "双子座打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you&#8217;re running late",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+        "source": "The Verge",
         "source_name": "Curated Media"
       }
     },
@@ -561,15 +863,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6181,
-      "importance": 0.6181,
-      "importance_score": 0.6181,
+      "score": 0.6091,
+      "importance": 0.6091,
+      "importance_score": 0.6091,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.8758,
+        "recency": 0.8258,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -584,6 +886,202 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
         "source": "The Verge",
         "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_2ac688ca159f",
+      "title": "Dust：无需反向传播的Transformer预训练",
+      "url": "https://qlabs.sh/research/dust",
+      "primary_url": "https://qlabs.sh/research/dust",
+      "source": "qlabs.sh",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6abc950411f12d66528f0bb68255022157286bbb",
+          "title": "Dust：无需反向传播的Transformer预训练",
+          "url": "https://qlabs.sh/research/dust",
+          "source": "qlabs.sh",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T02:07:52.842000Z"
+        },
+        {
+          "id": "e3a8211c35b9804f3ac5076228b60f7a685091f2",
+          "title": "Dust：无需反向传播的Transformer预训练 / Dust: Pretraining Transformers Without Backpropagation",
+          "url": "https://qlabs.sh/research/dust",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T21:15:07Z"
+        },
+        {
+          "id": "7389c431f138003ff1424c3abc0027a58665a484",
+          "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
+          "url": "https://news.ycombinator.com/item?id=49970871",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T21:15:07Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "qlabs.sh"
+      ],
+      "items": [
+        {
+          "id": "6abc950411f12d66528f0bb68255022157286bbb",
+          "title": "Dust：无需反向传播的Transformer预训练",
+          "url": "https://qlabs.sh/research/dust",
+          "source": "qlabs.sh",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T02:07:52.842000Z"
+        },
+        {
+          "id": "e3a8211c35b9804f3ac5076228b60f7a685091f2",
+          "title": "Dust：无需反向传播的Transformer预训练 / Dust: Pretraining Transformers Without Backpropagation",
+          "url": "https://qlabs.sh/research/dust",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T21:15:07Z"
+        },
+        {
+          "id": "7389c431f138003ff1424c3abc0027a58665a484",
+          "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
+          "url": "https://news.ycombinator.com/item?id=49970871",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T21:15:07Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5701,
+      "importance": 0.5701,
+      "importance_score": 0.5701,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9959,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T21:15:07Z",
+      "latest_at": "2026-10-06T02:07:52.842000Z",
+      "primary_item": {
+        "id": "6abc950411f12d66528f0bb68255022157286bbb",
+        "title": "Dust：无需反向传播的Transformer预训练",
+        "url": "https://qlabs.sh/research/dust",
+        "source": "qlabs.sh",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_cf509067bcf9",
+      "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
+      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
+      "primary_url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
+      "source": "www.niemanlab.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1318638ce556ac31bceb2a87eda81988b5311701",
+          "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
+          "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
+          "source": "www.niemanlab.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T00:19:39.500000Z"
+        },
+        {
+          "id": "b01db7403fc715c7d7920fbea41774cf3146fac8",
+          "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中 / ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T22:46:45Z"
+        },
+        {
+          "id": "2cb70f077d555c7fa7caf48e06b154d6a1751555",
+          "title": "ChatGPT 正在将真正的漫画家签名添加到假《纽约客》漫画中 / ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "url": "https://news.ycombinator.com/item?id=49971846",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T22:46:45Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.niemanlab.org"
+      ],
+      "items": [
+        {
+          "id": "1318638ce556ac31bceb2a87eda81988b5311701",
+          "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
+          "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
+          "source": "www.niemanlab.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T00:19:39.500000Z"
+        },
+        {
+          "id": "b01db7403fc715c7d7920fbea41774cf3146fac8",
+          "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中 / ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T22:46:45Z"
+        },
+        {
+          "id": "2cb70f077d555c7fa7caf48e06b154d6a1751555",
+          "title": "ChatGPT 正在将真正的漫画家签名添加到假《纽约客》漫画中 / ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "url": "https://news.ycombinator.com/item?id=49971846",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T22:46:45Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5654,
+      "importance": 0.5654,
+      "importance_score": 0.5654,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9703,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T22:46:45Z",
+      "latest_at": "2026-10-06T00:19:39.500000Z",
+      "primary_item": {
+        "id": "1318638ce556ac31bceb2a87eda81988b5311701",
+        "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
+        "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
+        "source": "www.niemanlab.org",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -659,15 +1157,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5704,
-      "importance": 0.5704,
-      "importance_score": 0.5704,
+      "score": 0.5602,
+      "importance": 0.5602,
+      "importance_score": 0.5602,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9979,
+        "recency": 0.9409,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -682,122 +1180,6 @@
         "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
         "source": "www.vals.ai",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c84b492b133a",
-      "title": "特朗普公布“超级智能部队”以监督人工智能政策 / Trump chooses top spy boss to run new AI taskforce",
-      "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News (世界新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "711160b7cabe8df2e79adbe124699c73eb39ae3e",
-          "title": "特朗普公布“超级智能部队”以监督人工智能政策 / Trump chooses top spy boss to run new AI taskforce",
-          "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T10:03:38Z"
-        },
-        {
-          "id": "4ecb62e9d286c3ac9e22937bc68fea000d3a1a0e",
-          "title": "特朗普公布“超级智能部队”以监督人工智能政策 / Trump unveils 'Super Intelligence Force' to oversee AI policy",
-          "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T06:15:29Z"
-        },
-        {
-          "id": "6d1f23102a6c051969a55f7555715ca9ed54ac36",
-          "title": "特朗普公布“超级智能部队”以监督人工智能政策",
-          "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T05:08:48.631000Z"
-        },
-        {
-          "id": "239e85c7486b0111b2e5451f0360d0e74d4f0fd4",
-          "title": "特朗普公布“超级智能部队”以监督人工智能政策 / Trump announces 'Super Intelligence Force' to oversee AI policy",
-          "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T01:33:08Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "BBC News",
-        "BBC News (世界新闻)",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "711160b7cabe8df2e79adbe124699c73eb39ae3e",
-          "title": "特朗普公布“超级智能部队”以监督人工智能政策 / Trump chooses top spy boss to run new AI taskforce",
-          "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T10:03:38Z"
-        },
-        {
-          "id": "4ecb62e9d286c3ac9e22937bc68fea000d3a1a0e",
-          "title": "特朗普公布“超级智能部队”以监督人工智能政策 / Trump unveils 'Super Intelligence Force' to oversee AI policy",
-          "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T06:15:29Z"
-        },
-        {
-          "id": "6d1f23102a6c051969a55f7555715ca9ed54ac36",
-          "title": "特朗普公布“超级智能部队”以监督人工智能政策",
-          "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T05:08:48.631000Z"
-        },
-        {
-          "id": "239e85c7486b0111b2e5451f0360d0e74d4f0fd4",
-          "title": "特朗普公布“超级智能部队”以监督人工智能政策 / Trump announces 'Super Intelligence Force' to oversee AI policy",
-          "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T01:33:08Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5665,
-      "importance": 0.5665,
-      "importance_score": 0.5665,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8374,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T01:33:08Z",
-      "latest_at": "2026-10-05T10:03:38Z",
-      "primary_item": {
-        "id": "711160b7cabe8df2e79adbe124699c73eb39ae3e",
-        "title": "特朗普公布“超级智能部队”以监督人工智能政策 / Trump chooses top spy boss to run new AI taskforce",
-        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News (世界新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -873,15 +1255,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5574,
-      "importance": 0.5574,
-      "importance_score": 0.5574,
+      "score": 0.5479,
+      "importance": 0.5479,
+      "importance_score": 0.5479,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9257,
+        "recency": 0.8729,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -971,15 +1353,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5561,
-      "importance": 0.5561,
-      "importance_score": 0.5561,
+      "score": 0.5467,
+      "importance": 0.5467,
+      "importance_score": 0.5467,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9186,
+        "recency": 0.8662,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -994,6 +1376,85 @@
         "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
         "source": "www.bbc.co.uk",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_ee2725a14836",
+      "title": "我国应用下一代通信关键技术空心光纤，AI 算力时代给光信号造出「磁悬浮」高速轨道",
+      "url": "https://www.ithome.com/1/009/941.htm",
+      "primary_url": "https://www.ithome.com/1/009/941.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "d6c1df6d433ede758c49edfd081eea5005532d35",
+          "title": "我国应用下一代通信关键技术空心光纤，AI 算力时代给光信号造出「磁悬浮」高速轨道",
+          "url": "https://www.ithome.com/1/009/941.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d4e9acb6adeeaeb6a77a86a55920d6d1e9f8e5d5",
+          "title": "我国应用下一代通信关键技术空心光纤，AI 算力时代给光信号造出“磁悬浮”高速轨道",
+          "url": "https://www.ithome.com/1/009/941.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-06T01:16:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d6c1df6d433ede758c49edfd081eea5005532d35",
+          "title": "我国应用下一代通信关键技术空心光纤，AI 算力时代给光信号造出「磁悬浮」高速轨道",
+          "url": "https://www.ithome.com/1/009/941.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d4e9acb6adeeaeb6a77a86a55920d6d1e9f8e5d5",
+          "title": "我国应用下一代通信关键技术空心光纤，AI 算力时代给光信号造出“磁悬浮”高速轨道",
+          "url": "https://www.ithome.com/1/009/941.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-06T01:16:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-06T01:16:52Z",
+      "latest_at": "2026-10-06T02:25:01.936896Z",
+      "primary_item": {
+        "id": "d6c1df6d433ede758c49edfd081eea5005532d35",
+        "title": "我国应用下一代通信关键技术空心光纤，AI 算力时代给光信号造出「磁悬浮」高速轨道",
+        "url": "https://www.ithome.com/1/009/941.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1069,15 +1530,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.555,
-      "importance": 0.555,
-      "importance_score": 0.555,
+      "score": 0.5457,
+      "importance": 0.5457,
+      "importance_score": 0.5457,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9124,
+        "recency": 0.8603,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1095,286 +1556,109 @@
       }
     },
     {
-      "story_id": "story_4c94ef1906d2",
-      "title": "欧洲新晋机器人领域独角兽：德国RobCo估值突破10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
-      "primary_url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
+      "story_id": "story_a350ea261050",
+      "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI Tutoring with Khanmigo in a Two-Year School Experiment",
+      "url": "https://edworkingpapers.com/ai26-1551",
+      "primary_url": "https://edworkingpapers.com/ai26-1551",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "79a6e4042f76f22a7be9b70fc1181b298f932f8f",
-          "title": "欧洲新晋机器人领域独角兽：德国RobCo估值突破10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
+          "id": "e2399e6edde98fba848c3ff490a06f209f3cba34",
+          "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI Tutoring with Khanmigo in a Two-Year School Experiment",
+          "url": "https://edworkingpapers.com/ai26-1551",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-05T11:13:51Z"
+          "published_at": "2026-10-06T00:00:45Z"
         },
         {
-          "id": "734f4d6c940895063ba652a764e19dd600662efb",
-          "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "url": "https://news.ycombinator.com/item?id=49963366",
+          "id": "524dc7139f27489f87eb2f98f304fb9e3e0e35d4",
+          "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI Tutoring with Khanmigo in a Two-Year School Experiment",
+          "url": "https://news.ycombinator.com/item?id=49972419",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-05T11:13:51Z"
-        },
-        {
-          "id": "df0933b217a6a24df270d279da5b6902e306e78b",
-          "title": "欧洲新晋机器人领域独角兽：德国RobCo估值突破10亿美元 / Germany’s RobCo hits $1B valuation",
-          "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T11:13:51Z"
+          "published_at": "2026-10-06T00:00:45Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "79a6e4042f76f22a7be9b70fc1181b298f932f8f",
-          "title": "欧洲新晋机器人领域独角兽：德国RobCo估值突破10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
+          "id": "e2399e6edde98fba848c3ff490a06f209f3cba34",
+          "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI Tutoring with Khanmigo in a Two-Year School Experiment",
+          "url": "https://edworkingpapers.com/ai26-1551",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-05T11:13:51Z"
+          "published_at": "2026-10-06T00:00:45Z"
         },
         {
-          "id": "734f4d6c940895063ba652a764e19dd600662efb",
-          "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "url": "https://news.ycombinator.com/item?id=49963366",
+          "id": "524dc7139f27489f87eb2f98f304fb9e3e0e35d4",
+          "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI Tutoring with Khanmigo in a Two-Year School Experiment",
+          "url": "https://news.ycombinator.com/item?id=49972419",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-05T11:13:51Z"
-        },
-        {
-          "id": "df0933b217a6a24df270d279da5b6902e306e78b",
-          "title": "欧洲新晋机器人领域独角兽：德国RobCo估值突破10亿美元 / Germany’s RobCo hits $1B valuation",
-          "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T11:13:51Z"
+          "published_at": "2026-10-06T00:00:45Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5441,
-      "importance": 0.5441,
-      "importance_score": 0.5441,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5397,
+      "importance": 0.5397,
+      "importance_score": 0.5397,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8517,
-        "story_heat": 0.5
+        "recency": 0.9659,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-05T11:13:51Z",
-      "latest_at": "2026-10-05T11:13:51Z",
+      "earliest_at": "2026-10-06T00:00:45Z",
+      "latest_at": "2026-10-06T00:00:45Z",
       "primary_item": {
-        "id": "79a6e4042f76f22a7be9b70fc1181b298f932f8f",
-        "title": "欧洲新晋机器人领域独角兽：德国RobCo估值突破10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-        "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
+        "id": "e2399e6edde98fba848c3ff490a06f209f3cba34",
+        "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI Tutoring with Khanmigo in a Two-Year School Experiment",
+        "url": "https://edworkingpapers.com/ai26-1551",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       }
     },
     {
-      "story_id": "story_7ded5c03aba5",
-      "title": "Beam：Reflection 501B 无重量限制款",
-      "url": "https://reflection.ai/blog/introducing-beam",
-      "primary_url": "https://reflection.ai/blog/introducing-beam",
-      "source": "reflection.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "44cfb7cdf0cf1cc77a8cef468aec8a4f59c86ca1",
-          "title": "Beam：Reflection 501B 无重量限制款",
-          "url": "https://reflection.ai/blog/introducing-beam",
-          "source": "reflection.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T20:22:29.758000Z"
-        },
-        {
-          "id": "bd24c604cb73683d730ccb49bffde32d4521fd30",
-          "title": "Beam：Reflection 501B 无重量限制款 / Beam: Reflection's 501B open-weight model",
-          "url": "https://reflection.ai/blog/introducing-beam",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T19:16:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "reflection.ai"
-      ],
-      "items": [
-        {
-          "id": "44cfb7cdf0cf1cc77a8cef468aec8a4f59c86ca1",
-          "title": "Beam：Reflection 501B 无重量限制款",
-          "url": "https://reflection.ai/blog/introducing-beam",
-          "source": "reflection.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T20:22:29.758000Z"
-        },
-        {
-          "id": "bd24c604cb73683d730ccb49bffde32d4521fd30",
-          "title": "Beam：Reflection 501B 无重量限制款 / Beam: Reflection's 501B open-weight model",
-          "url": "https://reflection.ai/blog/introducing-beam",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T19:16:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9719,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T19:16:35Z",
-      "latest_at": "2026-10-05T20:22:29.758000Z",
-      "primary_item": {
-        "id": "44cfb7cdf0cf1cc77a8cef468aec8a4f59c86ca1",
-        "title": "Beam：Reflection 501B 无重量限制款",
-        "url": "https://reflection.ai/blog/introducing-beam",
-        "source": "reflection.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d4a655292722",
-      "title": "亚马逊聘请了微软前Copilot首席技术官",
-      "url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
-      "primary_url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ccc5c68253bf3d8bb6856a9b13c33c2c1e226439",
-          "title": "亚马逊聘请了微软前Copilot首席技术官",
-          "url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T18:03:29.958000Z"
-        },
-        {
-          "id": "9fd9fffac6b0fff00e7ef9c446e55768f06c360c",
-          "title": "亚马逊聘请了微软前Copilot首席技术官 / Amazon hires Microsoft's former Copilot CTO",
-          "url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T17:45:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "ccc5c68253bf3d8bb6856a9b13c33c2c1e226439",
-          "title": "亚马逊聘请了微软前Copilot首席技术官",
-          "url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T18:03:29.958000Z"
-        },
-        {
-          "id": "9fd9fffac6b0fff00e7ef9c446e55768f06c360c",
-          "title": "亚马逊聘请了微软前Copilot首席技术官 / Amazon hires Microsoft's former Copilot CTO",
-          "url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T17:45:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.94,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T17:45:01Z",
-      "latest_at": "2026-10-05T18:03:29.958000Z",
-      "primary_item": {
-        "id": "ccc5c68253bf3d8bb6856a9b13c33c2c1e226439",
-        "title": "亚马逊聘请了微软前Copilot首席技术官",
-        "url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_252dbc47848d",
-      "title": "AI眼镜面临首次重大政府整顿",
-      "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown",
-      "primary_url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown",
+      "story_id": "story_bc25a570a711",
+      "title": "用于节点间通信的MCP协议，可能是你从未听说过的风险最高的协议",
+      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp",
+      "primary_url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp",
       "source": "arstechnica.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "2e3edba54f6b622e43aa4d49499a131a54e37016",
-          "title": "AI眼镜面临首次重大政府整顿",
-          "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown",
+          "id": "af96ec8c68b3432e6e2d1190ef84809e0f077d8d",
+          "title": "用于节点间通信的MCP协议，可能是你从未听说过的风险最高的协议",
+          "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp",
           "source": "arstechnica.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-05T15:56:14.551000Z"
+          "published_at": "2026-10-05T23:00:27.618000Z"
         },
         {
-          "id": "335c4e8c2ec27ce7f77c1a8fb0969cc65e573c12",
-          "title": "AI眼镜面临首次重大政府整顿 / AI glasses face their first major government crackdown",
-          "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown",
+          "id": "40859bf1aacaa2b4000de6c609d0368b8930c0bd",
+          "title": "用于节点间通信的MCP协议，可能是你从未听说过的风险最高的协议 / MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+          "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp",
           "source": "Ars Technica",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-10-05T13:39:30Z"
+          "published_at": "2026-10-05T22:26:35Z"
         }
       ],
       "source_count": 2,
@@ -1384,365 +1668,49 @@
       ],
       "items": [
         {
-          "id": "2e3edba54f6b622e43aa4d49499a131a54e37016",
-          "title": "AI眼镜面临首次重大政府整顿",
-          "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown",
+          "id": "af96ec8c68b3432e6e2d1190ef84809e0f077d8d",
+          "title": "用于节点间通信的MCP协议，可能是你从未听说过的风险最高的协议",
+          "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp",
           "source": "arstechnica.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-05T15:56:14.551000Z"
+          "published_at": "2026-10-05T23:00:27.618000Z"
         },
         {
-          "id": "335c4e8c2ec27ce7f77c1a8fb0969cc65e573c12",
-          "title": "AI眼镜面临首次重大政府整顿 / AI glasses face their first major government crackdown",
-          "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown",
+          "id": "40859bf1aacaa2b4000de6c609d0368b8930c0bd",
+          "title": "用于节点间通信的MCP协议，可能是你从未听说过的风险最高的协议 / MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+          "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp",
           "source": "Ars Technica",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-10-05T13:39:30Z"
+          "published_at": "2026-10-05T22:26:35Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5299,
-      "importance": 0.5299,
-      "importance_score": 0.5299,
+      "score": 0.5372,
+      "importance": 0.5372,
+      "importance_score": 0.5372,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9116,
+        "recency": 0.952,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-05T13:39:30Z",
-      "latest_at": "2026-10-05T15:56:14.551000Z",
+      "earliest_at": "2026-10-05T22:26:35Z",
+      "latest_at": "2026-10-05T23:00:27.618000Z",
       "primary_item": {
-        "id": "2e3edba54f6b622e43aa4d49499a131a54e37016",
-        "title": "AI眼镜面临首次重大政府整顿",
-        "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown",
+        "id": "af96ec8c68b3432e6e2d1190ef84809e0f077d8d",
+        "title": "用于节点间通信的MCP协议，可能是你从未听说过的风险最高的协议",
+        "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp",
         "source": "arstechnica.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_732b4103dd14",
-      "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
-      "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
-      "primary_url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "eac00cc5c34397209550ab29883d539daf7546b6",
-          "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
-          "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T15:06:27Z"
-        },
-        {
-          "id": "bfe2150c777cd87631161420d58652649ca7ddcb",
-          "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
-          "url": "https://www.reddit.com/r/nottheonion/comments/1wy7x58/people_are_asking_chatgpt_to_help_them_decide_how",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T12:59:37Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Reddit (热门)"
-      ],
-      "items": [
-        {
-          "id": "eac00cc5c34397209550ab29883d539daf7546b6",
-          "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
-          "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T15:06:27Z"
-        },
-        {
-          "id": "bfe2150c777cd87631161420d58652649ca7ddcb",
-          "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
-          "url": "https://www.reddit.com/r/nottheonion/comments/1wy7x58/people_are_asking_chatgpt_to_help_them_decide_how",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T12:59:37Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5279,
-      "importance": 0.5279,
-      "importance_score": 0.5279,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9007,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T12:59:37Z",
-      "latest_at": "2026-10-05T15:06:27Z",
-      "primary_item": {
-        "id": "eac00cc5c34397209550ab29883d539daf7546b6",
-        "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
-        "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_d0c0677e9fe0",
-      "title": "萨姆·阿尔特曼表示，应接受人工智能带来的“负面影响”，以换取其带来的好处",
-      "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-      "primary_url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-      "source": "www.theguardian.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e4154b27074d62a82954e744ab4324eb729f5d2c",
-          "title": "萨姆·阿尔特曼表示，应接受人工智能带来的“负面影响”，以换取其带来的好处",
-          "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T13:01:27.999000Z"
-        },
-        {
-          "id": "313441ca5855513a5033a46fa780b72ba31e092c",
-          "title": "萨姆·阿尔特曼表示，应接受人工智能带来的“负面影响”，以换取其带来的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
-          "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T12:56:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.theguardian.com"
-      ],
-      "items": [
-        {
-          "id": "e4154b27074d62a82954e744ab4324eb729f5d2c",
-          "title": "萨姆·阿尔特曼表示，应接受人工智能带来的“负面影响”，以换取其带来的好处",
-          "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T13:01:27.999000Z"
-        },
-        {
-          "id": "313441ca5855513a5033a46fa780b72ba31e092c",
-          "title": "萨姆·阿尔特曼表示，应接受人工智能带来的“负面影响”，以换取其带来的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
-          "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T12:56:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5231,
-      "importance": 0.5231,
-      "importance_score": 0.5231,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8741,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T12:56:18Z",
-      "latest_at": "2026-10-05T13:01:27.999000Z",
-      "primary_item": {
-        "id": "e4154b27074d62a82954e744ab4324eb729f5d2c",
-        "title": "萨姆·阿尔特曼表示，应接受人工智能带来的“负面影响”，以换取其带来的好处",
-        "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-        "source": "www.theguardian.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2ac688ca159f",
-      "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
-      "url": "https://qlabs.sh/research/dust",
-      "primary_url": "https://qlabs.sh/research/dust",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "e3a8211c35b9804f3ac5076228b60f7a685091f2",
-          "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
-          "url": "https://qlabs.sh/research/dust",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T21:15:07Z"
-        },
-        {
-          "id": "7389c431f138003ff1424c3abc0027a58665a484",
-          "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
-          "url": "https://news.ycombinator.com/item?id=49970871",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T21:15:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e3a8211c35b9804f3ac5076228b60f7a685091f2",
-          "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
-          "url": "https://qlabs.sh/research/dust",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T21:15:07Z"
-        },
-        {
-          "id": "7389c431f138003ff1424c3abc0027a58665a484",
-          "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
-          "url": "https://news.ycombinator.com/item?id=49970871",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T21:15:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.543,
-      "importance": 0.543,
-      "importance_score": 0.543,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9843,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T21:15:07Z",
-      "latest_at": "2026-10-05T21:15:07Z",
-      "primary_item": {
-        "id": "e3a8211c35b9804f3ac5076228b60f7a685091f2",
-        "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
-        "url": "https://qlabs.sh/research/dust",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_adebaf99ef7a",
-      "title": "美国佛州一女子把 AI 当「日记本」用，Claude 识别到枪击威胁后上报给 Anthropic 人工审核并报警",
-      "url": "https://www.ithome.com/1/009/795.htm",
-      "primary_url": "https://www.ithome.com/1/009/795.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "17da319aa1f133f4178df36831153d44d5ef8751",
-          "title": "美国佛州一女子把 AI 当「日记本」用，Claude 识别到枪击威胁后上报给 Anthropic 人工审核并报警",
-          "url": "https://www.ithome.com/1/009/795.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "11be5a2e9a5386c748d81fd01ef75e74eb7586cd",
-          "title": "美国佛州一女子把 AI 当“日记本”用，Claude 识别到枪击威胁后上报给 Anthropic 人工审核并报警",
-          "url": "https://www.ithome.com/1/009/795.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T05:00:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "17da319aa1f133f4178df36831153d44d5ef8751",
-          "title": "美国佛州一女子把 AI 当「日记本」用，Claude 识别到枪击威胁后上报给 Anthropic 人工审核并报警",
-          "url": "https://www.ithome.com/1/009/795.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "11be5a2e9a5386c748d81fd01ef75e74eb7586cd",
-          "title": "美国佛州一女子把 AI 当“日记本”用，Claude 识别到枪击威胁后上报给 Anthropic 人工审核并报警",
-          "url": "https://www.ithome.com/1/009/795.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T05:00:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5092,
-      "importance": 0.5092,
-      "importance_score": 0.5092,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7967,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T05:00:25Z",
-      "latest_at": "2026-10-05T06:36:29.871453Z",
-      "primary_item": {
-        "id": "17da319aa1f133f4178df36831153d44d5ef8751",
-        "title": "美国佛州一女子把 AI 当「日记本」用，Claude 识别到枪击威胁后上报给 Anthropic 人工审核并报警",
-        "url": "https://www.ithome.com/1/009/795.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
