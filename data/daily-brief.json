@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T06:29:44.715534Z",
+  "generated_at": "2026-10-08T13:56:31.336559Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8579,
-      "importance": 0.8579,
-      "importance_score": 0.8579,
+      "score": 0.8426,
+      "importance": 0.8426,
+      "importance_score": 0.8426,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8351,
+        "recency": 0.75,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -120,88 +120,6 @@
         "url": "https://openai.com/index/gpt-6-for-everyone",
         "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5bdd694c6290",
-      "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d9cda66c440e460d39f69205bed1c9ae08d814f0",
-          "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T12:45:31Z"
-        },
-        {
-          "id": "e604890092b2b3e860f6a73a9463552f349d2f3d",
-          "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-          "source": "Hugging Face 社区博客（混合发现）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T12:45:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face 社区博客（混合发现）"
-      ],
-      "items": [
-        {
-          "id": "d9cda66c440e460d39f69205bed1c9ae08d814f0",
-          "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T12:45:31Z"
-        },
-        {
-          "id": "e604890092b2b3e860f6a73a9463552f349d2f3d",
-          "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-          "source": "Hugging Face 社区博客（混合发现）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T12:45:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8443,
-      "importance": 0.8443,
-      "importance_score": 0.8443,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.774,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T12:45:31Z",
-      "latest_at": "2026-10-07T12:45:31Z",
-      "primary_item": {
-        "id": "d9cda66c440e460d39f69205bed1c9ae08d814f0",
-        "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-        "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -239,15 +157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8403,
-      "importance": 0.8403,
-      "importance_score": 0.8403,
+      "score": 0.8231,
+      "importance": 0.8231,
+      "importance_score": 0.8231,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 1.0,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9371,
+        "recency": 0.8416,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -300,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8351,
-      "importance": 0.8351,
-      "importance_score": 0.8351,
+      "score": 0.8193,
+      "importance": 0.8193,
+      "importance_score": 0.8193,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8619,
+        "recency": 0.774,
         "story_heat": 0.0
       },
       "category": "official",
@@ -328,307 +246,83 @@
       }
     },
     {
-      "story_id": "story_ea4f899dc8df",
-      "title": "Google Playground：创建并游玩自定义游戏 / Introducing Playground: Create and play custom games",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_50a66e8e1b35",
+      "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
+      "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+      "primary_url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "848420b61bf519d454e6d7b9a53b94e0eef7dfc1",
-          "title": "Google Playground：创建并游玩自定义游戏 / Introducing Playground: Create and play custom games",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T12:00:00Z"
+          "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
+          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
+          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T13:01:01Z"
         },
         {
-          "id": "61c14a01e0333dd09aa20b3d42db2b7bc47adc2d",
-          "title": "Google Playground：创建并游玩自定义游戏 / Google Playground: Create and play custom games",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-07T12:28:36Z"
+          "id": "6b25054c9d4aec6ddef45d7c6f81e4d7902c67d4",
+          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-08T13:01:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Google AI Blog",
-        "Hacker News · 24h最热"
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "848420b61bf519d454e6d7b9a53b94e0eef7dfc1",
-          "title": "Google Playground：创建并游玩自定义游戏 / Introducing Playground: Create and play custom games",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T12:00:00Z"
+          "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
+          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
+          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T13:01:01Z"
         },
         {
-          "id": "61c14a01e0333dd09aa20b3d42db2b7bc47adc2d",
-          "title": "Google Playground：创建并游玩自定义游戏 / Google Playground: Create and play custom games",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-07T12:28:36Z"
+          "id": "6b25054c9d4aec6ddef45d7c6f81e4d7902c67d4",
+          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-08T13:01:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8268,
-      "importance": 0.8268,
-      "importance_score": 0.8268,
-      "importance_label": "官方更新",
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7656,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T12:00:00Z",
-      "latest_at": "2026-10-07T12:28:36Z",
-      "primary_item": {
-        "id": "848420b61bf519d454e6d7b9a53b94e0eef7dfc1",
-        "title": "Google Playground：创建并游玩自定义游戏 / Introducing Playground: Create and play custom games",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b96448f5a552",
-      "title": "秘密保护必须与软件一起扩展 / Secret protection must scale with software",
-      "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "02228483c26c0e348ca6cc525c33d8d6d485fa1c",
-          "title": "秘密保护必须与软件一起扩展 / Secret protection must scale with software",
-          "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T17:45:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "02228483c26c0e348ca6cc525c33d8d6d485fa1c",
-          "title": "秘密保护必须与软件一起扩展 / Secret protection must scale with software",
-          "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T17:45:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8138,
-      "importance": 0.8138,
-      "importance_score": 0.8138,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.832,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T17:45:34Z",
-      "latest_at": "2026-10-07T17:45:34Z",
-      "primary_item": {
-        "id": "02228483c26c0e348ca6cc525c33d8d6d485fa1c",
-        "title": "秘密保护必须与软件一起扩展 / Secret protection must scale with software",
-        "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ad4e14640e35",
-      "title": "帮助青少年学习、规划和塑造人工智能的未来 / Helping teens learn, plan, and shape the future of AI",
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "primary_url": "https://openai.com/index/teens-learn-and-plan",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "57120d1b9ceca62656fc674714584e893f2a5e73",
-          "title": "帮助青少年学习、规划和塑造人工智能的未来 / Helping teens learn, plan, and shape the future of AI",
-          "url": "https://openai.com/index/teens-learn-and-plan",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "57120d1b9ceca62656fc674714584e893f2a5e73",
-          "title": "帮助青少年学习、规划和塑造人工智能的未来 / Helping teens learn, plan, and shape the future of AI",
-          "url": "https://openai.com/index/teens-learn-and-plan",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8098,
-      "importance": 0.8098,
-      "importance_score": 0.8098,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7656,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T12:00:00Z",
-      "latest_at": "2026-10-07T12:00:00Z",
-      "primary_item": {
-        "id": "57120d1b9ceca62656fc674714584e893f2a5e73",
-        "title": "帮助青少年学习、规划和塑造人工智能的未来 / Helping teens learn, plan, and shape the future of AI",
-        "url": "https://openai.com/index/teens-learn-and-plan",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6f02344687c4",
-      "title": "NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-      "primary_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-      "source": "NVIDIA Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "167a38f113a770fc4d3752a7a64939a19b867dac",
-          "title": "NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC",
-          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:45:28Z"
-        },
-        {
-          "id": "b0719e52d2514cc44359051052fbf344a00960ff",
-          "title": "NVIDIA 与 Microsoft 推出 RTX Spark 平台并宣布 MXC 让 AI Agent 落地 Windows PC",
-          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:45:28Z"
-        },
-        {
-          "id": "600b8fa0924f4d1b9b3226c7d8a8b41b4cd3c441",
-          "title": "NVIDIA 与 Microsoft 推出 RTX Spark 平台并宣布 MXC 让 AI Agent 落地 Windows PC / NVIDIA and Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "NVIDIA Blog（RSS）",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "167a38f113a770fc4d3752a7a64939a19b867dac",
-          "title": "NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC",
-          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:45:28Z"
-        },
-        {
-          "id": "b0719e52d2514cc44359051052fbf344a00960ff",
-          "title": "NVIDIA 与 Microsoft 推出 RTX Spark 平台并宣布 MXC 让 AI Agent 落地 Windows PC",
-          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:45:28Z"
-        },
-        {
-          "id": "600b8fa0924f4d1b9b3226c7d8a8b41b4cd3c441",
-          "title": "NVIDIA 与 Microsoft 推出 RTX Spark 平台并宣布 MXC 让 AI Agent 落地 Windows PC / NVIDIA and Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7985,
-      "importance": 0.7985,
-      "importance_score": 0.7985,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8441,
-        "story_heat": 0.5
+        "recency": 0.9867,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-07T18:45:28Z",
-      "latest_at": "2026-10-08T00:20:01.182379Z",
+      "earliest_at": "2026-10-08T13:01:01Z",
+      "latest_at": "2026-10-08T13:01:01Z",
       "primary_item": {
-        "id": "167a38f113a770fc4d3752a7a64939a19b867dac",
-        "title": "NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC",
-        "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-        "source": "NVIDIA Blog（RSS）",
+        "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
+        "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
+        "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -667,15 +361,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8279,
-      "importance": 0.8279,
-      "importance_score": 0.8279,
+      "score": 0.8129,
+      "importance": 0.8129,
+      "importance_score": 0.8129,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8218,
+        "recency": 0.7381,
         "story_heat": 0.0
       },
       "category": "official",
@@ -692,6 +386,428 @@
         "url": "https://huggingface.co/blog/LiquidAI/open-d1",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b96448f5a552",
+      "title": "秘密保护必须与软件一起扩展 / Secret protection must scale with software",
+      "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "02228483c26c0e348ca6cc525c33d8d6d485fa1c",
+          "title": "秘密保护必须与软件一起扩展 / Secret protection must scale with software",
+          "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T17:45:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "02228483c26c0e348ca6cc525c33d8d6d485fa1c",
+          "title": "秘密保护必须与软件一起扩展 / Secret protection must scale with software",
+          "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T17:45:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7985,
+      "importance": 0.7985,
+      "importance_score": 0.7985,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7472,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T17:45:34Z",
+      "latest_at": "2026-10-07T17:45:34Z",
+      "primary_item": {
+        "id": "02228483c26c0e348ca6cc525c33d8d6d485fa1c",
+        "title": "秘密保护必须与软件一起扩展 / Secret protection must scale with software",
+        "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1b35443cec6d",
+      "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust",
+      "url": "https://github.com/pingdotgg/ts-rust",
+      "primary_url": "https://github.com/pingdotgg/ts-rust",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ee9f97b75a4c7f8f29d61a2e00f792dd566eba39",
+          "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust",
+          "url": "https://github.com/pingdotgg/ts-rust",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T00:46:00Z"
+        },
+        {
+          "id": "cc2ebd302e7fe6233249b86359837aaa740038ad",
+          "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust / Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+          "url": "https://github.com/pingdotgg/ts-rust",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-08T00:46:00Z"
+        },
+        {
+          "id": "6e498eb3a5132615efeef5fba4102f28eb91e4a1",
+          "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust / Rust Port of TypeScript (Tsc)",
+          "url": "https://github.com/pingdotgg/ts-rust",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-08T00:46:00Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News：AI 热帖"
+      ],
+      "items": [
+        {
+          "id": "ee9f97b75a4c7f8f29d61a2e00f792dd566eba39",
+          "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust",
+          "url": "https://github.com/pingdotgg/ts-rust",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T00:46:00Z"
+        },
+        {
+          "id": "cc2ebd302e7fe6233249b86359837aaa740038ad",
+          "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust / Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+          "url": "https://github.com/pingdotgg/ts-rust",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-08T00:46:00Z"
+        },
+        {
+          "id": "6e498eb3a5132615efeef5fba4102f28eb91e4a1",
+          "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust / Rust Port of TypeScript (Tsc)",
+          "url": "https://github.com/pingdotgg/ts-rust",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-08T00:46:00Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7984,
+      "importance": 0.7984,
+      "importance_score": 0.7984,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8267,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T00:46:00Z",
+      "latest_at": "2026-10-08T00:46:00Z",
+      "primary_item": {
+        "id": "ee9f97b75a4c7f8f29d61a2e00f792dd566eba39",
+        "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust",
+        "url": "https://github.com/pingdotgg/ts-rust",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a3dfe12459c2",
+      "title": "德国环保搜索引擎Ecosia弃用Mistral，转投中国开源模型：欧洲自主梦撞上现实",
+      "url": "https://www.aibase.com/news/31475",
+      "primary_url": "https://www.aibase.com/news/31475",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2a2f32348124de46ca2daa141e77720879ffa92d",
+          "title": "德国环保搜索引擎Ecosia弃用Mistral，转投中国开源模型：欧洲自主梦撞上现实",
+          "url": "https://www.aibase.com/news/31475",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T13:56:31.336559Z"
+        },
+        {
+          "id": "ba7d15cb96e2197a3f9d50b68e4d12458c927e01",
+          "title": "德国环保搜索引擎 Ecosia 弃用 Mistral，转投中国开源模型：欧洲自主梦撞上现实",
+          "url": "https://www.aibase.com/zh/news/31475",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "2a2f32348124de46ca2daa141e77720879ffa92d",
+          "title": "德国环保搜索引擎Ecosia弃用Mistral，转投中国开源模型：欧洲自主梦撞上现实",
+          "url": "https://www.aibase.com/news/31475",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T13:56:31.336559Z"
+        },
+        {
+          "id": "ba7d15cb96e2197a3f9d50b68e4d12458c927e01",
+          "title": "德国环保搜索引擎 Ecosia 弃用 Mistral，转投中国开源模型：欧洲自主梦撞上现实",
+          "url": "https://www.aibase.com/zh/news/31475",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T13:56:31.336559Z",
+      "latest_at": "2026-10-08T13:56:31.336559Z",
+      "primary_item": {
+        "id": "2a2f32348124de46ca2daa141e77720879ffa92d",
+        "title": "德国环保搜索引擎Ecosia弃用Mistral，转投中国开源模型：欧洲自主梦撞上现实",
+        "url": "https://www.aibase.com/news/31475",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6f02344687c4",
+      "title": "NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
+      "primary_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
+      "source": "NVIDIA Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "167a38f113a770fc4d3752a7a64939a19b867dac",
+          "title": "NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC",
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:45:28Z"
+        },
+        {
+          "id": "b0719e52d2514cc44359051052fbf344a00960ff",
+          "title": "NVIDIA 与 Microsoft 推出 RTX Spark 平台并宣布 MXC 让 AI Agent 落地 Windows PC",
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:45:28Z"
+        },
+        {
+          "id": "600b8fa0924f4d1b9b3226c7d8a8b41b4cd3c441",
+          "title": "NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC / NVIDIA and Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "NVIDIA Blog（RSS）",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "167a38f113a770fc4d3752a7a64939a19b867dac",
+          "title": "NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC",
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:45:28Z"
+        },
+        {
+          "id": "b0719e52d2514cc44359051052fbf344a00960ff",
+          "title": "NVIDIA 与 Microsoft 推出 RTX Spark 平台并宣布 MXC 让 AI Agent 落地 Windows PC",
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:45:28Z"
+        },
+        {
+          "id": "600b8fa0924f4d1b9b3226c7d8a8b41b4cd3c441",
+          "title": "NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC / NVIDIA and Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.783,
+      "importance": 0.783,
+      "importance_score": 0.783,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.758,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T18:45:28Z",
+      "latest_at": "2026-10-08T00:20:01.182379Z",
+      "primary_item": {
+        "id": "167a38f113a770fc4d3752a7a64939a19b867dac",
+        "title": "NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC",
+        "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
+        "source": "NVIDIA Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_85789f272dcb",
+      "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
+      "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+      "primary_url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "96cef21a5d9693679c7089b34bd71f25214088e0",
+          "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
+          "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T09:24:17Z"
+        },
+        {
+          "id": "b9e82e0abfdf43274940059ab353896d88b6a526",
+          "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+          "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-08T09:24:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "96cef21a5d9693679c7089b34bd71f25214088e0",
+          "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
+          "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T09:24:17Z"
+        },
+        {
+          "id": "b9e82e0abfdf43274940059ab353896d88b6a526",
+          "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+          "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-08T09:24:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8112,
+      "importance": 0.8112,
+      "importance_score": 0.8112,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9366,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T09:24:17Z",
+      "latest_at": "2026-10-08T09:24:17Z",
+      "primary_item": {
+        "id": "96cef21a5d9693679c7089b34bd71f25214088e0",
+        "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
+        "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -729,15 +845,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8235,
-      "importance": 0.8235,
-      "importance_score": 0.8235,
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8085,
+        "recency": 0.726,
         "story_heat": 0.0
       },
       "category": "official",
@@ -757,26 +873,26 @@
       }
     },
     {
-      "story_id": "story_72d385ce5691",
-      "title": "Manus 母公司完成新一轮超5亿美元融资，腾讯红杉继续加码",
-      "url": "https://www.aibase.com/news/31468",
-      "primary_url": "https://www.aibase.com/news/31468",
+      "story_id": "story_bed5c0dc5940",
+      "title": "谷歌把AI搜索塞进手机：EmbeddingGemma2 开源，不到600MB断网照样搜图文音视频",
+      "url": "https://www.aibase.com/news/31476",
+      "primary_url": "https://www.aibase.com/news/31476",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3a6c41b4aeab03d95c841c59f91955d56e13b44d",
-          "title": "Manus 母公司完成新一轮超5亿美元融资，腾讯红杉继续加码",
-          "url": "https://www.aibase.com/news/31468",
+          "id": "ac8c03bf081f0cf3adffbee7a7867937bb049dd2",
+          "title": "谷歌把AI搜索塞进手机：EmbeddingGemma2 开源，不到600MB断网照样搜图文音视频",
+          "url": "https://www.aibase.com/news/31476",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-08T06:29:44.715534Z"
+          "published_at": "2026-10-08T13:56:31.336559Z"
         },
         {
-          "id": "2194e112f46ce532504853079f4a204f716fb406",
-          "title": "Manus 母公司完成新一轮超 5 亿美元融资，腾讯红杉继续加码",
-          "url": "https://www.aibase.com/zh/news/31468",
+          "id": "03070758f6784a443202c382c76cbf347481a0d1",
+          "title": "谷歌把 AI 搜索塞进手机：EmbeddingGemma2 开源，不到 600MB 断网照样搜图文音视频",
+          "url": "https://www.aibase.com/zh/news/31476",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -790,18 +906,18 @@
       ],
       "items": [
         {
-          "id": "3a6c41b4aeab03d95c841c59f91955d56e13b44d",
-          "title": "Manus 母公司完成新一轮超5亿美元融资，腾讯红杉继续加码",
-          "url": "https://www.aibase.com/news/31468",
+          "id": "ac8c03bf081f0cf3adffbee7a7867937bb049dd2",
+          "title": "谷歌把AI搜索塞进手机：EmbeddingGemma2 开源，不到600MB断网照样搜图文音视频",
+          "url": "https://www.aibase.com/news/31476",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-08T06:29:44.715534Z"
+          "published_at": "2026-10-08T13:56:31.336559Z"
         },
         {
-          "id": "2194e112f46ce532504853079f4a204f716fb406",
-          "title": "Manus 母公司完成新一轮超 5 亿美元融资，腾讯红杉继续加码",
-          "url": "https://www.aibase.com/zh/news/31468",
+          "id": "03070758f6784a443202c382c76cbf347481a0d1",
+          "title": "谷歌把 AI 搜索塞进手机：EmbeddingGemma2 开源，不到 600MB 断网照样搜图文音视频",
+          "url": "https://www.aibase.com/zh/news/31476",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -827,76 +943,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-08T06:29:44.715534Z",
-      "latest_at": "2026-10-08T06:29:44.715534Z",
+      "earliest_at": "2026-10-08T13:56:31.336559Z",
+      "latest_at": "2026-10-08T13:56:31.336559Z",
       "primary_item": {
-        "id": "3a6c41b4aeab03d95c841c59f91955d56e13b44d",
-        "title": "Manus 母公司完成新一轮超5亿美元融资，腾讯红杉继续加码",
-        "url": "https://www.aibase.com/news/31468",
+        "id": "ac8c03bf081f0cf3adffbee7a7867937bb049dd2",
+        "title": "谷歌把AI搜索塞进手机：EmbeddingGemma2 开源，不到600MB断网照样搜图文音视频",
+        "url": "https://www.aibase.com/news/31476",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_04e9dc3828b5",
-      "title": "丽笙酒店集团将酒店发现带入 ChatGPT / Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "url": "https://openai.com/index/radisson",
-      "primary_url": "https://openai.com/index/radisson",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c578cd61b355d43d82030df84d48a64b5415b5a3",
-          "title": "丽笙酒店集团将酒店发现带入 ChatGPT / Radisson Hotel Group brings hotel discovery into ChatGPT",
-          "url": "https://openai.com/index/radisson",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c578cd61b355d43d82030df84d48a64b5415b5a3",
-          "title": "丽笙酒店集团将酒店发现带入 ChatGPT / Radisson Hotel Group brings hotel discovery into ChatGPT",
-          "url": "https://openai.com/index/radisson",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8082,
-      "importance": 0.8082,
-      "importance_score": 0.8082,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7123,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T07:00:00Z",
-      "latest_at": "2026-10-07T07:00:00Z",
-      "primary_item": {
-        "id": "c578cd61b355d43d82030df84d48a64b5415b5a3",
-        "title": "丽笙酒店集团将酒店发现带入 ChatGPT / Radisson Hotel Group brings hotel discovery into ChatGPT",
-        "url": "https://openai.com/index/radisson",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -934,21 +988,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9611,
+        "recency": 0.8631,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-08T03:44:55Z",
       "latest_at": "2026-10-08T03:44:55Z",
@@ -958,87 +1011,6 @@
         "url": "https://x.com/thsottiaux/status/2108040921044639779",
         "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_82ec7733b33b",
-      "title": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
-      "url": "https://www.aibase.com/news/31464",
-      "primary_url": "https://www.aibase.com/news/31464",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c0675054f2f6930dc400b0d3225c971d34de5970",
-          "title": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
-          "url": "https://www.aibase.com/news/31464",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-08T06:29:44.715534Z"
-        },
-        {
-          "id": "80d3d27fd9d83794f062041a7f9c6faa6251c979",
-          "title": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
-          "url": "https://www.aibase.com/zh/news/31464",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c0675054f2f6930dc400b0d3225c971d34de5970",
-          "title": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
-          "url": "https://www.aibase.com/news/31464",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-08T06:29:44.715534Z"
-        },
-        {
-          "id": "80d3d27fd9d83794f062041a7f9c6faa6251c979",
-          "title": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
-          "url": "https://www.aibase.com/zh/news/31464",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T06:29:44.715534Z",
-      "latest_at": "2026-10-08T06:29:44.715534Z",
-      "primary_item": {
-        "id": "c0675054f2f6930dc400b0d3225c971d34de5970",
-        "title": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
-        "url": "https://www.aibase.com/news/31464",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1076,15 +1048,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8175,
-      "importance": 0.8175,
-      "importance_score": 0.8175,
+      "score": 0.8027,
+      "importance": 0.8027,
+      "importance_score": 0.8027,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8084,
+        "recency": 0.726,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1138,15 +1110,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.749,
-      "importance": 0.749,
-      "importance_score": 0.749,
+      "score": 0.7344,
+      "importance": 0.7344,
+      "importance_score": 0.7344,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7969,
+        "recency": 0.7156,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1160,6 +1132,66 @@
         "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑",
         "url": "https://www.404media.co/undue-emotional-weight",
         "source": "404 Media（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_45b002466d7b",
+      "title": "Waymo 完成 50 亿美元债务融资，加速业务扩张",
+      "url": "https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing",
+      "primary_url": "https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing",
+      "source": "Waymo：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c8a30281b81dd2999625160b015534ef14988904",
+          "title": "Waymo 完成 50 亿美元债务融资，加速业务扩张",
+          "url": "https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing",
+          "source": "Waymo：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Waymo：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "c8a30281b81dd2999625160b015534ef14988904",
+          "title": "Waymo 完成 50 亿美元债务融资，加速业务扩张",
+          "url": "https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing",
+          "source": "Waymo：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7324,
+      "importance": 0.7324,
+      "importance_score": 0.7324,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9046,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-08T07:00:00Z",
+      "latest_at": "2026-10-08T07:00:00Z",
+      "primary_item": {
+        "id": "c8a30281b81dd2999625160b015534ef14988904",
+        "title": "Waymo 完成 50 亿美元债务融资，加速业务扩张",
+        "url": "https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing",
+        "source": "Waymo：Blog（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -1198,15 +1230,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
+      "score": 0.7309,
+      "importance": 0.7309,
+      "importance_score": 0.7309,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8495,
+        "recency": 0.7629,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1220,6 +1252,86 @@
         "title": "Anthropic 发布 Claude Haiku 5.5，Artificial Analysis 智能指数得分 43",
         "url": "https://x.com/ArtificialAnlys/status/2107911905822351609",
         "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_778cbc36b006",
+      "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10",
+      "url": "https://x.com/claudeai/status/2107894060229034197",
+      "primary_url": "https://x.com/claudeai/status/2107894060229034197",
+      "source": "X：Claude (@claudeai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6c786561686de448551f4ac828051ffb1cf3cacf",
+          "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10",
+          "url": "https://x.com/claudeai/status/2107894060229034197",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:01:21Z"
+        },
+        {
+          "id": "c6d9623321f7e942319083bd4b607c27a5b1b549",
+          "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10 / One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20% cheaper to run on most long-running work.",
+          "url": "https://x.com/claudeai/status/2107894060229034197",
+          "source": "Follow Builders · X · Claude",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-07T18:01:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Claude",
+        "X：Claude (@claudeai)"
+      ],
+      "items": [
+        {
+          "id": "6c786561686de448551f4ac828051ffb1cf3cacf",
+          "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10",
+          "url": "https://x.com/claudeai/status/2107894060229034197",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:01:21Z"
+        },
+        {
+          "id": "c6d9623321f7e942319083bd4b607c27a5b1b549",
+          "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10 / One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20% cheaper to run on most long-running work.",
+          "url": "https://x.com/claudeai/status/2107894060229034197",
+          "source": "Follow Builders · X · Claude",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-07T18:01:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7266,
+      "importance": 0.7266,
+      "importance_score": 0.7266,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.75,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-07T18:01:21Z",
+      "latest_at": "2026-10-07T18:01:21Z",
+      "primary_item": {
+        "id": "6c786561686de448551f4ac828051ffb1cf3cacf",
+        "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10",
+        "url": "https://x.com/claudeai/status/2107894060229034197",
+        "source": "X：Claude (@claudeai)",
         "source_name": "AI HOT"
       }
     },
@@ -1258,15 +1370,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7385,
-      "importance": 0.7385,
-      "importance_score": 0.7385,
+      "score": 0.724,
+      "importance": 0.724,
+      "importance_score": 0.724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7884,
+        "recency": 0.708,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1318,15 +1430,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7354,
-      "importance": 0.7354,
-      "importance_score": 0.7354,
+      "score": 0.72,
+      "importance": 0.72,
+      "importance_score": 0.72,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8377,
+        "recency": 0.7523,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1341,87 +1453,6 @@
         "url": "https://x.com/cursor_ai/status/2107897257651769464",
         "source": "X：Cursor (@cursor_ai)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9a0358c5cce4",
-      "title": "独角兽诞生！估值 15 亿美元的开源黑马如何靠AI Agent收割企业级市场？",
-      "url": "https://www.aibase.com/news/31462",
-      "primary_url": "https://www.aibase.com/news/31462",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "dbad19fab84c245daf5823011ebd374e4cbc7d84",
-          "title": "独角兽诞生！估值 15 亿美元的开源黑马如何靠AI Agent收割企业级市场？",
-          "url": "https://www.aibase.com/news/31462",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-08T06:29:44.715534Z"
-        },
-        {
-          "id": "a3585e4b48b1e9a1371f83c0760bf83312477839",
-          "title": "独角兽诞生！估值 15 亿美元的开源黑马如何靠 AI Agent 收割企业级市场？",
-          "url": "https://www.aibase.com/zh/news/31462",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "dbad19fab84c245daf5823011ebd374e4cbc7d84",
-          "title": "独角兽诞生！估值 15 亿美元的开源黑马如何靠AI Agent收割企业级市场？",
-          "url": "https://www.aibase.com/news/31462",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-08T06:29:44.715534Z"
-        },
-        {
-          "id": "a3585e4b48b1e9a1371f83c0760bf83312477839",
-          "title": "独角兽诞生！估值 15 亿美元的开源黑马如何靠 AI Agent 收割企业级市场？",
-          "url": "https://www.aibase.com/zh/news/31462",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T06:29:44.715534Z",
-      "latest_at": "2026-10-08T06:29:44.715534Z",
-      "primary_item": {
-        "id": "dbad19fab84c245daf5823011ebd374e4cbc7d84",
-        "title": "独角兽诞生！估值 15 亿美元的开源黑马如何靠AI Agent收割企业级市场？",
-        "url": "https://www.aibase.com/news/31462",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
